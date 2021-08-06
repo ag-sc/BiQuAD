@@ -1,0 +1,989 @@
+
+;;# data
+[
+{:match/id "match_3142"
+:match/league "England Premier League"
+:match/hometeam "Liverpool"
+:match/awayteam "Fulham"
+:match/score "1:0"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Moussa Dembele"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2107946"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "John Arne Riise"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2107950"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3142"}
+
+{:event/type "goal"
+:event/elapsed 5
+:event/player1 "Martin Skrtel"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_2107951"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Andy Carroll"
+:event/subtype "pushing"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2107966"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "header"
+:event/player1 "Martin Skrtel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2107973"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "distance"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2107981"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3142"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "short"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2107997"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Jay Spearing"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2108009"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Damien Duff"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2108013"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3142"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "big chance volley"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2108026"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2108028"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_3142"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2108028"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2108033"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3142"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2108033"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2108038"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "distance"
+:event/player1 "Maxi Rodriguez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2108050"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Pavel Pogrebnyak"
+:event/subtype "advantage"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2108061"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Pavel Pogrebnyak"
+:event/player1 "Jay Spearing"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2108058"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "volley"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2108080"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Alex Kacaniklic"
+:event/player1 "Martin Kelly"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2108086"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Martin Kelly"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2108105"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3142"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "big chance shot"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2108111"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Moussa Dembele"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2108116"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3142"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "shot"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2108127"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Martin Kelly"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2108137"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Andy Carroll"
+:event/player1 "Moussa Dembele"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2108148"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2108160"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3142"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2108160"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "header"
+:event/player1 "Maxi Rodriguez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2108163"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Dirk Kuyt"
+:event/player1 "John Arne Riise"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2108166"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Clint Dempsey"
+:event/player1 "Martin Skrtel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2108172"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2108188"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "shot"
+:event/player1 "Maxi Rodriguez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2108190"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "shot"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2108202"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2108208"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2108216"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3142"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Andy Carroll"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2108217"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Andy Carroll"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2108223"
+:event/minute 46
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 46
+:event/subtype "distance"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2108259"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_3142"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "deflected"
+:event/player1 "Jay Spearing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2108264"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3142"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "blocked_shot"
+:event/player1 "Moussa Dembele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2108281"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "John Arne Riise"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2108285"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3142"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "John Arne Riise"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2108285"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "header"
+:event/player1 "Clint Dempsey"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2108286"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "distance"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2108305"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2108320"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "bicycle_kick"
+:event/player1 "Andy Carroll"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2108322"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3142"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "big chance blocked"
+:event/player1 "Maxi Rodriguez"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2108327"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2108329"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3142"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2108329"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Stephen Kelly"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2108351"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "post"
+:event/player1 "Kerim Frei Koyunlu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2108360"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3142"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "big chance shot"
+:event/player1 "John Arne Riise"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2108367"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2108372"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "header"
+:event/player1 "Andy Carroll"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2108374"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Moussa Dembele"
+:event/player1 "Martin Skrtel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2108381"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Kerim Frei Koyunlu"
+:event/player1 "Jay Spearing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2108392"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/subtype "hands"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2108403"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "bad shot"
+:event/player1 "Andy Carroll"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2108409"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2108410"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2108414"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3142"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2108414"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "distance"
+:event/player1 "John Arne Riise"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2108421"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Kerim Frei Koyunlu"
+:event/player1 "Martin Kelly"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2108429"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/subtype "hands"
+:event/player1 "Andy Carroll"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2108434"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Kerim Frei Koyunlu"
+:event/player1 "Jay Spearing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2108446"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3142"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "big chance shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2108471"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3142"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "blocked_shot"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2108475"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Raheem Sterling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2108500"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Moussa Dembele"
+:event/player1 "Sebastian Coates"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2108507"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "direct_freekick"
+:event/player1 "John Arne Riise"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2108511"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Andy Carroll"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2108512"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Raheem Sterling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2108535"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2108554"
+:event/minute 91
+:event/match_id "match_3142"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2108554"
+:event/minute 91
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Maxi Rodriguez"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2108558"
+:event/minute 91
+:event/match_id "match_3142"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Maxi Rodriguez"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2108558"
+:event/minute 91
+:event/match_id "match_3142"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jose Enrique"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2108559"
+:event/minute 91
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Andy Carroll"
+:event/subtype "pushing"
+:event/player1 "Stephen Kelly"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2108571"
+:event/minute 93
+:event/match_id "match_3142"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2108578"
+:event/minute 94
+:event/match_id "match_3142"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player2 "Raheem Sterling"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2108584"
+:event/minute 95
+:event/match_id "match_3142"}
+
+
+]
+

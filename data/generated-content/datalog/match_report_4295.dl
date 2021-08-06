@@ -1,0 +1,963 @@
+
+;;# data
+[
+{:match/id "match_4295"
+:match/league "England Premier League"
+:match/hometeam "Sunderland"
+:match/awayteam "Southampton"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4425873"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4295"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "distance"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4425885"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Jordi Gomez"
+:event/player1 "Toby Alderweireld"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4425932"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Jordi Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4425944"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Connor Wickham"
+:event/player1 "Victor Wanyama"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4425961"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4425980"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4295"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "header"
+:event/player1 "Billy Jones"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4425988"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4426040"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4295"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross_left"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4426060"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4295"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "distance"
+:event/player1 "Victor Wanyama"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4426070"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "James Ward-Prowse"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4426440"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4426161"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Shane Long"
+:event/player1 "John O'Shea"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4426198"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Graziano Pelle"
+:event/player1 "Sebastian Coates"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4426450"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Daniel Graham"
+:event/subtype "penalty"
+:event/player1 "Jose Fonte"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4426367"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4295"}
+
+{:event/type "goal"
+:event/elapsed 21
+:event/player1 "Jordi Gomez"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4426381"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4295"}
+
+{:event/type "goal"
+:event/elapsed 22
+:event/subtype "loose_ball"
+:event/player1 "Sadio Mane"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_4426405"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "James Ward-Prowse"
+:event/player1 "Jordi Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4426445"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4295"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Jermain Defoe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4426462"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4426474"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4295"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "header"
+:event/player1 "Graziano Pelle"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4426477"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4426489"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Daniel Graham"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4426524"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Sadio Mane"
+:event/player1 "Billy Jones"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4426555"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4295"}
+
+{:event/type "card"
+:event/elapsed 32
+:event/card_type "y"
+:event/player1 "Billy Jones"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4426558"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4426571"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4295"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "blocked_shot"
+:event/player1 "Shane Long"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4426574"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Sebastian Larsson"
+:event/player1 "Graziano Pelle"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4426593"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Billy Jones"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4426611"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Sadio Mane"
+:event/player1 "Billy Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4426638"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4426652"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Victor Wanyama"
+:event/player1 "Jordi Gomez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4426687"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4426750"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4295"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "shot"
+:event/player1 "Connor Wickham"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4426752"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Sadio Mane"
+:event/player1 "Billy Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4426829"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4426839"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4295"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "distance"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4426850"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Sebastian Coates"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4426909"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4295"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Connor Wickham"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4426938"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4295"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Jermain Defoe"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4426946"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4295"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Daniel Graham"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4426948"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player1 "Jose Fonte"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4427009"
+:event/minute 47
+:event/match_id "match_4295"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "direct_freekick"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4427027"
+:event/minute 48
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/sortorder 12
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_4427051"
+:event/minute 48
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Jordi Gomez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4427539"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Billy Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4427579"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4295"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "shot"
+:event/player1 "Filip Djuricic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4427658"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Connor Wickham"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4427700"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4295"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "distance"
+:event/player1 "Billy Jones"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4427708"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Jermain Defoe"
+:event/subtype "penalty"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4427749"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4295"}
+
+{:event/type "card"
+:event/elapsed 54
+:event/card_type "r"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4427765"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4295"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/player1 "Jordi Gomez"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_4427788"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Connor Wickham"
+:event/player1 "Jose Fonte"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4427860"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Toby Alderweireld"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4428016"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4295"}
+
+{:event/type "card"
+:event/elapsed 60
+:event/card_type "y"
+:event/player1 "Lee Cattermole"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4428019"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Santiago Vergini"
+:event/player1 "Sadio Mane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4428124"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Jordi Gomez"
+:event/player1 "Victor Wanyama"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4428145"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4295"}
+
+{:event/type "card"
+:event/elapsed 63
+:event/card_type "y"
+:event/player1 "Victor Wanyama"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4428149"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4428173"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Filip Djuricic"
+:event/player1 "Sebastian Coates"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4428223"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4428245"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Filip Djuricic"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4428429"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4428431"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Sebastian Larsson"
+:event/player1 "Eljero Elia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4428522"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4428556"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4295"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Graziano Pelle"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4428561"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4428582"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Sebastian Larsson"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4428595"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4428640"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4295"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "blocked_shot"
+:event/player1 "Connor Wickham"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4428745"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4428773"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4295"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Filip Djuricic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4428776"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Nathaniel Clyne"
+:event/player1 "Jack Rodwell"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4428789"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Filip Djuricic"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4428807"
+:event/minute 91
+:event/match_id "match_4295"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Adam Johnson"
+:event/player1 "Maya Yoshida"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4428817"
+:event/minute 92
+:event/match_id "match_4295"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "short_right"
+:event/player1 "Adam Johnson"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4428843"
+:event/minute 93
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 10
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4428858"
+:event/minute 94
+:event/match_id "match_4295"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 12
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4428861"
+:event/minute 94
+:event/match_id "match_4295"}
+
+{:event/type "card"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Graziano Pelle"
+:event/sortorder 14
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4428883"
+:event/minute 95
+:event/match_id "match_4295"}
+
+
+]
+

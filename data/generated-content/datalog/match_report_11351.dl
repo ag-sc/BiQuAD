@@ -1,0 +1,876 @@
+
+;;# data
+[
+{:match/id "match_11351"
+:match/league "Italy Serie A"
+:match/hometeam "Juventus"
+:match/awayteam "Cagliari"
+:match/score "4:2"
+:match/hometeam_goals "4"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Andrea Lazzari"
+:event/player1 "Felipe Melo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1192490"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_11351"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Simone Pepe"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1192497"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11351"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1192499"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_11351"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1192499"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_11351"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1192500"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_11351"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "header"
+:event/player1 "Vincenzo Iaquinta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1192501"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Michael Agazzi"
+:event/player1 "Vincenzo Iaquinta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1192503"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Giorgio Chiellini"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192504"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_11351"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "short"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1192505"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_11351"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "distance"
+:event/player1 "Michele Canini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1192506"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Vincenzo Iaquinta"
+:event/subtype "from_behind"
+:event/player1 "Davide Astori"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192509"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_11351"}
+
+{:event/type "goal"
+:event/elapsed 13
+:event/subtype "volley"
+:event/player1 "Milos Krasic"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_1192512"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Alberto Aquilani"
+:event/player1 "Gabriele Perico"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192520"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Andrea Lazzari"
+:event/player1 "Vincenzo Iaquinta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1192524"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11351"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1192536"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11351"}
+
+{:event/type "goal"
+:event/elapsed 20
+:event/subtype "volley"
+:event/player1 "Alessandro Matri"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1192533"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11351"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Amauri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1192542"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11351"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "distance"
+:event/player1 "Radja Nainggolan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1192545"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192555"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player1 "Radja Nainggolan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192559"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_11351"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "distance"
+:event/player1 "Felipe Melo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1192561"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_11351"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1192566"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11351"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1192566"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11351"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "volley"
+:event/player1 "Radja Nainggolan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1192569"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11351"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1192583"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11351"}
+
+{:event/type "goal"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Milos Krasic"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_1192581"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player1 "Leandro Rinaudo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1192586"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_11351"}
+
+{:event/type "card"
+:event/elapsed 37
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Leandro Rinaudo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1192587"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_11351"}
+
+{:event/type "card"
+:event/elapsed 37
+:event/card_type "y"
+:event/player1 "Alessandro Agostini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1581500"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192591"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_11351"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "volley"
+:event/player1 "Felipe Melo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1192593"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Andrea Cossu"
+:event/subtype "from_behind"
+:event/player1 "Felipe Melo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1192600"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_11351"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "big chance shot"
+:event/player1 "Vincenzo Iaquinta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1192604"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Andrea Cossu"
+:event/player1 "Alberto Aquilani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1192610"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11351"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "direct_freekick"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1192613"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Davide Astori"
+:event/player1 "Giorgio Chiellini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1192673"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_11351"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "header"
+:event/player1 "Davide Astori"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1192675"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_11351"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1192676"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11351"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1192676"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11351"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "distance"
+:event/player1 "Felipe Melo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1192679"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11351"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Vincenzo Iaquinta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1192681"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_11351"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Gabriele Perico"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1192683"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192686"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_11351"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1192687"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11351"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1192687"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11351"}
+
+{:event/type "goal"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Leonardo Bonucci"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1192688"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11351"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1192693"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_11351"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "header"
+:event/player1 "Amauri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1192694"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_11351"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "shot"
+:event/player1 "Alessandro Matri"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1192704"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Davide Astori"
+:event/player1 "Vincenzo Iaquinta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1192708"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Zdenek Grygera"
+:event/subtype "from_behind"
+:event/player1 "Nene"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192712"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_11351"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1192718"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11351"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1192718"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11351"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Milos Krasic"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_1192719"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11351"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/subtype "Removing Shirt"
+:event/player1 "Milos Krasic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1192721"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Francesco Pisano"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1192729"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Francesco Pisano"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1192733"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_11351"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Nene"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1192737"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11351"}
+
+{:event/type "goal"
+:event/elapsed 81
+:event/subtype "shot"
+:event/player1 "Alessandro Matri"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_1192752"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Mohamed Lamine Sissoko"
+:event/player1 "Francesco Pisano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192755"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_11351"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "distance"
+:event/player1 "Mohamed Lamine Sissoko"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1192757"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player1 "Mohamed Lamine Sissoko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1192763"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/subtype "hands"
+:event/player1 "Mohamed Lamine Sissoko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1192767"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11351"}
+
+{:event/type "card"
+:event/elapsed 85
+:event/card_type "y"
+:event/player1 "Mohamed Lamine Sissoko"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1192769"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11351"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "direct_freekick"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1192774"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Alessandro Del Piero"
+:event/player1 "Radja Nainggolan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192779"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192782"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11351"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "direct_freekick"
+:event/player1 "Alessandro Del Piero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1192783"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player1 "Radja Nainggolan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192805"
+:event/minute 94
+:event/match_id "match_11351"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player1 "Francesco Pisano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1192808"
+:event/minute 95
+:event/match_id "match_11351"}
+
+{:event/type "cross"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Davide Biondini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1192811"
+:event/minute 96
+:event/match_id "match_11351"}
+
+{:event/type "corner"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Davide Biondini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1192811"
+:event/minute 96
+:event/match_id "match_11351"}
+
+
+]
+

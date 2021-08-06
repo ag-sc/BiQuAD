@@ -1,0 +1,756 @@
+
+;;# data
+[
+{:match/id "match_2824"
+:match/league "England Premier League"
+:match/hometeam "Blackburn Rovers"
+:match/awayteam "Fulham"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1171936"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Nikola Kalinic"
+:event/player1 "Stephen Kelly"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1171952"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1171979"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Danny Murphy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172001"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Morten Gamst Pedersen"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1172009"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2824"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1172015"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1172036"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Simon Davies"
+:event/subtype "shirt_pull"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172062"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2824"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "direct_freekick"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1172066"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1172078"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Christopher Samba"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1172098"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2824"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "blocked_shot"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1172113"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2824"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Moussa Dembele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1172200"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Nikola Kalinic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1172230"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1172278"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2824"}
+
+{:event/type "card"
+:event/elapsed 30
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1172281"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2824"}
+
+{:event/type "goal"
+:event/elapsed 30
+:event/player2 "Paul Robinson"
+:event/subtype "header"
+:event/player1 "Christopher Samba"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1172287"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Christopher Samba"
+:event/player1 "Moussa Dembele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1172303"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2824"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "shot"
+:event/player1 "Carlos Salcido"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1172357"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1172361"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2824"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1172361"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172388"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Michel Salgado"
+:event/player1 "Moussa Dembele"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1172394"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/subtype "hands"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172405"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172417"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2824"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "blocked_shot"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1172419"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172466"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Stephen Kelly"
+:event/subtype "obstruction"
+:event/player1 "Nikola Kalinic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172478"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2824"}
+
+{:event/type "shotoff"
+:event/elapsed 46
+:event/subtype "shot"
+:event/player1 "Nikola Kalinic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1172607"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Moussa Dembele"
+:event/subtype "serious_foul"
+:event/player1 "Vincenzo Grella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172621"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2824"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "direct_freekick"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1172627"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Moussa Dembele"
+:event/player1 "Vincenzo Grella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172641"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172664"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172687"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Stephen Kelly"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1172689"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Moussa Dembele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172722"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2824"}
+
+{:event/type "goal"
+:event/elapsed 56
+:event/player2 "Carlos Salcido"
+:event/subtype "header"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1172723"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player1 "Vincenzo Grella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172756"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2824"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "short"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1172776"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Vincenzo Grella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1172809"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2824"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Vincenzo Grella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1172809"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Mark Schwarzer"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1172811"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "El Hadji Diouf"
+:event/player1 "Stephen Kelly"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1172840"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2824"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "blocked_shot"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1172858"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1172893"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Michel Salgado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1172906"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1172935"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_2824"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Phil Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1172959"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1172974"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1172996"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2824"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1172996"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1173059"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1173098"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1173105"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2824"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1173105"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Michel Salgado"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1173107"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Moussa Dembele"
+:event/player1 "Phil Jones"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1173115"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Danny Murphy"
+:event/player1 "Michel Salgado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1173137"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2824"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "direct_freekick"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1173146"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "El Hadji Diouf"
+:event/player1 "Stephen Kelly"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1173174"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2824"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Carlos Salcido"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1173190"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2824"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Benjani Mwaruwari"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1173212"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2824"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Eddie Johnson"
+:event/subtype "pushing"
+:event/player1 "Christopher Samba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1173268"
+:event/minute 93
+:event/match_id "match_2824"}
+
+
+]
+

@@ -1,0 +1,996 @@
+
+;;# data
+[
+{:match/id "match_21983"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Xerez Club Deportivo"
+:match/awayteam "Valencia CF"
+:match/score "1:3"
+:match/hometeam_goals "1"
+:match/awayteam_goals "3"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Carlos Calvo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_903741"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Abel Gomez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903743"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_21983"}
+
+{:event/type "corner"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Abel Gomez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903743"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Carlos Calvo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_903746"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Abel Gomez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903748"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_21983"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Abel Gomez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903748"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_903753"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_21983"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "header"
+:event/player1 "Joaquin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_903754"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Vicente Moreno"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_903756"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Joaquin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_903760"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_21983"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Joaquin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_903760"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_21983"}
+
+{:event/type "goal"
+:event/elapsed 11
+:event/player2 "Ever Banega"
+:event/subtype "shot"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_903762"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_21983"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "blocked_shot"
+:event/player1 "David Villa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_903769"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_21983"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "distance"
+:event/player1 "Jeremy Mathieu"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_903771"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player1 "Carlos Marchena"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_903775"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Ever Banega"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_903776"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_21983"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "shot"
+:event/player1 "Jesus Perez Francis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_903779"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Abel Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903780"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_21983"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Abel Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903780"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_21983"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "distance"
+:event/player1 "unknown"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_903782"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Carlos Calvo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_903785"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Abel Gomez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903788"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_21983"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Abel Gomez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903788"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/subtype "hands"
+:event/player1 "Carlos Calvo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_903794"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Momo"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_903799"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_21983"}
+
+{:event/type "goal"
+:event/elapsed 25
+:event/player2 "Momo"
+:event/subtype "shot"
+:event/player1 "Carlos Calvo"
+:event/sortorder 6
+:event/team "home"
+:event/id "event_903800"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_903803"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_21983"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_903803"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_21983"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "shot"
+:event/player1 "David Navarro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_903805"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_21983"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_903811"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_21983"}
+
+{:event/type "goal"
+:event/elapsed 33
+:event/player2 "David Villa"
+:event/subtype "shot"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_903815"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/subtype "hands"
+:event/player1 "Renan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_903819"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_21983"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "indirect freekick"
+:event/player1 "David Villa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_903820"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_903821"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_21983"}
+
+{:event/type "card"
+:event/elapsed 37
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Jesus Perez Francis"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "card"
+:event/id "event_903826"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Joaquin"
+:event/subtype "serious_foul"
+:event/player1 "Jose Manuel Casado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_903822"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_21983"}
+
+{:event/type "card"
+:event/elapsed 38
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Jose Manuel Casado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_903823"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Abel Gomez"
+:event/player1 "David Navarro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_903833"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Abel Gomez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903837"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_21983"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Abel Gomez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903837"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_21983"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "header"
+:event/player1 "unknown"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_903838"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player1 "Jeremy Mathieu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_903841"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player1 "Jesus Perez Francis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_903842"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Carlos Calvo"
+:event/subtype "serious_foul"
+:event/player1 "Bruno Saltor"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_903845"
+:event/minute 46
+:event/match_id "match_21983"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Bruno Saltor"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_903846"
+:event/minute 46
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_903869"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_21983"}
+
+{:event/type "shoton"
+:event/elapsed 46
+:event/subtype "shot"
+:event/player1 "unknown"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_903872"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Jesus Perez Francis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_903852"
+:event/minute 47
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Alexis"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_903875"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "unknown"
+:event/player1 "Carlos Marchena"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_903877"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_21983"}
+
+{:event/type "card"
+:event/elapsed 49
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Carlos Marchena"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_903878"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Jose Manuel Casado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_903883"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_21983"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "header"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_903884"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "David Villa"
+:event/subtype "serious_foul"
+:event/player1 "Artiles Oliva Aythami"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_903891"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21983"}
+
+{:event/type "card"
+:event/elapsed 52
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Artiles Oliva Aythami"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_903892"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Joaquin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_903894"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_21983"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "deflected"
+:event/player1 "David Villa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_903898"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_903899"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_21983"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_903899"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_21983"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "header"
+:event/player1 "Alexis"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_903900"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_903904"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_903906"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player1 "Ever Banega"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_903908"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Momo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_903910"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Jesus Perez Francis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_903912"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "David Villa"
+:event/player1 "Carlos Calvo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_903921"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_903926"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "unknown"
+:event/player1 "Ever Banega"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_903934"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_21983"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_903936"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_21983"}
+
+{:event/type "goal"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Carlos Marchena"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_903939"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Joaquin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_903940"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Miguel"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_903966"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_21983"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "distance"
+:event/player1 "Joaquin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_903968"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_903970"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Carlos Calvo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903974"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_21983"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Carlos Calvo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903974"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_21983"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "deflected"
+:event/player1 "Jose Manuel Casado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_903977"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_21983"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "short"
+:event/player1 "Momo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_903978"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_21983"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jose Manuel Casado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_903983"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_21983"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Momo"
+:event/player1 "Miguel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_903991"
+:event/minute 91
+:event/match_id "match_21983"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Carlos Calvo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_903992"
+:event/minute 91
+:event/match_id "match_21983"}
+
+
+]
+

@@ -1,0 +1,677 @@
+
+;;# data
+[
+{:match/id "match_7991"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "FC Schalke 04"
+:match/awayteam "FC Energie Cottbus"
+:match/score "4:0"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Vicente Sanchez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_646808"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7991"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_646809"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7991"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "deflected"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_646811"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7991"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "short"
+:event/player1 "Christian Pander"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_646813"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7991"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/subtype "distance"
+:event/player1 "Christian Pander"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_646812"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7991"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Christian Pander"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_646814"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7991"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Christian Pander"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_646814"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7991"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Levan Kobiashvili"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_646821"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_646823"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7991"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Vicente Sanchez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_646824"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646825"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Jefferson Farfan"
+:event/player1 "Ervin Skela,30"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646829"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7991"}
+
+{:event/type "goal"
+:event/elapsed 23
+:event/player2 "Kevin Kuranyi"
+:event/subtype "shot"
+:event/player1 "Halil Altintop"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_646830"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7991"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Vicente Sanchez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_646833"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7991"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_646834"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7991"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_646834"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646836"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7991"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "header"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_646838"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/subtype "hands"
+:event/player1 "Mariusz Kukielka,24"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646843"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7991"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "shot"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_646845"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Jermaine Jones"
+:event/player1 "Daniel Ziebig"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646848"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Jermaine Jones"
+:event/player1 "Dusan Vasiljevic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646851"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7991"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "direct_freekick"
+:event/player1 "Christian Pander"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_646852"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player1 "Rafinha"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_646854"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7991"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Rafinha"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_646857"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646858"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player1 "Ervin Skela,30"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646862"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Jermaine Jones"
+:event/subtype "pushing"
+:event/player1 "Dimitar Rangelov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646863"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7991"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_646865"
+:event/minute 46
+:event/match_id "match_7991"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Vicente Sanchez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_646866"
+:event/minute 46
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Dimitar Rangelov"
+:event/subtype "pushing"
+:event/player1 "Jermaine Jones"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_646871"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7991"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "direct_freekick"
+:event/player1 "Mario Cvitanovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_646872"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/subtype "pushing"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646874"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7991"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_646877"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7991"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "shot"
+:event/player1 "Mladen Krstajic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_646879"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7991"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Ervin Skela,30"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_646880"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7991"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Ervin Skela,30"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_646880"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646885"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646886"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7991"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_646887"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7991"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_646887"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7991"}
+
+{:event/type "goal"
+:event/elapsed 60
+:event/player2 "Halil Altintop"
+:event/subtype "shot"
+:event/player1 "Jermaine Jones"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_646889"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Ivan Radeljic,18"
+:event/player1 "Rafinha"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_646892"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7991"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "shot"
+:event/player1 "Dusan Vasiljevic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_646894"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player1 "Levan Kobiashvili"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_646896"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/subtype "hands"
+:event/player1 "Savo Pavicevic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646897"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646898"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Dusan Vasiljevic"
+:event/subtype "pushing"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_646901"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Jermaine Jones"
+:event/player1 "Ervin Skela,30"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646902"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7991"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Vicente Sanchez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_646904"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7991"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_646905"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Jermaine Jones"
+:event/player1 "Dusan Vasiljevic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646911"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7991"}
+
+{:event/type "card"
+:event/elapsed 82
+:event/card_type "y"
+:event/player1 "Dusan Vasiljevic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_646912"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7991"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Gerald Asamoah"
+:event/player1 "Ivan Radeljic,18"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_646916"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7991"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Orlando Engelaar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_646921"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7991"}
+
+{:event/type "goal"
+:event/elapsed 88
+:event/player2 "Orlando Engelaar"
+:event/subtype "shot"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_646920"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7991"}
+
+
+]
+

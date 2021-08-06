@@ -1,0 +1,921 @@
+
+;;# data
+[
+{:match/id "match_1760"
+:match/league "England Premier League"
+:match/hometeam "Liverpool"
+:match/awayteam "West Bromwich Albion"
+:match/score "3:0"
+:match/hometeam_goals "3"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Paul Robinson"
+:event/subtype "serious_foul"
+:event/player1 "Yossi Benayoun"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_479310"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Gianni Zuiverloon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_479315"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Roman Bednar"
+:event/player1 "Albert Riera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_479319"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Javier Mascherano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_479335"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_1760"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "distance"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_479340"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Robbie Keane"
+:event/player1 "Ryan Donk"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_479346"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Alvaro Arbeloa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_479356"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_1760"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "shot"
+:event/player1 "Robbie Keane"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_479359"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_479371"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_1760"}
+
+{:event/type "corner"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_479371"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_1760"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "short"
+:event/player1 "Borja Valero"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479377"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Jonathan Greening"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_479378"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Ishmael Miller"
+:event/player1 "Daniel Agger"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_479382"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_1760"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "shot"
+:event/player1 "Borja Valero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_479387"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Dirk Kuyt"
+:event/subtype "serious_foul"
+:event/player1 "Jonas Olsson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_479388"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_1760"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Jonas Olsson"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_479390"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Alvaro Arbeloa"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_479396"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_1760"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "blocked_shot"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_479401"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_479409"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Ryan Donk"
+:event/player1 "Robbie Keane"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_479419"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Roman Bednar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_479421"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Jonathan Greening"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479423"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1760"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Jonathan Greening"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479423"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1760"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "shot"
+:event/player1 "Yossi Benayoun"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_479427"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_479428"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_1760"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_479428"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Daniel Agger"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_479429"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_1760"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "shot"
+:event/player1 "Robbie Keane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_479430"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Daniel Agger"
+:event/player1 "Roman Bednar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_479438"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_1760"}
+
+{:event/type "goal"
+:event/elapsed 34
+:event/player2 "Steven Gerrard"
+:event/subtype "shot"
+:event/player1 "Robbie Keane"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_479444"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Daniel Agger"
+:event/player1 "Roman Bednar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_479447"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player1 "Javier Mascherano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_479453"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_479455"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_1760"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "blocked_shot"
+:event/player1 "Robbie Keane"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_479463"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_479465"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1760"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_479465"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1760"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "distance"
+:event/player1 "Javier Mascherano"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_479466"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Alvaro Arbeloa"
+:event/player1 "Paul Robinson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_479519"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Ishmael Miller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_479480"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479482"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1760"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479482"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1760"}
+
+{:event/type "goal"
+:event/elapsed 43
+:event/player2 "Fabio Aurelio"
+:event/subtype "shot"
+:event/player1 "Robbie Keane"
+:event/sortorder 7
+:event/team "home"
+:event/id "event_479490"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_479505"
+:event/minute 46
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player1 "Roman Bednar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_479507"
+:event/minute 46
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_479574"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1760"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "distance"
+:event/player1 "Robert Koren"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_479578"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Do-Heon Kim"
+:event/player1 "Javier Mascherano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_479580"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_1760"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "distance"
+:event/player1 "Robert Koren"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_479584"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_479594"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Albert Riera"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_479600"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Paul Robinson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_479627"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479630"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1760"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479630"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479633"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1760"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479633"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Ryan Babel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_479643"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "unknown"
+:event/subtype "serious_foul"
+:event/player1 "Alvaro Arbeloa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_479645"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_1760"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Alvaro Arbeloa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_479646"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player1 "Javier Mascherano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_479657"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1760"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "direct_freekick"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_479659"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_479666"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_479672"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Luke Moore"
+:event/player1 "Jamie Carragher"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_479674"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1760"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "distance"
+:event/player1 "Fernando Torres"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_479679"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1760"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_479693"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_479698"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479700"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1760"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479700"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1760"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_479703"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player1 "Paul Robinson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_479707"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_1760"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Paul Robinson"
+:event/subtype "serious_foul"
+:event/player1 "Javier Mascherano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_479708"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1760"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Javier Mascherano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_479709"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1760"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479715"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_1760"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_479715"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_1760"}
+
+{:event/type "goal"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Dirk Kuyt"
+:event/subtype "shot"
+:event/player1 "Alvaro Arbeloa"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_479730"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 93
+:event/match_id "match_1760"}
+
+
+]
+

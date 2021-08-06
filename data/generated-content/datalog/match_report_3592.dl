@@ -1,0 +1,877 @@
+
+;;# data
+[
+{:match/id "match_3592"
+:match/league "England Premier League"
+:match/hometeam "Fulham"
+:match/awayteam "Manchester City"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player1 "Chris Baird"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2382045"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player1 "Matija Nastasic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2382051"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Bryan Ruiz"
+:event/player1 "Javi Garcia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2382066"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "distance"
+:event/player1 "Kolo Toure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2382075"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382131"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "John Arne Riise"
+:event/subtype "penalty"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2382139"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3592"}
+
+{:event/type "goal"
+:event/elapsed 10
+:event/player1 "Mladen Petric"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_2382146"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3592"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2382180"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "bad shot"
+:event/player1 "Mladen Petric"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2382207"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2382229"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2382312"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player1 "Sascha Riether"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2382335"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2382351"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Kolo Toure"
+:event/player1 "Chris Baird"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2382361"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Hugo Rodallega"
+:event/player1 "Vincent Kompany"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2382368"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3592"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "direct_freekick"
+:event/player1 "John Arne Riise"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2382377"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2382387"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382390"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3592"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382390"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "big chance header"
+:event/player1 "Sergio Aguero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2382393"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2382428"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "distance"
+:event/player1 "Steve Sidwell"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2382436"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Mark Schwarzer"
+:event/player1 "Sergio Aguero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2382444"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "distance"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2382453"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3592"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Gael Clichy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2382468"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Mladen Petric"
+:event/subtype "serious_foul"
+:event/player1 "Vincent Kompany"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2382480"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3592"}
+
+{:event/type "card"
+:event/elapsed 36
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Vincent Kompany"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2382483"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3592"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "direct_freekick"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2382496"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "Chris Baird"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2382501"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3592"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2382508"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3592"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2382523"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Carlos Tevez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2382584"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3592"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "shot"
+:event/player1 "David Silva"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2382587"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3592"}
+
+{:event/type "goal"
+:event/elapsed 43
+:event/player2 "David Silva"
+:event/subtype "tap_in"
+:event/player1 "Sergio Aguero"
+:event/sortorder 5
+:event/team "away"
+:event/id "event_2382572"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Chris Baird"
+:event/player1 "Gael Clichy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2382729"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "header"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2382740"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382761"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3592"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382761"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player1 "Hugo Rodallega"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2382766"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3592"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "short"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382779"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Carlos Tevez"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2382814"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2382827"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2382836"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3592"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382876"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2382904"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "big chance header"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2382907"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2382936"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382939"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3592"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382939"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2382945"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382950"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3592"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382950"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2382983"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Hugo Rodallega"
+:event/player1 "Vincent Kompany"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2383021"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "John Arne Riise"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2383028"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Mario Balotelli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2383073"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Gareth Barry"
+:event/player1 "Steve Sidwell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2383089"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3592"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Bryan Ruiz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2383122"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2383161"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Yaya Toure"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2383164"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2383185"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Sascha Riether"
+:event/player1 "Gael Clichy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2383194"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "distance"
+:event/player1 "Mario Balotelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2383225"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Sergio Aguero"
+:event/player1 "Georgios Karagounis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2383274"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "direct_freekick"
+:event/player1 "Mario Balotelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2383286"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_3592"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player1 "Gael Clichy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2383291"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3592"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Gael Clichy"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2383317"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3592"}
+
+{:event/type "goal"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Edin Dzeko"
+:event/sortorder 5
+:event/team "away"
+:event/id "event_2383313"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3592"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "blocked_shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2383349"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3592"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "distance"
+:event/player1 "Yaya Toure"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2383350"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3592"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Mario Balotelli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2383390"
+:event/minute 92
+:event/match_id "match_3592"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "big chance shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2383403"
+:event/minute 93
+:event/match_id "match_3592"}
+
+
+]
+

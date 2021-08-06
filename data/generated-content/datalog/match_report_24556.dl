@@ -1,0 +1,901 @@
+
+;;# data
+[
+{:match/id "match_24556"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Granada CF"
+:match/awayteam "Real Betis Balompié"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Piti"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4946227"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_24556"}
+
+{:event/type "goal"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Dimitri Foulquier"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4946252"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Youssef El Arabi"
+:event/subtype "pushing"
+:event/player1 "Heiko Westermann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4946277"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Piti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4946287"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_24556"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross_right"
+:event/player1 "Piti"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4946294"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Ruben Castro"
+:event/subtype "pull"
+:event/player1 "Dimitri Foulquier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4946295"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Success Isaac"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4946323"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_24556"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "shot"
+:event/player1 "Javi Moreno Marquez"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4946331"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Javi Moreno Marquez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4946336"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_24556"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "shot"
+:event/player1 "Youssef El Arabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4946337"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Success Isaac"
+:event/subtype "trip"
+:event/player1 "Vincenzo Rennella"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4946344"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Joaquin"
+:event/subtype "trip"
+:event/player1 "Cristiano Biraghi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4946356"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Alfred N'Diaye"
+:event/subtype "pull"
+:event/player1 "Rene Krhin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4946428"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Success Isaac"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4946521"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_24556"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "shot"
+:event/player1 "Success Isaac"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4946541"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_24556"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "shot"
+:event/player1 "Piti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4946544"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_24556"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross_left"
+:event/player1 "Piti"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4946545"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Dimitri Foulquier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4946596"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/subtype "hands"
+:event/player1 "Francisco Portillo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4946599"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Piti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4946616"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_24556"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "distance"
+:event/player1 "Rene Krhin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4946623"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Piti"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4946643"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Joaquin"
+:event/subtype "pull"
+:event/player1 "Javi Moreno Marquez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4946655"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_24556"}
+
+{:event/type "card"
+:event/elapsed 33
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Javi Moreno Marquez"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4946649"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Varela"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4946672"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Alfred N'Diaye"
+:event/subtype "trip"
+:event/player1 "Youssef El Arabi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4946679"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Joaquin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4946697"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_24556"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "short_right"
+:event/player1 "Joaquin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4946702"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_24556"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "shot"
+:event/player1 "Bruno Gonzalez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4946704"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24556"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross_right"
+:event/player1 "Varela"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4946707"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/subtype "penalty"
+:event/player1 "Ruben Perez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4946713"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24556"}
+
+{:event/type "card"
+:event/elapsed 39
+:event/card_type "y"
+:event/subtype "hands"
+:event/player1 "Ruben Perez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4946720"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24556"}
+
+{:event/type "goal"
+:event/elapsed 40
+:event/player1 "Ruben Castro"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_4946716"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Petros"
+:event/subtype "pushing"
+:event/player1 "Rene Krhin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4946729"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_24556"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "distance"
+:event/player1 "Youssef El Arabi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4946748"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Dimitri Foulquier"
+:event/subtype "pushing"
+:event/player1 "Ruben Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4946757"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Dimitri Foulquier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4946759"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Dimitri Foulquier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4946771"
+:event/minute 46
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Youssef El Arabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4946975"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_24556"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "shot"
+:event/player1 "Youssef El Arabi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4947031"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_24556"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_left"
+:event/player1 "Piti"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4947032"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_24556"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "header"
+:event/player1 "Diego Mainz"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4947036"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_24556"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "shot"
+:event/player1 "Joaquin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4947050"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_24556"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "shot"
+:event/player1 "Ruben Castro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4947052"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Joaquin"
+:event/subtype "pushing"
+:event/player1 "Ruben Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4947060"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Varela"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4947062"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24556"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Success Isaac"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4947076"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24556"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "shot"
+:event/player1 "Success Isaac"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4947095"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Ruben Rochina"
+:event/subtype "pushing"
+:event/player1 "Daniel Ceballos"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4947101"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Antonio Adan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4947153"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Ruben Rochina"
+:event/subtype "pull"
+:event/player1 "Varela"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4947186"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_24556"}
+
+{:event/type "card"
+:event/elapsed 69
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Varela"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4947188"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_4947199"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_24556"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "distance"
+:event/player1 "Ruben Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4947212"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_24556"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross_right"
+:event/player1 "Varela"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4947233"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Youssef El Arabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4947260"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Youssef El Arabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4947275"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_24556"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "header"
+:event/player1 "Ruben Rochina"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4947282"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_24556"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "miss_kick"
+:event/player1 "Ruben Rochina"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4947299"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Success Isaac"
+:event/subtype "from_behind"
+:event/player1 "Cristiano Piccini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4947340"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_24556"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/subtype "violence"
+:event/player1 "Cristiano Biraghi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4947355"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_24556"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/subtype "violence"
+:event/player1 "Francisco Portillo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4947361"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Varela"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4947387"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Javi Moreno Marquez"
+:event/subtype "trip"
+:event/player1 "Didier Digard"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4947445"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Thievy Bifouma"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4947452"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Thievy Bifouma"
+:event/subtype "serious_foul"
+:event/player1 "Didier Digard"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4947466"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_24556"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Didier Digard"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4947470"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Javi Moreno Marquez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4947478"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Ruben Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4947502"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Nicolas Lopez"
+:event/subtype "pushing"
+:event/player1 "Cristiano Piccini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4947509"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_24556"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Nicolas Lopez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4947517"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24556"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Diego Mainz"
+:event/subtype "pushing"
+:event/player1 "Alfred N'Diaye"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4947554"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_24556"}
+
+
+]
+

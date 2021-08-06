@@ -1,0 +1,988 @@
+
+;;# data
+[
+{:match/id "match_4422"
+:match/league "England Premier League"
+:match/hometeam "Leicester City"
+:match/awayteam "Watford"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5002894"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/subtype "hands"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5002960"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5002969"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4422"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "distance"
+:event/player1 "Jeffrey Schlupp"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5002975"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Riyad Mahrez"
+:event/subtype "trip"
+:event/player1 "Miguel Britos"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5003006"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Christian Fuchs"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003024"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Jeffrey Schlupp"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003044"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Odion Ighalo"
+:event/player1 "Robert Huth"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5003052"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Almen Abdi"
+:event/subtype "pushing"
+:event/player1 "Danny Drinkwater"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5003100"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4422"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "distance"
+:event/player1 "Etienne Capoue"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5003131"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Jamie Vardy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003261"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4422"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "shot"
+:event/player1 "Marc Albrighton"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5003272"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003283"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5003316"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003325"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "N'Golo Kante"
+:event/subtype "trip"
+:event/player1 "Almen Abdi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5003335"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003347"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4422"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "post"
+:event/player1 "Odion Ighalo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5003370"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4422"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "shot"
+:event/player1 "Almen Abdi"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5003376"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4422"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross_left"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5003380"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Ikechi Anya"
+:event/subtype "trip"
+:event/player1 "N'Golo Kante"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5003389"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Nathan Ake"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5003421"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Danny Simpson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003436"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Craig Cathcart"
+:event/subtype "pushing"
+:event/player1 "Jamie Vardy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5003441"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4422"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "distance"
+:event/player1 "Etienne Capoue"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5003466"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4422"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "Marc Albrighton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5003498"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Odion Ighalo"
+:event/subtype "pushing"
+:event/player1 "Robert Huth"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5003545"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003769"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4422"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "Jamie Vardy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5003778"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Riyad Mahrez"
+:event/subtype "trip"
+:event/player1 "Nathan Ake"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5003802"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Christian Fuchs"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003818"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Almen Abdi"
+:event/subtype "trip"
+:event/player1 "N'Golo Kante"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5003849"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Ikechi Anya"
+:event/subtype "from_behind"
+:event/player1 "Christian Fuchs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5003859"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Odion Ighalo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5003930"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4422"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross_right"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5003954"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4422"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "blocked_shot"
+:event/player1 "Almen Abdi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5003965"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Christian Fuchs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5004298"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4422"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Danny Drinkwater"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5004345"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5004364"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Shinji Okazaki"
+:event/subtype "pull"
+:event/player1 "Etienne Capoue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5004438"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Wes Morgan"
+:event/player1 "Troy Deeney"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5004461"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5004471"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4422"}
+
+{:event/type "goal"
+:event/elapsed 53
+:event/subtype "shot"
+:event/player1 "N'Golo Kante"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5004478"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5004535"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4422"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "distance"
+:event/player1 "Allan Nyom"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5004681"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/subtype "hands"
+:event/player1 "Nathan Ake"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5004708"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5004721"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4422"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "deflected"
+:event/player1 "Jamie Vardy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5004763"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4422"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross_right"
+:event/player1 "Christian Fuchs"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5004774"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4422"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross_right"
+:event/player1 "Christian Fuchs"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5004796"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4422"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "header"
+:event/player1 "Wes Morgan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5004804"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Ben Watson"
+:event/subtype "trip"
+:event/player1 "Shinji Okazaki"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5004829"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Ben Watson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5004835"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Jamie Vardy"
+:event/subtype "penalty"
+:event/player1 "Heurelho Gomes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5004854"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4422"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/player1 "Heurelho Gomes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5004875"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4422"}
+
+{:event/type "goal"
+:event/elapsed 65
+:event/player1 "Jamie Vardy"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5004881"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Ikechi Anya"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5004916"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5004923"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4422"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross_left"
+:event/player1 "Marc Albrighton"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5004939"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5005037"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Juan Carlos Paredes"
+:event/subtype "penalty"
+:event/player1 "N'Golo Kante"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5005070"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4422"}
+
+{:event/type "goal"
+:event/elapsed 76
+:event/player1 "Troy Deeney"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_5005089"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4422"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5005138"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4422"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross_left"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5005145"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4422"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5005150"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Ikechi Anya"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5005172"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Alessandro Diamanti"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5005175"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5005206"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4422"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "distance"
+:event/player1 "Troy Deeney"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5005232"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5005259"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Troy Deeney"
+:event/subtype "trip"
+:event/player1 "Danny Simpson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5005266"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4422"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "deflected"
+:event/player1 "Marc Albrighton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5005284"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Alessandro Diamanti"
+:event/subtype "trip"
+:event/player1 "Jamie Vardy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5005427"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5005320"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Juan Carlos Paredes"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5005325"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Alessandro Diamanti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5005400"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Ikechi Anya"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5005405"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4422"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Shinji Okazaki"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5005490"
+:event/minute 92
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Andy King"
+:event/subtype "trip"
+:event/player1 "Juan Carlos Paredes"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5005526"
+:event/minute 93
+:event/match_id "match_4422"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Shinji Okazaki"
+:event/subtype "trip"
+:event/player1 "Ben Watson"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5005551"
+:event/minute 94
+:event/match_id "match_4422"}
+
+
+]
+

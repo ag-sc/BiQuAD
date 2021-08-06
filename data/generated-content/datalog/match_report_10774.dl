@@ -1,0 +1,959 @@
+
+;;# data
+[
+{:match/id "match_10774"
+:match/league "Italy Serie A"
+:match/hometeam "Catania"
+:match/awayteam "Parma"
+:match/score "4:0"
+:match/hometeam_goals "3"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_922425"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Adrian Ricchiuti"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_922429"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Ciro Capuano"
+:event/subtype "pushing"
+:event/player1 "Stefano Morrone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922431"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922432"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10774"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922432"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10774"}
+
+{:event/type "goal"
+:event/elapsed 15
+:event/player2 "Cristian Llama"
+:event/subtype "header"
+:event/player1 "Giuseppe Mascara"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_922433"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Giuseppe Mascara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922441"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10774"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Giuseppe Mascara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922441"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/subtype "hands"
+:event/player1 "Blerim Dzemaili"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922444"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_922449"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922452"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10774"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922452"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Nicolas Federico Spolli"
+:event/subtype "penalty"
+:event/player1 "Christian Panucci"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922454"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10774"}
+
+{:event/type "goal"
+:event/elapsed 23
+:event/subtype "missed"
+:event/player1 "Giuseppe Mascara"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_922456"
+:event/event_type "goal"
+:event/goal_type "npm"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Blerim Dzemaili"
+:event/subtype "pushing"
+:event/player1 "Pablo Sebastian Alvarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_922459"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_10774"}
+
+{:event/type "card"
+:event/elapsed 24
+:event/card_type "y"
+:event/player1 "Pablo Sebastian Alvarez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_922550"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Adrian Ricchiuti"
+:event/player1 "Francesco Lunardini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922471"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_10774"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "deflected"
+:event/player1 "Giuseppe Mascara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_922478"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922480"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10774"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922480"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922483"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10774"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922483"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Giuseppe Mascara"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_922485"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Cristian Llama"
+:event/player1 "Paolo Hernan Dellafiore"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922489"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10774"}
+
+{:event/type "card"
+:event/elapsed 28
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Paolo Hernan Dellafiore"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_922490"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10774"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "direct_freekick"
+:event/player1 "Cristian Llama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_922494"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Pablo Sebastian Alvarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_922501"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Giuseppe Mascara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_922507"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Pablo Sebastian Alvarez"
+:event/subtype "pushing"
+:event/player1 "Alessandro Lucarelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922509"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Giuseppe Mascara"
+:event/subtype "pushing"
+:event/player1 "Francesco Lunardini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922511"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_922532"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_922541"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10774"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "post"
+:event/player1 "Adrian Ricchiuti"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_922543"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/subtype "serious_foul"
+:event/player1 "Ezequiel Alejo Carboni"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_922547"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10774"}
+
+{:event/type "card"
+:event/elapsed 39
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Ezequiel Alejo Carboni"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_922548"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922556"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player1 "Adrian Ricchiuti"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_922571"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Marco Biagianti"
+:event/subtype "serious_foul"
+:event/player1 "Valeri Bojinov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922580"
+:event/minute 46
+:event/match_id "match_10774"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/player1 "Valeri Bojinov"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_922581"
+:event/minute 46
+:event/match_id "match_10774"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Marco Biagianti"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_922582"
+:event/minute 46
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player1 "Cristian Llama"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_922655"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player1 "Pablo Sebastian Alvarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_922586"
+:event/minute 47
+:event/match_id "match_10774"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Stefano Morrone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_922593"
+:event/minute 47
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922669"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10774"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922669"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_922676"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922680"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_922688"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922690"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10774"}
+
+{:event/type "corner"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922690"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10774"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "header"
+:event/player1 "Nicolas Federico Spolli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_922692"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10774"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "distance"
+:event/player1 "Paolo Hernan Dellafiore"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_922705"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/subtype "pushing"
+:event/player1 "Ezequiel Alejo Carboni"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_922710"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_922714"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10774"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_922714"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player1 "Jorge Martinez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_922721"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Marco Biagianti"
+:event/player1 "Massimo Paci"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922728"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_922741"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922745"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10774"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Cristian Llama"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_922745"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Paolo Hernan Dellafiore"
+:event/player1 "Jorge Martinez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_922756"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Blerim Dzemaili"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_922760"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10774"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Blerim Dzemaili"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_922760"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10774"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Jorge Martinez"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_922764"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10774"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Takayuki Morimoto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_922771"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Valeri Bojinov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_922772"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10774"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "header"
+:event/player1 "Nicola Amoruso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_922773"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_922775"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10774"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Ciro Capuano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_922779"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10774"}
+
+{:event/type "goal"
+:event/elapsed 77
+:event/player2 "Ciro Capuano"
+:event/subtype "shot"
+:event/player1 "Takayuki Morimoto"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_922781"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Marco Biagianti"
+:event/player1 "Blerim Dzemaili"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922788"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_10774"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/player1 "Blerim Dzemaili"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_922866"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Marco Biagianti"
+:event/subtype "pushing"
+:event/player1 "Stefano Morrone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922794"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10774"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "blocked_shot"
+:event/player1 "Luca Antonelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_922822"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10774"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "shot"
+:event/player1 "Luca Antonelli"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_922824"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player1 "Paolo Hernan Dellafiore"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922840"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10774"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "crossbar"
+:event/player1 "Giuseppe Mascara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_922843"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/subtype "pushing"
+:event/player1 "Takayuki Morimoto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_922851"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10774"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "unknown"
+:event/player1 "Jonathan Biabiany"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_922856"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10774"}
+
+
+]
+

@@ -1,0 +1,960 @@
+
+;;# data
+[
+{:match/id "match_13042"
+:match/league "Italy Serie A"
+:match/hometeam "Bologna"
+:match/awayteam "Sampdoria"
+:match/score "4:2"
+:match/hometeam_goals "3"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Fernando"
+:event/player1 "Amadou Diawara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5234707"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Luis Muriel"
+:event/subtype "pushing"
+:event/player1 "Daniele Gastaldello"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5234754"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Godfred Donsah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5234783"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_13042"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross_left"
+:event/player1 "Anthony Mounier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5234793"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_13042"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "crossbar"
+:event/player1 "Mattia Destro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5234794"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Emanuele Giaccherini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5234831"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_13042"}
+
+{:event/type "goal"
+:event/elapsed 12
+:event/player2 "Godfred Donsah"
+:event/subtype "shot"
+:event/player1 "Anthony Mounier"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5234923"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Andrea Ranocchia"
+:event/subtype "pushing"
+:event/player1 "Amadou Diawara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5234999"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Saphir Taider"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5235040"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Luca Rossettini"
+:event/subtype "from_behind"
+:event/player1 "Joaquin Correa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5235062"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5235081"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_13042"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "shot"
+:event/player1 "Godfred Donsah"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5235090"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_13042"}
+
+{:event/type "goal"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Godfred Donsah"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_5235104"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "David Ivan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5235122"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_13042"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross_right"
+:event/player1 "Joaquin Correa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5235126"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_13042"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Edgar Barreto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5235130"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_13042"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Luis Muriel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5235136"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Mattia Destro"
+:event/subtype "pushing"
+:event/player1 "Andrea Ranocchia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5235152"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Mattia Destro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5235241"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_13042"}
+
+{:event/type "goal"
+:event/elapsed 28
+:event/subtype "bicycle_kick"
+:event/player1 "Emanuele Giaccherini"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5235167"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/subtype "hands"
+:event/player1 "Emanuele Giaccherini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5235253"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Saphir Taider"
+:event/player1 "Fernando"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5235327"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Amadou Diawara"
+:event/subtype "serious_foul"
+:event/player1 "Fernando"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5235270"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_13042"}
+
+{:event/type "card"
+:event/elapsed 32
+:event/card_type "y"
+:event/player1 "Fernando"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5235273"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Saphir Taider"
+:event/player1 "Fernando"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5235361"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Adam Masina"
+:event/subtype "trip"
+:event/player1 "David Ivan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5235354"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Emanuele Giaccherini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5235339"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Amadou Diawara"
+:event/subtype "pushing"
+:event/player1 "Dodo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5235413"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "David Ivan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5235449"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Marios Oikonomou,18"
+:event/subtype "trip"
+:event/player1 "Luis Muriel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5235466"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_13042"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "distance"
+:event/player1 "Fernando"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5235491"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Roberto Soriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5235517"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Dodo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5235765"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Anthony Mounier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5235780"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_13042"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Mattia Destro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5235785"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_13042"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "deflected"
+:event/player1 "Roberto Soriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5235900"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_13042"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_left"
+:event/player1 "David Ivan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5235906"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_13042"}
+
+{:event/type "goal"
+:event/elapsed 54
+:event/player2 "Roberto Soriano"
+:event/subtype "shot"
+:event/player1 "Luis Muriel"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5235923"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_13042"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "shot"
+:event/player1 "Joaquin Correa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5235953"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_13042"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "distance"
+:event/player1 "Luis Muriel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5235978"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Saphir Taider"
+:event/player1 "Roberto Soriano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5236046"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Dodo"
+:event/player1 "Daniele Gastaldello"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5236077"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_13042"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross_left"
+:event/player1 "David Ivan"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5236114"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Adam Masina"
+:event/subtype "pull"
+:event/player1 "David Ivan"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5236083"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_13042"}
+
+{:event/type "card"
+:event/elapsed 61
+:event/card_type "y"
+:event/player1 "David Ivan"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5236085"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Dodo"
+:event/subtype "serious_foul"
+:event/player1 "Anthony Mounier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5236106"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_13042"}
+
+{:event/type "card"
+:event/elapsed 63
+:event/card_type "y"
+:event/player1 "Anthony Mounier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5236109"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Roberto Soriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5236121"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Matias Silvestre"
+:event/subtype "from_behind"
+:event/player1 "Luca Rizzo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5236130"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_13042"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/player1 "Matias Silvestre"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5236132"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Saphir Taider"
+:event/subtype "trip"
+:event/player1 "Roberto Soriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5236160"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Luis Muriel"
+:event/subtype "serious_foul"
+:event/player1 "Daniele Gastaldello"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5236170"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_13042"}
+
+{:event/type "card"
+:event/elapsed 68
+:event/card_type "y"
+:event/player1 "Daniele Gastaldello"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5236172"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "David Ivan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5236191"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_13042"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "deflected"
+:event/player1 "Adam Masina"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5236215"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_13042"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross_left"
+:event/player1 "Matteo Brighi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5236218"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Joaquin Correa"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5236228"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Matias Silvestre"
+:event/player1 "Amadou Diawara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5236244"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_13042"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross_left"
+:event/player1 "Joaquin Correa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5236257"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_13042"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "distance"
+:event/player1 "Fernando"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5236291"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_13042"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Luis Muriel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5236342"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_13042"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Joaquin Correa"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5236400"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_13042"}
+
+{:event/type "goal"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Joaquin Correa"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_5236375"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Fernando"
+:event/player1 "Amadou Diawara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5236463"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Sergio Floccari"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5236472"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_13042"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross_left"
+:event/player1 "Matteo Brighi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5236491"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/subtype "penalty"
+:event/player1 "Ricardo Alvarez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5236500"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_13042"}
+
+{:event/type "card"
+:event/elapsed 86
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Joaquin Correa"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5236560"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_13042"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/player1 "Ricardo Alvarez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5236672"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_13042"}
+
+{:event/type "goal"
+:event/elapsed 88
+:event/player1 "Mattia Destro"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5236519"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Luis Muriel"
+:event/player1 "Adam Masina"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5236571"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_13042"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Fernando"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5236574"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_13042"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Joaquin Correa"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5236583"
+:event/minute 91
+:event/match_id "match_13042"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jacopo Sala"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5236589"
+:event/minute 91
+:event/match_id "match_13042"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Luis Muriel"
+:event/subtype "serious_foul"
+:event/player1 "Marios Oikonomou,18"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5236615"
+:event/minute 92
+:event/match_id "match_13042"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Marios Oikonomou,18"
+:event/sortorder 11
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5236620"
+:event/minute 92
+:event/match_id "match_13042"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Fernando"
+:event/sortorder 12
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5236656"
+:event/minute 94
+:event/match_id "match_13042"}
+
+
+]
+

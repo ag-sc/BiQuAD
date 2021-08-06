@@ -1,0 +1,975 @@
+
+;;# data
+[
+{:match/id "match_10423"
+:match/league "Italy Serie A"
+:match/hometeam "Napoli"
+:match/awayteam "Bologna"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Jesus Datolo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_580254"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10423"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "bicycle_kick"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_580257"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10423"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Sergio Volpi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_580272"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_10423"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "distance"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_580285"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_580290"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player1 "Marco Di Vaio"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580294"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Christian Maggio"
+:event/player1 "Davide Bombardini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580303"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Christian Maggio"
+:event/subtype "pushing"
+:event/player1 "Cristian Zenoni"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580310"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10423"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "shot"
+:event/player1 "Nicola Mingazzini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_580313"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_580315"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10423"}
+
+{:event/type "goal"
+:event/elapsed 20
+:event/player2 "Ezequiel Lavezzi"
+:event/subtype "shot"
+:event/player1 "Christian Maggio"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_580316"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player1 "Jesus Datolo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_580317"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10423"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_580319"
+:event/event_type "shoton"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10423"}
+
+{:event/type "goal"
+:event/elapsed 23
+:event/subtype "shot"
+:event/player1 "Marco Di Vaio"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_580321"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player1 "Davide Bombardini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580322"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580325"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10423"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580325"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Cristian Zenoni"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_580327"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10423"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "header"
+:event/player1 "Marco Di Vaio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_580328"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Ezequiel Lavezzi"
+:event/player1 "Gaby Mudingayi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580331"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/subtype "hands"
+:event/player1 "Jesus Datolo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_580337"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10423"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "shot"
+:event/player1 "Francesco Valiani"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_580342"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Salvatore Lanna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_580346"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_580349"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10423"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "header"
+:event/player1 "Francesco Valiani"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_580352"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "German Denis"
+:event/player1 "Sergio Volpi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580360"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Luigi Vitale"
+:event/player1 "Francesco Valiani"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580376"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580379"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580387"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10423"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580387"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580390"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Christian Maggio"
+:event/subtype "shirt_pull"
+:event/player1 "Davide Bombardini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580392"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10423"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "direct_freekick"
+:event/player1 "Jesus Datolo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_580397"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10423"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_580400"
+:event/minute 46
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580403"
+:event/minute 46
+:event/match_id "match_10423"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580403"
+:event/minute 46
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Gaby Mudingayi"
+:event/subtype "from_behind"
+:event/player1 "Michele Pazienza"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_580473"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_10423"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "header"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_580405"
+:event/minute 47
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Gaby Mudingayi"
+:event/player1 "Michele Pazienza"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_580484"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/player1 "Gaby Mudingayi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580418"
+:event/minute 48
+:event/match_id "match_10423"}
+
+{:event/type "card"
+:event/elapsed 48
+:event/card_type "y"
+:event/player1 "Michele Pazienza"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_580485"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_580505"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580507"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10423"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580507"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Nicolas Navarro"
+:event/player1 "Cristian Zenoni"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580510"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10423"}
+
+{:event/type "card"
+:event/elapsed 53
+:event/card_type "y"
+:event/player1 "Cristian Zenoni"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_580511"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Francesco Valiani"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_580514"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10423"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "header"
+:event/player1 "Marco Di Vaio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_580516"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_580518"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10423"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_580518"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Christian Maggio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_580523"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10423"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "header"
+:event/player1 "German Denis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_580524"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580526"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_580530"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10423"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "header"
+:event/player1 "Francesco Valiani"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_580531"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Christian Maggio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_580543"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10423"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "header"
+:event/player1 "German Denis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_580544"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Jesus Datolo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580545"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10423"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Jesus Datolo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580545"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Christian Maggio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_580549"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10423"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "distance"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_580552"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10423"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "crossbar"
+:event/player1 "Davide Bombardini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_580560"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10423"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "distance"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_580565"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Walter Gargano"
+:event/player1 "Francesco Valiani"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580572"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10423"}
+
+{:event/type "card"
+:event/elapsed 72
+:event/card_type "y"
+:event/player1 "Francesco Valiani"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_580573"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_580588"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Jesus Datolo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_580589"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Jesus Datolo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580590"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10423"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Jesus Datolo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580590"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580593"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10423"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_580593"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_580606"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_580609"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10423"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_580609"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10423"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "distance"
+:event/player1 "Michele Pazienza"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_580619"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Christian Maggio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_580625"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player1 "Marco Di Vaio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_580628"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_580653"
+:event/minute 92
+:event/match_id "match_10423"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_580653"
+:event/minute 92
+:event/match_id "match_10423"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Claudio Terzi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_580654"
+:event/minute 92
+:event/match_id "match_10423"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_580658"
+:event/minute 93
+:event/match_id "match_10423"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_580664"
+:event/minute 94
+:event/match_id "match_10423"}
+
+
+]
+

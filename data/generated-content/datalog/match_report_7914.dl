@@ -1,0 +1,1574 @@
+
+;;# data
+[
+{:match/id "match_7914"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "VfL Bochum"
+:match/awayteam "VfL Wolfsburg"
+:match/score "3:2"
+:match/hometeam_goals "2"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Zvjezdan Misimovic"
+:event/player1 "Paul Freier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384463"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Christoph Dabrowski"
+:event/subtype "from_behind"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384478"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7914"}
+
+{:event/type "card"
+:event/elapsed 6
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_384479"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7914"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "shot"
+:event/player1 "Paul Freier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_384484"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Christian Fuchs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384485"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7914"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Christian Fuchs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384485"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384493"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7914"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384493"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7914"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "header"
+:event/player1 "Jonathan Santana"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_384494"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Ashkan Dejagah"
+:event/player1 "Christoph Dabrowski"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384496"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384497"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7914"}
+
+{:event/type "goal"
+:event/elapsed 12
+:event/player2 "Paul Freier"
+:event/subtype "shot"
+:event/player1 "Stanislav Sestak"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_384501"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Ricardo Costa"
+:event/player1 "Stanislav Sestak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384512"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384514"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Jonathan Santana"
+:event/subtype "pushing"
+:event/player1 "Vahid Hashemian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384515"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Marcel Schaefer"
+:event/subtype "from_behind"
+:event/player1 "Stanislav Sestak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384521"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player1 "Vahid Hashemian"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384524"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Anther Yahia"
+:event/player1 "Ashkan Dejagah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384525"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Paul Freier"
+:event/subtype "serious_foul"
+:event/player1 "Ashkan Dejagah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384528"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7914"}
+
+{:event/type "card"
+:event/elapsed 20
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Ashkan Dejagah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_384529"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384531"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player1 "Christian Fuchs"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384540"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Ashkan Dejagah"
+:event/player1 "Matias Concha"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384541"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Jonathan Santana"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384551"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Mimoun Azaouagh"
+:event/subtype "shirt_pull"
+:event/player1 "Josue"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384554"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7914"}
+
+{:event/type "card"
+:event/elapsed 25
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Josue"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_384555"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384556"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7914"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Paul Freier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_384562"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Christian Fuchs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384566"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7914"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Christian Fuchs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384566"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384570"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Zvjezdan Misimovic"
+:event/subtype "from_behind"
+:event/player1 "Daniel Imhof"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384579"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Anther Yahia"
+:event/player1 "Josue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384584"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7914"}
+
+{:event/type "shotoff"
+:event/elapsed 31
+:event/subtype "distance"
+:event/player1 "Daniel Imhof"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_384588"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7914"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "shot"
+:event/player1 "Stanislav Sestak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_384594"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7914"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "distance"
+:event/player1 "Cristian Zaccardo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_384598"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7914"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "shot"
+:event/player1 "Jonathan Santana"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_384600"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Stanislav Sestak"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384603"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384614"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Christian Fuchs"
+:event/player1 "Josue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384622"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Stanislav Sestak"
+:event/player1 "Jonathan Santana"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384629"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Stanislav Sestak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384634"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Zvjezdan Misimovic"
+:event/player1 "Christoph Dabrowski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384640"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384648"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7914"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384648"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Stanislav Sestak"
+:event/player1 "Ricardo Costa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384658"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Christian Gentner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384666"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384682"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7914"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Cristian Zaccardo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_384683"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Marcel Schaefer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384689"
+:event/minute 46
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player1 "Christoph Dabrowski"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384747"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/subtype "pushing"
+:event/player1 "Andrea Barzagli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384760"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Matias Concha"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384762"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Paul Freier"
+:event/player1 "Marcel Schaefer"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384765"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Mimoun Azaouagh"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384769"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7914"}
+
+{:event/type "goal"
+:event/elapsed 50
+:event/player2 "Mimoun Azaouagh"
+:event/subtype "header"
+:event/player1 "Christoph Dabrowski"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_384770"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384778"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Marcel Schaefer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384783"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7914"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "blocked_shot"
+:event/player1 "Mahir Saglik"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_384785"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7914"}
+
+{:event/type "goal"
+:event/elapsed 52
+:event/subtype "loose_ball"
+:event/player1 "Ricardo Costa"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_384784"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Paul Freier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384786"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Mimoun Azaouagh"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384787"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7914"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Mimoun Azaouagh"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384787"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384790"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7914"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "shot"
+:event/player1 "Mahir Saglik"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_384791"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Daniel Imhof"
+:event/player1 "Jonathan Santana"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384794"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Mahir Saglik"
+:event/subtype "serious_foul"
+:event/player1 "Christoph Dabrowski"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384799"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7914"}
+
+{:event/type "card"
+:event/elapsed 54
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Christoph Dabrowski"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_384800"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384805"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384808"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384814"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7914"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "header"
+:event/player1 "Marcel Maltritz"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_384820"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Vahid Hashemian"
+:event/player1 "Sascha Riether"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384826"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Ashkan Dejagah"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384831"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384833"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7914"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384833"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Marcel Schaefer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384834"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Stanislav Sestak"
+:event/player1 "Ricardo Costa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384840"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384844"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7914"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Jonathan Santana"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_384854"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Daniel Fernandes"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384856"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Stanislav Sestak"
+:event/subtype "from_behind"
+:event/player1 "Josue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384857"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Matias Concha"
+:event/subtype "serious_foul"
+:event/player1 "Mahir Saglik"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384862"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7914"}
+
+{:event/type "card"
+:event/elapsed 64
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Mahir Saglik"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_384863"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_384866"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Marcel Schaefer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384869"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7914"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "header"
+:event/player1 "Ashkan Dejagah"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_384870"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Ricardo Costa"
+:event/player1 "Mimoun Azaouagh"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384877"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Christian Gentner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384882"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7914"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Christian Gentner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384882"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player1 "Edin Dzeko"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384883"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7914"}
+
+{:event/type "goal"
+:event/elapsed 69
+:event/player2 "Zvjezdan Misimovic"
+:event/subtype "shot"
+:event/player1 "Mahir Saglik"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_384886"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Edin Dzeko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384890"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Ashkan Dejagah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384891"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Marcel Schaefer"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384894"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384895"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7914"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384895"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Ashkan Dejagah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384897"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Christoph Dabrowski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384900"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7914"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "shot"
+:event/player1 "Paul Freier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_384909"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Christian Gentner"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384914"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7914"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "shot"
+:event/player1 "Mahir Saglik"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_384916"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Ricardo Costa"
+:event/player1 "Stanislav Sestak"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384917"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Vahid Hashemian"
+:event/subtype "serious_foul"
+:event/player1 "Ricardo Costa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384923"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7914"}
+
+{:event/type "card"
+:event/elapsed 76
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Ricardo Costa"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_384924"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7914"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "direct_freekick"
+:event/player1 "Mimoun Azaouagh"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_384927"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384935"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_7914"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384935"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Josue"
+:event/player1 "Christian Fuchs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384950"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384953"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7914"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "header"
+:event/player1 "Mahir Saglik"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_384955"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384962"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384965"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Marcel Schaefer"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384966"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7914"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Edin Dzeko"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_384967"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Daniel Imhof"
+:event/player1 "Edin Dzeko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384973"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Stanislav Sestak"
+:event/player1 "Marcel Schaefer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384977"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7914"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "header"
+:event/player1 "Mergim Mavraj"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_384979"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384983"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384990"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Christian Gentner"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384991"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7914"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "header"
+:event/player1 "Edin Dzeko"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_384992"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Edin Dzeko"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384995"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Josue"
+:event/player1 "Vahid Hashemian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_385000"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Christian Gentner"
+:event/subtype "from_behind"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_385006"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7914"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Mimoun Azaouagh"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_385007"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_385010"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7914"}
+
+{:event/type "goal"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Sinan Kaloglu"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_385012"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7914"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_385023"
+:event/minute 91
+:event/match_id "match_7914"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Christian Gentner"
+:event/subtype "from_behind"
+:event/player1 "Mimoun Azaouagh"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_385595"
+:event/minute 92
+:event/match_id "match_7914"}
+
+
+]
+

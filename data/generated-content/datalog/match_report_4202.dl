@@ -1,0 +1,989 @@
+
+;;# data
+[
+{:match/id "match_4202"
+:match/league "England Premier League"
+:match/hometeam "Liverpool"
+:match/awayteam "Manchester City"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/subtype "hands"
+:event/player1 "Edin Dzeko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4216359"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Aleksandar Kolarov"
+:event/subtype "pushing"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4216373"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4216385"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4216390"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4202"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "big chance shot"
+:event/player1 "Adam Lallana"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4216401"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4216410"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4202"}
+
+{:event/type "goal"
+:event/elapsed 11
+:event/player2 "Raheem Sterling"
+:event/subtype "distance"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_4216423"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4202"}
+
+{:event/type "shotoff"
+:event/elapsed 13
+:event/subtype "post"
+:event/player1 "Sergio Aguero"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4216441"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4202"}
+
+{:event/type "shotoff"
+:event/elapsed 13
+:event/subtype "distance"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4216442"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "David Silva"
+:event/subtype "trip"
+:event/player1 "Lazar Markovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4216452"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4216473"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4216479"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Lazar Markovic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4216487"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Alberto Moreno"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4216501"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Lazar Markovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4216515"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4202"}
+
+{:event/type "goal"
+:event/elapsed 26
+:event/player2 "Sergio Aguero"
+:event/subtype "shot"
+:event/player1 "Edin Dzeko"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_4216543"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Alberto Moreno"
+:event/subtype "trip"
+:event/player1 "Yaya Toure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4216552"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4202"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross_right"
+:event/player1 "Jordan Henderson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4216562"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "David Silva"
+:event/subtype "pull"
+:event/player1 "Joe Allen"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4216565"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4216570"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Raheem Sterling"
+:event/subtype "trip"
+:event/player1 "Vincent Kompany"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4216575"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4202"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "distance"
+:event/player1 "Edin Dzeko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4216589"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4202"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "big chance shot"
+:event/player1 "Adam Lallana"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4216604"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Raheem Sterling"
+:event/subtype "trip"
+:event/player1 "Vincent Kompany"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4216609"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4216618"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Fernandinho"
+:event/subtype "trip"
+:event/player1 "Raheem Sterling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4216622"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4202"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "distance"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4216647"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Raheem Sterling"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4216654"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4202"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Joe Allen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4216656"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4216756"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4202"}
+
+{:event/type "shotoff"
+:event/elapsed 46
+:event/subtype "header"
+:event/player1 "Sergio Aguero"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4216757"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4202"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Raheem Sterling"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4216664"
+:event/minute 46
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4216801"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Raheem Sterling"
+:event/subtype "trip"
+:event/player1 "Vincent Kompany"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4216824"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4216835"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4202"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Raheem Sterling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4216837"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4216843"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Joe Allen"
+:event/subtype "trip"
+:event/player1 "Fernandinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4216848"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4216857"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Emre Can"
+:event/subtype "trip"
+:event/player1 "Edin Dzeko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4216873"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Lazar Markovic"
+:event/subtype "pushing"
+:event/player1 "Edin Dzeko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4216887"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Philippe Coutinho"
+:event/subtype "trip"
+:event/player1 "Samir Nasri"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4216894"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4202"}
+
+{:event/type "card"
+:event/elapsed 57
+:event/card_type "y"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4216897"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Yaya Toure"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4216921"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4216947"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Lazar Markovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4216960"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Fernandinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4216973"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Raheem Sterling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4216976"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/subtype "hands"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4216980"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4217030"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Pablo Zabaleta"
+:event/subtype "trip"
+:event/player1 "Alberto Moreno"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4217035"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4217040"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Adam Lallana"
+:event/subtype "trip"
+:event/player1 "Fernandinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4217053"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4217085"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Lazar Markovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4217101"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4202"}
+
+{:event/type "goal"
+:event/elapsed 75
+:event/player2 "Raheem Sterling"
+:event/subtype "shot"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4217116"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/subtype "hands"
+:event/player1 "Emre Can"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4217141"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4217151"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4217159"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4202"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4217162"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4217180"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Philippe Coutinho"
+:event/subtype "pushing"
+:event/player1 "Yaya Toure"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4217184"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Raheem Sterling"
+:event/subtype "pull"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4217198"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4202"}
+
+{:event/type "card"
+:event/elapsed 82
+:event/card_type "y"
+:event/player1 "James Milner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4217200"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "James Milner"
+:event/subtype "trip"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4217212"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4202"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/player1 "Adam Lallana"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4217213"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4217217"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4202"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "deflected"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4217229"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4202"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross_left"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4217232"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Alberto Moreno"
+:event/subtype "pushing"
+:event/player1 "Wilfried Bony"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4217241"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4202"}
+
+{:event/type "card"
+:event/elapsed 86
+:event/card_type "y"
+:event/player1 "Wilfried Bony"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4217243"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Daniel Sturridge"
+:event/subtype "pushing"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4217247"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4202"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "big chance shot"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4217255"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4217260"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4202"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4217284"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Aleksandar Kolarov"
+:event/subtype "pushing"
+:event/player1 "Raheem Sterling"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4217297"
+:event/minute 91
+:event/match_id "match_4202"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Kolo Toure"
+:event/subtype "pushing"
+:event/player1 "Wilfried Bony"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4217299"
+:event/minute 91
+:event/match_id "match_4202"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4217303"
+:event/minute 93
+:event/match_id "match_4202"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 13
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4217307"
+:event/minute 93
+:event/match_id "match_4202"}
+
+
+]
+

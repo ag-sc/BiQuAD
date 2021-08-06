@@ -1,0 +1,1380 @@
+
+;;# data
+[
+{:match/id "match_3557"
+:match/league "England Premier League"
+:match/hometeam "Stoke City"
+:match/awayteam "Tottenham Hotspur"
+:match/score "1:3"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Tom Huddlestone"
+:event/subtype "dangerous_play"
+:event/player1 "Peter Crouch"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764261"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Ryan Shotton"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2764275"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764279"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_3557"}
+
+{:event/type "goal"
+:event/elapsed 3
+:event/player2 "Charlie Adam"
+:event/subtype "header"
+:event/player1 "Steven Nzonzi"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2764281"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_3557"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "blocked_shot"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2764296"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_3557"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "distance"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2764302"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764305"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764305"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764337"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_2764340"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Ryan Shotton"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764342"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "bad shot"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2764350"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764368"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2764370"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2764370"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2764376"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_3557"}
+
+{:event/type "goal"
+:event/elapsed 16
+:event/subtype "shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_2764379"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Matthew Etherington"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764389"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Emmanuel Adebayor"
+:event/player1 "Ryan Shotton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764408"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2764409"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_3557"}
+
+{:event/type "goal"
+:event/elapsed 20
+:event/subtype "distance"
+:event/player1 "Clint Dempsey"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_2764416"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_2764422"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Clint Dempsey"
+:event/player1 "Robert Huth"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764430"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "direct_freekick"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2764435"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_2764437"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2764449"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764452"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764452"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764467"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764467"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_3557"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "blocked_shot"
+:event/player1 "Kyle Walker"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2764468"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Gareth Bale"
+:event/player1 "Steven Nzonzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764474"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Ryan Shotton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764479"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764483"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_2764486"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Gareth Bale"
+:event/player1 "Robert Huth"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764492"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3557"}
+
+{:event/type "card"
+:event/elapsed 35
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Robert Huth"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2764496"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Kyle Walker"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2764502"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764505"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "deflected"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2764508"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764515"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764515"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Clint Dempsey"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2764522"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764526"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764526"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player1 "Marc Wilson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764537"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2764552"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_3557"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "big chance header"
+:event/player1 "Michael Dawson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2764554"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_3557"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Asmir Begovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2764560"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Tom Huddlestone"
+:event/player1 "Peter Crouch"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764563"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Jonathan Walters"
+:event/player1 "Michael Dawson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2764567"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Matthew Etherington"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764576"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Jan Vertonghen"
+:event/subtype "dangerous_play"
+:event/player1 "Charlie Adam"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764581"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3557"}
+
+{:event/type "card"
+:event/elapsed 44
+:event/card_type "y"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2764586"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_3557"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2764596"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764601"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764601"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Peter Crouch"
+:event/player1 "Jan Vertonghen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2764740"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "hands"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2764614"
+:event/minute 46
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764742"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Marc Wilson"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764619"
+:event/minute 46
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Jan Vertonghen"
+:event/subtype "from_behind"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764751"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "deflected"
+:event/player1 "Charlie Adam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2764624"
+:event/minute 47
+:event/match_id "match_3557"}
+
+{:event/type "card"
+:event/elapsed 47
+:event/card_type "y"
+:event/player1 "Charlie Adam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2764753"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2764625"
+:event/minute 47
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2764625"
+:event/minute 47
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764631"
+:event/minute 48
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "deflected"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2764766"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764767"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764767"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "big chance shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2764768"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Michael Dawson"
+:event/subtype "advantage"
+:event/player1 "Peter Crouch"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764792"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3557"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "blocked_shot"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2764805"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Jan Vertonghen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2764806"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Emmanuel Adebayor"
+:event/player1 "Robert Huth"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764817"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "bad shot"
+:event/player1 "Gareth Bale"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2764824"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3557"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "distance"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2764839"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Jan Vertonghen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2764874"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2764880"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3557"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "shot"
+:event/player1 "Jan Vertonghen"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2764896"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Aaron Lennon"
+:event/player1 "Steven Nzonzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764902"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3557"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_shot"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2764906"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764907"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764907"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3557"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_shot"
+:event/player1 "Kyle Walker"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2764910"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Ryan Shotton"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2764911"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Gareth Bale"
+:event/player1 "Ryan Shotton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2764913"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3557"}
+
+{:event/type "card"
+:event/elapsed 68
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Ryan Shotton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2764914"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2764917"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "big chance header"
+:event/player1 "Jan Vertonghen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2764918"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "bad shot"
+:event/player1 "Andy Wilkinson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2764927"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Aaron Lennon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2764929"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3557"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "distance"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2764936"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "short"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764940"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Aaron Lennon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2764945"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764952"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2764952"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_3557"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "blocked_shot"
+:event/player1 "Aaron Lennon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2764963"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "big chance shot"
+:event/player1 "Gareth Bale"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2764982"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Steven Nzonzi"
+:event/subtype "trip"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2764996"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3557"}
+
+{:event/type "card"
+:event/elapsed 76
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2764999"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Marc Wilson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2765007"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2765032"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Jonathan Walters"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2765062"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3557"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Jonathan Walters"
+:event/player1 "Kyle Walker"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2765066"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Dean Whitehead"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2765078"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "big chance header"
+:event/player1 "Robert Huth"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2765082"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "distance"
+:event/player1 "Moussa Dembele"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2765090"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_3557"}
+
+{:event/type "goal"
+:event/elapsed 83
+:event/player2 "Clint Dempsey"
+:event/subtype "tap_in"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_2765104"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Andy Wilkinson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2765151"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3557"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2765266"
+:event/minute 94
+:event/match_id "match_3557"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Marc Wilson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2765267"
+:event/minute 94
+:event/match_id "match_3557"}
+
+{:event/type "corner"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2765288"
+:event/minute 95
+:event/match_id "match_3557"}
+
+
+]
+

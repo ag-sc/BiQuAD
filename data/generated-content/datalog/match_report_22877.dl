@@ -1,0 +1,966 @@
+
+;;# data
+[
+{:match/id "match_22877"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "FC Barcelona"
+:match/awayteam "Granada CF"
+:match/score "5:3"
+:match/hometeam_goals "5"
+:match/awayteam_goals "3"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "shot"
+:event/player1 "Carlos Martins"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2004459"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Isaac Cuenca"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2004485"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22877"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/player2 "Lionel Messi"
+:event/subtype "volley"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_2004479"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22877"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "bad shot"
+:event/player1 "Adriano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2004499"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Xavi Hernandez"
+:event/player1 "Odion Ighalo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2004534"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22877"}
+
+{:event/type "card"
+:event/elapsed 10
+:event/card_type "y"
+:event/player1 "Odion Ighalo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2004535"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22877"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2004538"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/subtype "hands"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2004558"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Odion Ighalo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2004562"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Isaac Cuenca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2004572"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22877"}
+
+{:event/type "goal"
+:event/elapsed 17
+:event/player2 "Isaac Cuenca"
+:event/subtype "volley"
+:event/player1 "Lionel Messi"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2004573"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Guilherme Siqueira"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2004584"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_22877"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Guilherme Siqueira"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2004584"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Franco Daniel Jara"
+:event/player1 "Adriano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2004586"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2004625"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22877"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "bad shot"
+:event/player1 "Daniel Alves"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2004630"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22877"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "blocked_shot"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2004637"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22877"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "blocked_shot"
+:event/player1 "Isaac Cuenca"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2004642"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22877"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "volley"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2004643"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2004661"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22877"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2004661"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22877"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "distance"
+:event/player1 "Daniel Alves"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2004665"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Gerard Pique"
+:event/player1 "Odion Ighalo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2004674"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Isaac Cuenca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2004681"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Isaac Cuenca"
+:event/player1 "David Cortes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2004699"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22877"}
+
+{:event/type "card"
+:event/elapsed 34
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Dani Benitez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2004702"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Isaac Cuenca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2004720"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2004723"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22877"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2004723"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Guilherme Siqueira"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2004730"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2004739"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_22877"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Odion Ighalo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2004744"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_22877"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Isaac Cuenca"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2004746"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_22877"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Adriano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2004748"
+:event/minute 46
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Carlos Martins"
+:event/subtype "serious_foul"
+:event/player1 "Seydou Keita"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2004802"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22877"}
+
+{:event/type "card"
+:event/elapsed 48
+:event/card_type "y"
+:event/player1 "Seydou Keita"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2004803"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Javier Mascherano"
+:event/player1 "Odion Ighalo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2004807"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Isaac Cuenca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2004834"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22877"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "bad shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2004835"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Odion Ighalo"
+:event/player1 "Javier Mascherano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2004844"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_22877"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/subtype "header"
+:event/player1 "Diego Mainz"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_2004849"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Seydou Keita"
+:event/player1 "Guilherme Siqueira"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2004863"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Dani Benitez"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2004868"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Lionel Messi"
+:event/player1 "Borja Gomez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2004871"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/subtype "hands"
+:event/player1 "David Cortes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2004872"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22877"}
+
+{:event/type "card"
+:event/elapsed 59
+:event/card_type "y"
+:event/player1 "David Cortes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2004873"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22877"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "header"
+:event/player1 "Gerard Pique"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2004878"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Dani Benitez"
+:event/subtype "penalty"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2004884"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22877"}
+
+{:event/type "card"
+:event/elapsed 61
+:event/card_type "y"
+:event/player1 "Daniel Alves"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2004885"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22877"}
+
+{:event/type "goal"
+:event/elapsed 62
+:event/player1 "Guilherme Siqueira"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_2004892"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Lionel Messi"
+:event/subtype "shirt_pull"
+:event/player1 "Hurtado Perez Moises"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2004904"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22877"}
+
+{:event/type "card"
+:event/elapsed 64
+:event/card_type "y"
+:event/player1 "Hurtado Perez Moises"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2004905"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22877"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "big chance volley"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2004912"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22877"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Ikechukwu Uche"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2004921"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Lionel Messi"
+:event/subtype "obstruction"
+:event/player1 "Borja Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2004926"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22877"}
+
+{:event/type "card"
+:event/elapsed 66
+:event/card_type "y"
+:event/player1 "Borja Gomez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2004928"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Isaac Cuenca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2004931"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22877"}
+
+{:event/type "goal"
+:event/elapsed 67
+:event/player2 "Daniel Alves"
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_2004941"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Odion Ighalo"
+:event/player1 "Javier Mascherano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2004947"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2004959"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22877"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2004959"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22877"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "header"
+:event/player1 "Gerard Pique"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2004961"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Victor Valdes"
+:event/player1 "Borja Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2004969"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Cristian Tello Herrera"
+:event/player1 "Ikechukwu Uche"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2004980"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22877"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Dani Benitez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2005016"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22877"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Dani Benitez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2005016"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22877"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2005039"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22877"}
+
+{:event/type "goal"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Cristian Tello Herrera"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2005040"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22877"}
+
+{:event/type "goal"
+:event/elapsed 86
+:event/player2 "Daniel Alves"
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2005052"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/subtype "penalty"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2005066"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22877"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/player1 "Daniel Alves"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2005067"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22877"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2005074"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_22877"}
+
+{:event/type "goal"
+:event/elapsed 89
+:event/player1 "Guilherme Siqueira"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_2005077"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Javier Mascherano"
+:event/player1 "Ikechukwu Uche"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2005082"
+:event/minute 91
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Javier Mascherano"
+:event/player1 "Alexandre Geijo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2005086"
+:event/minute 91
+:event/match_id "match_22877"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Alexandre Geijo"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2005087"
+:event/minute 91
+:event/match_id "match_22877"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "hands"
+:event/player1 "Abel Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2005098"
+:event/minute 93
+:event/match_id "match_22877"}
+
+{:event/type "card"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Abel Gomez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2005099"
+:event/minute 93
+:event/match_id "match_22877"}
+
+
+]
+

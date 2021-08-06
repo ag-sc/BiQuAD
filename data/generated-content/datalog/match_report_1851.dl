@@ -1,0 +1,1427 @@
+
+;;# data
+[
+{:match/id "match_1851"
+:match/league "England Premier League"
+:match/hometeam "West Ham United"
+:match/awayteam "Stoke City"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Jack Collison"
+:event/player1 "Glenn Whelan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_541156"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Richard Cresswell"
+:event/player1 "James Collins"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_541163"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_1851"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Ricardo Fuller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_541173"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Danny Pugh"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_541183"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_1851"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Danny Pugh"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_541183"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_1851"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/player2 "Danny Pugh"
+:event/subtype "header"
+:event/player1 "Abdoulaye Faye"
+:event/sortorder 5
+:event/team "away"
+:event/id "event_541190"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Jack Collison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541195"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_1851"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Carlton Cole"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_541196"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Luis Boa Morte"
+:event/player1 "Richard Cresswell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_541206"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Julien Faubert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541208"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Scott Parker"
+:event/player1 "Seyi Olofinjana"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_541223"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541230"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Jack Collison"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541232"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "blocked_shot"
+:event/player1 "Seyi Olofinjana"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_541240"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player1 "Valon Behrami"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_541263"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Valon Behrami"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541275"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_541291"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_1851"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_541291"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_1851"}
+
+{:event/type "shotoff"
+:event/elapsed 13
+:event/subtype "header"
+:event/player1 "Matthew Upson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_541294"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Richard Cresswell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_541318"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "distance"
+:event/player1 "Jack Collison"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_541326"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_541334"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Valon Behrami"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541357"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Luis Boa Morte"
+:event/player1 "Andy Griffin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_541369"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_541390"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Ricardo Fuller"
+:event/player1 "Julien Faubert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_541423"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Seyi Olofinjana"
+:event/subtype "serious_foul"
+:event/player1 "Carlton Cole"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_541443"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1851"}
+
+{:event/type "card"
+:event/elapsed 23
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Carlton Cole"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_541444"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_541457"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1851"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_541457"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_541478"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1851"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_541478"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/subtype "hands"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_541487"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Luis Boa Morte"
+:event/player1 "Glenn Whelan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_541495"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Scott Parker"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541512"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_541516"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_1851"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_541516"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_541544"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Glenn Whelan"
+:event/subtype "serious_foul"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_541554"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_1851"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_541556"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Danny Pugh"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_541569"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1851"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Danny Pugh"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_541569"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Scott Parker"
+:event/player1 "Seyi Olofinjana"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_541572"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "David Di Michele"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541577"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1851"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "header"
+:event/player1 "Carlton Cole"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_541583"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Julien Faubert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541603"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1851"}
+
+{:event/type "card"
+:event/elapsed 35
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "David Di Michele"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_541611"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "deflected"
+:event/player1 "Carlton Cole"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_541628"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Julien Faubert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541630"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "deflected"
+:event/player1 "Scott Parker"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_541639"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "blocked_shot"
+:event/player1 "Carlton Cole"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_541644"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "David Di Michele"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541647"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Matthew Upson"
+:event/player1 "Ricardo Fuller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_541657"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Julien Faubert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541662"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Danny Higginbotham"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_541689"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1851"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "header"
+:event/player1 "Rory Delap"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_541690"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Valon Behrami"
+:event/player1 "Danny Pugh"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_541703"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "header"
+:event/player1 "James Collins"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_541711"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Danny Pugh"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_541714"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Carlton Cole"
+:event/player1 "Danny Higginbotham"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_541722"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Valon Behrami"
+:event/player1 "Danny Pugh"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_541860"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Luis Boa Morte"
+:event/subtype "serious_foul"
+:event/player1 "Seyi Olofinjana"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_541774"
+:event/minute 46
+:event/match_id "match_1851"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Seyi Olofinjana"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_541777"
+:event/minute 46
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Danny Pugh"
+:event/player1 "Valon Behrami"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_541790"
+:event/minute 47
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Glenn Whelan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_541886"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_1851"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Glenn Whelan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_541886"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_1851"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "distance"
+:event/player1 "Seyi Olofinjana"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_541889"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed_plus 5
+:event/elapsed 45
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_541828"
+:event/minute 50
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Rory Delap"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_541898"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541913"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "blocked_shot"
+:event/player1 "Carlton Cole"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_541916"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Scott Parker"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_541922"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1851"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player2 "Scott Parker"
+:event/subtype "shot"
+:event/player1 "Carlton Cole"
+:event/sortorder 6
+:event/team "home"
+:event/id "event_541928"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1851"}
+
+{:event/type "card"
+:event/elapsed 53
+:event/card_type "r"
+:event/subtype "violence"
+:event/player1 "Ricardo Fuller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_541951"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_1851"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "shot"
+:event/player1 "Carlton Cole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_541978"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_541991"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1851"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "header"
+:event/player1 "Ryan Shawcross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_541992"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Julien Faubert"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_542003"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Julien Faubert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_542029"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Luis Boa Morte"
+:event/player1 "Seyi Olofinjana"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_542048"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_1851"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "direct_freekick"
+:event/player1 "David Di Michele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_542061"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Vincent Pericard"
+:event/player1 "Julien Faubert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_542077"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Valon Behrami"
+:event/player1 "Glenn Whelan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_542088"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1851"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "distance"
+:event/player1 "Scott Parker"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_542090"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1851"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/subtype "stall_time"
+:event/player1 "Danny Higginbotham"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_542123"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "blocked_shot"
+:event/player1 "Julien Faubert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_542153"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_542164"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1851"}
+
+{:event/type "corner"
+:event/elapsed 69
+:event/subtype "short"
+:event/player1 "Jack Collison"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_542183"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_542190"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_1851"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "distance"
+:event/player1 "Scott Parker"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_542217"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_1851"}
+
+{:event/type "card"
+:event/elapsed 73
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Abdoulaye Faye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_542232"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_542241"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_1851"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_542241"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Julien Faubert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_542249"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "David Di Michele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_542255"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "blocked_shot"
+:event/player1 "Herita Ilunga"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_542277"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_542315"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Matthew Upson"
+:event/player1 "Vincent Pericard"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_542318"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "David Di Michele"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_542337"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Hayden Mullins"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_542366"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/subtype "hands"
+:event/player1 "Abdoulaye Faye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_542375"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "David Di Michele"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_542385"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_1851"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "David Di Michele"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_542385"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Hayden Mullins"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_542398"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Rory Delap"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_542405"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "blocked_shot"
+:event/player1 "Carlton Cole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_542407"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "deflected"
+:event/player1 "Carlton Cole"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_542415"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_1851"}
+
+{:event/type "goal"
+:event/elapsed 87
+:event/player2 "Carlton Cole"
+:event/subtype "shot"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_542433"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/subtype "hands"
+:event/player1 "Julien Faubert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_542455"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Glenn Whelan"
+:event/player1 "Valon Behrami"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_542486"
+:event/minute 91
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Julien Faubert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_542495"
+:event/minute 92
+:event/match_id "match_1851"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Richard Cresswell"
+:event/player1 "Matthew Upson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_542506"
+:event/minute 93
+:event/match_id "match_1851"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "deflected"
+:event/player1 "Rory Delap"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_542509"
+:event/minute 93
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Glenn Whelan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_542510"
+:event/minute 93
+:event/match_id "match_1851"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Glenn Whelan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_542510"
+:event/minute 93
+:event/match_id "match_1851"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Glenn Whelan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_542520"
+:event/minute 94
+:event/match_id "match_1851"}
+
+{:event/type "corner"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_542529"
+:event/minute 95
+:event/match_id "match_1851"}
+
+
+]
+

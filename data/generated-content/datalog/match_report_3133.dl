@@ -1,0 +1,840 @@
+
+;;# data
+[
+{:match/id "match_3133"
+:match/league "England Premier League"
+:match/hometeam "Manchester City"
+:match/awayteam "West Bromwich Albion"
+:match/score "4:0"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "shotoff"
+:event/elapsed 2
+:event/subtype "shot"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2053761"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3133"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "blocked_shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2053791"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Nigel de Jong"
+:event/player1 "Paul Scharner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2053809"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3133"}
+
+{:event/type "goal"
+:event/elapsed 6
+:event/player2 "Samir Nasri"
+:event/subtype "distance"
+:event/player1 "Sergio Aguero"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_2053821"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_3133"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2053906"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Gareth Barry"
+:event/player1 "Shane Long"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2053970"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Nigel de Jong"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2054023"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3133"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "shot"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2054042"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2054097"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3133"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2054097"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3133"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "blocked_shot"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2054123"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3133"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "blocked_shot"
+:event/player1 "Samir Nasri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2054141"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2054164"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3133"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "deflected"
+:event/player1 "Keith Andrews"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2054180"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3133"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "big chance shot"
+:event/player1 "Micah Richards"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2054201"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2054203"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_3133"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2054203"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Keith Andrews"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2054237"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Gael Clichy"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2054318"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2054341"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_3133"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2054341"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Shane Long"
+:event/subtype "pushing"
+:event/player1 "Vincent Kompany"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2054350"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2054373"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3133"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2054373"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2054414"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2054453"
+:event/minute 46
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "David Silva"
+:event/player1 "Graham Dorrans"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2054652"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2054717"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3133"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "volley"
+:event/player1 "Samir Nasri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2054721"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Carlos Tevez"
+:event/player1 "Youssuf Mulumbu"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2054736"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Joleon Lescott"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2054752"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3133"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "blocked_shot"
+:event/player1 "David Silva"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2054761"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3133"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "distance"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2054772"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3133"}
+
+{:event/type "goal"
+:event/elapsed 54
+:event/player2 "Samir Nasri"
+:event/subtype "shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2054791"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_3133"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "shot"
+:event/player1 "Samir Nasri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2054803"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Youssuf Mulumbu"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2054821"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3133"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "blocked_shot"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2054823"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2054828"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3133"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2054828"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Graham Dorrans"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2054850"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Micah Richards"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2054859"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2054882"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3133"}
+
+{:event/type "shoton"
+:event/elapsed 60
+:event/subtype "blocked_shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2054884"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2054895"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3133"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2054895"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3133"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "volley"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2054896"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Gael Clichy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2054897"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3133"}
+
+{:event/type "goal"
+:event/elapsed 61
+:event/player2 "Sergio Aguero"
+:event/subtype "shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_2054907"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3133"}
+
+{:event/type "goal"
+:event/elapsed 64
+:event/player2 "Sergio Aguero"
+:event/subtype "shot"
+:event/player1 "David Silva"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_2054953"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2054996"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3133"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2054996"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Paul Scharner"
+:event/subtype "pushing"
+:event/player1 "Micah Richards"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2054999"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2055048"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3133"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "header"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2055050"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3133"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "blocked_shot"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2055066"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2055084"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Marc-Antoine Fortune"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2055099"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2055112"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3133"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2055112"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3133"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "header"
+:event/player1 "Paul Scharner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2055113"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Micah Richards"
+:event/player1 "Marc-Antoine Fortune"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2055124"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3133"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Marc-Antoine Fortune"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2055162"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Joleon Lescott"
+:event/player1 "Paul Scharner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2055165"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Samir Nasri"
+:event/subtype "from_behind"
+:event/player1 "Keith Andrews"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2055176"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "unknown"
+:event/player1 "Micah Richards"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2055258"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_3133"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Marc-Antoine Fortune"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2055284"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3133"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Marc-Antoine Fortune"
+:event/player1 "Gareth Barry"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2055291"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3133"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2055358"
+:event/minute 93
+:event/match_id "match_3133"}
+
+
+]
+

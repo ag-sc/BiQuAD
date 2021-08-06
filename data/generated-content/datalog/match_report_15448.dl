@@ -1,0 +1,937 @@
+
+;;# data
+[
+{:match/id "match_15448"
+:match/league "Netherlands Eredivisie"
+:match/hometeam "PSV"
+:match/awayteam "FC Utrecht"
+:match/score "4:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "shoton"
+:event/elapsed 1
+:event/subtype "blocked_shot"
+:event/player1 "Nacer Barazite"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5010600"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_15448"}
+
+{:event/type "corner"
+:event/elapsed 2
+:event/subtype "cross_left"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5010603"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_15448"}
+
+{:event/type "shotoff"
+:event/elapsed 2
+:event/subtype "crossbar"
+:event/player1 "Jeffrey Bruma"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5010605"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5010606"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_15448"}
+
+{:event/type "goal"
+:event/elapsed 2
+:event/player2 "Andres Guardado"
+:event/subtype "shot"
+:event/player1 "Hector Moreno"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_5010607"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Jurgen Locadia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5010638"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Sean Klaiber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5010644"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5010645"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_15448"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "blocked_shot"
+:event/player1 "Sebastien Haller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5010647"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Adam Maher"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5010649"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Sean Klaiber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5010658"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_15448"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "deflected"
+:event/player1 "Sebastien Haller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5010659"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_15448"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross_right"
+:event/player1 "Yassine Ayoub"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5010662"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Andres Guardado"
+:event/subtype "trip"
+:event/player1 "Yassine Ayoub"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5010670"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Santiago Arias"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5010696"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Bart Ramselaar"
+:event/subtype "trip"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5010707"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_15448"}
+
+{:event/type "card"
+:event/elapsed 17
+:event/card_type "y"
+:event/subtype "advantage"
+:event/player1 "Adam Maher"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5010709"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Jurgen Locadia"
+:event/subtype "trip"
+:event/player1 "Marc van de Maarel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5010713"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Luciano Narsingh"
+:event/subtype "trip"
+:event/player1 "Kevin Conboy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5010723"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5010728"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_15448"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "header"
+:event/player1 "Luuk de Jong"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5010730"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Luuk de Jong"
+:event/subtype "pull"
+:event/player1 "Timo Letschert"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5010739"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Santiago Arias"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5010746"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_15448"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "crossbar"
+:event/player1 "Luuk de Jong"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5010748"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_15448"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "blocked_shot"
+:event/player1 "Sean Klaiber"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5010764"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Kevin Conboy"
+:event/subtype "trip"
+:event/player1 "Luciano Narsingh"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5010765"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_15448"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "direct_freekick"
+:event/player1 "Timo Letschert"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5010770"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_15448"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "shot"
+:event/player1 "Jurgen Locadia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5010773"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_15448"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross_left"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5010775"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_15448"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "header"
+:event/player1 "Hector Moreno"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5010776"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_15448"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "shot"
+:event/player1 "Luciano Narsingh"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5010791"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Andres Guardado"
+:event/subtype "trip"
+:event/player1 "Yassine Ayoub"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5010812"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Adam Maher"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5010831"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_15448"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "Jurgen Locadia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5010843"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Joshua Brenet"
+:event/subtype "trip"
+:event/player1 "Sebastien Haller"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5010854"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Nacer Barazite"
+:event/subtype "trip"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5010875"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Bart Ramselaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5010881"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_15448"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Sebastien Haller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5010897"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Jurgen Locadia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5011014"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_15448"}
+
+{:event/type "shoton"
+:event/elapsed 46
+:event/subtype "shot"
+:event/player1 "Luuk de Jong"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5011017"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_15448"}
+
+{:event/type "corner"
+:event/elapsed 46
+:event/subtype "cross_right"
+:event/player1 "Davy Proepper"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5011022"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Jurgen Locadia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5011041"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_15448"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "crossbar"
+:event/player1 "Nacer Barazite"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5011058"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_15448"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "shot"
+:event/player1 "Rico Strieder"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5011063"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_15448"}
+
+{:event/type "goal"
+:event/elapsed 49
+:event/subtype "shot"
+:event/player1 "Bart Ramselaar"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_5011064"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_15448"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Sebastien Haller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5011069"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_15448"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "blocked_shot"
+:event/player1 "Patrick Joosten"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5011083"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_15448"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Bart Ramselaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5011092"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Santiago Arias"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5011125"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Rico Strieder"
+:event/subtype "trip"
+:event/player1 "Davy Proepper"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5011141"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Kevin Conboy"
+:event/subtype "serious_foul"
+:event/player1 "Santiago Arias"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5011149"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_15448"}
+
+{:event/type "card"
+:event/elapsed 57
+:event/card_type "y"
+:event/player1 "Santiago Arias"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5011152"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_15448"}
+
+{:event/type "goal"
+:event/elapsed 58
+:event/player2 "Gaston Pereiro"
+:event/subtype "shot"
+:event/player1 "Santiago Arias"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5011162"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_15448"}
+
+{:event/type "card"
+:event/elapsed 58
+:event/card_type "y"
+:event/player1 "Kevin Conboy"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5011219"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Kevin Conboy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5011182"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5011198"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Joshua Brenet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5011231"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/subtype "penalty"
+:event/player1 "Marc van de Maarel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5011232"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_15448"}
+
+{:event/type "goal"
+:event/elapsed 64
+:event/subtype "saved"
+:event/player1 "Luuk de Jong"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5011239"
+:event/event_type "goal"
+:event/goal_type "npm"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Marc van de Maarel"
+:event/subtype "trip"
+:event/player1 "Jurgen Locadia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5011264"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Santiago Arias"
+:event/subtype "trip"
+:event/player1 "Patrick Joosten"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5011283"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Rico Strieder"
+:event/subtype "trip"
+:event/player1 "Davy Proepper"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5011305"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_15448"}
+
+{:event/type "goal"
+:event/elapsed 72
+:event/player2 "Jurgen Locadia"
+:event/subtype "shot"
+:event/player1 "Luuk de Jong"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5011321"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5011368"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Sean Klaiber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5011374"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Santiago Arias"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5011382"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Sean Klaiber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5011391"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Kevin Conboy"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5011394"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Andres Guardado"
+:event/subtype "trip"
+:event/player1 "Kevin Conboy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5011437"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5011442"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_15448"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Nacer Barazite"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5011453"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_15448"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Davy Proepper"
+:event/subtype "trip"
+:event/player1 "Rico Strieder"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5011469"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_15448"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "crossbar"
+:event/player1 "Gaston Pereiro"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5011477"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_15448"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Ramon Leeuwin"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5011517"
+:event/minute 91
+:event/match_id "match_15448"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Santiago Arias"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5011534"
+:event/minute 93
+:event/match_id "match_15448"}
+
+
+]
+

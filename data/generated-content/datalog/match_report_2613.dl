@@ -1,0 +1,830 @@
+
+;;# data
+[
+{:match/id "match_2613"
+:match/league "England Premier League"
+:match/hometeam "Manchester City"
+:match/awayteam "Aston Villa"
+:match/score "4:0"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Mario Balotelli"
+:event/subtype "penalty"
+:event/player1 "Eric Lichaj"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1344057"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2613"}
+
+{:event/type "goal"
+:event/elapsed 8
+:event/player1 "Mario Balotelli"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1344062"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Micah Richards"
+:event/player1 "Stephen Warnock"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1344076"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2613"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "blocked_shot"
+:event/player1 "Yaya Toure"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1344090"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344100"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344100"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2613"}
+
+{:event/type "goal"
+:event/elapsed 13
+:event/player2 "Adam Johnson"
+:event/subtype "header"
+:event/player1 "Joleon Lescott"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1344101"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Gabriel Agbonlahor"
+:event/player1 "Vincent Kompany"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1344110"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Stiliyan Petrov"
+:event/player1 "Patrick Vieira"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1344117"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2613"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "direct_freekick"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1344123"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Adam Johnson"
+:event/subtype "serious_foul"
+:event/player1 "Stephen Warnock"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1344155"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2613"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Stephen Warnock"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1344156"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Stephen Warnock"
+:event/subtype "serious_foul"
+:event/player1 "Micah Richards"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1344187"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Vincent Kompany"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1344199"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2613"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "shot"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1344250"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2613"}
+
+{:event/type "goal"
+:event/elapsed 27
+:event/player2 "David Silva"
+:event/subtype "shot"
+:event/player1 "Mario Balotelli"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_1344246"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Yaya Toure"
+:event/subtype "from_behind"
+:event/player1 "Stiliyan Petrov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1344285"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1344289"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player1 "Nigel Reo-Coker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1344294"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2613"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "blocked_shot"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1344303"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344306"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344306"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344319"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344319"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1344320"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player1 "Mario Balotelli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1344378"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2613"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1344385"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2613"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "shot"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1344419"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "short"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1344421"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2613"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "big chance shot"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1344422"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2613"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "bad shot"
+:event/player1 "Micah Richards"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1344458"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1344529"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2613"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "direct_freekick"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1344534"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344601"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344601"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2613"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "shot"
+:event/player1 "Patrick Vieira"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1344604"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344607"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 54
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344607"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Adam Johnson"
+:event/subtype "penalty"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1344621"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2613"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/player1 "Mario Balotelli"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1344624"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2613"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Nathan Delfouneso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1344648"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1344706"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2613"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "header"
+:event/player1 "Nathan Delfouneso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1344707"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344761"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344761"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_2613"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "big chance volley"
+:event/player1 "Jo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1344764"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Gabriel Agbonlahor"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1344769"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1344775"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2613"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Eric Lichaj"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1344777"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2613"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "bad shot"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1344794"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2613"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "blocked_shot"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1344813"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344815"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344815"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "James Milner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1344837"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "short"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1344884"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2613"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Fabian Delph"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1344888"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1344889"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1344889"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1344893"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1344893"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1344908"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1344908"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344930"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1344930"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2613"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1344947"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2613"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "direct_freekick"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1344954"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2613"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Eric Lichaj"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1344975"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2613"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1344979"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2613"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1344979"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2613"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "James Milner"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1345010"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2613"}
+
+
+]
+

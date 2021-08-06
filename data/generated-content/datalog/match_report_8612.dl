@@ -1,0 +1,883 @@
+
+;;# data
+[
+{:match/id "match_8612"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "VfB Stuttgart"
+:match/awayteam "1. FC Kaiserslautern"
+:match/score "2:4"
+:match/hometeam_goals "2"
+:match/awayteam_goals "4"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Cristian Molinaro"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1494829"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Florian Dick"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1494860"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8612"}
+
+{:event/type "card"
+:event/elapsed 4
+:event/card_type "y"
+:event/player1 "Florian Dick"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1495332"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Shinji Okazaki"
+:event/player1 "Florian Dick"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1495335"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Leon Jessen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1494862"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Shinji Okazaki"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1494869"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player1 "Cristian Molinaro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1494899"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Christian Tiffert"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1494926"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_8612"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Christian Tiffert"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1494926"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Martin Harnik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1494989"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_8612"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "blocked_shot"
+:event/player1 "Shinji Okazaki"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1494991"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Oliver Kirch"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1495036"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8612"}
+
+{:event/type "goal"
+:event/elapsed 17
+:event/player2 "Oliver Kirch"
+:event/subtype "header"
+:event/player1 "Srdjan Lakic"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1495034"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1495049"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player1 "Christian Tiffert"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1495050"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Khalid Boulahrouz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1495053"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8612"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Khalid Boulahrouz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1495053"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Zdravko Kuzmanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1495054"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_8612"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Zdravko Kuzmanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1495054"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Zdravko Kuzmanovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1495056"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_8612"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Zdravko Kuzmanovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1495056"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1495057"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Cristian Molinaro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1495065"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Cristian Molinaro"
+:event/subtype "penalty"
+:event/player1 "Oliver Kirch"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1495066"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_8612"}
+
+{:event/type "goal"
+:event/elapsed 26
+:event/player1 "Zdravko Kuzmanovic"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1495067"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Christian Tiffert"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1495071"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8612"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Christian Tiffert"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1495071"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player1 "Christian Tiffert"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1495080"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1495081"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Srdjan Lakic"
+:event/subtype "obstruction"
+:event/player1 "Christian Gentner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1495086"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Pavel Pogrebnyak"
+:event/player1 "Rodnei"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1495094"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Cristian Molinaro"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1495107"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8612"}
+
+{:event/type "goal"
+:event/elapsed 39
+:event/player2 "Cristian Molinaro"
+:event/subtype "shot"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_1495104"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Adam Hlousek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1495152"
+:event/minute 46
+:event/match_id "match_8612"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Adam Hlousek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1495152"
+:event/minute 46
+:event/match_id "match_8612"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Leon Jessen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1495155"
+:event/minute 46
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1495254"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Pavel Pogrebnyak"
+:event/player1 "Athanasios Petsos"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1495261"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8612"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Shinji Okazaki"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1495262"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Leon Jessen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1495283"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Srdjan Lakic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1495308"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8612"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "big chance volley"
+:event/player1 "Stiven Rivic"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1495325"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1495340"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8612"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "distance"
+:event/player1 "Christian Tiffert"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1495343"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Pavel Pogrebnyak"
+:event/subtype "from_behind"
+:event/player1 "Adam Hlousek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1495348"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8612"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "Shinji Okazaki"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1495354"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Stiven Rivic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1495375"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8612"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "big chance shot"
+:event/player1 "Srdjan Lakic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1495376"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8612"}
+
+{:event/type "goal"
+:event/elapsed 68
+:event/subtype "volley"
+:event/player1 "Erwin Hoffer"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_1495395"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/subtype "pushing"
+:event/player1 "Khalid Boulahrouz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1495398"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Zdravko Kuzmanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1495399"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8612"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Zdravko Kuzmanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1495399"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8612"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "header"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1495400"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Shinji Okazaki"
+:event/subtype "from_behind"
+:event/player1 "Jan Moravek"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1495405"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Rodnei"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1495406"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Rodnei"
+:event/subtype "from_behind"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1495424"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8612"}
+
+{:event/type "card"
+:event/elapsed 76
+:event/card_type "y"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1495425"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Pavel Pogrebnyak"
+:event/player1 "Martin Amedick"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1495427"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_8612"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "volley"
+:event/player1 "Erwin Hoffer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1495431"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Christian Tiffert"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1495433"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8612"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Christian Tiffert"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1495433"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8612"}
+
+{:event/type "goal"
+:event/elapsed 79
+:event/player2 "Christian Tiffert"
+:event/subtype "header"
+:event/player1 "Srdjan Lakic"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1495434"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1495435"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1495446"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_8612"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Timo Gebhart"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1495453"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1495463"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_8612"}
+
+{:event/type "goal"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Stiven Rivic"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_1495467"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Christian Traesch"
+:event/player1 "Erwin Hoffer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1495471"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8612"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/player1 "Erwin Hoffer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1495473"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8612"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "header"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1495478"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8612"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Stiven Rivic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1495486"
+:event/minute 91
+:event/match_id "match_8612"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Srdjan Lakic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1495487"
+:event/minute 91
+:event/match_id "match_8612"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1495490"
+:event/minute 92
+:event/match_id "match_8612"}
+
+
+]
+

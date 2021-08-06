@@ -1,0 +1,674 @@
+
+;;# data
+[
+{:match/id "match_9911"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Hannover 96"
+:match/awayteam "1. FC Köln"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Miiko Albornoz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3768552"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3768565"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_9911"}
+
+{:event/type "goal"
+:event/elapsed 6
+:event/player2 "Jimmy Briand"
+:event/subtype "shot"
+:event/player1 "Joselu"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_3768625"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Daniel Halfar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3768678"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "shot"
+:event/player1 "Miiko Albornoz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3768750"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Ceyhun Gulselam"
+:event/subtype "from_behind"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3768767"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Marcel Risse"
+:event/subtype "from_behind"
+:event/player1 "Leonardo Bittencourt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3768856"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "distance"
+:event/player1 "Marcel Risse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3768900"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Joselu"
+:event/subtype "serious_foul"
+:event/player1 "Dominic Maroh"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3768988"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Joselu"
+:event/subtype "from_behind"
+:event/player1 "Dominic Maroh"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3769014"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "shot"
+:event/player1 "Marcelo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3769037"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3769081"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Hiroshi Kiyotake"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3769181"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Leonardo Bittencourt"
+:event/subtype "serious_foul"
+:event/player1 "Miso Brecko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3769236"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Daniel Halfar"
+:event/player1 "Joselu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3769272"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "shot"
+:event/player1 "Joselu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3769299"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Slawomir Peszko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3769347"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "distance"
+:event/player1 "Ceyhun Gulselam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3769365"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "shot"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3769496"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "Daniel Halfar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3769544"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_9911"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross_right"
+:event/player1 "Daniel Halfar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3769553"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3769573"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Kevin Vogt"
+:event/subtype "pushing"
+:event/player1 "Joselu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3769589"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_9911"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross_right"
+:event/player1 "Hiroshi Kiyotake"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3769655"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "shot"
+:event/player1 "Ceyhun Gulselam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3769716"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Jonas Hector"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3769756"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9911"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3769773"
+:event/minute 46
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/subtype "hands"
+:event/player1 "Hiroshi Kiyotake"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3770240"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_9911"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross_right"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3770264"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Hiroki Sakai"
+:event/subtype "from_behind"
+:event/player1 "Slawomir Peszko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3770340"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_9911"}
+
+{:event/type "card"
+:event/elapsed 50
+:event/card_type "y"
+:event/player1 "Slawomir Peszko"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3770350"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Hiroshi Kiyotake"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3770360"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_9911"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross_left"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3770377"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Jonas Hector"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3770430"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "shot"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3770574"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Leonardo Bittencourt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3770714"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Jonas Hector"
+:event/subtype "from_behind"
+:event/player1 "Kenan Karaman"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3770940"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3771068"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "big chance shot"
+:event/player1 "Jonas Hector"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3771120"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_9911"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Simon Zoller"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3771283"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_9911"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "distance"
+:event/player1 "Anthony Ujah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3771355"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Ceyhun Gulselam"
+:event/subtype "pull"
+:event/player1 "Anthony Ujah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3771397"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Leonardo Bittencourt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3771415"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "header"
+:event/player1 "Felipe"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3771422"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Daniel Halfar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3771503"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_9911"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross_left"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3771645"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_9911"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "header"
+:event/player1 "Kevin Vogt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3771651"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Artur Sobiech"
+:event/subtype "dangerous_play"
+:event/player1 "Dominic Maroh"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3771671"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9911"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3771710"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9911"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Felipe"
+:event/subtype "dangerous_play"
+:event/player1 "Anthony Ujah"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3771737"
+:event/minute 91
+:event/match_id "match_9911"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Anthony Ujah"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3771742"
+:event/minute 91
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3771790"
+:event/minute 93
+:event/match_id "match_9911"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Daniel Halfar"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3771827"
+:event/minute 94
+:event/match_id "match_9911"}
+
+{:event/type "cross"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Anthony Ujah"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3771857"
+:event/minute 96
+:event/match_id "match_9911"}
+
+
+]
+

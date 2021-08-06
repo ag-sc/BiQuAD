@@ -1,0 +1,814 @@
+
+;;# data
+[
+{:match/id "match_4425"
+:match/league "England Premier League"
+:match/hometeam "Norwich City"
+:match/awayteam "Swansea City"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "distance"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5002857"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5002885"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4425"}
+
+{:event/type "shotoff"
+:event/elapsed 2
+:event/subtype "distance"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5002896"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Sung-Yueng Ki"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5003037"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Jefferson Montero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5003058"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4425"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross_left"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5003070"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Robert Brady"
+:event/player1 "Kyle Naughton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5003096"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003105"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4425"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "header"
+:event/player1 "Cameron Jerome"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5003111"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4425"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "distance"
+:event/player1 "Jonathan Howson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5003201"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Jefferson Montero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5003244"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003264"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Kyle Naughton"
+:event/player1 "Cameron Jerome"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5003338"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Martin Olsson"
+:event/player1 "Kyle Naughton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5003393"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Jonathan Howson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003406"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4425"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross_right"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5003438"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Neil Taylor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5003566"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Neil Taylor"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5003579"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4425"}
+
+{:event/type "shotoff"
+:event/elapsed 31
+:event/subtype "shot"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5003582"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Sung-Yueng Ki"
+:event/subtype "pushing"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5003618"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Martin Olsson"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5003653"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Neil Taylor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5003728"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003750"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4425"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross_left"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5003759"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4425"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "blocked_shot"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5003841"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5003857"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Jonathan Howson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5004358"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4425"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "header"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5004361"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Sung-Yueng Ki"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5004425"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5004440"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5004488"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Andre Ayew"
+:event/subtype "trip"
+:event/player1 "Sebastien Bassong"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5004547"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/subtype "hands"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5004799"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5004853"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Wayne Routledge"
+:event/subtype "pushing"
+:event/player1 "Martin Olsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5004874"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4425"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "crossbar"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5004898"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4425"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5004929"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Dieumerci Mbokani"
+:event/subtype "pushing"
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5004952"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5004959"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5004970"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4425"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Gary O'Neil"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5004979"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4425"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Robert Brady"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5004988"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4425"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross_right"
+:event/player1 "Robert Brady"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5004996"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4425"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/player2 "Dieumerci Mbokani"
+:event/subtype "header"
+:event/player1 "Jonathan Howson"
+:event/sortorder 7
+:event/team "home"
+:event/id "event_5004998"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Wayne Routledge"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5005029"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4425"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross_left"
+:event/player1 "Jonathan Howson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5005094"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4425"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "distance"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5005110"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4425"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross_right"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5005122"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4425"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "header"
+:event/player1 "Sebastien Bassong"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5005124"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Wayne Routledge"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5005152"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Dieumerci Mbokani"
+:event/player1 "Leon Britton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5005196"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Sung-Yueng Ki"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5005220"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4425"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "shot"
+:event/player1 "Wayne Routledge"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5005241"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5005264"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4425"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "header"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5005268"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4425"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5005298"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Dieumerci Mbokani"
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5005315"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5005335"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Andre Wisdom"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5005348"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Leon Britton"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5005389"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Robert Brady"
+:event/subtype "dangerous_play"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5005447"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4425"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Wayne Routledge"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5005498"
+:event/minute 91
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Kyle Naughton"
+:event/player1 "Dieumerci Mbokani"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5005504"
+:event/minute 92
+:event/match_id "match_4425"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Wayne Routledge"
+:event/sortorder 10
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5005540"
+:event/minute 93
+:event/match_id "match_4425"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/player2 "Sung-Yueng Ki"
+:event/subtype "trip"
+:event/player1 "Gary O'Neil"
+:event/sortorder 15
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5005575"
+:event/minute 96
+:event/match_id "match_4425"}
+
+{:event/type "card"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Gary O'Neil"
+:event/sortorder 16
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5005577"
+:event/minute 96
+:event/match_id "match_4425"}
+
+
+]
+

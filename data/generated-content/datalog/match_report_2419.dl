@@ -1,0 +1,936 @@
+
+;;# data
+[
+{:match/id "match_2419"
+:match/league "England Premier League"
+:match/hometeam "Wolverhampton Wanderers"
+:match/awayteam "Sunderland"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Karl Henry"
+:event/subtype "shirt_pull"
+:event/player1 "Lorik Cana"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1081532"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2419"}
+
+{:event/type "shoton"
+:event/elapsed 2
+:event/subtype "shot"
+:event/player1 "Darren Bent"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1081549"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Steed Malbranque"
+:event/player1 "Ronald Zubar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1081580"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2419"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "distance"
+:event/player1 "David Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1081597"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2419"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1081630"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_2419"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1081630"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_2419"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "shot"
+:event/player1 "Sylvan Ebanks-Blake"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1081686"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2419"}
+
+{:event/type "goal"
+:event/elapsed 8
+:event/player2 "Fraizer Campbell"
+:event/subtype "deflected"
+:event/player1 "Kenwyne Jones"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1081663"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Matt Jarvis"
+:event/subtype "penalty"
+:event/player1 "Alan Hutton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1081700"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2419"}
+
+{:event/type "goal"
+:event/elapsed 10
+:event/player1 "Kevin Doyle"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1081704"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Kevin Doyle"
+:event/player1 "Michael Turner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1081718"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2419"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "indirect freekick"
+:event/player1 "Adlene Guedioura"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1081727"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1081745"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Karl Henry"
+:event/player1 "Jordan Henderson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1081758"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Jordan Henderson"
+:event/player1 "David Jones"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1081763"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2419"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1081771"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2419"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "post"
+:event/player1 "Steed Malbranque"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1081774"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Fraizer Campbell"
+:event/player1 "Kevin Doyle"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1081784"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Sylvan Ebanks-Blake"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1081806"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2419"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "shot"
+:event/player1 "Jordan Henderson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1081839"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Fraizer Campbell"
+:event/subtype "serious_foul"
+:event/player1 "Matt Jarvis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1081906"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2419"}
+
+{:event/type "card"
+:event/elapsed 22
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Matt Jarvis"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1081911"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Adlene Guedioura"
+:event/subtype "from_behind"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1081938"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2419"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "shot"
+:event/player1 "Matt Jarvis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1081973"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2419"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1081979"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Lorik Cana"
+:event/player1 "David Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1081993"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2419"}
+
+{:event/type "shotoff"
+:event/elapsed 31
+:event/subtype "shot"
+:event/player1 "Kevin Doyle"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1082082"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player1 "Karl Henry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1082118"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/subtype "hands"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1082134"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2419"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "distance"
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1082153"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Steed Malbranque"
+:event/player1 "Adlene Guedioura"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1082172"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2419"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "blocked_shot"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1082188"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Kevin Doyle"
+:event/player1 "Steed Malbranque"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1082193"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Kevin Doyle"
+:event/subtype "from_behind"
+:event/player1 "Michael Turner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1082229"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2419"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/player1 "Michael Turner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1082230"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2419"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "David Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1082248"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2419"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "David Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1082248"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Kenwyne Jones"
+:event/player1 "Jody Craddock"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1082269"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2419"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Darren Bent"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1082336"
+:event/minute 46
+:event/match_id "match_2419"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "header"
+:event/player1 "Kenwyne Jones"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1082428"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2419"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Fraizer Campbell"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1082387"
+:event/minute 48
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Adlene Guedioura"
+:event/player1 "Steed Malbranque"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1082464"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2419"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1082477"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2419"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "distance"
+:event/player1 "Steed Malbranque"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1082514"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2419"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1082534"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2419"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "header"
+:event/player1 "Kenwyne Jones"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1082537"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Kevin Doyle"
+:event/player1 "Michael Turner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1082572"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Boudewijn Zenden"
+:event/player1 "Christophe Berra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1082606"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2419"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "direct_freekick"
+:event/player1 "Darren Bent"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1082613"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Sylvan Ebanks-Blake"
+:event/player1 "Lorik Cana"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1082645"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2419"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "blocked_shot"
+:event/player1 "David Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1082652"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2419"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1082672"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2419"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1082684"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2419"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1082684"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2419"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1082722"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_2419"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1082722"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "David Edwards"
+:event/player1 "Steed Malbranque"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1082803"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Steed Malbranque"
+:event/player1 "Adlene Guedioura"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1082817"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Adlene Guedioura"
+:event/player1 "Steed Malbranque"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1082845"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player1 "Fraizer Campbell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1082869"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2419"}
+
+{:event/type "goal"
+:event/elapsed 78
+:event/player2 "Ronald Zubar"
+:event/subtype "distance"
+:event/player1 "Adlene Guedioura"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1082946"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Matt Jarvis"
+:event/subtype "from_behind"
+:event/player1 "Michael Turner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1083015"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2419"}
+
+{:event/type "card"
+:event/elapsed 83
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Michael Turner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1083020"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2419"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Adlene Guedioura"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1083033"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2419"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "header"
+:event/player1 "Chris Iwelumo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1083035"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Ronald Zubar"
+:event/subtype "serious_foul"
+:event/player1 "Jack Colback"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1083054"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2419"}
+
+{:event/type "card"
+:event/elapsed 85
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Jack Colback"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1083056"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2419"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Chris Iwelumo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1083076"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player1 "Benjani Mwaruwari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1083104"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2419"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Kevin Foley"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1083136"
+:event/minute 91
+:event/match_id "match_2419"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Kevin Foley"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1083136"
+:event/minute 91
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Chris Iwelumo"
+:event/player1 "Alan Hutton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1083172"
+:event/minute 92
+:event/match_id "match_2419"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Kevin Foley"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1083176"
+:event/minute 93
+:event/match_id "match_2419"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Christophe Berra"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1083181"
+:event/minute 93
+:event/match_id "match_2419"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Ronald Zubar"
+:event/subtype "serious_foul"
+:event/player1 "Jack Colback"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1083184"
+:event/minute 93
+:event/match_id "match_2419"}
+
+{:event/type "card"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Jack Colback"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1083190"
+:event/minute 94
+:event/match_id "match_2419"}
+
+
+]
+

@@ -1,0 +1,1301 @@
+
+;;# data
+[
+{:match/id "match_13023"
+:match/league "Italy Serie A"
+:match/hometeam "Napoli"
+:match/awayteam "Sassuolo"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Nicola Sansone"
+:event/subtype "penalty"
+:event/player1 "Raul Albiol"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5184997"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_13023"}
+
+{:event/type "goal"
+:event/elapsed 3
+:event/player1 "Diego Falcinelli"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_5185008"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_13023"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "short_left"
+:event/player1 "Nicola Sansone"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5185017"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Alfred Duncan"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185018"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185030"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185039"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Allan"
+:event/player1 "Diego Falcinelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5185046"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Jorginho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185049"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Gonzalo Higuain"
+:event/subtype "pull"
+:event/player1 "Nicola Sansone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5185056"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Lorenzo Insigne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185062"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Sime Vrsaljko"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185071"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Lorenzo Insigne"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185075"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_13023"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "shot"
+:event/player1 "Gonzalo Higuain"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5185077"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Faouzi Ghoulam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185095"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Faouzi Ghoulam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185109"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_13023"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "distance"
+:event/player1 "Lorenzo Insigne"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5185117"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Jorginho"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185127"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_13023"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "short_right"
+:event/player1 "Jorginho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5185138"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Sime Vrsaljko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185164"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_13023"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "distance"
+:event/player1 "Faouzi Ghoulam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5185191"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Raul Albiol"
+:event/player1 "Diego Falcinelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5185243"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_13023"}
+
+{:event/type "goal"
+:event/elapsed 19
+:event/player2 "Lorenzo Insigne"
+:event/subtype "header"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5185266"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Jose Maria Callejon"
+:event/subtype "trip"
+:event/player1 "Nicola Sansone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5185278"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_13023"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "distance"
+:event/player1 "Lorenzo Insigne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5185302"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Diego Falcinelli"
+:event/subtype "trip"
+:event/player1 "Raul Albiol"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185329"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Faouzi Ghoulam"
+:event/subtype "trip"
+:event/player1 "Diego Falcinelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5185350"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Sime Vrsaljko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185374"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_13023"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "blocked_shot"
+:event/player1 "Nicola Sansone"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5185381"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Nicola Sansone"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185383"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_13023"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "distance"
+:event/player1 "Alfred Duncan"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5185390"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_13023"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "distance"
+:event/player1 "Nicola Sansone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5185407"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Federico Peluso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185430"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_13023"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "header"
+:event/player1 "Diego Falcinelli"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5185432"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_13023"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "deflected"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5185465"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_13023"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "short_left"
+:event/player1 "Jorginho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5185475"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Marek Hamsik"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185482"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_13023"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "distance"
+:event/player1 "Matteo Politano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5185492"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Allan"
+:event/player1 "Alfred Duncan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5185510"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Jorginho"
+:event/subtype "pushing"
+:event/player1 "Alfred Duncan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5185526"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Diego Falcinelli"
+:event/player1 "Vlad Chiriches"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185560"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Sime Vrsaljko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185569"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Sime Vrsaljko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185598"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Lorenzo Insigne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185607"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_13023"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Lorenzo Insigne"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5185618"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Nicola Sansone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185633"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Alfred Duncan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185639"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_13023"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross_left"
+:event/player1 "Alfred Duncan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5185649"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Faouzi Ghoulam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185686"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Jorginho"
+:event/player1 "Francesco Magnanelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5185720"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_13023"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross_right"
+:event/player1 "Jorginho"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5185728"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185755"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_13023"}
+
+{:event/type "goal"
+:event/elapsed 42
+:event/player2 "Marek Hamsik"
+:event/subtype "shot"
+:event/player1 "Gonzalo Higuain"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5185757"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185786"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185791"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Alfred Duncan"
+:event/player1 "Jorginho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185799"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Matteo Politano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185806"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Jose Maria Callejon"
+:event/subtype "trip"
+:event/player1 "Federico Peluso"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5186069"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_13023"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "blocked_shot"
+:event/player1 "Lorenzo Insigne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5186080"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_13023"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Gonzalo Higuain"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5186085"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_13023"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Gonzalo Higuain"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5186111"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Diego Falcinelli"
+:event/subtype "dangerous_play"
+:event/player1 "Vlad Chiriches"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5186118"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_13023"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "deflected"
+:event/player1 "Matteo Politano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5186122"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_13023"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "short_right"
+:event/player1 "Sime Vrsaljko"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5186125"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Matteo Politano"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5186126"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Federico Peluso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5186136"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Lorenzo Pellegrini"
+:event/subtype "trip"
+:event/player1 "Gonzalo Higuain"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5186146"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Allan"
+:event/subtype "trip"
+:event/player1 "Francesco Magnanelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5186151"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_13023"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "volley"
+:event/player1 "Lorenzo Insigne"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5186157"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Lorenzo Insigne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5186174"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Elseid Hysaj"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5186179"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_13023"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "blocked_shot"
+:event/player1 "Gonzalo Higuain"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5186180"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Lorenzo Insigne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5186187"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Sime Vrsaljko"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5186197"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_13023"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Nicola Sansone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5186203"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Elseid Hysaj"
+:event/subtype "dangerous_play"
+:event/player1 "Alfred Duncan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5186208"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Matteo Politano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5186213"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Matteo Politano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5186219"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5186257"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_13023"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "blocked_shot"
+:event/player1 "Gonzalo Higuain"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5186258"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Lorenzo Insigne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5186264"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_13023"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "blocked_shot"
+:event/player1 "Antonio Floro Flores"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5186279"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Jose Maria Callejon"
+:event/subtype "dangerous_play"
+:event/player1 "Francesco Magnanelli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5186280"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_13023"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "shot"
+:event/player1 "Lorenzo Insigne"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5186288"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Raul Albiol"
+:event/player1 "Nicola Sansone"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5186294"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Francesco Magnanelli"
+:event/subtype "pushing"
+:event/player1 "Jorginho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5186296"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Antonio Floro Flores"
+:event/subtype "trip"
+:event/player1 "Allan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5186305"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Federico Peluso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5186309"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Sime Vrsaljko"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5186313"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_13023"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross_right"
+:event/player1 "Nicola Sansone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5186315"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Allan"
+:event/subtype "pushing"
+:event/player1 "Federico Peluso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5186324"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Faouzi Ghoulam"
+:event/subtype "pushing"
+:event/player1 "Diego Falcinelli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5186328"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Dries Mertens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5186330"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_13023"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "blocked_shot"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5186334"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_13023"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Gonzalo Higuain"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5186342"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Jorginho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5186355"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Diego Falcinelli"
+:event/subtype "dangerous_play"
+:event/player1 "Kalidou Koulibaly"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5186358"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Sime Vrsaljko"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5186364"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_13023"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "header"
+:event/player1 "Lorenzo Pellegrini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5186365"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Gonzalo Higuain"
+:event/subtype "trip"
+:event/player1 "Francesco Acerbi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5186373"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_13023"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/player1 "Francesco Acerbi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5186374"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_13023"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Jorginho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5186379"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Diego Falcinelli"
+:event/subtype "pushing"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5186381"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Jorginho"
+:event/subtype "trip"
+:event/player1 "Gregoire Defrel"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5186388"
+:event/minute 91
+:event/match_id "match_13023"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Jose Maria Callejon"
+:event/subtype "pushing"
+:event/player1 "Federico Peluso"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5186395"
+:event/minute 92
+:event/match_id "match_13023"}
+
+{:event/type "goal"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Jose Maria Callejon"
+:event/subtype "shot"
+:event/player1 "Gonzalo Higuain"
+:event/sortorder 7
+:event/team "home"
+:event/id "event_5186399"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 93
+:event/match_id "match_13023"}
+
+
+]
+

@@ -1,0 +1,976 @@
+
+;;# data
+[
+{:match/id "match_8123"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "TSG 1899 Hoffenheim"
+:match/awayteam "FC Bayern Munich"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Chinedu Obasi"
+:event/subtype "pushing"
+:event/player1 "Holger Badstuber"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718455"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8123"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_718461"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Danijel Pranjic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718463"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_8123"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Danijel Pranjic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718463"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Ivica Olic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_718469"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718471"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8123"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718471"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Andreas Ibertsberger"
+:event/subtype "pushing"
+:event/player1 "Ivica Olic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718479"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Chinedu Obasi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_718486"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Sejad Salihovic"
+:event/player1 "Hamit Altintop"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718487"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_8123"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "post"
+:event/player1 "Josip Simunic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_718491"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Chinedu Obasi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_718498"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Ivica Olic"
+:event/player1 "Andreas Ibertsberger"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_718500"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_718510"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Sejad Salihovic"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718514"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_718515"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8123"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "big chance header"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_718516"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Vedad Ibisevic"
+:event/subtype "pushing"
+:event/player1 "Holger Badstuber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718520"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Carlos Eduardo"
+:event/player1 "Danijel Pranjic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718527"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/subtype "pushing"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_718529"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Carlos Eduardo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_718534"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_8123"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Carlos Eduardo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_718534"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player1 "Isaac Vorsah"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_718539"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Danijel Pranjic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_718542"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8123"}
+
+{:event/type "goal"
+:event/elapsed 25
+:event/player2 "Danijel Pranjic"
+:event/subtype "shot"
+:event/player1 "Ivica Olic"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_718541"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_718544"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Danijel Pranjic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718545"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8123"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Danijel Pranjic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718545"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Philipp Lahm"
+:event/player1 "Sejad Salihovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_718547"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Ivica Olic"
+:event/subtype "from_behind"
+:event/player1 "Marvin Compper"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_718548"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Alexander Baumjohann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_718552"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Sejad Salihovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_718554"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8123"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "deflected"
+:event/player1 "Mario Gomez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_718559"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Danijel Pranjic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718560"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_8123"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Danijel Pranjic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718560"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Tobias Weis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_718564"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_718565"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_8123"}
+
+{:event/type "goal"
+:event/elapsed 41
+:event/player2 "Vedad Ibisevic"
+:event/subtype "shot"
+:event/player1 "Chinedu Obasi"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_718562"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_718567"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8123"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Carlos Eduardo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_718571"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8123"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "short"
+:event/player1 "Carlos Eduardo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_718572"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8123"}
+
+{:event/type "shotoff"
+:event/elapsed 46
+:event/subtype "distance"
+:event/player1 "Chinedu Obasi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_718576"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player1 "Isaac Vorsah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_718579"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8123"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Mario Gomez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_718586"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_718588"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718589"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718593"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8123"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718593"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Tobias Weis"
+:event/subtype "from_behind"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718594"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718595"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718602"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8123"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718602"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Andreas Beck"
+:event/subtype "from_behind"
+:event/player1 "Daniel van Buyten"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718603"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718604"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_718608"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_718611"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8123"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "big chance shot"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_718612"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718615"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8123"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718615"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8123"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "header"
+:event/player1 "Daniel van Buyten"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_718616"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8123"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "post"
+:event/player1 "Mario Gomez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_718620"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8123"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "Sejad Salihovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_718622"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Bastian Schweinsteiger"
+:event/player1 "Andreas Beck"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_718629"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718630"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8123"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718630"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Danijel Pranjic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718634"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8123"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Danijel Pranjic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_718634"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Marvin Compper"
+:event/subtype "from_behind"
+:event/player1 "Ivica Olic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718636"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_718638"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Carlos Eduardo"
+:event/subtype "pushing"
+:event/player1 "Mark van Bommel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718640"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8123"}
+
+{:event/type "card"
+:event/elapsed 76
+:event/card_type "y"
+:event/player1 "Mark van Bommel"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_718641"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8123"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "distance"
+:event/player1 "Thomas Mueller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_718649"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Ivica Olic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_718652"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_718654"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8123"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "volley"
+:event/player1 "Mario Gomez"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_718655"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Isaac Vorsah"
+:event/subtype "pushing"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718666"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8123"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Carlos Eduardo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_718667"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8123"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Carlos Eduardo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_718667"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8123"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Carlos Eduardo"
+:event/subtype "pushing"
+:event/player1 "Thomas Mueller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_718670"
+:event/minute 91
+:event/match_id "match_8123"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Thomas Mueller"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_718671"
+:event/minute 91
+:event/match_id "match_8123"}
+
+
+]
+

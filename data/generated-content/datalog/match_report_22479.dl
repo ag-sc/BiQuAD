@@ -1,0 +1,804 @@
+
+;;# data
+[
+{:match/id "match_22479"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Real Zaragoza"
+:match/awayteam "Valencia CF"
+:match/score "4:0"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455444"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Carlos Diogo"
+:event/player1 "Tino Costa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455455"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22479"}
+
+{:event/type "goal"
+:event/elapsed 5
+:event/subtype "header"
+:event/player1 "Jiri Jarosik"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1455458"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455466"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Jorge Lopez"
+:event/player1 "Jordi Alba"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455469"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Matteo Contini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455476"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Jeremy Mathieu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1455479"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Mehmet Topal"
+:event/player1 "Leonardo Ponzio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455484"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Roberto Soldado"
+:event/player1 "Gabi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455487"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Jorge Lopez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455492"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Ikechukwu Uche"
+:event/subtype "from_behind"
+:event/player1 "Ricardo Costa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455504"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Mehmet Topal"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455512"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Joaquin"
+:event/player1 "Ander Herrera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455523"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Jordi Alba"
+:event/subtype "pushing"
+:event/player1 "Carlos Diogo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455525"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Ander Herrera"
+:event/subtype "serious_foul"
+:event/player1 "Tino Costa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455530"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22479"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "shot"
+:event/player1 "Nicolas Bertolo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1455535"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_22479"}
+
+{:event/type "card"
+:event/elapsed 28
+:event/card_type "y"
+:event/player1 "Javier Paredes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1455544"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Roberto Soldado"
+:event/subtype "pushing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455547"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Jordi Alba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1455563"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Joaquin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1455565"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22479"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Joaquin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1455565"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Jordi Alba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1455571"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Jordi Alba"
+:event/player1 "Leonardo Ponzio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455580"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/subtype "shirt_pull"
+:event/player1 "Tino Costa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455586"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Nicolas Bertolo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1455587"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Jordi Alba"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1455590"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22479"}
+
+{:event/type "goal"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Ander Herrera"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_1455593"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455594"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Jiri Jarosik"
+:event/subtype "shirt_pull"
+:event/player1 "Marius Stankevicius"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455595"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22479"}
+
+{:event/type "card"
+:event/elapsed 42
+:event/card_type "y"
+:event/player1 "Marius Stankevicius"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1455596"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22479"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "bad shot"
+:event/player1 "Roberto Soldado"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1455604"
+:event/minute 46
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Gabi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1455612"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Ander Herrera"
+:event/player1 "Tino Costa"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455607"
+:event/minute 46
+:event/match_id "match_22479"}
+
+{:event/type "shotoff"
+:event/elapsed 46
+:event/subtype "volley"
+:event/player1 "Jorge Lopez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1455613"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_22479"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/player1 "Tino Costa"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1455608"
+:event/minute 46
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1455617"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Nicolas Bertolo"
+:event/player1 "Bruno Saltor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455619"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Bruno Saltor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1455620"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Carlos Diogo"
+:event/subtype "pushing"
+:event/player1 "Jeremy Mathieu"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455621"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player1 "Ander Herrera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455624"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22479"}
+
+{:event/type "card"
+:event/elapsed 53
+:event/card_type "y"
+:event/player1 "Gabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1455625"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Nicolas Bertolo"
+:event/subtype "pushing"
+:event/player1 "Bruno Saltor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455626"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Joaquin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1455629"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Joaquin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1455631"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22479"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Joaquin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1455631"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Tino Costa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1455639"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Carlos Diogo"
+:event/subtype "pushing"
+:event/player1 "Jordi Alba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455641"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Ever Banega"
+:event/player1 "Gabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455642"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Bruno Saltor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1455643"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Nicolas Bertolo"
+:event/subtype "penalty"
+:event/player1 "Marius Stankevicius"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455648"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22479"}
+
+{:event/type "card"
+:event/elapsed 64
+:event/card_type "y"
+:event/player1 "Marius Stankevicius"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1455646"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22479"}
+
+{:event/type "card"
+:event/elapsed 64
+:event/card_type "y"
+:event/player1 "Ever Banega"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1455680"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22479"}
+
+{:event/type "goal"
+:event/elapsed 65
+:event/player1 "Gabi"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1455645"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455651"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Joaquin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1455653"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_22479"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "short"
+:event/player1 "Joaquin"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1455655"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_22479"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "distance"
+:event/player1 "Roberto Soldado"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1455656"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22479"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "big chance volley"
+:event/player1 "Braulio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1455657"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22479"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Jorge Lopez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1455658"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22479"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Jorge Lopez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1455658"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Braulio"
+:event/subtype "penalty"
+:event/player1 "David Albelda"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1455660"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22479"}
+
+{:event/type "card"
+:event/elapsed 75
+:event/card_type "y"
+:event/player1 "David Albelda"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1455661"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22479"}
+
+{:event/type "goal"
+:event/elapsed 75
+:event/player1 "Gabi"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1455662"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Joaquin"
+:event/subtype "pushing"
+:event/player1 "Guirane N'Daw"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455668"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_22479"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Roberto Soldado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1455674"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22479"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Jorge Lopez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1455677"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_22479"}
+
+
+]
+

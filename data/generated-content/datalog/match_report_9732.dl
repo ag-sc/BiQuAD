@@ -1,0 +1,1216 @@
+
+;;# data
+[
+{:match/id "match_9732"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "SC Freiburg"
+:match/awayteam "Eintracht Frankfurt"
+:match/score "4:1"
+:match/hometeam_goals "4"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Marc Stendera"
+:event/subtype "pushing"
+:event/player1 "Vladimir Darida"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4107940"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Marc Stendera"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4107963"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_9732"}
+
+{:event/type "goal"
+:event/elapsed 1
+:event/player2 "Marc Stendera"
+:event/subtype "tap_in"
+:event/player1 "Marco Russ"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4107944"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Felix Klaus"
+:event/subtype "pull"
+:event/player1 "Bastian Oczipka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4108107"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Stefan Aigner"
+:event/subtype "pushing"
+:event/player1 "Julian Schuster"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4107986"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Marc Stendera"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4107995"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Bastian Oczipka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4108062"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_9732"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "header"
+:event/player1 "Alexander Meier"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4108065"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Anderson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4108075"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Mike Frantz"
+:event/subtype "pushing"
+:event/player1 "Anderson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4108143"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Stefan Aigner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4108121"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_9732"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "shot"
+:event/player1 "Takashi Inui"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4108124"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Admir Mehmedi"
+:event/subtype "pushing"
+:event/player1 "Bastian Oczipka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4108150"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Jonathan Schmid"
+:event/subtype "trip"
+:event/player1 "Marc Stendera"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4108165"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_9732"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross_left"
+:event/player1 "Admir Mehmedi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4108171"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_9732"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross_left"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4108184"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_9732"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "shot"
+:event/player1 "Haris Seferovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4108192"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_9732"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross_left"
+:event/player1 "Anderson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4108195"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Bastian Oczipka"
+:event/subtype "pushing"
+:event/player1 "Mike Frantz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4108227"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Christian Guenter"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4108221"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_9732"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Vladimir Darida"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4108217"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Marc Stendera"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4108249"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_9732"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "shot"
+:event/player1 "Vladimir Darida"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4108278"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Makoto Hasebe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4108280"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Felix Klaus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4108300"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Admir Mehmedi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4108324"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_9732"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross_left"
+:event/player1 "Marc Stendera"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4108384"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_9732"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "blocked_shot"
+:event/player1 "Alexander Meier"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4108398"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Takashi Inui"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4108415"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_9732"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "shot"
+:event/player1 "Alexander Meier"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4108420"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Alexander Meier"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4108437"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Bastian Oczipka"
+:event/subtype "from_behind"
+:event/player1 "Mike Frantz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4108458"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Takashi Inui"
+:event/subtype "pushing"
+:event/player1 "Sascha Riether"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4108503"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Christian Guenter"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4108544"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_9732"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross_right"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4108555"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Mike Frantz"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4108566"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Takashi Inui"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4108621"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_9732"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "shot"
+:event/player1 "Haris Seferovic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4108626"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_9732"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross_left"
+:event/player1 "Bastian Oczipka"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4108634"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_9732"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross_left"
+:event/player1 "Bastian Oczipka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4108645"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Haris Seferovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4108682"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Makoto Hasebe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4108707"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_9732"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "shot"
+:event/player1 "Takashi Inui"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4108711"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Christian Guenter"
+:event/subtype "pushing"
+:event/player1 "Haris Seferovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4108738"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Felix Klaus"
+:event/subtype "pushing"
+:event/player1 "Anderson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4108759"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9732"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Anderson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4108769"
+:event/minute 46
+:event/match_id "match_9732"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Kevin Trapp"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4108784"
+:event/minute 46
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4108793"
+:event/minute 46
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Christian Guenter"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4109129"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_9732"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "shot"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4109132"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Christian Guenter"
+:event/subtype "pull"
+:event/player1 "Stefan Aigner"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4109258"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Stefan Aigner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4109180"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Marc Torrejon Moya"
+:event/subtype "pushing"
+:event/player1 "Alexander Meier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4109200"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Stefan Aigner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4109278"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_9732"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "miss_kick"
+:event/player1 "Haris Seferovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4109284"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Vladimir Darida"
+:event/subtype "from_behind"
+:event/player1 "Marc Stendera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4109319"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Jonathan Schmid"
+:event/subtype "serious_foul"
+:event/player1 "Timothy Chandler"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4109327"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9732"}
+
+{:event/type "card"
+:event/elapsed 53
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Timothy Chandler"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4109333"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4109390"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Felix Klaus"
+:event/subtype "pull"
+:event/player1 "Takashi Inui"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4109407"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4109419"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_9732"}
+
+{:event/type "card"
+:event/elapsed 58
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Admir Mehmedi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4109471"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Bastian Oczipka"
+:event/subtype "trip"
+:event/player1 "Felix Klaus"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4109525"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Felix Klaus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4109549"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Christian Guenter"
+:event/subtype "penalty"
+:event/player1 "Stefan Aigner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4109574"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_9732"}
+
+{:event/type "goal"
+:event/elapsed 61
+:event/player1 "Vladimir Darida"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4109580"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Stefan Aigner"
+:event/subtype "from_behind"
+:event/player1 "Christian Guenter"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4109597"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_9732"}
+
+{:event/type "card"
+:event/elapsed 62
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Christian Guenter"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4109602"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Marc Stendera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4109613"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Felix Klaus"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4109640"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_9732"}
+
+{:event/type "goal"
+:event/elapsed 64
+:event/player2 "Felix Klaus"
+:event/subtype "shot"
+:event/player1 "Nils Petersen"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_4109626"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Makoto Hasebe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4109672"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Haris Seferovic"
+:event/subtype "pull"
+:event/player1 "Marc Torrejon Moya"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4109698"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Marc Stendera"
+:event/subtype "from_behind"
+:event/player1 "Maximilian Philipp"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4109704"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Marc Stendera"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4109705"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9732"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Felix Klaus"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4109722"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Nils Petersen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4109729"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_9732"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Vladimir Darida"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4109731"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Jonathan Schmid"
+:event/subtype "pushing"
+:event/player1 "Marc Stendera"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4109734"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Mike Frantz"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4109756"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_9732"}
+
+{:event/type "goal"
+:event/elapsed 69
+:event/player2 "Mike Frantz"
+:event/subtype "header"
+:event/player1 "Nils Petersen"
+:event/sortorder 7
+:event/team "home"
+:event/id "event_4109741"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Makoto Hasebe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4109776"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Stefan Aigner"
+:event/subtype "serious_foul"
+:event/player1 "Maximilian Philipp"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4109794"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_9732"}
+
+{:event/type "card"
+:event/elapsed 73
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Maximilian Philipp"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4109798"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_9732"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Felix Klaus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4109880"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Lucas Piazon"
+:event/subtype "serious_foul"
+:event/player1 "Oliver Sorg"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4109468"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Bastian Oczipka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4109915"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9732"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross_left"
+:event/player1 "Sonny Kittel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4109922"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Maximilian Philipp"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4110022"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_9732"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Vladimir Darida"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4110027"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_9732"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4110147"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_9732"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "header"
+:event/player1 "Nils Petersen"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4110265"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9732"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Nils Petersen"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4110279"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9732"}
+
+{:event/type "goal"
+:event/elapsed 88
+:event/subtype "deflected"
+:event/player1 "Nils Petersen"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_4110221"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9732"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Oliver Sorg"
+:event/subtype "dangerous_play"
+:event/player1 "Alexander Madlung"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4110329"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9732"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Sonny Kittel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4110390"
+:event/minute 92
+:event/match_id "match_9732"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Alexander Madlung"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4110399"
+:event/minute 93
+:event/match_id "match_9732"}
+
+
+]
+

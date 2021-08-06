@@ -1,0 +1,1282 @@
+
+;;# data
+[
+{:match/id "match_7141"
+:match/league "France Ligue 1"
+:match/hometeam "LOSC Lille"
+:match/awayteam "Toulouse FC"
+:match/score "4:0"
+:match/hometeam_goals "3"
+:match/awayteam_goals "0"}
+
+{:event/type "shoton"
+:event/elapsed 1
+:event/subtype "shot"
+:event/player1 "Aleksandar Pesic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4013844"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Divock Origi"
+:event/subtype "penalty"
+:event/player1 "Maxime Spano"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4013845"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_7141"}
+
+{:event/type "card"
+:event/elapsed 2
+:event/card_type "r"
+:event/player1 "Maxime Spano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4013849"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7141"}
+
+{:event/type "goal"
+:event/elapsed 3
+:event/subtype "saved"
+:event/player1 "Marko Basa"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_4013860"
+:event/event_type "goal"
+:event/goal_type "npm"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Pape Ndiaye Souare"
+:event/player1 "Marcel Tisserand"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4013863"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/subtype "hands"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4013877"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Florent Balmont"
+:event/player1 "Issiaga Sylla"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4013879"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Divock Origi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4013881"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7141"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "short_left"
+:event/player1 "Florent Balmont"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4013890"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7141"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "shot"
+:event/player1 "Simon Kjaer"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4013893"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Ryan Mendes"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4013898"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7141"}
+
+{:event/type "goal"
+:event/elapsed 7
+:event/player2 "Idrissa Gana Gueye"
+:event/subtype "shot"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4013902"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Marcel Tisserand"
+:event/player1 "Ryan Mendes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4013908"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Etienne Didot"
+:event/subtype "obstruction"
+:event/player1 "Florent Balmont"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4013920"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Divock Origi"
+:event/subtype "dangerous_play"
+:event/player1 "Francois Moubandje"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4013949"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7141"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "distance"
+:event/player1 "Florent Balmont"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4013966"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Tongo Hamed Doumbia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4013975"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7141"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "shot"
+:event/player1 "Nolan Roux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4013984"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Ryan Mendes"
+:event/subtype "pull"
+:event/player1 "Jean-Daniel Akpa-Akpro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4013991"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Ryan Mendes"
+:event/player1 "Marcel Tisserand"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4014010"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014013"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Francois Moubandje"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014045"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Nolan Roux"
+:event/player1 "Tongo Hamed Doumbia"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4014048"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7141"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "distance"
+:event/player1 "Ryan Mendes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4014056"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Tongo Hamed Doumbia"
+:event/player1 "Florent Balmont"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4014075"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Aleksandar Pesic"
+:event/player1 "Marko Basa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4014080"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Etienne Didot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014088"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Florent Balmont"
+:event/subtype "from_behind"
+:event/player1 "Jean-Daniel Akpa-Akpro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4014092"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7141"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/card_type "y"
+:event/player1 "Jean-Daniel Akpa-Akpro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4014093"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Tongo Hamed Doumbia"
+:event/player1 "Nolan Roux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4014106"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Nolan Roux"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014128"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7141"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "short_left"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4014130"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Ali Ahamada"
+:event/player1 "Divock Origi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4014135"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Florent Balmont"
+:event/player1 "Aleksandar Pesic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4014139"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Nolan Roux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014151"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Etienne Didot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014155"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Pape Ndiaye Souare"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014170"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Florent Balmont"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014180"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7141"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "header"
+:event/player1 "Divock Origi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4014183"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Etienne Didot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014195"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Francois Moubandje"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014205"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014212"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014219"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Francois Moubandje"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014231"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Pape Ndiaye Souare"
+:event/subtype "dangerous_play"
+:event/player1 "Marcel Tisserand"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4014239"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Florent Balmont"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014243"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Aleksandar Pesic"
+:event/player1 "Rio Mavuba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4014262"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Nolan Roux"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014293"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7141"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "shot"
+:event/player1 "Issiaga Sylla"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4014401"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Dragos Grigore"
+:event/player1 "Nolan Roux"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4014317"
+:event/minute 47
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Jean-Daniel Akpa-Akpro"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014319"
+:event/minute 47
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Etienne Didot"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014325"
+:event/minute 47
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Jean-Daniel Akpa-Akpro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014415"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Divock Origi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014420"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7141"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Etienne Didot"
+:event/sortorder 11
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4014335"
+:event/minute 48
+:event/match_id "match_7141"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Ryan Mendes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4014441"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7141"}
+
+{:event/type "goal"
+:event/elapsed 50
+:event/player2 "Idrissa Gana Gueye"
+:event/subtype "shot"
+:event/player1 "Ryan Mendes"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_4014451"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Nolan Roux"
+:event/subtype "from_behind"
+:event/player1 "Abel Aguilar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4014477"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Florent Balmont"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014489"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Pape Ndiaye Souare"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014498"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Ali Ahamada"
+:event/player1 "Simon Kjaer"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4014499"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Marcel Tisserand"
+:event/player1 "Pape Ndiaye Souare"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4014520"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Etienne Didot"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014528"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014536"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Aleksandar Pesic"
+:event/subtype "dangerous_play"
+:event/player1 "Marko Basa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4014546"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7141"}
+
+{:event/type "card"
+:event/elapsed 57
+:event/card_type "y"
+:event/player1 "Marko Basa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4014547"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Etienne Didot"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014556"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7141"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Divock Origi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4014577"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Marko Basa"
+:event/player1 "Aleksandar Pesic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4014580"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Pape Ndiaye Souare"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014611"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Pape Ndiaye Souare"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014628"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Jean-Daniel Akpa-Akpro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014638"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Ryan Mendes"
+:event/player1 "Etienne Didot"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4014649"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Pape Ndiaye Souare"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014673"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7141"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "header"
+:event/player1 "Divock Origi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4014674"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Aleksandar Pesic"
+:event/player1 "Simon Kjaer"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4014681"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Etienne Didot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014687"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Divock Origi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014699"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7141"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Idrissa Gana Gueye"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4014708"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Nolan Roux"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014730"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7141"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross_left"
+:event/player1 "Florent Balmont"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4014743"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Idrissa Gana Gueye"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014747"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7141"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Nolan Roux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4014752"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Tongo Hamed Doumbia"
+:event/player1 "Pape Ndiaye Souare"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4014766"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7141"}
+
+{:event/type "card"
+:event/elapsed 72
+:event/card_type "y"
+:event/player1 "Pape Ndiaye Souare"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4014771"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Etienne Didot"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4014775"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7141"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "header"
+:event/player1 "Dragos Grigore"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4014779"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7141"}
+
+{:event/type "goal"
+:event/elapsed 77
+:event/player2 "Divock Origi"
+:event/subtype "shot"
+:event/player1 "Nolan Roux"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4014847"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014936"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7141"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Pape Ndiaye Souare"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4014940"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Sylvio Ronny Rodelin"
+:event/player1 "Aleksandar Pesic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4014948"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Adama Traore"
+:event/subtype "dangerous_play"
+:event/player1 "Abel Aguilar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4014965"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014970"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Nolan Roux"
+:event/subtype "from_behind"
+:event/player1 "Dragos Grigore"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4014987"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7141"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Pape Ndiaye Souare"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4014991"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7141"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "short_right"
+:event/player1 "Pape Ndiaye Souare"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4014998"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7141"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "big chance header"
+:event/player1 "Simon Kjaer"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4015000"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Djibril Sidibe"
+:event/subtype "dangerous_play"
+:event/player1 "Jean-Daniel Akpa-Akpro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4015019"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Pape Ndiaye Souare"
+:event/subtype "dangerous_play"
+:event/player1 "Marcel Tisserand"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4015051"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7141"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Marcel Tisserand"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4015054"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Aleksandar Pesic"
+:event/player1 "Souahilo Meite"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4015067"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Jean-Daniel Akpa-Akpro"
+:event/player1 "Adama Traore"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4015070"
+:event/minute 91
+:event/match_id "match_7141"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Martin Braithwaite"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4015077"
+:event/minute 91
+:event/match_id "match_7141"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Divock Origi"
+:event/player1 "Pantxi Sirieix"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4015079"
+:event/minute 92
+:event/match_id "match_7141"}
+
+
+]
+

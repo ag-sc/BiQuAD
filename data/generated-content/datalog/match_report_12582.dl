@@ -1,0 +1,1326 @@
+
+;;# data
+[
+{:match/id "match_12582"
+:match/league "Italy Serie A"
+:match/hometeam "Palermo"
+:match/awayteam "Sassuolo"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Paulo Dybala"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4009362"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_12582"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross_left"
+:event/player1 "Paulo Dybala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4009363"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_12582"}
+
+{:event/type "goal"
+:event/elapsed 3
+:event/player2 "Paulo Dybala"
+:event/subtype "header"
+:event/player1 "Luca Rigoni"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4009364"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Paulo Dybala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4009381"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_12582"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross_left"
+:event/player1 "Paulo Dybala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4009386"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Paolo Cannavaro"
+:event/player1 "Paulo Dybala"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4009389"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Francesco Magnanelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009391"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player1 "Paulo Dybala"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4009398"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Saphir Taider"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009439"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Nicola Sansone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009450"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "distance"
+:event/player1 "Antonio Floro Flores"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4009453"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player1 "Franco Vazquez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4009463"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Simone Missiroli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009472"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Saphir Taider"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009475"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_12582"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross_left"
+:event/player1 "Nicola Sansone"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4009477"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "header"
+:event/player1 "Antonio Floro Flores"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4009481"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Alessandro Longhi"
+:event/player1 "Michel Morganella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4009501"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Saphir Taider"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009504"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "distance"
+:event/player1 "Saphir Taider"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4009508"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Michel Morganella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4009536"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Antonio Floro Flores"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4009540"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Alessandro Longhi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009543"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Saphir Taider"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4009554"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "shot"
+:event/player1 "Simone Zaza"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4009580"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player1 "Luca Rigoni"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4009584"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Simone Zaza"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009604"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Saphir Taider"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009607"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "deflected"
+:event/player1 "Nicola Sansone"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4009610"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_12582"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross_right"
+:event/player1 "Saphir Taider"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4009613"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Saphir Taider"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009620"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Saphir Taider"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009635"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Simone Missiroli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009639"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "header"
+:event/player1 "Simone Zaza"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4009641"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Simone Missiroli"
+:event/subtype "pull"
+:event/player1 "Michel Morganella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4009650"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Simone Missiroli"
+:event/subtype "pushing"
+:event/player1 "Luca Rigoni"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4009665"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Antonio Floro Flores"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009670"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "Alessandro Longhi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4009674"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "shot"
+:event/player1 "Simone Zaza"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4009694"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Saphir Taider"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009699"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Paulo Dybala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4009722"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Alessandro Longhi"
+:event/subtype "pushing"
+:event/player1 "Franco Vazquez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4009730"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "shot"
+:event/player1 "Achraf Lazaar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4009735"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Michel Morganella"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4009741"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "header"
+:event/player1 "Ivailo Chochev"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4009742"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Ezequiel Munoz"
+:event/subtype "pushing"
+:event/player1 "Simone Zaza"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4009761"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "deflected"
+:event/player1 "Achraf Lazaar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4009771"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "miss_kick"
+:event/player1 "Simone Zaza"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4009776"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Francesco Magnanelli"
+:event/player1 "Sinisa Andjelkovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4009890"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Saphir Taider"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009894"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_12582"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross_left"
+:event/player1 "Simone Missiroli"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4009902"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Nicola Sansone"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009910"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Paulo Dybala"
+:event/subtype "dangerous_play"
+:event/player1 "Paolo Cannavaro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4009930"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Ivailo Chochev"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4009941"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_12582"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross_left"
+:event/player1 "Paulo Dybala"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4009944"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Paulo Dybala"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4009948"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Simone Missiroli"
+:event/subtype "dangerous_play"
+:event/player1 "Ivailo Chochev"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4009958"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Antonio Floro Flores"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009962"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_12582"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_left"
+:event/player1 "Francesco Acerbi"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4009969"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Paulo Dybala"
+:event/subtype "pull"
+:event/player1 "Marcello Gazzola"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4009975"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_12582"}
+
+{:event/type "card"
+:event/elapsed 54
+:event/card_type "y"
+:event/player1 "Marcello Gazzola"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4009980"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Michel Morganella"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4009985"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "blocked_shot"
+:event/player1 "Paulo Dybala"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4009990"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Achraf Lazaar"
+:event/player1 "Francesco Acerbi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4009994"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Francesco Magnanelli"
+:event/subtype "pushing"
+:event/player1 "Franco Vazquez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4010010"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Antonio Floro Flores"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4010015"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "blocked_shot"
+:event/player1 "Antonio Floro Flores"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4010029"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Simone Missiroli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4010037"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "shot"
+:event/player1 "Paulo Dybala"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4010042"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Nicola Sansone"
+:event/subtype "trip"
+:event/player1 "Enzo Maresca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4010057"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Simone Missiroli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4010060"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Luca Rigoni"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4010064"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Achraf Lazaar"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4010068"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Michel Morganella"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4010072"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "big chance header"
+:event/player1 "Enzo Maresca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4010074"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player1 "Enzo Maresca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4010079"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Francesco Magnanelli"
+:event/subtype "pushing"
+:event/player1 "Franco Vazquez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4010084"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Antonio Floro Flores"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4010087"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Paulo Dybala"
+:event/subtype "obstruction"
+:event/player1 "Andrea Consigli"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4010095"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_12582"}
+
+{:event/type "card"
+:event/elapsed 66
+:event/card_type "r"
+:event/player1 "Andrea Consigli"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4010096"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "blocked_shot"
+:event/player1 "Franco Vazquez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4010108"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "distance"
+:event/player1 "Simone Zaza"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4010118"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "shot"
+:event/player1 "Ivailo Chochev"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4010124"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "big chance shot"
+:event/player1 "Franco Vazquez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4010139"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Francesco Acerbi"
+:event/subtype "pushing"
+:event/player1 "Achraf Lazaar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4010146"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Simone Zaza"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4010154"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Marcello Gazzola"
+:event/subtype "trip"
+:event/player1 "Francesco Della Rocca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4010156"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Saphir Taider"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4010164"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Paulo Dybala"
+:event/subtype "dangerous_play"
+:event/player1 "Francesco Magnanelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4010194"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_12582"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/player1 "Francesco Magnanelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4010195"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Paulo Dybala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4010206"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_12582"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross_left"
+:event/player1 "Paulo Dybala"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4010210"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "big chance shot"
+:event/player1 "Giancarlo Gonzalez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4010212"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Francesco Della Rocca"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4010219"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Marcello Gazzola"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4010254"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Alessandro Longhi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4010263"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_12582"}
+
+{:event/type "goal"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Leonardo Pavoletti"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_4010274"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_12582"}
+
+{:event/type "card"
+:event/elapsed 85
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Simone Zaza"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4010290"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Michel Morganella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4010283"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player1 "Francesco Bolzoni"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4010287"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player1 "Leonardo Pavoletti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4010297"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Franco Vazquez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4010327"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12582"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Francesco Bolzoni"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4010333"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12582"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Simone Zaza"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4010340"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12582"}
+
+{:event/type "goal"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Franco Vazquez"
+:event/subtype "shot"
+:event/player1 "Andrea Belotti"
+:event/sortorder 15
+:event/team "home"
+:event/id "event_4010362"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 93
+:event/match_id "match_12582"}
+
+{:event/type "card"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "Removing Shirt"
+:event/player1 "Andrea Belotti"
+:event/sortorder 17
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4010374"
+:event/minute 95
+:event/match_id "match_12582"}
+
+{:event/type "shoton"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "big chance shot"
+:event/player1 "Simone Zaza"
+:event/sortorder 19
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4010378"
+:event/minute 95
+:event/match_id "match_12582"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/player2 "Paulo Dybala"
+:event/subtype "serious_foul"
+:event/player1 "Paolo Cannavaro"
+:event/sortorder 21
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4010384"
+:event/minute 96
+:event/match_id "match_12582"}
+
+{:event/type "card"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/card_type "r"
+:event/player1 "Paolo Cannavaro"
+:event/sortorder 22
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4010386"
+:event/minute 96
+:event/match_id "match_12582"}
+
+
+]
+

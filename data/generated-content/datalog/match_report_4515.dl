@@ -1,0 +1,890 @@
+
+;;# data
+[
+{:match/id "match_4515"
+:match/league "England Premier League"
+:match/hometeam "Sunderland"
+:match/awayteam "Aston Villa"
+:match/score "2:2"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Duncan Watmore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5142269"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4515"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "distance"
+:event/player1 "Leandro Bacuna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5142295"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4515"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "distance"
+:event/player1 "Leandro Bacuna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5142305"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4515"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Jack Grealish"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5142333"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Leandro Bacuna"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5142336"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5142392"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4515"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "shot"
+:event/player1 "Duncan Watmore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5142410"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Billy Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5142447"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4515"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross_right"
+:event/player1 "Adam Johnson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5142454"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4515"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "header"
+:event/player1 "Fabio Borini"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5142456"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "John O'Shea"
+:event/player1 "Rudy Gestede"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5142469"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Adam Johnson"
+:event/player1 "Idrissa Gana Gueye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5142506"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4515"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "distance"
+:event/player1 "Aly Cissokho"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5142525"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/subtype "hands"
+:event/player1 "Jermain Defoe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5142555"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Jack Grealish"
+:event/player1 "Wes Brown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5142562"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4515"}
+
+{:event/type "card"
+:event/elapsed 26
+:event/card_type "y"
+:event/player1 "Wes Brown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5142568"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5142594"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4515"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "deflected"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5142629"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4515"}
+
+{:event/type "goal"
+:event/elapsed 30
+:event/player1 "Micah Richards"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5142609"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Alan Hutton"
+:event/player1 "Fabio Borini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5142656"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4515"}
+
+{:event/type "card"
+:event/elapsed 33
+:event/card_type "y"
+:event/player1 "Fabio Borini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5142661"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Jordan Veretout"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5142672"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4515"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross_right"
+:event/player1 "Leandro Bacuna"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5142676"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Aly Cissokho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5142686"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4515"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "header"
+:event/player1 "Rudy Gestede"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5142692"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Duncan Watmore"
+:event/player1 "Aly Cissokho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5142702"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Adam Johnson"
+:event/player1 "Alan Hutton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5142738"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Yann M'Vila"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5142741"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4515"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross_right"
+:event/player1 "Leandro Bacuna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5142759"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Rudy Gestede"
+:event/player1 "Billy Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5142800"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Duncan Watmore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5142811"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Fabio Borini"
+:event/subtype "pull"
+:event/player1 "Alan Hutton"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5142825"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4515"}
+
+{:event/type "card"
+:event/elapsed 43
+:event/card_type "y"
+:event/player1 "Alan Hutton"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5142827"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Billy Jones"
+:event/subtype "pushing"
+:event/player1 "Leandro Bacuna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5142850"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4515"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "direct_freekick"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5142871"
+:event/minute 46
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Adam Johnson"
+:event/subtype "from_behind"
+:event/player1 "Idrissa Gana Gueye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5142936"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Billy Jones"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5142941"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4515"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross_left"
+:event/player1 "Leandro Bacuna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5142964"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Leandro Bacuna"
+:event/player1 "Fabio Borini"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5142974"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4515"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "header"
+:event/player1 "Rudy Gestede"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5142996"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Rudy Gestede"
+:event/player1 "Wes Brown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5143034"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Billy Jones"
+:event/player1 "Rudy Gestede"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143042"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Fabio Borini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143043"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4515"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "blocked_shot"
+:event/player1 "Jermain Defoe"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5143076"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4515"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Jermain Defoe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5143118"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Brad Guzan"
+:event/player1 "Jermain Defoe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5143153"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4515"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "distance"
+:event/player1 "Carles Gil"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5143160"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4515"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "distance"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5143177"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Billy Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143206"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143213"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4515"}
+
+{:event/type "goal"
+:event/elapsed 63
+:event/player2 "unknown"
+:event/subtype "volley"
+:event/player1 "Carles Gil"
+:event/sortorder 5
+:event/team "away"
+:event/id "event_5143215"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4515"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross_left"
+:event/player1 "Adam Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5143291"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143302"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4515"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "blocked_header"
+:event/player1 "John O'Shea"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5143303"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Yann M'Vila"
+:event/subtype "trip"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143305"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4515"}
+
+{:event/type "card"
+:event/elapsed 69
+:event/card_type "y"
+:event/player1 "unknown"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5143311"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143328"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143363"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4515"}
+
+{:event/type "goal"
+:event/elapsed 72
+:event/player2 "Adam Johnson"
+:event/subtype "shot"
+:event/player1 "Jermain Defoe"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5143352"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Idrissa Gana Gueye"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5143416"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143435"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4515"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143444"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Yann M'Vila"
+:event/player1 "Libor Kozak"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143522"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4515"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "deflected"
+:event/player1 "Jermain Defoe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5143540"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4515"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross_left"
+:event/player1 "Adam Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5143550"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Jermain Defoe"
+:event/subtype "pushing"
+:event/player1 "Joleon Lescott"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143570"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4515"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Carles Gil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5143583"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4515"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Daniel Graham"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5143589"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4515"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Rudy Gestede"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5143655"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4515"}
+
+{:event/type "goal"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Ola Toivonen"
+:event/subtype "shot"
+:event/player1 "Jermain Defoe"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_5143660"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 92
+:event/match_id "match_4515"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player2 "Ola Toivonen"
+:event/player1 "Jordan Veretout"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143689"
+:event/minute 95
+:event/match_id "match_4515"}
+
+{:event/type "card"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Lee Cattermole"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5143788"
+:event/minute 95
+:event/match_id "match_4515"}
+
+
+]
+

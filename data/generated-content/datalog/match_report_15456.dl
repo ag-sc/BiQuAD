@@ -1,0 +1,994 @@
+
+;;# data
+[
+{:match/id "match_15456"
+:match/league "Netherlands Eredivisie"
+:match/hometeam "De Graafschap"
+:match/awayteam "FC Groningen"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Youssef El Jebli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5041809"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_15456"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "distance"
+:event/player1 "Bryan Smeets"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5041813"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Jarchinio Antonia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5041849"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Simon Tibbling"
+:event/player1 "Bryan Smeets"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5041859"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Kasper Larsen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5041861"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Nathan Kabasele"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5041872"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Jarchinio Antonia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5041883"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Andrew Driver"
+:event/player1 "Albert Rusnak"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5041897"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_15456"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "blocked_shot"
+:event/player1 "Cas Peters"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5041900"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_15456"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross_right"
+:event/player1 "Andrew Driver"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5041910"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Alexander Bannink"
+:event/subtype "dangerous_play"
+:event/player1 "Simon Tibbling"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5041919"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Jesper Drost"
+:event/subtype "pushing"
+:event/player1 "Alexander Bannink"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5041947"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Etienne Reijnen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5041960"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_15456"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross_right"
+:event/player1 "Jarchinio Antonia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5041967"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_15456"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "header"
+:event/player1 "Michael de Leeuw"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5041973"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Michael de Leeuw"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5042001"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Andrew Driver"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5042039"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_15456"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "volley"
+:event/player1 "Alexander Bannink"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5042044"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_15456"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross_left"
+:event/player1 "Andrew Driver"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5042049"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Andrew Driver"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5042060"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_15456"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "shot"
+:event/player1 "Jarchinio Antonia"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5042099"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_15456"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "blocked_shot"
+:event/player1 "Bryan Smeets"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5042127"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Jeroen Tesselaar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5042133"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Jarchinio Antonia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5042164"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_15456"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "big chance shot"
+:event/player1 "Jesper Drost"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5042170"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_15456"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "Bryan Smeets"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5042207"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_15456"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "shot"
+:event/player1 "Jarchinio Antonia"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5042218"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Alexander Bannink"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5042241"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_15456"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "blocked_shot"
+:event/player1 "Cas Peters"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5042245"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_15456"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross_left"
+:event/player1 "Andrew Driver"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5042248"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Kasper Larsen"
+:event/player1 "Jeroen Tesselaar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5042259"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_15456"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "distance"
+:event/player1 "Alexander Bannink"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5042269"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_15456"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross_right"
+:event/player1 "Andrew Driver"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5042273"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_15456"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "header"
+:event/player1 "Ted van de Pavert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5042278"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_15456"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "shot"
+:event/player1 "Andrew Driver"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5042289"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_15456"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "distance"
+:event/player1 "Cas Peters"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5042296"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Jarchinio Antonia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5042307"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_15456"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross_left"
+:event/player1 "Albert Rusnak"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5042317"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_15456"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "blocked_shot"
+:event/player1 "Youssef El Jebli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5042345"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_15456"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "short_left"
+:event/player1 "Albert Rusnak"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5042372"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Albert Rusnak"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5042381"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Bryan Smeets"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5042396"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/subtype "hands"
+:event/player1 "Nathan Kabasele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5042408"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Jesper Drost"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5042432"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_15456"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "header"
+:event/player1 "Michael de Leeuw"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5042437"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Jesper Drost"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5042465"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_15456"}
+
+{:event/type "goal"
+:event/elapsed 42
+:event/player2 "Jesper Drost"
+:event/subtype "volley"
+:event/player1 "Albert Rusnak"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_5042470"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Nathaniel Will"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5042736"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Andrew Driver"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5042746"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_15456"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross_left"
+:event/player1 "Bryan Smeets"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5042750"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Andrew Driver"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5042752"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_15456"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "distance"
+:event/player1 "Youssef El Jebli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5042753"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Simon Tibbling"
+:event/player1 "Bryan Smeets"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5042758"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_15456"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Cas Peters"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5042794"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Hans Hateboer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5042804"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Jarchinio Antonia"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5042809"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Jarchinio Antonia"
+:event/subtype "from_behind"
+:event/player1 "Andrew Driver"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5042826"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_15456"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/player1 "Andrew Driver"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5042827"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Jarchinio Antonia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5042842"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_15456"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "header"
+:event/player1 "Michael de Leeuw"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5042847"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_15456"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "distance"
+:event/player1 "Youssef El Jebli"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5042853"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Jarchinio Antonia"
+:event/player1 "Alexander Bannink"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5042901"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Jesper Drost"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5042919"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Lorenzo Burnet"
+:event/player1 "Bryan Smeets"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5042927"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Jarchinio Antonia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5042933"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_15456"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "shot"
+:event/player1 "Hans Hateboer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5042954"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_15456"}
+
+{:event/type "goal"
+:event/elapsed 68
+:event/player2 "Simon Tibbling"
+:event/subtype "lob"
+:event/player1 "Michael de Leeuw"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5042985"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Albert Rusnak"
+:event/player1 "Bryan Smeets"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5043015"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_15456"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "shot"
+:event/player1 "Nathan Kabasele"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5043031"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/subtype "penalty"
+:event/player1 "Kasper Larsen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5043107"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_15456"}
+
+{:event/type "card"
+:event/elapsed 77
+:event/card_type "y"
+:event/player1 "Kasper Larsen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5043112"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_15456"}
+
+{:event/type "goal"
+:event/elapsed 78
+:event/player1 "Nathan Kabasele"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_5043084"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_15456"}
+
+{:event/type "corner"
+:event/elapsed 82
+:event/subtype "cross_left"
+:event/player1 "Lorenzo Burnet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5043117"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/subtype "hands"
+:event/player1 "Nathan Kabasele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5043136"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_15456"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/player1 "Nathan Kabasele"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5043159"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_15456"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Alexander Bannink"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5043173"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Bryan Smeets"
+:event/player1 "Bryan Linssen"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5043200"
+:event/minute 92
+:event/match_id "match_15456"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Kristopher Vida"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5043205"
+:event/minute 92
+:event/match_id "match_15456"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "stall_time"
+:event/player1 "Sergio Padt"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5043207"
+:event/minute 92
+:event/match_id "match_15456"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Ted van de Pavert"
+:event/player1 "Hans Hateboer"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5043219"
+:event/minute 94
+:event/match_id "match_15456"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Bryan Smeets"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5043222"
+:event/minute 94
+:event/match_id "match_15456"}
+
+
+]
+

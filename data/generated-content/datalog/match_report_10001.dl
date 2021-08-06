@@ -1,0 +1,1193 @@
+
+;;# data
+[
+{:match/id "match_10001"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Hannover 96"
+:match/awayteam "FC Ingolstadt 04"
+:match/score "4:0"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Moritz Hartmann"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5060672"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Salif Sane"
+:event/player1 "Alfredo Morales"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5060685"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Miiko Albornoz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5060687"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10001"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "cross_left"
+:event/player1 "Miiko Albornoz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5060696"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10001"}
+
+{:event/type "goal"
+:event/elapsed 5
+:event/player2 "Miiko Albornoz"
+:event/subtype "header"
+:event/player1 "Marcelo"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5060698"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10001"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "distance"
+:event/player1 "Moritz Hartmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5060709"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Roger"
+:event/subtype "dangerous_play"
+:event/player1 "Salif Sane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5060715"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/subtype "hands"
+:event/player1 "Miiko Albornoz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5060732"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Pascal Gross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5060736"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Roger"
+:event/subtype "pushing"
+:event/player1 "Artur Sobiech"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5060741"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10001"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "volley"
+:event/player1 "Moritz Hartmann"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5060747"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10001"}
+
+{:event/type "goal"
+:event/elapsed 11
+:event/player2 "Kenan Karaman"
+:event/subtype "header"
+:event/player1 "Leon Andreasen"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_5060755"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Roger"
+:event/player1 "Manuel Schmiedebach"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5060769"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Tobias Levels"
+:event/player1 "Artur Sobiech"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5060781"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Ramazan Oezcan"
+:event/subtype "trip"
+:event/player1 "Leon Andreasen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5060784"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10001"}
+
+{:event/type "card"
+:event/elapsed 15
+:event/card_type "y"
+:event/player1 "Leon Andreasen"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5060789"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Uffe Bech"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5060816"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10001"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "miss_kick"
+:event/player1 "Uffe Bech"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5060818"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Pascal Gross"
+:event/player1 "Kenan Karaman"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5060830"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Pascal Gross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5060831"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10001"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross_left"
+:event/player1 "Pascal Gross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5060842"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5060855"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Kenan Karaman"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5060860"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10001"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "distance"
+:event/player1 "Salif Sane"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5060863"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Leon Andreasen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5060867"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5060869"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5060880"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Alfredo Morales"
+:event/player1 "Uffe Bech"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5060886"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Matthew Leckie"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5060896"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_10001"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross_left"
+:event/player1 "Pascal Gross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5060906"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_10001"}
+
+{:event/type "goal"
+:event/elapsed 25
+:event/player2 "Uffe Bech"
+:event/subtype "distance"
+:event/player1 "Kenan Karaman"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_5060915"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Tobias Levels"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5060965"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10001"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "blocked_shot"
+:event/player1 "Pascal Gross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5060973"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Oliver Sorg"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5060977"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Pascal Gross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5060991"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Pascal Gross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5061043"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10001"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "header"
+:event/player1 "Tomas Pekhart"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5061050"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Kenan Karaman"
+:event/subtype "dangerous_play"
+:event/player1 "Tobias Levels"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061080"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Uffe Bech"
+:event/player1 "Robert Bauer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061096"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Marvin Matip"
+:event/player1 "Leon Andreasen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5061115"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Tobias Levels"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5061130"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Marcelo"
+:event/subtype "pull"
+:event/player1 "Matthew Leckie"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061141"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Pascal Gross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5061152"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Leon Andreasen"
+:event/player1 "Roger"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061192"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5061226"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/subtype "hands"
+:event/player1 "Roger"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061243"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Uffe Bech"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5061249"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Leon Andreasen"
+:event/player1 "Tobias Levels"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061274"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Leon Andreasen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5061286"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Robert Bauer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5061307"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Manuel Schmiedebach"
+:event/player1 "Moritz Hartmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061343"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Benjamin Huebner"
+:event/player1 "Artur Sobiech"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5061395"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10001"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Pascal Gross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5061404"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Tobias Levels"
+:event/player1 "Artur Sobiech"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5061812"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Leon Andreasen"
+:event/subtype "pushing"
+:event/player1 "Benjamin Huebner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061833"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10001"}
+
+{:event/type "card"
+:event/elapsed 51
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Christian Schulz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5061916"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10001"}
+
+{:event/type "card"
+:event/elapsed 51
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Tobias Levels"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5061920"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Benjamin Huebner"
+:event/subtype "pushing"
+:event/player1 "Artur Sobiech"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5061950"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Danny da Costa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5061985"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10001"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_right"
+:event/player1 "Pascal Gross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5061995"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Leon Andreasen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5062070"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Artur Sobiech"
+:event/subtype "trip"
+:event/player1 "Marvin Matip"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5062101"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10001"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/player1 "Marvin Matip"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5062111"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/subtype "hands"
+:event/player1 "Leon Andreasen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5062157"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Kenan Karaman"
+:event/player1 "Alfredo Morales"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5062165"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Moritz Hartmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5062200"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Kenan Karaman"
+:event/subtype "serious_foul"
+:event/player1 "Danny da Costa"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5062218"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10001"}
+
+{:event/type "card"
+:event/elapsed 60
+:event/card_type "y"
+:event/player1 "Danny da Costa"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5062222"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10001"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "blocked_shot"
+:event/player1 "Leon Andreasen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5062246"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Artur Sobiech"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5062253"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10001"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross_right"
+:event/player1 "Leon Andreasen"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5062261"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Uffe Bech"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5062271"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5062273"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Kenan Karaman"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5062286"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10001"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "header"
+:event/player1 "Artur Sobiech"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5062289"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10001"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Pascal Gross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5062307"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Pascal Gross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5062310"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10001"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "shot"
+:event/player1 "Alfredo Morales"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5062316"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Manuel Schmiedebach"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5062330"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10001"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_shot"
+:event/player1 "Leon Andreasen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5062333"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10001"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross_right"
+:event/player1 "Leon Andreasen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5062336"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Marvin Matip"
+:event/player1 "Artur Sobiech"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5062362"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Lukas Hinterseer"
+:event/player1 "Salif Sane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5062372"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10001"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "distance"
+:event/player1 "Pascal Gross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5062387"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Benjamin Huebner"
+:event/player1 "Kenan Karaman"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5062401"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Roger"
+:event/player1 "Ceyhun Gulselam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5062414"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Ceyhun Gulselam"
+:event/player1 "Tobias Levels"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5062421"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Tobias Levels"
+:event/subtype "pushing"
+:event/player1 "Artur Sobiech"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5062423"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Oliver Sorg"
+:event/player1 "Tobias Levels"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5062428"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Alfredo Morales"
+:event/player1 "Salif Sane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5062449"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10001"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Miiko Albornoz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5062454"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10001"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Roger"
+:event/subtype "from_behind"
+:event/player1 "Ceyhun Gulselam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5062531"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10001"}
+
+{:event/type "card"
+:event/elapsed 80
+:event/card_type "y"
+:event/player1 "Ceyhun Gulselam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5062535"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10001"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "distance"
+:event/player1 "Pascal Gross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5062563"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10001"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "big chance header"
+:event/player1 "Charlison Benschop"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5062639"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10001"}
+
+{:event/type "goal"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Uffe Bech"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5062675"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10001"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Ceyhun Gulselam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5062821"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10001"}
+
+
+]
+

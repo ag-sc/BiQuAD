@@ -1,0 +1,859 @@
+
+;;# data
+[
+{:match/id "match_11250"
+:match/league "Italy Serie A"
+:match/hometeam "Juventus"
+:match/awayteam "Brescia"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1468942"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "deflected"
+:event/player1 "Alberto Aquilani"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1468946"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1468947"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_11250"}
+
+{:event/type "corner"
+:event/elapsed 1
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1468947"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Alessandro Del Piero"
+:event/player1 "Nicolas Andres Cordova"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1468960"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1468972"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1468981"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_11250"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "header"
+:event/player1 "Alessandro Matri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1468983"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "distance"
+:event/player1 "Panagiotis Kone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1469013"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "big chance shot"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1469038"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Fabio Daprela"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1469090"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "direct_freekick"
+:event/player1 "Nicolas Andres Cordova"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1469100"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1469120"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1469136"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11250"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1469136"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1469140"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Alessandro Del Piero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1469149"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11250"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Alessandro Del Piero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1469149"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1469174"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1469180"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_11250"}
+
+{:event/type "goal"
+:event/elapsed 23
+:event/player2 "Alessandro Matri"
+:event/subtype "volley"
+:event/player1 "Milos Krasic"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1469181"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1469202"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_11250"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "shot"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1469207"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Alessandro Del Piero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1469210"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11250"}
+
+{:event/type "card"
+:event/elapsed 26
+:event/card_type "y"
+:event/player1 "Victor Mareco"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1469216"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "direct_freekick"
+:event/player1 "Alessandro Del Piero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1469218"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player1 "Victor Mareco"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1469226"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1469240"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1469243"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1469253"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1469256"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11250"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1469256"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1469259"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Marco Zambelli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1469273"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1469334"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "shot"
+:event/player1 "Milos Krasic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1469375"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_11250"}
+
+{:event/type "goal"
+:event/elapsed 42
+:event/player2 "Adam Vass"
+:event/subtype "header"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1469387"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1469405"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1469437"
+:event/minute 46
+:event/match_id "match_11250"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1469437"
+:event/minute 46
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1469598"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_11250"}
+
+{:event/type "corner"
+:event/elapsed 46
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1469598"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Alessandro Del Piero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1469646"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1469658"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "header"
+:event/player1 "Alberto Aquilani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1469661"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1469682"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "deflected"
+:event/player1 "Alberto Aquilani"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1469750"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1469774"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11250"}
+
+{:event/type "shoton"
+:event/elapsed 60
+:event/subtype "shot"
+:event/player1 "Alberto Aquilani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1469801"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/subtype "hands"
+:event/player1 "Milos Krasic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1469858"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "distance"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1469861"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "deflected"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1469883"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_11250"}
+
+{:event/type "goal"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Alessandro Del Piero"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1469894"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Frederik Soerensen"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1469920"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Alessandro Matri"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1469931"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11250"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/player1 "Victor Mareco"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1469938"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Giorgio Chiellini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1469967"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Milos Krasic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1469985"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1469993"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11250"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1469993"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1470029"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1470041"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player1 "Alessandro Del Piero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1470084"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "bad shot"
+:event/player1 "Alberto Aquilani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1470105"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11250"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Alessandro Del Piero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1470132"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11250"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Alessandro Del Piero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1470132"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11250"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "header"
+:event/player1 "Luca Toni"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1470135"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "header"
+:event/player1 "Milos Krasic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1470141"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11250"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "short"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1470183"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Davide Lanzafame"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1470187"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1470195"
+:event/minute 91
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1470210"
+:event/minute 94
+:event/match_id "match_11250"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "bad shot"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1470219"
+:event/minute 95
+:event/match_id "match_11250"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1470224"
+:event/minute 95
+:event/match_id "match_11250"}
+
+
+]
+

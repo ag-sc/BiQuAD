@@ -1,0 +1,839 @@
+
+;;# data
+[
+{:match/id "match_3102"
+:match/league "England Premier League"
+:match/hometeam "Liverpool"
+:match/awayteam "Wigan Athletic"
+:match/score "2:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player1 "Gary Caldwell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2011213"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011224"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3102"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011224"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3102"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "blocked_shot"
+:event/player1 "Victor Moses"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2011275"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "James McCarthy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2011298"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Jean Beausejour"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2011319"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2011380"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_3102"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "distance"
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2011381"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Steven Gerrard"
+:event/player1 "James McCarthy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2011429"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player1 "Jay Spearing"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2011434"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_3102"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "big chance shot"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2011458"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2011465"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Victor Moses"
+:event/subtype "penalty"
+:event/player1 "Martin Skrtel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2011482"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3102"}
+
+{:event/type "goal"
+:event/elapsed 30
+:event/player1 "Shaun Maloney"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_2011529"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011584"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3102"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011584"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Shaun Maloney"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2011617"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2011660"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_3102"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Luis Suarez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2011681"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011692"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3102"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011692"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Martin Skrtel"
+:event/subtype "serious_foul"
+:event/player1 "Franco Di Santo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2011716"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3102"}
+
+{:event/type "card"
+:event/elapsed 43
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Franco Di Santo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2011718"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3102"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "deflected"
+:event/player1 "Stewart Downing"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2011728"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "James McArthur"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2011780"
+:event/minute 46
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "hands"
+:event/player1 "Jay Spearing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2011800"
+:event/minute 47
+:event/match_id "match_3102"}
+
+{:event/type "goal"
+:event/elapsed 47
+:event/player2 "Steven Gerrard"
+:event/subtype "shot"
+:event/player1 "Luis Suarez"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_2011955"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3102"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2011811"
+:event/minute 49
+:event/match_id "match_3102"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "distance"
+:event/player1 "Luis Suarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2011983"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011813"
+:event/minute 49
+:event/match_id "match_3102"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011813"
+:event/minute 49
+:event/match_id "match_3102"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Jordan Henderson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2011814"
+:event/minute 49
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/subtype "hands"
+:event/player1 "Andy Carroll"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012009"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player1 "Luis Suarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012042"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Luis Suarez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2012044"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3102"}
+
+{:event/type "card"
+:event/elapsed 53
+:event/card_type "y"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2012052"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Gary Caldwell"
+:event/player1 "Luis Suarez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012084"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3102"}
+
+{:event/type "goal"
+:event/elapsed 53
+:event/subtype "header"
+:event/player1 "Luis Suarez"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_2012063"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3102"}
+
+{:event/type "card"
+:event/elapsed 55
+:event/card_type "y"
+:event/subtype "hands"
+:event/player1 "Luis Suarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2012090"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Andy Carroll"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2012105"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Andy Carroll"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2012153"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3102"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "deflected"
+:event/player1 "Shaun Maloney"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2012164"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3102"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "distance"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2012168"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player1 "Jon Flanagan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012207"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3102"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "deflected"
+:event/player1 "James McCarthy"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2012241"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3102"}
+
+{:event/type "goal"
+:event/elapsed 63
+:event/player2 "James McCarthy"
+:event/subtype "shot"
+:event/player1 "Gary Caldwell"
+:event/sortorder 5
+:event/team "away"
+:event/id "event_2012234"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2012260"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3102"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Andy Carroll"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2012262"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2012571"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3102"}
+
+{:event/type "corner"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2012571"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Andy Carroll"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2012330"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Franco Di Santo"
+:event/player1 "Martin Skrtel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012429"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012441"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Ben Watson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2012454"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Ben Watson"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012457"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012474"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Luis Suarez"
+:event/player1 "James McCarthy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2012518"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3102"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "direct_freekick"
+:event/player1 "Luis Suarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2012529"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Jose Enrique"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2012530"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_3102"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "blocked_shot"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2012549"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3102"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Raheem Sterling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2012567"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2012569"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3102"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2012569"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player1 "Luis Suarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012578"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Raheem Sterling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2012587"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3102"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Luis Suarez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2012598"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3102"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jose Enrique"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2012621"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012632"
+:event/minute 91
+:event/match_id "match_3102"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2012676"
+:event/minute 94
+:event/match_id "match_3102"}
+
+
+]
+

@@ -1,0 +1,723 @@
+
+;;# data
+[
+{:match/id "match_22327"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "RCD Mallorca"
+:match/awayteam "Málaga CF"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1302964"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_22327"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "distance"
+:event/player1 "Marti Soler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1302977"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Eliseu"
+:event/player1 "Kevin Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1302987"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Eliseu"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1302998"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22327"}
+
+{:event/type "card"
+:event/elapsed 9
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1302999"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1303014"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22327"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1303014"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1303024"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Jose Carlos Nunes"
+:event/player1 "Jose Salomon Rondon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1303031"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Gonzalo Castro"
+:event/player1 "Eliseu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1303041"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22327"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "shot"
+:event/player1 "Marti Soler"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1303046"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22327"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "shot"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1303070"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Michael Pereira"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1303099"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Jose Salomon Rondon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1303110"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/subtype "serious_foul"
+:event/player1 "Ivan Ramis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1303145"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22327"}
+
+{:event/type "card"
+:event/elapsed 25
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Ivan Ramis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1303152"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22327"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "direct_freekick"
+:event/player1 "Duda"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1303154"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Duda"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1303158"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_22327"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Duda"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1303158"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_22327"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "shot"
+:event/player1 "Duda"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1303163"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Duda"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1303175"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_22327"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Duda"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1303175"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_22327"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "post"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1303181"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Duda"
+:event/player1 "Michael Pereira"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1303202"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Jesus Gamez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1303213"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Kevin Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1303245"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/subtype "hands"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1303256"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22327"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "direct_freekick"
+:event/player1 "Marti Soler"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1303258"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1303270"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22327"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1303270"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Emilio Nsue"
+:event/subtype "serious_foul"
+:event/player1 "Weligton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1303294"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22327"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Weligton"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1303297"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22327"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "direct_freekick"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1303308"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Weligton"
+:event/subtype "from_behind"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1303338"
+:event/minute 46
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Emilio Nsue"
+:event/player1 "Jose Recio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1303474"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Jose Salomon Rondon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1303484"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22327"}
+
+{:event/type "card"
+:event/elapsed 49
+:event/card_type "y"
+:event/player1 "Kris Stadsgaard"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1304698"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22327"}
+
+{:event/type "goal"
+:event/elapsed 50
+:event/player2 "Gonzalo Castro"
+:event/subtype "shot"
+:event/player1 "Pierre Webo"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1303489"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Manu Torres"
+:event/player1 "Dudu Aouate"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1303527"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1303529"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22327"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/player2 "Pierre Webo"
+:event/subtype "shot"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_1303538"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22327"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Emilio Nsue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1303627"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1303634"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22327"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "header"
+:event/player1 "Jose Salomon Rondon"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1303642"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Francisco Portillo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1303656"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Kris Stadsgaard"
+:event/player1 "Pierre Webo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1303677"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22327"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/player1 "Pierre Webo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1303678"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Jesus Gamez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1303686"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22327"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "header"
+:event/player1 "Sebastian Fernandez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1303687"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Quincy Owusu-Abeyie"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1303713"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22327"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Quincy Owusu-Abeyie"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1303713"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Eliseu"
+:event/player1 "Pablo Cendros"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1303754"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Eliseu"
+:event/subtype "from_behind"
+:event/player1 "Pablo Cendros"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1303787"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player1 "Sergio Tejera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1303821"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_22327"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Manu Torres"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1303839"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Sergio Tejera"
+:event/player1 "Jose Recio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1303846"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Michael Pereira"
+:event/player1 "Jesus Gamez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1303852"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_22327"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Eliseu"
+:event/subtype "penalty"
+:event/player1 "Pablo Cendros"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1303872"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_22327"}
+
+{:event/type "goal"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "saved_back_into_play"
+:event/player1 "Eliseu"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1303876"
+:event/event_type "goal"
+:event/goal_type "npm"
+:event/minute 91
+:event/match_id "match_22327"}
+
+
+]
+

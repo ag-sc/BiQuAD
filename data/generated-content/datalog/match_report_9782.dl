@@ -1,0 +1,834 @@
+
+;;# data
+[
+{:match/id "match_9782"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Bayer 04 Leverkusen"
+:match/awayteam "SC Freiburg"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "shotoff"
+:event/elapsed 2
+:event/subtype "distance"
+:event/player1 "Roberto Hilbert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4209799"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4209857"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4209864"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4209875"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Lars Bender"
+:event/subtype "trip"
+:event/player1 "Pavel Krmas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4209902"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_9782"}
+
+{:event/type "card"
+:event/elapsed 9
+:event/card_type "y"
+:event/player1 "Pavel Krmas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4209905"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4209919"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Pavel Krmas"
+:event/subtype "trip"
+:event/player1 "Heung-Min Son"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4209924"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Jonathan Schmid"
+:event/subtype "pushing"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4209959"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Felix Klaus"
+:event/subtype "pushing"
+:event/player1 "Wendell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4209981"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Pavel Krmas"
+:event/subtype "trip"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4209992"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Roberto Hilbert"
+:event/subtype "serious_foul"
+:event/player1 "Maximilian Philipp"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4210003"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_9782"}
+
+{:event/type "card"
+:event/elapsed 17
+:event/card_type "y"
+:event/player1 "Maximilian Philipp"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4210006"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Heung-Min Son"
+:event/subtype "pushing"
+:event/player1 "Julian Schuster"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4210014"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_9782"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "miss_kick"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4210024"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Wendell"
+:event/subtype "trip"
+:event/player1 "Felix Klaus"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4210045"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Christian Guenter"
+:event/subtype "pushing"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4210048"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_9782"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "distance"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4210081"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Omer Toprak"
+:event/subtype "dangerous_play"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4210094"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Jonathan Schmid"
+:event/subtype "obstruction"
+:event/player1 "Omer Toprak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4210116"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_9782"}
+
+{:event/type "card"
+:event/elapsed 26
+:event/card_type "y"
+:event/player1 "Omer Toprak"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4210118"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_9782"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "direct_freekick"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4210128"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Maximilian Philipp"
+:event/subtype "trip"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4210134"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9782"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "distance"
+:event/player1 "Felix Klaus"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4210137"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9782"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross_right"
+:event/player1 "Julian Schuster"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4210143"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9782"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross_right"
+:event/player1 "Julian Schuster"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4210149"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4210244"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_9782"}
+
+{:event/type "goal"
+:event/elapsed 33
+:event/subtype "volley"
+:event/player1 "Simon Rolfes"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_4210229"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4210302"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Jonathan Schmid"
+:event/subtype "trip"
+:event/player1 "Roberto Hilbert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4210353"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Felix Klaus"
+:event/subtype "pushing"
+:event/player1 "Wendell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4210390"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Wendell"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4210455"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4210470"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Emir Spahic"
+:event/subtype "pull"
+:event/player1 "Vladimir Darida"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4210865"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Stefan Kiessling"
+:event/subtype "pushing"
+:event/player1 "Pavel Krmas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4210881"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_9782"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Heung-Min Son"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4210575"
+:event/minute 47
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Wendell"
+:event/subtype "trip"
+:event/player1 "Vladimir Darida"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4210585"
+:event/minute 47
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4210592"
+:event/minute 47
+:event/match_id "match_9782"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4210599"
+:event/minute 47
+:event/match_id "match_9782"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross_right"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4210994"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_9782"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "blocked_shot"
+:event/player1 "Heung-Min Son"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4210999"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Vladimir Darida"
+:event/subtype "trip"
+:event/player1 "Simon Rolfes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4211063"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Maximilian Philipp"
+:event/subtype "pushing"
+:event/player1 "Roberto Hilbert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4211112"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Karim Guede"
+:event/subtype "pushing"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4211157"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Simon Rolfes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4211265"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Stefan Kiessling"
+:event/subtype "pull"
+:event/player1 "Julian Schuster"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4211276"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4211290"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Omer Toprak"
+:event/subtype "pull"
+:event/player1 "Julian Schuster"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4211340"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4211349"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_9782"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "deflected"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4211381"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_9782"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross_left"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4211389"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_9782"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross_right"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4211395"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_9782"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "distance"
+:event/player1 "Heung-Min Son"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4211398"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Pavel Krmas"
+:event/subtype "pull"
+:event/player1 "Josip Drmic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4211601"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_9782"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "blocked_shot"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4211608"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Omer Toprak"
+:event/subtype "pushing"
+:event/player1 "Karim Guede"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4211636"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_9782"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Stefan Reinartz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4211663"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Heung-Min Son"
+:event/subtype "obstruction"
+:event/player1 "Immanuel Hoehn"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4211694"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_9782"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "deflected"
+:event/player1 "Josip Drmic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4211763"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Karim Guede"
+:event/subtype "trip"
+:event/player1 "Roberto Hilbert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4211770"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4211795"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_4211840"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Vladimir Darida"
+:event/subtype "trip"
+:event/player1 "Julian Brandt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4211883"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9782"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4211890"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9782"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "big chance header"
+:event/player1 "Jonathan Schmid"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4211951"
+:event/minute 92
+:event/match_id "match_9782"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Simon Rolfes"
+:event/subtype "pushing"
+:event/player1 "Dani Schahin"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4211975"
+:event/minute 93
+:event/match_id "match_9782"}
+
+
+]
+

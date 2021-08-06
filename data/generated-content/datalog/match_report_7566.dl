@@ -1,0 +1,932 @@
+
+;;# data
+[
+{:match/id "match_7566"
+:match/league "France Ligue 1"
+:match/hometeam "SC Bastia"
+:match/awayteam "Montpellier Hérault SC"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "William Remy"
+:event/subtype "trip"
+:event/player1 "Julien Palmieri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5184191"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Ryad Boudebouz"
+:event/subtype "trip"
+:event/player1 "Seko Fofana"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5184203"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Ryad Boudebouz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5184207"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7566"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross_left"
+:event/player1 "Ryad Boudebouz"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5184216"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7566"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross_left"
+:event/player1 "Ryad Boudebouz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5184255"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7566"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross_left"
+:event/player1 "Axel N'Gando"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5184368"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Axel N'Gando"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5184393"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Yannick Cahuzac"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5184454"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Daniel Congre"
+:event/subtype "trip"
+:event/player1 "Seko Fofana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5184461"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Mathieu Deplagne"
+:event/subtype "dangerous_play"
+:event/player1 "Yannick Cahuzac"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5184488"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Mathieu Deplagne"
+:event/subtype "trip"
+:event/player1 "Yannick Cahuzac"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5184537"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Bryan Dabo"
+:event/subtype "trip"
+:event/player1 "Axel N'Gando"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5184551"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Bryan Dabo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5184554"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Souleymane Camara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5184607"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Yannick Cahuzac"
+:event/subtype "dangerous_play"
+:event/player1 "Jonas Martin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5184630"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Julien Palmieri"
+:event/subtype "trip"
+:event/player1 "Mathieu Deplagne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5184672"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Floyd Ayite"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5184682"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Yannick Cahuzac"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5184708"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "William Remy"
+:event/subtype "dangerous_play"
+:event/player1 "Brandao"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5184743"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7566"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/card_type "y"
+:event/player1 "Brandao"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5184747"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Bryan Dabo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5184781"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Axel N'Gando"
+:event/subtype "pushing"
+:event/player1 "Bryan Dabo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5184790"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Axel N'Gando"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5184793"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Axel N'Gando"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5184830"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Rodrigue Casimir Ninga"
+:event/subtype "trip"
+:event/player1 "Axel N'Gando"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5184833"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Julien Palmieri"
+:event/subtype "trip"
+:event/player1 "Mathieu Deplagne"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5184878"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7566"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/player1 "Mathieu Deplagne"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5184879"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Axel N'Gando"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5184885"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Mathieu Deplagne"
+:event/subtype "pushing"
+:event/player1 "Sebastien Squillaci"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5184888"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Axel N'Gando"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5184915"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7566"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "crossbar"
+:event/player1 "Julien Palmieri"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5184916"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7566"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Jonas Martin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5184923"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Jonas Martin"
+:event/subtype "trip"
+:event/player1 "Axel N'Gando"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185103"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Bryan Dabo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185133"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Florian Marange"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185153"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7566"}
+
+{:event/type "goal"
+:event/elapsed 48
+:event/player2 "Florian Marange"
+:event/subtype "header"
+:event/player1 "Floyd Ayite"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5185156"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Mathieu Deplagne"
+:event/subtype "trip"
+:event/player1 "Floyd Ayite"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185193"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Floyd Ayite"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185224"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7566"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross_left"
+:event/player1 "Ryad Boudebouz"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5185292"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Ramy Bensebaini"
+:event/subtype "trip"
+:event/player1 "Floyd Ayite"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185330"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Bryan Dabo"
+:event/subtype "trip"
+:event/player1 "Yannick Cahuzac"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185365"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "William Remy"
+:event/subtype "dangerous_play"
+:event/player1 "Alexander Djiku"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185373"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7566"}
+
+{:event/type "card"
+:event/elapsed 59
+:event/card_type "y"
+:event/player1 "Alexander Djiku"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5185378"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Ryad Boudebouz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185398"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7566"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "header"
+:event/player1 "Hilton"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5185405"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Daniel Congre"
+:event/subtype "pull"
+:event/player1 "Seko Fofana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185502"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Floyd Ayite"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185511"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Jonas Martin"
+:event/subtype "trip"
+:event/player1 "Seko Fofana"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185523"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7566"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "r"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Seko Fofana"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5185528"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Floyd Ayite"
+:event/subtype "trip"
+:event/player1 "Daniel Congre"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5185581"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7566"}
+
+{:event/type "card"
+:event/elapsed 68
+:event/card_type "r"
+:event/player1 "Daniel Congre"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5185587"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Ramy Bensebaini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185628"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Bryan Dabo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185646"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Hilton"
+:event/subtype "trip"
+:event/player1 "Alexander Djiku"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185677"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7566"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross_right"
+:event/player1 "Hilton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5185693"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Ramy Bensebaini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185734"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Yannick Cahuzac"
+:event/subtype "trip"
+:event/player1 "Mustapha Yatabare"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5185746"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Ryad Boudebouz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185795"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Kevin Berigaud"
+:event/subtype "trip"
+:event/player1 "Yannick Cahuzac"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185809"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Kevin Berigaud"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185811"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Kevin Berigaud"
+:event/subtype "trip"
+:event/player1 "Mehdi Mostefa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185835"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Bryan Dabo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185841"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7566"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "header"
+:event/player1 "Jonas Martin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5185847"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Floyd Ayite"
+:event/subtype "trip"
+:event/player1 "William Remy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5185868"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Gael Danic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5185877"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Gael Danic"
+:event/subtype "dangerous_play"
+:event/player1 "Ryad Boudebouz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5185920"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7566"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Rodrigue Casimir Ninga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5185932"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7566"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "deflected"
+:event/player1 "Mamadou N'Diaye"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5185947"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7566"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/subtype "hands"
+:event/player1 "Francois Modesto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5185955"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7566"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Francois Modesto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5185957"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7566"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "deflected"
+:event/player1 "Rodrigue Casimir Ninga"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5186000"
+:event/minute 93
+:event/match_id "match_7566"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Ryad Boudebouz"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5186001"
+:event/minute 93
+:event/match_id "match_7566"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "William Remy"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5186007"
+:event/minute 93
+:event/match_id "match_7566"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Ryad Boudebouz"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5186012"
+:event/minute 93
+:event/match_id "match_7566"}
+
+
+]
+

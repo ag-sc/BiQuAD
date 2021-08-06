@@ -1,0 +1,808 @@
+
+;;# data
+[
+{:match/id "match_7447"
+:match/league "France Ligue 1"
+:match/hometeam "AS Saint-Étienne"
+:match/awayteam "GFC Ajaccio"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4913701"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Pablo Martinez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4913736"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Romain Hamouma"
+:event/subtype "dangerous_play"
+:event/player1 "Damjan Djokovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4913798"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Romain Hamouma"
+:event/subtype "from_behind"
+:event/player1 "Pablo Martinez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4913871"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Valentin Eysseric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4913891"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Damjan Djokovic"
+:event/player1 "Valentin Eysseric"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4913902"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7447"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross_right"
+:event/player1 "Valentin Eysseric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4913938"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7447"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "distance"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4913944"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Mohamed Larbi"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4914067"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Valentin Eysseric"
+:event/subtype "trip"
+:event/player1 "Alassane Toure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4914079"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7447"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross_right"
+:event/player1 "Valentin Eysseric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4914099"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Mohamed Larbi"
+:event/subtype "dangerous_play"
+:event/player1 "Valentin Eysseric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4914132"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7447"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross_right"
+:event/player1 "Valentin Eysseric"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4914163"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7447"}
+
+{:event/type "goal"
+:event/elapsed 20
+:event/player2 "Valentin Eysseric"
+:event/subtype "shot"
+:event/player1 "Robert Beric"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4914168"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Romain Hamouma"
+:event/player1 "Pablo Martinez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4914231"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Alassane Toure"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4914277"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Romain Hamouma"
+:event/subtype "trip"
+:event/player1 "Alassane Toure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4914241"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7447"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross_left"
+:event/player1 "Valentin Eysseric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4914251"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Francois Clerc"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4914262"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/subtype "hands"
+:event/player1 "Robert Beric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4914270"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4914324"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7447"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "blocked_shot"
+:event/player1 "Fabien Lemoine"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4914358"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Pablo Martinez"
+:event/subtype "pull"
+:event/player1 "Valentin Eysseric"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4914364"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Fabien Lemoine"
+:event/player1 "Mohamed Larbi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4914407"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7447"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "distance"
+:event/player1 "Romain Hamouma"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4914432"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Jerome Le Moigne"
+:event/player1 "Robert Beric"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4914444"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Mustapha Bayal Sall"
+:event/player1 "Jacques Zoua Daogari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4914459"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Jacques Zoua Daogari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4914518"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7447"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross_left"
+:event/player1 "Mohamed Larbi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4914524"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Fabien Lemoine"
+:event/player1 "Kader Mangane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4914555"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Romain Hamouma"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4914564"
+:event/minute 46
+:event/match_id "match_7447"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "blocked_shot"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4914811"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7447"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4914819"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4914845"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Romain Hamouma"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4914865"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7447"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "shot"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4914884"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7447"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Valentin Eysseric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4914897"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Mohamed Larbi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4914926"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7447"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_left"
+:event/player1 "Mohamed Larbi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4914934"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Kader Mangane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4915004"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7447"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "header"
+:event/player1 "Khalid Boutaib"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4915008"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Loic Perrin"
+:event/subtype "pushing"
+:event/player1 "Kevin Mayi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4915039"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Mustapha Bayal Sall"
+:event/subtype "trip"
+:event/player1 "Khalid Boutaib"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4915088"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Khalid Boutaib"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4915128"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7447"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross_left"
+:event/player1 "Damjan Djokovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4915137"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4915162"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Kevin Mayi"
+:event/subtype "dangerous_play"
+:event/player1 "Vincent Pajot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4915183"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7447"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "direct_freekick"
+:event/player1 "Damjan Djokovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4915192"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4915201"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7447"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/player2 "Valentin Eysseric"
+:event/subtype "distance"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4915299"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Khalid Boutaib"
+:event/player1 "Loic Perrin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4915460"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7447"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "distance"
+:event/player1 "Robert Beric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4915374"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Valentin Eysseric"
+:event/player1 "Jerome Le Moigne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4915512"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7447"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "distance"
+:event/player1 "Valentin Eysseric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4915417"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Jerome Le Moigne"
+:event/subtype "serious_foul"
+:event/player1 "Fabien Lemoine"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4915466"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Damjan Djokovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4915472"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7447"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Nolan Roux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4915508"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Khalid Boutaib"
+:event/player1 "Vincent Pajot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4915589"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7447"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Nolan Roux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4915522"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7447"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "cross_right"
+:event/player1 "Valentin Eysseric"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4915533"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Robert Beric"
+:event/player1 "Alassane Toure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4915551"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Nolan Roux"
+:event/player1 "Alassane Toure"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4915673"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7447"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Nolan Roux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4915610"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7447"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Valentin Eysseric"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4915659"
+:event/minute 91
+:event/match_id "match_7447"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Clement Maury"
+:event/player1 "Ismael Diomande"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4915727"
+:event/minute 92
+:event/match_id "match_7447"}
+
+
+]
+

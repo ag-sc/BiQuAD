@@ -1,0 +1,999 @@
+
+;;# data
+[
+{:match/id "match_3153"
+:match/league "England Premier League"
+:match/hometeam "Fulham"
+:match/awayteam "Wigan Athletic"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "James McCarthy"
+:event/subtype "from_behind"
+:event/player1 "Mahamadou Diarra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2072886"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2072924"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Jean Beausejour"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2072952"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3153"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "shot"
+:event/player1 "Jordi Gomez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2072961"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2072976"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3153"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "short"
+:event/player1 "Damien Duff"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2072983"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2072988"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3153"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "blocked_shot"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2072992"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Damien Duff"
+:event/subtype "obstruction"
+:event/player1 "Emmerson Boyce"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2073006"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3153"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "shot"
+:event/player1 "Damien Duff"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2073012"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Jordi Gomez"
+:event/subtype "pushing"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2073029"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2073047"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3153"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "deflected"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2073128"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2073132"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_3153"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2073132"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_3153"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "header"
+:event/player1 "Brede Hangeland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2073134"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Jordi Gomez"
+:event/player1 "Mahamadou Diarra"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2073158"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_3153"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "blocked_shot"
+:event/player1 "Jordi Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2073166"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Jordi Gomez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2073168"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3153"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "blocked_shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2073215"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_3153"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "blocked_shot"
+:event/player1 "Moussa Dembele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2073217"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Danny Murphy"
+:event/subtype "shirt_pull"
+:event/player1 "Victor Moses"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2073219"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2073233"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3153"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2073233"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2073261"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2073278"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Maynor Figueroa"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2073294"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Victor Moses"
+:event/player1 "Philippe Senderos"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2073308"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Antolin Alcaraz"
+:event/player1 "Moussa Dembele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2073334"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_3153"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2073348"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Clint Dempsey"
+:event/subtype "obstruction"
+:event/player1 "Antolin Alcaraz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2073359"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2073365"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3153"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "distance"
+:event/player1 "Jordi Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2073377"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "John Arne Riise"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2073408"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "James McCarthy"
+:event/subtype "pushing"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2073432"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2073443"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Mahamadou Diarra"
+:event/player1 "James McArthur"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2073471"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "John Arne Riise"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2073477"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_3153"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "shot"
+:event/player1 "Jordi Gomez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2073481"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Victor Moses"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2073512"
+:event/minute 46
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Clint Dempsey"
+:event/player1 "Antolin Alcaraz"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2073606"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Jean Beausejour"
+:event/subtype "pushing"
+:event/player1 "Aaron Hughes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2073684"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3153"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "shot"
+:event/player1 "Jordi Gomez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2073692"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3153"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "distance"
+:event/player1 "Victor Moses"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2073708"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Pavel Pogrebnyak"
+:event/player1 "Gary Caldwell"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2073716"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3153"}
+
+{:event/type "card"
+:event/elapsed 53
+:event/card_type "y"
+:event/player1 "Gary Caldwell"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2073719"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Emmerson Boyce"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2073744"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_3153"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "volley"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2073748"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Moussa Dembele"
+:event/player1 "Jordi Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2073759"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Maynor Figueroa"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2073790"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3153"}
+
+{:event/type "goal"
+:event/elapsed 57
+:event/subtype "distance"
+:event/player1 "Emmerson Boyce"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_2073794"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3153"}
+
+{:event/type "goal"
+:event/elapsed 58
+:event/player2 "Clint Dempsey"
+:event/subtype "distance"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_2073811"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Clint Dempsey"
+:event/subtype "from_behind"
+:event/player1 "Emmerson Boyce"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2073874"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3153"}
+
+{:event/type "card"
+:event/elapsed 62
+:event/card_type "y"
+:event/player1 "Emmerson Boyce"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2073876"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "John Arne Riise"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2073887"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3153"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "big chance crossbar"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2073893"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3153"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "short"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2073900"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2073902"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3153"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "bad shot"
+:event/player1 "John Arne Riise"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2073905"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Moussa Dembele"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2073946"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_3153"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "indirect freekick"
+:event/player1 "John Arne Riise"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2073964"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2073971"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Antolin Alcaraz"
+:event/subtype "pushing"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2073975"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3153"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "blocked_shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2074017"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Conor Sammon"
+:event/subtype "pushing"
+:event/player1 "Brede Hangeland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2074022"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Jean Beausejour"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2074031"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2074035"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Jean Beausejour"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2074049"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Damien Duff"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2074095"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3153"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2074113"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_3153"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "big chance post"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2074115"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Aaron Hughes"
+:event/subtype "pushing"
+:event/player1 "Jean Beausejour"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2074153"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2074178"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3153"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "shot"
+:event/player1 "Philippe Senderos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2074179"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Mahamadou Diarra"
+:event/player1 "James McCarthy"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2074192"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3153"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Victor Moses"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2074239"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3153"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/player1 "Kerim Frei Koyunlu"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2074244"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Kerim Frei Koyunlu"
+:event/player1 "Emmerson Boyce"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2074258"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3153"}
+
+{:event/type "goal"
+:event/elapsed 89
+:event/player2 "John Arne Riise"
+:event/subtype "header"
+:event/player1 "Philippe Senderos"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_2074265"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Damien Duff"
+:event/player1 "Shaun Maloney"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2074284"
+:event/minute 91
+:event/match_id "match_3153"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "pushing"
+:event/player1 "Conor Sammon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2074334"
+:event/minute 94
+:event/match_id "match_3153"}
+
+
+]
+

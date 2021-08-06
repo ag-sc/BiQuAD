@@ -1,0 +1,988 @@
+
+;;# data
+[
+{:match/id "match_8263"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "FC Schalke 04"
+:match/awayteam "Borussia Dortmund"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "short"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971811"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Rafinha"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_971812"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8263"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "header"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_971813"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8263"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Kevin Grosskreutz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_971835"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Jefferson Farfan"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_971838"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971840"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_8263"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971840"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971845"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_8263"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971845"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Mats Hummels"
+:event/subtype "shirt_pull"
+:event/player1 "Benedikt Hoewedes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_971856"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_971876"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_8263"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "header"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_971877"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_8263"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "shot"
+:event/player1 "Edu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_971889"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8263"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "blocked_shot"
+:event/player1 "Mohamed Zidan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_971895"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Vicente Sanchez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_971899"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Kevin Grosskreutz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_971919"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Patrick Owomoyela"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_971920"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971926"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_8263"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971926"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971928"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8263"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971928"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8263"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "header"
+:event/player1 "Marcelo Jose Bordon"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_971929"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Mats Hummels"
+:event/subtype "pushing"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_971934"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/subtype "hands"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_971935"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Marcel Schmelzer"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_971943"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_971944"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Mohamed Zidan"
+:event/subtype "pushing"
+:event/player1 "Marcelo Jose Bordon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_971949"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Nuri Sahin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_971950"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8263"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Nuri Sahin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_971950"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8263"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "deflected"
+:event/player1 "Nelson Haedo Valdez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_971951"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8263"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "big chance shot"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_971953"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Nuri Sahin"
+:event/subtype "from_behind"
+:event/player1 "Peer Kluge"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_971955"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Nelson Haedo Valdez"
+:event/subtype "penalty"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_971963"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_8263"}
+
+{:event/type "goal"
+:event/elapsed 47
+:event/player1 "Nuri Sahin"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_971964"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Jakub Blaszczykowski"
+:event/subtype "serious_foul"
+:event/player1 "Lukas Schmitz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_971965"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_971967"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_8263"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Mats Hummels"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_971969"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Nelson Haedo Valdez"
+:event/player1 "Peer Kluge"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_971971"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971972"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8263"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971972"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8263"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "blocked_shot"
+:event/player1 "Peer Kluge"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_971973"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Lukas Schmitz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971974"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8263"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Lukas Schmitz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971974"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/subtype "pushing"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_971977"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8263"}
+
+{:event/type "card"
+:event/elapsed 54
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_971978"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Marcelo Jose Bordon"
+:event/subtype "serious_foul"
+:event/player1 "Nelson Haedo Valdez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_971981"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_8263"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Nelson Haedo Valdez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_971982"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971983"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8263"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971983"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Neven Subotic"
+:event/subtype "pushing"
+:event/player1 "Lukas Schmitz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_971984"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971991"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_8263"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_971991"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_971998"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8263"}
+
+{:event/type "goal"
+:event/elapsed 66
+:event/player2 "Lukas Schmitz"
+:event/subtype "header"
+:event/player1 "Benedikt Hoewedes"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_972001"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_972002"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Peer Kluge"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_972006"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8263"}
+
+{:event/type "card"
+:event/elapsed 68
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_972005"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Mats Hummels"
+:event/subtype "pushing"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_972012"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8263"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Edu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_972016"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_972017"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8263"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_972017"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8263"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "shot"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_972020"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Lukas Schmitz"
+:event/player1 "Sven Bender"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_972021"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8263"}
+
+{:event/type "card"
+:event/elapsed 76
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Sven Bender"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_972022"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_972023"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player1 "Peer Kluge"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_972025"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player1 "Patrick Owomoyela"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_972027"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8263"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "deflected"
+:event/player1 "Nelson Haedo Valdez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_972028"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Tamas Hajnal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_972030"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8263"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Tamas Hajnal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_972030"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8263"}
+
+{:event/type "goal"
+:event/elapsed 83
+:event/player2 "Edu"
+:event/subtype "distance"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_972033"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player1 "Lukas Schmitz"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_972038"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8263"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/player1 "Lukas Schmitz"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_972039"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player1 "Nelson Haedo Valdez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_972040"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player1 "Patrick Owomoyela"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_972043"
+:event/minute 91
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Gerald Asamoah"
+:event/subtype "serious_foul"
+:event/player1 "Kevin Grosskreutz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_972044"
+:event/minute 92
+:event/match_id "match_8263"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Kevin Grosskreutz"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_972045"
+:event/minute 92
+:event/match_id "match_8263"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_972046"
+:event/minute 92
+:event/match_id "match_8263"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Kevin Kuranyi"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_972047"
+:event/minute 92
+:event/match_id "match_8263"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Patrick Owomoyela"
+:event/player1 "Gerald Asamoah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_972049"
+:event/minute 93
+:event/match_id "match_8263"}
+
+{:event/type "shoton"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Gerald Asamoah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_972052"
+:event/minute 95
+:event/match_id "match_8263"}
+
+
+]
+

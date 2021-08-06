@@ -1,0 +1,932 @@
+
+;;# data
+[
+{:match/id "match_10238"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "1. FSV Mainz 05"
+:match/awayteam "FC Bayern Munich"
+:match/score "0:4"
+:match/hometeam_goals "0"
+:match/awayteam_goals "3"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Rafinha"
+:event/subtype "trip"
+:event/player1 "Christian Clemens"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4831387"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_10238"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross_left"
+:event/player1 "Douglas Costa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4831427"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10238"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Thomas Mueller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4831428"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Xabi Alonso"
+:event/subtype "pushing"
+:event/player1 "Pablo De Blasis"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4831512"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Rafinha"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4831469"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Robert Lewandowski"
+:event/subtype "trip"
+:event/player1 "Niko Bungert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4831504"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4831518"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Pierre Bengtsson"
+:event/subtype "pushing"
+:event/player1 "Kingsley Coman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4831529"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Douglas Costa"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4831578"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Xabi Alonso"
+:event/subtype "trip"
+:event/player1 "Christian Clemens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4831601"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Yunus Malli"
+:event/subtype "trip"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4831639"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Yunus Malli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4831645"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Kingsley Coman"
+:event/subtype "penalty"
+:event/player1 "Pablo De Blasis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4831662"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10238"}
+
+{:event/type "goal"
+:event/elapsed 21
+:event/subtype "missed"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_4831672"
+:event/event_type "goal"
+:event/goal_type "npm"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Xabi Alonso"
+:event/player1 "Danny Latza"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4831716"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_10238"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "direct_freekick"
+:event/player1 "David Alaba"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4831724"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Pablo De Blasis"
+:event/subtype "dangerous_play"
+:event/player1 "Xabi Alonso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4831769"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10238"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/card_type "y"
+:event/player1 "Xabi Alonso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4831770"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10238"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "big chance shot"
+:event/player1 "Yoshinori Muto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4831778"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Thomas Mueller"
+:event/subtype "pushing"
+:event/player1 "Julian Baumgartlinger"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4831786"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10238"}
+
+{:event/type "card"
+:event/elapsed 28
+:event/card_type "y"
+:event/player1 "Julian Baumgartlinger"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4831788"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Yoshinori Muto"
+:event/subtype "trip"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4831822"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10238"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "distance"
+:event/player1 "Douglas Costa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4831911"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10238"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross_right"
+:event/player1 "Xabi Alonso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4831925"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Philipp Lahm"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4831956"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10238"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "header"
+:event/player1 "Kingsley Coman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4831957"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Christian Clemens"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4831976"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Daniel Brosinski"
+:event/subtype "pushing"
+:event/player1 "Rafinha"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832020"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Robert Lewandowski"
+:event/subtype "trip"
+:event/player1 "Niko Bungert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4832067"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10238"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "distance"
+:event/player1 "Robert Lewandowski"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4832074"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10238"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "distance"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4832097"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Thiago Alcantara"
+:event/subtype "trip"
+:event/player1 "Danny Latza"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4832107"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Yunus Malli"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832150"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Xabi Alonso"
+:event/subtype "trip"
+:event/player1 "Pablo De Blasis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4832158"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Kingsley Coman"
+:event/subtype "trip"
+:event/player1 "Daniel Brosinski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4832189"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10238"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Kingsley Coman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4832214"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Yoshinori Muto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4832597"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Daniel Brosinski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4832665"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Kingsley Coman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4832718"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10238"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player2 "Kingsley Coman"
+:event/subtype "header"
+:event/player1 "Robert Lewandowski"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_4832722"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Pablo De Blasis"
+:event/player1 "Javier Martinez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832793"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Yunus Malli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4832809"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Philipp Lahm"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4832834"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Thomas Mueller"
+:event/subtype "pushing"
+:event/player1 "Stefan Bell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4832894"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Douglas Costa"
+:event/subtype "trip"
+:event/player1 "Niko Bungert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4832898"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Xabi Alonso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4832912"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10238"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "distance"
+:event/player1 "Robert Lewandowski"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4832970"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Philipp Lahm"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4832993"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10238"}
+
+{:event/type "shoton"
+:event/elapsed 60
+:event/subtype "distance"
+:event/player1 "Douglas Costa"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4833017"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Douglas Costa"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4833064"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10238"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Kingsley Coman"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4833068"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10238"}
+
+{:event/type "goal"
+:event/elapsed 63
+:event/player2 "Arturo Vidal"
+:event/subtype "shot"
+:event/player1 "Robert Lewandowski"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_4833086"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Robert Lewandowski"
+:event/subtype "trip"
+:event/player1 "Stefan Bell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4833111"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10238"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "direct_freekick"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4833117"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Julian Baumgartlinger"
+:event/subtype "trip"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4833132"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10238"}
+
+{:event/type "goal"
+:event/elapsed 68
+:event/player2 "Douglas Costa"
+:event/subtype "tap_in"
+:event/player1 "Kingsley Coman"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4833180"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Julian Baumgartlinger"
+:event/player1 "Mario Goetze"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4833225"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Christian Clemens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4833236"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10238"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "header"
+:event/player1 "Yoshinori Muto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4833237"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10238"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross_right"
+:event/player1 "Christian Clemens"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4833242"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10238"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "header"
+:event/player1 "Pablo De Blasis"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4833244"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10238"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross_right"
+:event/player1 "Christian Clemens"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4833257"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10238"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Christian Clemens"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4833260"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Rafinha"
+:event/subtype "trip"
+:event/player1 "Julian Baumgartlinger"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4833270"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10238"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "crossbar"
+:event/player1 "Christian Clemens"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4833326"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Julian Baumgartlinger"
+:event/subtype "trip"
+:event/player1 "Mario Goetze"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4833412"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Thiago Alcantara"
+:event/subtype "trip"
+:event/player1 "Jairo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4833441"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_10238"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Pierre Bengtsson"
+:event/subtype "pushing"
+:event/player1 "Arturo Vidal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4833469"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10238"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Leon Balogun"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4833479"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10238"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross_right"
+:event/player1 "Daniel Brosinski"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4833482"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10238"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross_right"
+:event/player1 "Xabi Alonso"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4833588"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10238"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "deflected"
+:event/player1 "Jerome Boateng"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4833657"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10238"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "short_right"
+:event/player1 "Kingsley Coman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4833666"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10238"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "David Alaba"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4833678"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10238"}
+
+
+]
+

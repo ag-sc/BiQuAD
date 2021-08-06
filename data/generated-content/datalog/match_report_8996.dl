@@ -1,0 +1,1252 @@
+
+;;# data
+[
+{:match/id "match_8996"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "FC Augsburg"
+:match/awayteam "Bayer 04 Leverkusen"
+:match/score "1:4"
+:match/hometeam_goals "1"
+:match/awayteam_goals "4"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/subtype "hands"
+:event/player1 "Axel Bellinghausen"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1634992"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Stefan Kiessling"
+:event/subtype "from_behind"
+:event/player1 "Gibril Sankoh"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1634998"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Daniel Baier"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1635002"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1635004"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635007"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_8996"}
+
+{:event/type "goal"
+:event/elapsed 5
+:event/player2 "Daniel Baier"
+:event/subtype "shot"
+:event/player1 "Hajime Hosogai"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1635006"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_8996"}
+
+{:event/type "goal"
+:event/elapsed 6
+:event/player2 "Stefan Kiessling"
+:event/subtype "shot"
+:event/player1 "Sidney Sam"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1635013"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "distance"
+:event/player1 "Tobias Werner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1635020"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Tobias Werner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635025"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/subtype "from_behind"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1635032"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Sidney Sam"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1635039"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "shot"
+:event/player1 "Michael Ballack"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1635040"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Daniel Schwaab"
+:event/subtype "pushing"
+:event/player1 "Daniel Baier"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635046"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Michael Ballack"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1635051"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "shot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1635054"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1635055"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_8996"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1635055"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Sidney Sam"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1635073"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "shot"
+:event/player1 "Daniel Baier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1635115"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Stefan Kiessling"
+:event/subtype "from_behind"
+:event/player1 "Jan-Ingwer Callsen-Bracker"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635120"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Tobias Werner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635124"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1635130"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_8996"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1635130"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_8996"}
+
+{:event/type "goal"
+:event/elapsed 23
+:event/player2 "Renato Augusto"
+:event/subtype "shot"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1635136"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Sascha Moelders"
+:event/subtype "serious_foul"
+:event/player1 "Daniel Schwaab"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1635145"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8996"}
+
+{:event/type "card"
+:event/elapsed 25
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Daniel Schwaab"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1635147"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "direct_freekick"
+:event/player1 "Gibril Sankoh"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1635155"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635156"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8996"}
+
+{:event/type "card"
+:event/elapsed 28
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Michael Ballack"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1635161"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1635168"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "distance"
+:event/player1 "Tobias Werner"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1635172"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/subtype "pushing"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1635190"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Lorenzo Davids"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635191"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Daniel Baier"
+:event/subtype "shirt_pull"
+:event/player1 "Simon Rolfes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1635196"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "header"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1635201"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Jonas De Roeck"
+:event/subtype "from_behind"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1635204"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Sidney Sam"
+:event/subtype "dangerous_play"
+:event/player1 "Gibril Sankoh"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635210"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "blocked_shot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1635212"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "distance"
+:event/player1 "Michael Ballack"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1635217"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Daniel Baier"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635221"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "shot"
+:event/player1 "Sascha Moelders"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1635222"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1635233"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1635241"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Lars Bender"
+:event/subtype "pushing"
+:event/player1 "Andrew Sinkala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635247"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Michael Ballack"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1635251"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/subtype "from_behind"
+:event/player1 "Sidney Sam"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1635303"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Renato Augusto"
+:event/subtype "pushing"
+:event/player1 "Lorenzo Davids"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635304"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1635306"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Sidney Sam"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1635308"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Hajime Hosogai"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635312"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Michael Ballack"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1635315"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Simon Rolfes"
+:event/subtype "serious_foul"
+:event/player1 "Andrew Sinkala"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635317"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_8996"}
+
+{:event/type "card"
+:event/elapsed 52
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Andrew Sinkala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1635318"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Tobias Werner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1635321"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "deflected"
+:event/player1 "Daniel Baier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1635325"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1635326"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8996"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1635326"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "blocked_shot"
+:event/player1 "Axel Bellinghausen"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1635327"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1635328"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8996"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1635328"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Axel Bellinghausen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635330"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "blocked_shot"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1635333"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Axel Bellinghausen"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635334"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1635336"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/subtype "serious_foul"
+:event/player1 "Axel Bellinghausen"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635338"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Michael Ballack"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1635340"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635341"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "shot"
+:event/player1 "Axel Bellinghausen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1635344"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1635347"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1635348"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "Renato Augusto"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1635350"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1635355"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "shot"
+:event/player1 "Andre Schuerrle"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1635358"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Akaki Gogia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635360"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635362"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Lorenzo Davids"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635365"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Akaki Gogia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635372"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Stefan Kiessling"
+:event/subtype "advantage"
+:event/player1 "Lorenzo Davids"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635375"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635379"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Daniel Baier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635388"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/subtype "serious_foul"
+:event/player1 "Stefan Reinartz"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1635394"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635405"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8996"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/player1 "Hanno Balitsch"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1635406"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8996"}
+
+{:event/type "goal"
+:event/elapsed 72
+:event/player2 "Gonzalo Castro"
+:event/subtype "shot"
+:event/player1 "Sidney Sam"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1635409"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "distance"
+:event/player1 "Gibril Sankoh"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1635414"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Hanno Balitsch"
+:event/subtype "pushing"
+:event/player1 "Daniel Baier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635417"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Hanno Balitsch"
+:event/subtype "from_behind"
+:event/player1 "Hajime Hosogai"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635420"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Dominik Reinhardt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635425"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Lorenzo Davids"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635427"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Akaki Gogia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635431"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "blocked_shot"
+:event/player1 "Daniel Baier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1635435"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635436"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8996"}
+
+{:event/type "goal"
+:event/elapsed 79
+:event/player2 "Renato Augusto"
+:event/subtype "shot"
+:event/player1 "Eren Derdiyok"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_1635440"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635449"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "shot"
+:event/player1 "Andre Schuerrle"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1635453"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Sascha Moelders"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1635469"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Daniel Schwaab"
+:event/subtype "pushing"
+:event/player1 "Akaki Gogia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635472"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8996"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "blocked_shot"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1635474"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "bad shot"
+:event/player1 "Sascha Moelders"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1635479"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8996"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player1 "Daniel Baier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1635484"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Hajime Hosogai"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635489"
+:event/minute 91
+:event/match_id "match_8996"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1635491"
+:event/minute 91
+:event/match_id "match_8996"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Sascha Moelders"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1635492"
+:event/minute 91
+:event/match_id "match_8996"}
+
+
+]
+

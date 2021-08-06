@@ -1,0 +1,829 @@
+
+;;# data
+[
+{:match/id "match_2249"
+:match/league "England Premier League"
+:match/hometeam "Portsmouth"
+:match/awayteam "Birmingham City"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Aruna Dindane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_987270"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Cristian Benitez"
+:event/player1 "Tal Ben Haim"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_987278"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Liam Ridgewell"
+:event/player1 "Frederic Piquionne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_987287"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2249"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "distance"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_987303"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2249"}
+
+{:event/type "goal"
+:event/elapsed 16
+:event/player2 "Cristian Benitez"
+:event/subtype "shot"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_987371"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Keith Fahey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_987383"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2249"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Keith Fahey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_987383"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2249"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "deflected"
+:event/player1 "Craig Gardner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_987389"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Keith Fahey"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_987392"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2249"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Keith Fahey"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_987392"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2249"}
+
+{:event/type "card"
+:event/elapsed 19
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Cristian Benitez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_987403"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Craig Gardner"
+:event/player1 "Tal Ben Haim"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_987421"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Liam Ridgewell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_987427"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Jamie O'Hara"
+:event/player1 "Michel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_987438"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Danny Webber"
+:event/player1 "Michel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_987462"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2249"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "direct_freekick"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_987469"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Michel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_987477"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2249"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "shot"
+:event/player1 "Craig Gardner"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_987480"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Nadir Belhadj"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_987489"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2249"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "volley"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_987490"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Nadir Belhadj"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_987496"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2249"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "header"
+:event/player1 "Aruna Dindane"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_987497"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Nadir Belhadj"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_987509"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Nadir Belhadj"
+:event/subtype "serious_foul"
+:event/player1 "Michel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_987512"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2249"}
+
+{:event/type "card"
+:event/elapsed 32
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Michel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_987513"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_987527"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2249"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_987527"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Nadir Belhadj"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_987531"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2249"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "short"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_987538"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2249"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "distance"
+:event/player1 "Nadir Belhadj"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_987541"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2249"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "distance"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_987552"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_987591"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2249"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_987591"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2249"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "deflected"
+:event/player1 "Aruna Dindane"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_987594"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_987596"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2249"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_987596"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2249"}
+
+{:event/type "goal"
+:event/elapsed 42
+:event/player2 "Cristian Benitez"
+:event/subtype "shot"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_987600"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Keith Fahey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_987663"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2249"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Keith Fahey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_987663"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Keith Fahey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_987681"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2249"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Keith Fahey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_987681"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Steve Finnan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_987705"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2249"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "header"
+:event/player1 "Aruna Dindane"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_987706"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_987720"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2249"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_987720"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2249"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "distance"
+:event/player1 "Keith Fahey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_987745"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Jamie O'Hara"
+:event/player1 "Michel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_987786"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_987788"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Barry Ferguson"
+:event/player1 "Nwankwo Kanu"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_987818"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Nwankwo Kanu"
+:event/player1 "Barry Ferguson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_987836"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Keith Fahey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_987854"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2249"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Keith Fahey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_987854"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2249"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "big chance shot"
+:event/player1 "Scott Dann"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_987860"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Aruna Dindane"
+:event/player1 "Keith Fahey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_987879"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Nwankwo Kanu"
+:event/player1 "Keith Fahey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_987902"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2249"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "distance"
+:event/player1 "Frederic Piquionne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_987909"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Sebastian Larsson"
+:event/subtype "serious_foul"
+:event/player1 "Nadir Belhadj"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_987926"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2249"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Nadir Belhadj"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_987927"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2249"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "James McFadden"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_987952"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Scott Dann"
+:event/player1 "Aruna Dindane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_987992"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2249"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_987997"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2249"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Aruna Dindane"
+:event/player1 "Roger Johnson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_988002"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2249"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "big chance shot"
+:event/player1 "Aruna Dindane"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_988013"
+:event/minute 91
+:event/match_id "match_2249"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_988015"
+:event/minute 92
+:event/match_id "match_2249"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jamie O'Hara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_988015"
+:event/minute 92
+:event/match_id "match_2249"}
+
+{:event/type "goal"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Jamie O'Hara"
+:event/subtype "header"
+:event/player1 "Nwankwo Kanu"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_988017"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 92
+:event/match_id "match_2249"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Quincy Owusu-Abeyie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_988035"
+:event/minute 94
+:event/match_id "match_2249"}
+
+
+]
+

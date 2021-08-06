@@ -1,0 +1,955 @@
+
+;;# data
+[
+{:match/id "match_24179"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Atlético Madrid"
+:match/awayteam "UD Las Palmas"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4699944"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4699951"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_24179"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "header"
+:event/player1 "Tiago"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4699960"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Dani Castellano"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4699997"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Hernan"
+:event/player1 "Oliver Torres"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4700012"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Gabi"
+:event/subtype "trip"
+:event/player1 "Sergio Ezequiel Araujo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4700027"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Oliver Torres"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4700067"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Dani Castellano"
+:event/subtype "pushing"
+:event/player1 "Gabi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4700086"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Tiago"
+:event/subtype "trip"
+:event/player1 "Antolin Alcaraz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4700116"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Antoine Griezmann"
+:event/subtype "trip"
+:event/player1 "Antolin Alcaraz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4700144"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_24179"}
+
+{:event/type "goal"
+:event/elapsed 16
+:event/subtype "direct_freekick"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4700156"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Diego Godin"
+:event/subtype "pushing"
+:event/player1 "Sergio Ezequiel Araujo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4700226"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Jose Gimenez"
+:event/subtype "dangerous_play"
+:event/player1 "Sergio Ezequiel Araujo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4700237"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_24179"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "distance"
+:event/player1 "Hernan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4700272"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4700285"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_24179"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross_right"
+:event/player1 "Koke"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4700289"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4700329"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Javi Castellano"
+:event/subtype "trip"
+:event/player1 "Jackson Martinez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4700356"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Tiago"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4700372"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Javi Castellano"
+:event/subtype "trip"
+:event/player1 "Jackson Martinez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4700410"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Tiago"
+:event/player1 "Hernan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4700455"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Tiago"
+:event/player1 "Dani Castellano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4700523"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4700553"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_24179"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "distance"
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4700560"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24179"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4700661"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_24179"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Juanfran"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4700669"
+:event/minute 46
+:event/match_id "match_24179"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Koke"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4700675"
+:event/minute 46
+:event/match_id "match_24179"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Dani Castellano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4701058"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Hernan"
+:event/subtype "dangerous_play"
+:event/player1 "Gabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4701079"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_24179"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "distance"
+:event/player1 "Filipe Luis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4701089"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Oliver Torres"
+:event/subtype "trip"
+:event/player1 "David Simon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4701112"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Koke"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701116"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701128"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_24179"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross_left"
+:event/player1 "Koke"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4701131"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_24179"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Sergio Ezequiel Araujo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4701640"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Sergio Ezequiel Araujo"
+:event/subtype "pull"
+:event/player1 "Juanfran"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4701167"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24179"}
+
+{:event/type "card"
+:event/elapsed 57
+:event/card_type "y"
+:event/player1 "Juanfran"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4701169"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Jonathan Viera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4701177"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_24179"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "crossbar"
+:event/player1 "David Simon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4701184"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Fernando Torres"
+:event/subtype "trip"
+:event/player1 "Pedro Bigas"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4701196"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701207"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_24179"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "header"
+:event/player1 "Oliver Torres"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4701210"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Hernan"
+:event/subtype "dangerous_play"
+:event/player1 "Gabi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4701231"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Juanfran"
+:event/player1 "Vicente Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4701283"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Tiago"
+:event/player1 "Javi Castellano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4701308"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Gabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701310"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Angel Correa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701327"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Jonathan Viera"
+:event/subtype "from_behind"
+:event/player1 "Gabi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4701334"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701345"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Gabi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701358"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_24179"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross_right"
+:event/player1 "Jonathan Viera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4701371"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_24179"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "deflected"
+:event/player1 "Pedro Bigas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4701377"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_24179"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross_right"
+:event/player1 "Jonathan Viera"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4701378"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_24179"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross_left"
+:event/player1 "Jonathan Viera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4701393"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701418"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701425"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Tiago"
+:event/subtype "from_behind"
+:event/player1 "Momo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4701433"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_24179"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "distance"
+:event/player1 "Angel Correa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4701442"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_24179"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4701455"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_24179"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross_left"
+:event/player1 "Koke"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4701460"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Koke"
+:event/subtype "trip"
+:event/player1 "Javi Castellano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4701475"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Koke"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701485"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_4701493"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_24179"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross_right"
+:event/player1 "Jonathan Viera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4701496"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_24179"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "header"
+:event/player1 "Artiles Oliva Aythami"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4701500"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701515"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Koke"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701518"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/subtype "diving"
+:event/player1 "Fernando Torres"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4701524"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_24179"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/player1 "Fernando Torres"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4701526"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_24179"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Jonathan Viera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4701648"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Gabi"
+:event/player1 "Pedro Bigas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4701545"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_24179"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Gabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4701547"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_24179"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "blocked_shot"
+:event/player1 "Raul Garcia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4701557"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Raul Garcia"
+:event/subtype "pull"
+:event/player1 "Vicente Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4701564"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_24179"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Koke"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4701578"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Antolin Alcaraz"
+:event/player1 "Angel Correa"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4701588"
+:event/minute 91
+:event/match_id "match_24179"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "hands"
+:event/player1 "Jonathan Viera"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4701602"
+:event/minute 92
+:event/match_id "match_24179"}
+
+
+]
+

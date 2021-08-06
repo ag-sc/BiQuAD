@@ -1,0 +1,990 @@
+
+;;# data
+[
+{:match/id "match_10033"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Borussia Mönchengladbach"
+:match/awayteam "Borussia Dortmund"
+:match/score "1:3"
+:match/hometeam_goals "1"
+:match/awayteam_goals "3"}
+
+{:event/type "shotoff"
+:event/elapsed 2
+:event/subtype "shot"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5208848"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Lukasz Piszczek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5208873"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Oscar Wendt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5208895"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10033"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross_left"
+:event/player1 "Raffael"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5208907"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "crossbar"
+:event/player1 "Andreas Christensen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5208909"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Mahmoud Dahoud"
+:event/subtype "trip"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5208923"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Joo-Ho Park"
+:event/subtype "trip"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5208928"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "shot"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5208970"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Ilkay Guendogan"
+:event/subtype "trip"
+:event/player1 "Mahmoud Dahoud"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5209010"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Ibrahima Traore"
+:event/subtype "pushing"
+:event/player1 "Joo-Ho Park"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5209021"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Oscar Wendt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5209031"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5209054"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/subtype "hands"
+:event/player1 "Lars Stindl"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5209093"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Ibrahima Traore"
+:event/subtype "trip"
+:event/player1 "Julian Weigl"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5209103"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Gonzalo Castro"
+:event/subtype "pushing"
+:event/player1 "Haavard Nordtveit"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5209109"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "shot"
+:event/player1 "Oscar Wendt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5209126"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5209165"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Lars Stindl"
+:event/subtype "pushing"
+:event/player1 "Sokratis Papastathopoulos"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5209171"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Julian Weigl"
+:event/subtype "trip"
+:event/player1 "Julian Korb"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5209180"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5209198"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10033"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "blocked_shot"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5209199"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10033"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "big chance shot"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5209202"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/subtype "hands"
+:event/player1 "Joo-Ho Park"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5209203"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Fabian Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5209212"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5209218"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "crossbar"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5209250"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5209269"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Lukasz Piszczek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5209282"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Julian Weigl"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5209299"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "shot"
+:event/player1 "Marco Reus"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5209302"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10033"}
+
+{:event/type "goal"
+:event/elapsed 41
+:event/player2 "Ilkay Guendogan"
+:event/subtype "shot"
+:event/player1 "Marco Reus"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5209327"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10033"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "shot"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5209335"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10033"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "short_left"
+:event/player1 "Raffael"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5209344"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5209346"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5209357"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "shot"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5209360"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Ilkay Guendogan"
+:event/subtype "trip"
+:event/player1 "Fabian Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5209517"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5209525"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Oscar Wendt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5209538"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10033"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5209542"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "big chance shot"
+:event/player1 "Lars Stindl"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5209543"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10033"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player2 "Marco Reus"
+:event/subtype "shot"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_5209563"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Joo-Ho Park"
+:event/subtype "trip"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5209602"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Fabian Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5209639"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "distance"
+:event/player1 "Mahmoud Dahoud"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5209646"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10033"}
+
+{:event/type "goal"
+:event/elapsed 58
+:event/player2 "Lars Stindl"
+:event/subtype "shot"
+:event/player1 "Raffael"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5209669"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5209696"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Julian Korb"
+:event/subtype "trip"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5209727"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Julian Korb"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5209711"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Ilkay Guendogan"
+:event/subtype "trip"
+:event/player1 "Raffael"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5209724"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Joo-Ho Park"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5209746"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "miss_kick"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5209752"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Oscar Wendt"
+:event/subtype "trip"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5209754"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Raffael"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5209804"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Pierre-Emerick Aubameyang"
+:event/subtype "trip"
+:event/player1 "Nico Elvedi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5209838"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10033"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/player1 "Nico Elvedi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5209841"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5209931"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "deflected"
+:event/player1 "Oscar Wendt"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5209943"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10033"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "short_left"
+:event/player1 "Raffael"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5209947"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5209949"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5209964"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Lars Stindl"
+:event/subtype "trip"
+:event/player1 "Julian Weigl"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5209980"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10033"}
+
+{:event/type "card"
+:event/elapsed 74
+:event/card_type "y"
+:event/player1 "Julian Weigl"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5209982"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5209992"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5209997"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10033"}
+
+{:event/type "goal"
+:event/elapsed 75
+:event/player2 "Henrik Mkhitaryan"
+:event/subtype "shot"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_5209999"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Lars Stindl"
+:event/subtype "trip"
+:event/player1 "Joo-Ho Park"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5210084"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Fabian Johnson"
+:event/subtype "trip"
+:event/player1 "Adrian Ramos"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5210153"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_10033"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "shot"
+:event/player1 "Jonas Hofmann"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5210176"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Adrian Ramos"
+:event/subtype "trip"
+:event/player1 "Lars Stindl"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5210205"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5210228"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Eric Durm"
+:event/subtype "trip"
+:event/player1 "Haavard Nordtveit"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5210256"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Eric Durm"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5210260"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10033"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "blocked_shot"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5210264"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10033"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Sokratis Papastathopoulos"
+:event/subtype "pushing"
+:event/player1 "Lars Stindl"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5210283"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10033"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5210326"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10033"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Lars Stindl"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5210330"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10033"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Adrian Ramos"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5210356"
+:event/minute 91
+:event/match_id "match_10033"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "short_right"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5210370"
+:event/minute 92
+:event/match_id "match_10033"}
+
+
+]
+

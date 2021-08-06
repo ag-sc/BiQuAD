@@ -1,0 +1,1355 @@
+
+;;# data
+[
+{:match/id "match_8749"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "SC Freiburg"
+:match/awayteam "Bayer 04 Leverkusen"
+:match/score "0:1"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Gonzalo Castro"
+:event/subtype "pushing"
+:event/player1 "Johannes Flum"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741057"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Michael Ballack"
+:event/subtype "from_behind"
+:event/player1 "Andreas Hinkel"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741058"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 2
+:event/subtype "blocked_shot"
+:event/player1 "Eren Derdiyok"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1741059"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Andre Schuerrle"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1741060"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8749"}
+
+{:event/type "corner"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Andre Schuerrle"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1741060"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 2
+:event/subtype "shot"
+:event/player1 "Michael Ballack"
+:event/sortorder 10
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1741073"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8749"}
+
+{:event/type "goal"
+:event/elapsed 2
+:event/player2 "Manuel Friedrich"
+:event/subtype "shot"
+:event/player1 "Michael Ballack"
+:event/sortorder 11
+:event/team "away"
+:event/id "event_1741061"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Anton Putsila"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741064"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1741068"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8749"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Johannes Flum"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1741070"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_8749"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "distance"
+:event/player1 "Papiss Cisse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1741084"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Michael Ballack"
+:event/subtype "from_behind"
+:event/player1 "Johannes Flum"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741090"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Garra Dembele"
+:event/subtype "pushing"
+:event/player1 "Omer Toprak"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741098"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Anton Putsila"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1741102"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8749"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Jan Rosenthal"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1741108"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Papiss Cisse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741111"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/subtype "hands"
+:event/player1 "Eren Derdiyok"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741117"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1741118"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8749"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1741118"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "header"
+:event/player1 "Papiss Cisse"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1741119"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Daniel Schwaab"
+:event/subtype "from_behind"
+:event/player1 "Felix Bastians"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741120"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Omer Toprak"
+:event/subtype "pushing"
+:event/player1 "Garra Dembele"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741124"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "distance"
+:event/player1 "Johannes Flum"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1741125"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Anton Putsila"
+:event/subtype "pushing"
+:event/player1 "Michael Ballack"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741127"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "blocked_shot"
+:event/player1 "Anton Putsila"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1741133"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Andreas Hinkel"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741134"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "header"
+:event/player1 "Garra Dembele"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1741135"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1741142"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8749"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1741142"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Daniel Schwaab"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1741146"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8749"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "short"
+:event/player1 "Sidney Sam"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1741149"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Sidney Sam"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1741150"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Manuel Friedrich"
+:event/subtype "pushing"
+:event/player1 "Papiss Cisse"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741153"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Garra Dembele"
+:event/subtype "pushing"
+:event/player1 "Michal Kadlec"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741154"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "shot"
+:event/player1 "Anton Putsila"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1741158"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Bernd Leno"
+:event/subtype "dangerous_play"
+:event/player1 "Garra Dembele"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741159"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Anton Putsila"
+:event/subtype "from_behind"
+:event/player1 "Andre Schuerrle"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741161"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Anton Putsila"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741162"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8749"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "big chance volley"
+:event/player1 "Papiss Cisse"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1741163"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Sidney Sam"
+:event/subtype "pushing"
+:event/player1 "Oliver Barth"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741164"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Michael Ballack"
+:event/subtype "dangerous_play"
+:event/player1 "Jan Rosenthal"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741166"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Felix Bastians"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741167"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Anton Putsila"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741170"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Michal Kadlec"
+:event/subtype "pushing"
+:event/player1 "Andreas Hinkel"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741173"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Sidney Sam"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1741174"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Jan Rosenthal"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741176"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_8749"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "big chance shot"
+:event/player1 "Sidney Sam"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1741180"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Felix Bastians"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741182"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Felix Bastians"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741184"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Andreas Hinkel"
+:event/subtype "pushing"
+:event/player1 "Eren Derdiyok"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741186"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Johannes Flum"
+:event/subtype "pushing"
+:event/player1 "Michael Ballack"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741187"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Felix Bastians"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741188"
+:event/minute 46
+:event/match_id "match_8749"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Jan Rosenthal"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1741189"
+:event/minute 46
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Daniel Schwaab"
+:event/subtype "from_behind"
+:event/player1 "Jan Rosenthal"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741201"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Michael Ballack"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1741203"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "header"
+:event/player1 "Eren Derdiyok"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1741204"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Papiss Cisse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741205"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Andreas Hinkel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741210"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "shot"
+:event/player1 "Papiss Cisse"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1741212"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1741213"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8749"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1741213"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "header"
+:event/player1 "Pavel Krmas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1741214"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Daniel Schwaab"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1741216"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Andre Schuerrle"
+:event/subtype "pushing"
+:event/player1 "Johannes Flum"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741221"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "distance"
+:event/player1 "Michal Kadlec"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1741223"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Andreas Hinkel"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741228"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/subtype "hands"
+:event/player1 "Manuel Friedrich"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741233"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "direct_freekick"
+:event/player1 "Julian Schuster"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1741234"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Gonzalo Castro"
+:event/subtype "pushing"
+:event/player1 "Julian Schuster"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741236"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Andreas Hinkel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741238"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Andreas Hinkel"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741241"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741244"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Julian Schuster"
+:event/subtype "from_behind"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741246"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Pavel Krmas"
+:event/subtype "pushing"
+:event/player1 "Eren Derdiyok"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741250"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1741253"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8749"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1741253"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Andreas Hinkel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741255"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1741259"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Johannes Flum"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741264"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_8749"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "big chance volley"
+:event/player1 "Papiss Cisse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1741265"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Andre Schuerrle"
+:event/subtype "obstruction"
+:event/player1 "Pavel Krmas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741268"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "direct_freekick"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1741269"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Stefan Reisinger"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1741274"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Daniel Schwaab"
+:event/subtype "pushing"
+:event/player1 "Anton Putsila"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741276"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Pavel Krmas"
+:event/subtype "pushing"
+:event/player1 "Andre Schuerrle"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741278"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Julian Schuster"
+:event/subtype "obstruction"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741279"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Stefan Reisinger"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741280"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Johannes Flum"
+:event/subtype "pushing"
+:event/player1 "Daniel Schwaab"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1741284"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Michal Kadlec"
+:event/subtype "obstruction"
+:event/player1 "Erik Jendrisek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741285"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Michal Kadlec"
+:event/subtype "shirt_pull"
+:event/player1 "Papiss Cisse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741286"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8749"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Papiss Cisse"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1741287"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Andreas Hinkel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741288"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Andreas Hinkel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741292"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Michal Kadlec"
+:event/subtype "pushing"
+:event/player1 "Stefan Reisinger"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741296"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Stefan Kiessling"
+:event/subtype "pushing"
+:event/player1 "Pavel Krmas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741298"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Michal Kadlec"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1741300"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_8749"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "shot"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1741301"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Felix Bastians"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741305"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "shot"
+:event/player1 "Stefan Reisinger"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1741306"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1741307"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_8749"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1741307"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_8749"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "header"
+:event/player1 "Oliver Barth"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1741308"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Andreas Hinkel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741309"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1741311"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8749"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1741311"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1741320"
+:event/minute 91
+:event/match_id "match_8749"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Simon Rolfes"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1741321"
+:event/minute 91
+:event/match_id "match_8749"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Simon Rolfes"
+:event/subtype "from_behind"
+:event/player1 "Cedric Makiadi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1741323"
+:event/minute 92
+:event/match_id "match_8749"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Julian Schuster"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1741326"
+:event/minute 94
+:event/match_id "match_8749"}
+
+
+]
+

@@ -1,0 +1,969 @@
+
+;;# data
+[
+{:match/id "match_4521"
+:match/league "England Premier League"
+:match/hometeam "Swansea City"
+:match/awayteam "Sunderland"
+:match/score "3:3"
+:match/hometeam_goals "2"
+:match/awayteam_goals "4"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Ashley Williams"
+:event/subtype "pull"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5177052"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4521"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "blocked_shot"
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5177056"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4521"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Fabio Borini"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5177065"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4521"}
+
+{:event/type "goal"
+:event/elapsed 3
+:event/subtype "loose_ball"
+:event/player1 "Jermain Defoe"
+:event/sortorder 7
+:event/team "away"
+:event/id "event_5177066"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4521"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Andre Ayew"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5177082"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "John O'Shea"
+:event/player1 "Wayne Routledge"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5177091"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4521"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "big chance shot"
+:event/player1 "Adam Johnson"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5177098"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5177112"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross_right"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5177134"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5177137"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "cross_right"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5177176"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "short_left"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5177208"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5177211"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross_left"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5177242"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4521"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "header"
+:event/player1 "Andre Ayew"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5177244"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Andre Ayew"
+:event/subtype "pull"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5177256"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Andre Ayew"
+:event/subtype "penalty"
+:event/player1 "Wes Brown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5177279"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4521"}
+
+{:event/type "goal"
+:event/elapsed 21
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_5177293"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross_right"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5177327"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5177405"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross_right"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5177450"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Ashley Williams"
+:event/subtype "advantage"
+:event/player1 "Jeremain Lens"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5177457"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4521"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "distance"
+:event/player1 "Modou Barrow"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5177477"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Neil Taylor"
+:event/player1 "Adam Johnson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5177504"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Federico Fernandez"
+:event/player1 "Jermain Defoe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5177526"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Patrick van Aanholt"
+:event/player1 "Leon Britton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5177534"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Yann M'Vila"
+:event/subtype "dangerous_play"
+:event/player1 "Kyle Naughton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5177550"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4521"}
+
+{:event/type "card"
+:event/elapsed 37
+:event/card_type "r"
+:event/subtype "serious_fouls"
+:event/player1 "Kyle Naughton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5177560"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5177576"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4521"}
+
+{:event/type "goal"
+:event/elapsed 40
+:event/player2 "Lukasz Fabianski"
+:event/subtype "shot"
+:event/player1 "Andre Ayew"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_5177586"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross_left"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5177639"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Billy Jones"
+:event/subtype "pushing"
+:event/player1 "Wayne Routledge"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5177660"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Jermain Defoe"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5177836"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Yann M'Vila"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5177851"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Jeremain Lens"
+:event/sortorder 14
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5177724"
+:event/minute 48
+:event/match_id "match_4521"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "blocked_shot"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5220318"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4521"}
+
+{:event/type "goal"
+:event/elapsed 49
+:event/player1 "Federico Fernandez"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_5177866"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Jeremain Lens"
+:event/sortorder 16
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5177730"
+:event/minute 49
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/player2 "Neil Taylor"
+:event/subtype "pushing"
+:event/player1 "Jermain Defoe"
+:event/sortorder 17
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5177731"
+:event/minute 49
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Billy Jones"
+:event/player1 "Federico Fernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5177880"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Andre Ayew"
+:event/player1 "Wes Brown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5177925"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4521"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "blocked_shot"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5177928"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4521"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5177948"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4521"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "big chance shot"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5177964"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Wes Brown"
+:event/subtype "pushing"
+:event/player1 "Andre Ayew"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5177967"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5177974"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "short_left"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5177984"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5177987"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross_left"
+:event/player1 "Jeremain Lens"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5177992"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4521"}
+
+{:event/type "goal"
+:event/elapsed 61
+:event/player2 "Adam Johnson"
+:event/subtype "shot"
+:event/player1 "Jermain Defoe"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5178002"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Modou Barrow"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5178065"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4521"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "deflected"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5178068"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Neil Taylor"
+:event/player1 "Billy Jones"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5178084"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Modou Barrow"
+:event/subtype "trip"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5178100"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5178107"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4521"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_header"
+:event/player1 "Ashley Williams"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5178111"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4521"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/subtype "stall_time"
+:event/player1 "Vito Mannone"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5178119"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Jeremain Lens"
+:event/player1 "Ashley Williams"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5178148"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4521"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "direct_freekick"
+:event/player1 "Adam Johnson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5178160"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Neil Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5178183"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross_left"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5178190"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4521"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "shot"
+:event/player1 "Wayne Routledge"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5178203"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Sung-Yueng Ki"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5178212"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4521"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "shot"
+:event/player1 "Neil Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5178239"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "short_left"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5178264"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Fabio Borini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5178274"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Federico Fernandez"
+:event/player1 "Jeremain Lens"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5178288"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Angel Rangel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5178316"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Modou Barrow"
+:event/subtype "trip"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5178327"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4521"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5178328"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5178343"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_right"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5178368"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4521"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Jeremain Lens"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5178392"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4521"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross_right"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5178425"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Jermain Defoe"
+:event/player1 "Angel Rangel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5178432"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4521"}
+
+{:event/type "goal"
+:event/elapsed 85
+:event/player2 "Patrick van Aanholt"
+:event/subtype "tap_in"
+:event/player1 "Jermain Defoe"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_5178440"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4521"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Daniel Graham"
+:event/player1 "Modou Barrow"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5178517"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4521"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5178567"
+:event/minute 94
+:event/match_id "match_4521"}
+
+
+]
+

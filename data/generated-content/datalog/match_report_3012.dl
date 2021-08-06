@@ -1,0 +1,932 @@
+
+;;# data
+[
+{:match/id "match_3012"
+:match/league "England Premier League"
+:match/hometeam "Fulham"
+:match/awayteam "Newcastle United"
+:match/score "5:2"
+:match/hometeam_goals "5"
+:match/awayteam_goals "2"}
+
+{:event/type "shoton"
+:event/elapsed 1
+:event/subtype "distance"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1888350"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/subtype "hands"
+:event/player1 "Steve Sidwell"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1888367"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Leon Best"
+:event/player1 "Steve Sidwell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1888385"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Philippe Senderos"
+:event/player1 "Shola Ameobi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1888412"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1888425"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1888444"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Brede Hangeland"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1888467"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Hatem Ben Arfa"
+:event/player1 "John Arne Riise"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1888516"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Danny Guthrie"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1888553"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3012"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Danny Guthrie"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1888553"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1888558"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3012"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "header"
+:event/player1 "Shola Ameobi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1888559"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Davide Santon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1888605"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player1 "Steve Sidwell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1888641"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_3012"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "distance"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1888680"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1888699"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1888737"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3012"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "header"
+:event/player1 "Shola Ameobi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1888738"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Steve Sidwell"
+:event/player1 "Shola Ameobi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1888748"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player1 "Shola Ameobi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1888793"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1888803"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_3012"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1888813"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Davide Santon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1888834"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Danny Guthrie"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1888859"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1888868"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3012"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1888868"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Davide Santon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1888901"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3012"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1888902"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3012"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "short"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1888958"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Danny Guthrie"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1888966"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3012"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Fabricio Coloccini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1888969"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "John Arne Riise"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1889020"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3012"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "distance"
+:event/player1 "Shola Ameobi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1889093"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1889111"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_3012"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1889111"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_3012"}
+
+{:event/type "goal"
+:event/elapsed 43
+:event/player2 "Hatem Ben Arfa"
+:event/subtype "distance"
+:event/player1 "Danny Guthrie"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1889115"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Jonas Gutierrez"
+:event/player1 "Bryan Ruiz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1889158"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Andrew Johnson"
+:event/subtype "serious_foul"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1889172"
+:event/minute 46
+:event/match_id "match_3012"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Davide Santon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1889176"
+:event/minute 46
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Jonas Gutierrez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1889271"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Danny Guthrie"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1889276"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_3012"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "deflected"
+:event/player1 "Damien Duff"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1889284"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player1 "Shola Ameobi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1889296"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Damien Duff"
+:event/subtype "penalty"
+:event/player1 "Davide Santon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1889350"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3012"}
+
+{:event/type "goal"
+:event/elapsed 52
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1889358"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3012"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "distance"
+:event/player1 "Leon Best"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1889386"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Danny Simpson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1889403"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1889432"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3012"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1889432"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3012"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Bobby Zamora"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1889437"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3012"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "crossbar"
+:event/player1 "Chris Baird"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1889440"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1889443"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3012"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1889443"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1889451"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3012"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Bobby Zamora"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1889500"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3012"}
+
+{:event/type "goal"
+:event/elapsed 59
+:event/player2 "Bobby Zamora"
+:event/subtype "shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_1889493"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Clint Dempsey"
+:event/player1 "Danny Guthrie"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1889533"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3012"}
+
+{:event/type "card"
+:event/elapsed 62
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Danny Guthrie"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1889550"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3012"}
+
+{:event/type "card"
+:event/elapsed 63
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Danny Simpson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1889564"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3012"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "distance"
+:event/player1 "John Arne Riise"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1889570"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3012"}
+
+{:event/type "goal"
+:event/elapsed 65
+:event/player2 "Bobby Zamora"
+:event/subtype "shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1889619"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3012"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "distance"
+:event/player1 "Fabricio Coloccini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1889633"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Andrew Johnson"
+:event/subtype "penalty"
+:event/player1 "Tim Krul"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1889646"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3012"}
+
+{:event/type "card"
+:event/elapsed 68
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Tim Krul"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1889650"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3012"}
+
+{:event/type "goal"
+:event/elapsed 68
+:event/player1 "Bobby Zamora"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1889656"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3012"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1889672"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3012"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1889681"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3012"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1889688"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3012"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1889688"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1889754"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3012"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "distance"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1889848"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player1 "James Perch"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1889875"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_3012"}
+
+{:event/type "goal"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_1889893"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_3012"}
+
+{:event/type "goal"
+:event/elapsed 89
+:event/player2 "Bobby Zamora"
+:event/subtype "shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1889948"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3012"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player1 "Andrew Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1890045"
+:event/minute 95
+:event/match_id "match_3012"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1890048"
+:event/minute 95
+:event/match_id "match_3012"}
+
+
+]
+

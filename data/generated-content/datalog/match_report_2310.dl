@@ -1,0 +1,937 @@
+
+;;# data
+[
+{:match/id "match_2310"
+:match/league "England Premier League"
+:match/hometeam "Tottenham Hotspur"
+:match/awayteam "Everton"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Tom Huddlestone"
+:event/player1 "Aiyegbeni Yakubu"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_974782"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_974799"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_974802"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2310"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_974802"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2310"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "short"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_974806"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2310"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "blocked_shot"
+:event/player1 "Luka Modric"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_974808"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Gareth Bale"
+:event/subtype "serious_foul"
+:event/player1 "Philip Neville"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_974822"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2310"}
+
+{:event/type "card"
+:event/elapsed 9
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Philip Neville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_974823"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_974831"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Jermain Defoe"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_974834"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2310"}
+
+{:event/type "goal"
+:event/elapsed 11
+:event/player2 "Jermain Defoe"
+:event/subtype "shot"
+:event/player1 "Roman Pavlyuchenko"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_974835"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Luka Modric"
+:event/player1 "Leon Osman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_974876"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2310"}
+
+{:event/type "goal"
+:event/elapsed 28
+:event/player2 "Niko Kranjcar"
+:event/subtype "shot"
+:event/player1 "Luka Modric"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_974898"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Sebastien Bassong"
+:event/player1 "Victor Anichebe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_974902"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Steven Pienaar"
+:event/player1 "Vedran Corluka"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_974923"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Roman Pavlyuchenko"
+:event/player1 "Johnny Heitinga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_974926"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Mikel Arteta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_974939"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2310"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Mikel Arteta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_974939"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Philip Neville"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_974948"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2310"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "big chance header"
+:event/player1 "Jack Rodwell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_974949"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Johnny Heitinga"
+:event/player1 "Roman Pavlyuchenko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_974970"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_974973"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2310"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "short"
+:event/player1 "Luka Modric"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_974980"
+:event/minute 46
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Steven Pienaar"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_974984"
+:event/minute 47
+:event/match_id "match_2310"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "distance"
+:event/player1 "Johnny Heitinga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_975095"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Philip Neville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_974986"
+:event/minute 47
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_974990"
+:event/minute 47
+:event/match_id "match_2310"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_974990"
+:event/minute 47
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_974996"
+:event/minute 47
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Niko Kranjcar"
+:event/player1 "Leon Osman"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_975001"
+:event/minute 47
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_975125"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2310"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "distance"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_975126"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2310"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "blocked_shot"
+:event/player1 "Victor Anichebe"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_975175"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Mikel Arteta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_975189"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2310"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Mikel Arteta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_975189"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2310"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/player2 "Jack Rodwell"
+:event/subtype "shot"
+:event/player1 "Aiyegbeni Yakubu"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_975192"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Aiyegbeni Yakubu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_975208"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2310"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "big chance shot"
+:event/player1 "Jack Rodwell"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_975212"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Jermain Defoe"
+:event/player1 "Phil Jagielka"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_975218"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Luka Modric"
+:event/player1 "Mikel Arteta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_975235"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2310"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Gareth Bale"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_975238"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Luka Modric"
+:event/player1 "Philip Neville"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_975246"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2310"}
+
+{:event/type "shoton"
+:event/elapsed 60
+:event/subtype "deflected"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_975266"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2310"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "short"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_975269"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Roman Pavlyuchenko"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_975278"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Vedran Corluka"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_975292"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2310"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_975335"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Mikel Arteta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_975348"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2310"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Mikel Arteta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_975348"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2310"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Aiyegbeni Yakubu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_975399"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2310"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "big chance shot"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_975429"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Mikel Arteta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_975435"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2310"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Mikel Arteta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_975435"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2310"}
+
+{:event/type "card"
+:event/elapsed 73
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Mikel Arteta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_975483"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2310"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "distance"
+:event/player1 "Vedran Corluka"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_975454"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_975460"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2310"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_975460"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2310"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "distance"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_975467"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Wilson Palacios"
+:event/subtype "serious_foul"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_975476"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2310"}
+
+{:event/type "card"
+:event/elapsed 76
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_975477"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Roman Pavlyuchenko"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_975478"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2310"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "shot"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_975479"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Jack Rodwell"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_975484"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2310"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "big chance shot"
+:event/player1 "Landon Donovan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_975487"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Roman Pavlyuchenko"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_975510"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Mikel Arteta"
+:event/player1 "Vedran Corluka"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_975544"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Johnny Heitinga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_975573"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2310"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Johnny Heitinga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_975573"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2310"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "header"
+:event/player1 "Phil Jagielka"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_975576"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Niko Kranjcar"
+:event/subtype "from_behind"
+:event/player1 "Johnny Heitinga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_975609"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2310"}
+
+{:event/type "card"
+:event/elapsed 86
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Johnny Heitinga"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_975611"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2310"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_975652"
+:event/minute 91
+:event/match_id "match_2310"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Niko Kranjcar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_975654"
+:event/minute 92
+:event/match_id "match_2310"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_975664"
+:event/minute 94
+:event/match_id "match_2310"}
+
+{:event/type "card"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Luka Modric"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_975667"
+:event/minute 94
+:event/match_id "match_2310"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/player2 "Eidur Gudjohnsen"
+:event/player1 "Mikel Arteta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_975678"
+:event/minute 96
+:event/match_id "match_2310"}
+
+
+]
+

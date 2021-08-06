@@ -1,0 +1,991 @@
+
+;;# data
+[
+{:match/id "match_8083"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Eintracht Frankfurt"
+:match/awayteam "DSC Arminia Bielefeld"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Robert Tesche"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_426146"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8083"}
+
+{:event/type "corner"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Robert Tesche"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_426146"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8083"}
+
+{:event/type "shotoff"
+:event/elapsed 2
+:event/subtype "shot"
+:event/player1 "Martin Fenin"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_426149"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8083"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Artur Wichniarek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_426155"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8083"}
+
+{:event/type "goal"
+:event/elapsed 7
+:event/subtype "shot"
+:event/player1 "Artur Wichniarek"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_426177"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Artur Wichniarek"
+:event/player1 "Habib Bellaid"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426191"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_8083"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "shot"
+:event/player1 "Artur Wichniarek"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_426200"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Robert Tesche"
+:event/player1 "Martin Fenin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426218"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8083"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Benjamin Koehler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426221"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_8083"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Benjamin Koehler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426221"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_8083"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Benjamin Koehler"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426222"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_8083"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Benjamin Koehler"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426222"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_8083"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "distance"
+:event/player1 "Thorben Marx"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_426228"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Markus Schuler"
+:event/player1 "Michael Fink"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426235"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_8083"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "distance"
+:event/player1 "Patrick Ochs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_426248"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player1 "Marco Russ"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426264"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8083"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Michael Lamey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_426275"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8083"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "header"
+:event/player1 "Artur Wichniarek"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_426276"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8083"}
+
+{:event/type "card"
+:event/elapsed 24
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Thorben Marx"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_426293"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8083"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "shot"
+:event/player1 "Martin Fenin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_426309"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_8083"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Nikos Liberopoulos"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_426311"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Markus Schuler"
+:event/player1 "Marco Russ"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426317"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Martin Fenin"
+:event/player1 "Michael Lamey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_426319"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8083"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "distance"
+:event/player1 "Junichi Inamoto,20"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_426327"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8083"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Faton Toski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426335"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8083"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Faton Toski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426335"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8083"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "header"
+:event/player1 "Christoph Spycher"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_426338"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426341"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8083"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Faton Toski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426349"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_8083"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Faton Toski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426349"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Thorben Marx"
+:event/subtype "shirt_pull"
+:event/player1 "Marco Russ"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426353"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_8083"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/card_type "y"
+:event/player1 "Marco Russ"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_426355"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Benjamin Koehler"
+:event/player1 "Michael Lamey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_426375"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8083"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Oliver Kirch"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_426384"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/subtype "hands"
+:event/player1 "Martin Fenin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426435"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player1 "Nikos Liberopoulos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426448"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_426453"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_8083"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Faton Toski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426473"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8083"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Faton Toski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426473"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_426484"
+:event/minute 46
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Robert Tesche"
+:event/player1 "Faton Toski"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426584"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_8083"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Benjamin Koehler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426493"
+:event/minute 47
+:event/match_id "match_8083"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Benjamin Koehler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426493"
+:event/minute 47
+:event/match_id "match_8083"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Christoph Spycher"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426496"
+:event/minute 47
+:event/match_id "match_8083"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Christoph Spycher"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426496"
+:event/minute 47
+:event/match_id "match_8083"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Martin Fenin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_426497"
+:event/minute 47
+:event/match_id "match_8083"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Robert Tesche"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_426502"
+:event/minute 48
+:event/match_id "match_8083"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Robert Tesche"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_426502"
+:event/minute 48
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Markus Schuler"
+:event/subtype "serious_foul"
+:event/player1 "Patrick Ochs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426604"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_8083"}
+
+{:event/type "card"
+:event/elapsed 49
+:event/card_type "y"
+:event/player1 "Patrick Ochs"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_426606"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Artur Wichniarek"
+:event/player1 "Habib Bellaid"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426639"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8083"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "volley"
+:event/player1 "Radim Kucera"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_426646"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Alexander Laas"
+:event/player1 "Martin Fenin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426655"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Patrick Ochs"
+:event/player1 "Markus Schuler"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_426695"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8083"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Nikos Liberopoulos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_426709"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_8083"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "distance"
+:event/player1 "Caio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_426731"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player1 "Benjamin Koehler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426751"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8083"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Martin Fenin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_426795"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Alexander Laas"
+:event/player1 "Patrick Ochs"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426822"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Chris Katongo,30"
+:event/subtype "shirt_pull"
+:event/player1 "Nikos Liberopoulos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426831"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8083"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/player1 "Nikos Liberopoulos"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_426834"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player1 "Chris Katongo,30"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_426838"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Martin Fenin"
+:event/player1 "Michael Lamey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_426856"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8083"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Caio"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426862"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8083"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Caio"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426862"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8083"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "distance"
+:event/player1 "Patrick Ochs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_426865"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Caio"
+:event/player1 "Ruediger Kauf"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_426879"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Alexander Laas"
+:event/player1 "Junichi Inamoto,20"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426884"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8083"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "blocked_shot"
+:event/player1 "Markus Steinhoefer"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_426895"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_8083"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Markus Steinhoefer"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426898"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_8083"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Markus Steinhoefer"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_426898"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player1 "Patrick Ochs"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_426904"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Benjamin Koehler"
+:event/player1 "Nico Herzig,19"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_426933"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_8083"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "direct_freekick"
+:event/player1 "Caio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_426941"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8083"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "shot"
+:event/player1 "Markus Steinhoefer"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_426976"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_8083"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "shot"
+:event/player1 "Patrick Ochs"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_426979"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_8083"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Patrick Ochs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_426985"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8083"}
+
+{:event/type "goal"
+:event/elapsed 87
+:event/player2 "Martin Fenin"
+:event/subtype "header"
+:event/player1 "Benjamin Koehler"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_426992"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_427007"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player1 "Daniel Halfar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_427024"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Markus Steinhoefer"
+:event/player1 "Ruediger Kauf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_427049"
+:event/minute 93
+:event/match_id "match_8083"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Ruediger Kauf"
+:event/player1 "Markus Steinhoefer"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_427053"
+:event/minute 93
+:event/match_id "match_8083"}
+
+
+]
+

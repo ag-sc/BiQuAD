@@ -1,0 +1,841 @@
+
+;;# data
+[
+{:match/id "match_24288"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "RC Celta de Vigo"
+:match/awayteam "Rayo Vallecano"
+:match/score "3:0"
+:match/hometeam_goals "3"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Alhassane Bangoura"
+:event/subtype "pull"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4724183"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Roberto Trashorras"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4724187"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Fabian Orellana"
+:event/subtype "trip"
+:event/player1 "Nacho Martinez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4724199"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Iago Aspas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724211"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Daniel Wass"
+:event/subtype "penalty"
+:event/player1 "Tono"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4724255"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_24288"}
+
+{:event/type "card"
+:event/elapsed 9
+:event/card_type "r"
+:event/player1 "Tono"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4724257"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_24288"}
+
+{:event/type "goal"
+:event/elapsed 11
+:event/player1 "Nolito"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_4724287"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Alhassane Bangoura"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4724315"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_24288"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross_right"
+:event/player1 "Roberto Trashorras"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4724318"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/subtype "obstruction"
+:event/player1 "Nolito"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4724337"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Iago Aspas"
+:event/subtype "pull"
+:event/player1 "Diego Llorente"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4724357"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_24288"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "shot"
+:event/player1 "Nolito"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4724362"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Patrick Ebert"
+:event/subtype "trip"
+:event/player1 "Hugo Mallo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4724364"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_24288"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Iago Aspas"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4724382"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Roberto Trashorras"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4724423"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_24288"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross_right"
+:event/player1 "Patrick Ebert"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4724428"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Hugo Mallo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724435"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Iago Aspas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724448"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_24288"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross_left"
+:event/player1 "Nolito"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4724452"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_24288"}
+
+{:event/type "shotoff"
+:event/elapsed 31
+:event/subtype "header"
+:event/player1 "Iago Aspas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4724453"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Iago Aspas"
+:event/subtype "trip"
+:event/player1 "Jose Raul Baena"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4724492"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Daniel Wass"
+:event/subtype "trip"
+:event/player1 "Alhassane Bangoura"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4724504"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Nolito"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724526"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Roberto Trashorras"
+:event/subtype "trip"
+:event/player1 "Johny"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4724536"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24288"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Augusto Fernandez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4724537"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24288"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "big chance shot"
+:event/player1 "Iago Aspas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4724544"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Roberto Trashorras"
+:event/subtype "trip"
+:event/player1 "Daniel Wass"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4724546"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Iago Aspas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724555"
+:event/minute 46
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Pablo Hernandez"
+:event/subtype "trip"
+:event/player1 "Antonio Amaya"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4724625"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Hugo Mallo"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724561"
+:event/minute 47
+:event/match_id "match_24288"}
+
+{:event/type "goal"
+:event/elapsed 50
+:event/player2 "Pablo Hernandez"
+:event/subtype "deflected"
+:event/player1 "Nolito"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_4724647"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Alhassane Bangoura"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4724652"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Nacho Martinez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4724659"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Nolito"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724667"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_24288"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross_left"
+:event/player1 "Nolito"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4724668"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Gustavo Cabral"
+:event/subtype "trip"
+:event/player1 "Nacho Martinez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4724672"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24288"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "deflected"
+:event/player1 "Roberto Trashorras"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4724674"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24288"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross_left"
+:event/player1 "Patrick Ebert"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4724676"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Roberto Trashorras"
+:event/subtype "trip"
+:event/player1 "Daniel Wass"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4724683"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Quini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4724684"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Pablo Hernandez"
+:event/subtype "trip"
+:event/player1 "Alhassane Bangoura"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4724686"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Daniel Wass"
+:event/subtype "from_behind"
+:event/player1 "Manucho"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4724689"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_24288"}
+
+{:event/type "card"
+:event/elapsed 61
+:event/card_type "y"
+:event/player1 "Manucho"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4724688"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Daniel Wass"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724690"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Alhassane Bangoura"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4724694"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_24288"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Fabian Orellana"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4724698"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_24288"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross_right"
+:event/player1 "Daniel Wass"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4724699"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Alhassane Bangoura"
+:event/subtype "pull"
+:event/player1 "Johny"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4724710"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_24288"}
+
+{:event/type "card"
+:event/elapsed 68
+:event/card_type "y"
+:event/player1 "Johny"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4724711"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Roberto Trashorras"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4724712"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_24288"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross_left"
+:event/player1 "Patrick Ebert"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4724714"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Nolito"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724727"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_24288"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "short_left"
+:event/player1 "Nolito"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4724730"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Fabian Orellana"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724732"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_24288"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "bad shot"
+:event/player1 "Alhassane Bangoura"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4724740"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Carles Planas"
+:event/subtype "trip"
+:event/player1 "Quini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4724742"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Iago Aspas"
+:event/subtype "advantage"
+:event/player1 "Antonio Amaya"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4724744"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Iago Aspas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724776"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Carles Planas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724785"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_24288"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "blocked_shot"
+:event/player1 "Fabian Orellana"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4724788"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_24288"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "bad shot"
+:event/player1 "Nacho Martinez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4724808"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_24288"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Nolito"
+:event/subtype "trip"
+:event/player1 "Roberto Trashorras"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4724815"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_24288"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/player1 "Roberto Trashorras"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4724812"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Nolito"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724816"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24288"}
+
+{:event/type "goal"
+:event/elapsed 88
+:event/player2 "Nolito"
+:event/subtype "shot"
+:event/player1 "Andreu Fontas"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4724818"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24288"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Carles Planas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4724824"
+:event/minute 91
+:event/match_id "match_24288"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "Nolito"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4724834"
+:event/minute 92
+:event/match_id "match_24288"}
+
+
+]
+

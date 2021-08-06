@@ -1,0 +1,987 @@
+
+;;# data
+[
+{:match/id "match_7161"
+:match/league "France Ligue 1"
+:match/hometeam "RC Lens"
+:match/awayteam "En Avant de Guingamp"
+:match/score "0:1"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648013"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Adamo Coulibaly"
+:event/player1 "Jeremy Sorbon"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648020"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Alharbi El Jadeyaoui"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648029"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7161"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "distance"
+:event/player1 "Christophe Mandanne"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3648035"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Laurent Dos Santos"
+:event/player1 "Jerome Le Moigne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648048"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player1 "Jean-Philippe Gbamin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648049"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7161"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Lionel Mathis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3648071"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Pierrick Valdivia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648094"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7161"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Pierrick Valdivia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648094"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Alharbi El Jadeyaoui"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648097"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7161"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Alharbi El Jadeyaoui"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648097"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Laurent Dos Santos"
+:event/subtype "trip"
+:event/player1 "Adamo Coulibaly"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648107"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Lars Jacobsen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648111"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Loiik Landre"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648124"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7161"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "distance"
+:event/player1 "Jerome Le Moigne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3648134"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/subtype "advantage"
+:event/player1 "Pierrick Valdivia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648169"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7161"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "shot"
+:event/player1 "Christophe Mandanne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3648184"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Thibault Giresse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648191"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7161"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Thibault Giresse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648191"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Maxime Baca"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648204"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648216"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648220"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_7161"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "header"
+:event/player1 "Ronnie Schwartz"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3648221"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Yoann Touzghar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648229"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648256"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7161"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648256"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7161"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Christophe Mandanne"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3648271"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Adamo Coulibaly"
+:event/player1 "Christophe Kerbrat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648301"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player1 "Laurent Dos Santos"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648308"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Ludovic Baal"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648310"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/subtype "advantage"
+:event/player1 "Jerome Le Moigne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648318"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Pierrick Valdivia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648330"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Jean-Philippe Gbamin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648342"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player1 "Pierrick Valdivia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648350"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Claudio Beauvue"
+:event/subtype "serious_foul"
+:event/player1 "Ahmed Kantari"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648358"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7161"}
+
+{:event/type "card"
+:event/elapsed 36
+:event/card_type "y"
+:event/player1 "Ahmed Kantari"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3648361"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648369"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Christophe Mandanne"
+:event/subtype "serious_foul"
+:event/player1 "Pierrick Valdivia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648401"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Alharbi El Jadeyaoui"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648411"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7161"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "post"
+:event/player1 "Adamo Coulibaly"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3648415"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7161"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "deflected"
+:event/player1 "Yoann Touzghar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3648419"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Pablo Chavarria"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648424"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7161"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Pablo Chavarria"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648424"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/subtype "hands"
+:event/player1 "Ronnie Schwartz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648436"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player1 "Lionel Mathis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648454"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Christophe Mandanne"
+:event/subtype "serious_foul"
+:event/player1 "Loiik Landre"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648515"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7161"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "shot"
+:event/player1 "Adamo Coulibaly"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3648534"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Lionel Mathis"
+:event/player1 "Pierrick Valdivia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648542"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7161"}
+
+{:event/type "card"
+:event/elapsed 50
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Pierrick Valdivia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3648547"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Maxime Baca"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648560"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7161"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "distance"
+:event/player1 "Pierrick Valdivia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3648568"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Jean-Philippe Gbamin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648577"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Alharbi El Jadeyaoui"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648586"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7161"}
+
+{:event/type "corner"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Alharbi El Jadeyaoui"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648586"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_3648591"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Jean-Philippe Gbamin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648607"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player1 "Jean-Philippe Gbamin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648624"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7161"}
+
+{:event/type "card"
+:event/elapsed 59
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Pablo Chavarria"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3648637"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Jean-Philippe Gbamin"
+:event/player1 "Laurent Dos Santos"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648664"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7161"}
+
+{:event/type "card"
+:event/elapsed 62
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Laurent Dos Santos"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3648662"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7161"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Loiik Landre"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3648720"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Baptiste Guillaume"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648731"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7161"}
+
+{:event/type "corner"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Baptiste Guillaume"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648731"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7161"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "deflected"
+:event/player1 "Ahmed Kantari"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3648737"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7161"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "lob"
+:event/player1 "Mustapha Yatabare"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3648749"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Laurent Dos Santos"
+:event/subtype "dangerous_play"
+:event/player1 "Loiik Landre"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648763"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Lars Jacobsen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648790"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player1 "Ludovic Baal"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648828"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7161"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/subtype "serious_foul"
+:event/player1 "Jerome Le Moigne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648818"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7161"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/player1 "Jerome Le Moigne"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3648821"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Yoann Touzghar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648840"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7161"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Yoann Touzghar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648840"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7161"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "header"
+:event/player1 "Jerome Le Moigne"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3648845"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Wylan Cyprien"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648865"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7161"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Wylan Cyprien"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648865"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7161"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "distance"
+:event/player1 "Laurent Dos Santos"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3648870"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Pierrick Valdivia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648913"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7161"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jean-Philippe Gbamin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648933"
+:event/minute 92
+:event/match_id "match_7161"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "big chance shot"
+:event/player1 "Wylan Cyprien"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3648939"
+:event/minute 92
+:event/match_id "match_7161"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Mustapha Yatabare"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3648953"
+:event/minute 94
+:event/match_id "match_7161"}
+
+{:event/type "goal"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Ladislas Douniama"
+:event/sortorder 8
+:event/team "away"
+:event/id "event_3648955"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 94
+:event/match_id "match_7161"}
+
+
+]
+

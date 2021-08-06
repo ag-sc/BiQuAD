@@ -1,0 +1,961 @@
+
+;;# data
+[
+{:match/id "match_7256"
+:match/league "France Ligue 1"
+:match/hometeam "Stade Rennais FC"
+:match/awayteam "FC Metz"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Cheikh Mbengue"
+:event/player1 "Ferjani Sassi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4234302"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7256"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "distance"
+:event/player1 "Modibo Maiga"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4234339"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Gaetan Bussmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4234394"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Paul-Georges Ntep"
+:event/subtype "trip"
+:event/player1 "Gaetan Bussmann"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4234396"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Cheikh Mbengue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4234417"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Kevin Lejeune"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4234421"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Paul-Georges Ntep"
+:event/subtype "obstruction"
+:event/player1 "Ferjani Sassi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4234425"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Romain Danze"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4234434"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7256"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "header"
+:event/player1 "Pedro Henrique"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4234437"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Romain Danze"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4234459"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7256"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross_right"
+:event/player1 "Pedro Henrique"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4234469"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Florent Malouda"
+:event/player1 "Abdoulaye Doucoure"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4234507"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7256"}
+
+{:event/type "goal"
+:event/elapsed 20
+:event/player2 "Abdoulaye Doucoure"
+:event/subtype "shot"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4234516"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4234570"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7256"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "distance"
+:event/player1 "Florent Malouda"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4234575"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7256"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4234711"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4234721"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Modibo Maiga"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4234726"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Anders Konradsen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4234733"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7256"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "short_right"
+:event/player1 "Pedro Henrique"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4234736"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Abdoulaye Doucoure"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4234737"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7256"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "header"
+:event/player1 "Mexer"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4234741"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7256"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross_left"
+:event/player1 "Bouna Sarr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4234746"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Pedro Henrique"
+:event/subtype "pull"
+:event/player1 "Florent Malouda"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4234752"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Bouna Sarr"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4234776"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Florent Malouda"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4234778"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Ferjani Sassi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4234801"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7256"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "header"
+:event/player1 "Florent Malouda"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4234805"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Paul-Georges Ntep"
+:event/subtype "obstruction"
+:event/player1 "Ferjani Sassi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4234837"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Romain Metannire"
+:event/subtype "trip"
+:event/player1 "Anders Konradsen"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4234853"
+:event/minute 46
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Kevin Lejeune"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4234857"
+:event/minute 46
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Chris Philipps"
+:event/subtype "pushing"
+:event/player1 "Pedro Henrique"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4234912"
+:event/minute 46
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4234941"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7256"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "cross_right"
+:event/player1 "Kevin Lejeune"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4234944"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7256"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "big chance post"
+:event/player1 "Bouna Sarr"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4234947"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Bouna Sarr"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4234958"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Modibo Maiga"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4234973"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7256"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "short_right"
+:event/player1 "Kevin Lejeune"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4234974"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4234975"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7256"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "blocked_shot"
+:event/player1 "Bouna Sarr"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4234977"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Pedro Henrique"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4234989"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7256"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4234995"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Gaetan Bussmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4235025"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7256"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "header"
+:event/player1 "Modibo Maiga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4235028"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7256"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "blocked_shot"
+:event/player1 "Abdoulaye Doucoure"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4235044"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7256"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "big chance crossbar"
+:event/player1 "Florent Malouda"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4235078"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4235123"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4235130"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4235155"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4235174"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7256"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "distance"
+:event/player1 "Chris Philipps"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4235179"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7256"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "blocked_shot"
+:event/player1 "Bouna Sarr"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4235202"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4235205"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Florent Malouda"
+:event/player1 "Pedro Henrique"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4235216"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7256"}
+
+{:event/type "shoton"
+:event/elapsed 66
+:event/subtype "direct_freekick"
+:event/player1 "Bouna Sarr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4235233"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4235263"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Bouna Sarr"
+:event/subtype "trip"
+:event/player1 "Romain Danze"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4235293"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Kevin Lejeune"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4235303"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7256"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "header"
+:event/player1 "Ferjani Sassi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4235306"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Ola Toivonen"
+:event/player1 "Sylvain Marchal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4235316"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7256"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "distance"
+:event/player1 "Bouna Sarr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4235339"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Cheikh Mbengue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4235352"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7256"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross_left"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4235356"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Romain Danze"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4235390"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Modibo Maiga"
+:event/subtype "trip"
+:event/player1 "Ola Toivonen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4235412"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7256"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "blocked_shot"
+:event/player1 "Yeni N'Gbakoto"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4235435"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Jose Luis Palomino"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4235445"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7256"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4235447"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7256"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "direct_freekick"
+:event/player1 "Bouna Sarr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4235466"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Mexer"
+:event/player1 "Modibo Maiga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4235472"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Gaetan Bussmann"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4235498"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Sylvain Marchal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4235555"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7256"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "header"
+:event/player1 "Modibo Maiga"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4235557"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7256"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4235568"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7256"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Yeni N'Gbakoto"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4235569"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7256"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Steven Moreira"
+:event/subtype "trip"
+:event/player1 "Jose Luis Palomino"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4235615"
+:event/minute 93
+:event/match_id "match_7256"}
+
+{:event/type "card"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Jose Luis Palomino"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4235617"
+:event/minute 93
+:event/match_id "match_7256"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/subtype "post"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 11
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4235640"
+:event/minute 96
+:event/match_id "match_7256"}
+
+
+]
+

@@ -1,0 +1,1181 @@
+
+;;# data
+[
+{:match/id "match_7164"
+:match/league "France Ligue 1"
+:match/hometeam "FC Metz"
+:match/awayteam "FC Nantes"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/subtype "pushing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648021"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Fernando Aristeguieta"
+:event/player1 "Jeremy Choplin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648205"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7164"}
+
+{:event/type "goal"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Jordan Veretout"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_3648024"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Johan Audel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648046"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7164"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "short"
+:event/player1 "Yeni N'Gbakoto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648081"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Juan Falcon"
+:event/subtype "penalty"
+:event/player1 "Papy Djilobodji"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648104"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7164"}
+
+{:event/type "goal"
+:event/elapsed 12
+:event/player1 "Yeni N'Gbakoto"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_3648122"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Gaetan Bussmann"
+:event/subtype "trip"
+:event/player1 "Serge Gakpe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648190"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Gaetan Bussmann"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648146"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7164"}
+
+{:event/type "card"
+:event/elapsed 14
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Bouna Sarr"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3648147"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7164"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "distance"
+:event/player1 "Gaetan Bussmann"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3648175"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Fernando Aristeguieta"
+:event/subtype "pushing"
+:event/player1 "Romain Metannire"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648182"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Guirane N'Daw"
+:event/player1 "Jordan Veretout"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648224"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648239"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Issa Cissokho"
+:event/player1 "Juan Falcon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648246"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7164"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "distance"
+:event/player1 "Guirane N'Daw"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3648261"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/subtype "hands"
+:event/player1 "Serge Gakpe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648269"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Juan Falcon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648290"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7164"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "distance"
+:event/player1 "Bouna Sarr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3648297"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Fernando Aristeguieta"
+:event/subtype "trip"
+:event/player1 "Kevin Lejeune"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648305"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7164"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "direct_freekick"
+:event/player1 "Serge Gakpe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3648312"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Yeni N'Gbakoto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648328"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7164"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Yeni N'Gbakoto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648328"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Lucas Deaux"
+:event/player1 "Romain Rocchi"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648336"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7164"}
+
+{:event/type "card"
+:event/elapsed 32
+:event/card_type "y"
+:event/player1 "Romain Rocchi"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3648339"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Romain Rocchi"
+:event/subtype "trip"
+:event/player1 "Jordan Veretout"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648349"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Guirane N'Daw"
+:event/subtype "pushing"
+:event/player1 "Jordan Veretout"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648354"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648359"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Serge Gakpe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648373"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7164"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "miss_kick"
+:event/player1 "Johan Audel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3648375"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Gaetan Bussmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648380"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Lucas Deaux"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648394"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Serge Gakpe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648399"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7164"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Serge Gakpe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648399"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648402"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Lucas Deaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648407"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7164"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "distance"
+:event/player1 "Olivier Veigneau"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3648425"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Serge Gakpe"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648428"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7164"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Serge Gakpe"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648428"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Jordan Veretout"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648445"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7164"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "distance"
+:event/player1 "Yeni N'Gbakoto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3648455"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7164"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Bouna Sarr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3648460"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648472"
+:event/minute 46
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Serge Gakpe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648538"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Jeremy Choplin"
+:event/subtype "trip"
+:event/player1 "Jordan Veretout"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648546"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7164"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Fernando Aristeguieta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3648557"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Kevin Lejeune"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648600"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Johan Audel"
+:event/subtype "trip"
+:event/player1 "Romain Rocchi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648620"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7164"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "short"
+:event/player1 "Serge Gakpe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648628"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Issa Cissokho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648629"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Olivier Veigneau"
+:event/subtype "trip"
+:event/player1 "Juan Falcon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648641"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Gaetan Bussmann"
+:event/subtype "pushing"
+:event/player1 "Serge Gakpe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648649"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648658"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Gaetan Bussmann"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648665"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Bouna Sarr"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648675"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7164"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Bouna Sarr"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648675"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7164"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "blocked_shot"
+:event/player1 "Romain Rocchi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3648678"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7164"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "shot"
+:event/player1 "Gaetan Bussmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3648679"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Lucas Deaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648699"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Yeni N'Gbakoto"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648732"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7164"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "blocked_shot"
+:event/player1 "Juan Falcon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3648754"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Juan Falcon"
+:event/subtype "pushing"
+:event/player1 "Papy Djilobodji"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648766"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7164"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Romain Rocchi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3648771"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Guirane N'Daw"
+:event/subtype "trip"
+:event/player1 "Alejandro Bedoya"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648783"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Bouna Sarr"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648792"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7164"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Bouna Sarr"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3648792"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648801"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Moussa Gueye"
+:event/subtype "pushing"
+:event/player1 "Kian Hansen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648806"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Jeremy Choplin"
+:event/subtype "serious_foul"
+:event/player1 "Serge Gakpe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648810"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7164"}
+
+{:event/type "card"
+:event/elapsed 77
+:event/card_type "y"
+:event/player1 "Serge Gakpe"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3648812"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7164"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "direct_freekick"
+:event/player1 "Yeni N'Gbakoto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3648817"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Johan Audel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648825"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Olivier Veigneau"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648830"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7164"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Olivier Veigneau"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648830"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Kian Hansen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648832"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Yacine Bammou"
+:event/subtype "trip"
+:event/player1 "Romain Rocchi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648851"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Serge Gakpe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648854"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Johan Carrasso"
+:event/subtype "pushing"
+:event/player1 "Papy Djilobodji"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648856"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Issa Cissokho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648873"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Vincent Bessat"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648879"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Olivier Veigneau"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648885"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7164"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Olivier Veigneau"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648885"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Bouna Sarr"
+:event/subtype "from_behind"
+:event/player1 "Olivier Veigneau"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648888"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Serge Gakpe"
+:event/subtype "trip"
+:event/player1 "Guirane N'Daw"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648906"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648915"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/subtype "hands"
+:event/player1 "Moussa Gueye"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648918"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Jeremy Choplin"
+:event/player1 "Yacine Bammou"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648922"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3648926"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Jordan Veretout"
+:event/subtype "trip"
+:event/player1 "Guirane N'Daw"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3648943"
+:event/minute 91
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Olivier Veigneau"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648948"
+:event/minute 92
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648951"
+:event/minute 92
+:event/match_id "match_7164"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648951"
+:event/minute 92
+:event/match_id "match_7164"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Gaetan Bussmann"
+:event/subtype "pull"
+:event/player1 "Alejandro Bedoya"
+:event/sortorder 10
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3648952"
+:event/minute 93
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Issa Cissokho"
+:event/sortorder 11
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3648959"
+:event/minute 94
+:event/match_id "match_7164"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jordan Veretout"
+:event/sortorder 12
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648961"
+:event/minute 94
+:event/match_id "match_7164"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jordan Veretout"
+:event/sortorder 12
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3648961"
+:event/minute 94
+:event/match_id "match_7164"}
+
+
+]
+

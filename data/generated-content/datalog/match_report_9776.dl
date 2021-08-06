@@ -1,0 +1,935 @@
+
+;;# data
+[
+{:match/id "match_9776"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "VfB Stuttgart"
+:match/awayteam "Borussia Dortmund"
+:match/score "2:4"
+:match/hometeam_goals "2"
+:match/awayteam_goals "3"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Daniel Schwaab"
+:event/subtype "dangerous_play"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4180158"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Adam Hlousek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180178"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Marco Reus"
+:event/subtype "trip"
+:event/player1 "Serey Die"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4180184"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Serey Die"
+:event/subtype "dangerous_play"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4180189"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_9776"}
+
+{:event/type "card"
+:event/elapsed 8
+:event/card_type "y"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4180190"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4180201"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_9776"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "distance"
+:event/player1 "Kevin Kampl"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4180202"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Ilkay Guendogan"
+:event/subtype "trip"
+:event/player1 "Adam Hlousek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4180208"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4180210"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_9776"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "header"
+:event/player1 "Nuri Sahin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4180211"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_9776"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "cross_right"
+:event/player1 "Marco Reus"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4180212"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_9776"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "header"
+:event/player1 "Sokratis Papastathopoulos"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4180213"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Marco Reus"
+:event/subtype "trip"
+:event/player1 "Georg Niedermaier"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4180215"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_9776"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "distance"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4180223"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_9776"}
+
+{:event/type "goal"
+:event/elapsed 15
+:event/subtype "shot"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_4180224"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Florian Klein"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180228"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_9776"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "header"
+:event/player1 "Martin Harnik"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4180229"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Marcel Schmelzer"
+:event/subtype "trip"
+:event/player1 "Florian Klein"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4180237"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4180253"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Nuri Sahin"
+:event/subtype "pushing"
+:event/player1 "Martin Harnik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4180262"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Timo Werner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180279"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_9776"}
+
+{:event/type "goal"
+:event/elapsed 25
+:event/player2 "Shinji Kagawa"
+:event/subtype "shot"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_4180315"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Serey Die"
+:event/subtype "pull"
+:event/player1 "Kevin Kampl"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4180350"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9776"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "distance"
+:event/player1 "Martin Harnik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4180352"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_9776"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross_right"
+:event/player1 "Florian Klein"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4180369"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Georg Niedermaier"
+:event/subtype "penalty"
+:event/player1 "Nuri Sahin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4180378"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_9776"}
+
+{:event/type "goal"
+:event/elapsed 32
+:event/player1 "Florian Klein"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_4180384"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Daniel Schwaab"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180393"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_9776"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "volley"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4180407"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Marco Reus"
+:event/subtype "pull"
+:event/player1 "Georg Niedermaier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4180425"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_9776"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "direct_freekick"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4180433"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_9776"}
+
+{:event/type "goal"
+:event/elapsed 39
+:event/player2 "Shinji Kagawa"
+:event/subtype "shot"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4180446"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Gotoku Sakai"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180463"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Marco Reus"
+:event/subtype "from_behind"
+:event/player1 "Carlos Gruezo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4180493"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Martin Harnik"
+:event/subtype "trip"
+:event/player1 "Neven Subotic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4180507"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Adam Hlousek"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180512"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Roman Weidenfeller"
+:event/subtype "trip"
+:event/player1 "Georg Niedermaier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4180519"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Gotoku Sakai"
+:event/subtype "dangerous_play"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4180641"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_9776"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "deflected"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4180644"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_9776"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross_right"
+:event/player1 "Marco Reus"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4180646"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_9776"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "header"
+:event/player1 "Neven Subotic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4180649"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Adam Hlousek"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180661"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Gotoku Sakai"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180662"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_9776"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "shot"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4180674"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9776"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_left"
+:event/player1 "Marco Reus"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4180677"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Martin Harnik"
+:event/subtype "trip"
+:event/player1 "Nuri Sahin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4180682"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Serey Die"
+:event/subtype "pushing"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4180694"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Timo Werner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180697"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_9776"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "volley"
+:event/player1 "Adam Hlousek"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4180729"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Lukasz Piszczek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4180757"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_9776"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4180760"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Henrik Mkhitaryan"
+:event/subtype "trip"
+:event/player1 "Gotoku Sakai"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4180789"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Martin Harnik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180827"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Timo Werner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180829"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Timo Werner"
+:event/subtype "obstruction"
+:event/player1 "Lukasz Piszczek"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4180868"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_9776"}
+
+{:event/type "card"
+:event/elapsed 75
+:event/card_type "y"
+:event/player1 "Lukasz Piszczek"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4180863"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Daniel Schwaab"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180869"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_9776"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "distance"
+:event/player1 "Nuri Sahin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4180880"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_9776"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross_right"
+:event/player1 "Marco Reus"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4180884"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4180888"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Gotoku Sakai"
+:event/subtype "trip"
+:event/player1 "Marco Reus"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4180895"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Serey Die"
+:event/subtype "trip"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4180926"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Nuri Sahin"
+:event/subtype "serious_foul"
+:event/player1 "Serey Die"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4180956"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_9776"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/player1 "Serey Die"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4180953"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4180961"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Jakub Blaszczykowski"
+:event/subtype "pushing"
+:event/player1 "Timo Werner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4180968"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Filip Kostic"
+:event/subtype "obstruction"
+:event/player1 "Sokratis Papastathopoulos"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4180989"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Moritz Leitner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4180990"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9776"}
+
+{:event/type "goal"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Marco Reus"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_4180994"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_9776"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Martin Harnik"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4181017"
+:event/minute 91
+:event/match_id "match_9776"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Filip Kostic"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4181020"
+:event/minute 91
+:event/match_id "match_9776"}
+
+{:event/type "goal"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Vedad Ibisevic"
+:event/subtype "header"
+:event/player1 "Georg Niedermaier"
+:event/sortorder 7
+:event/team "home"
+:event/id "event_4181024"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 91
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Roman Weidenfeller"
+:event/subtype "obstruction"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 12
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4181048"
+:event/minute 94
+:event/match_id "match_9776"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Lukasz Piszczek"
+:event/subtype "trip"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 13
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4181086"
+:event/minute 94
+:event/match_id "match_9776"}
+
+
+]
+

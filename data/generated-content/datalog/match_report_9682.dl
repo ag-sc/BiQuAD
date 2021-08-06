@@ -1,0 +1,911 @@
+
+;;# data
+[
+{:match/id "match_9682"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Bayer 04 Leverkusen"
+:match/awayteam "1. FC Köln"
+:match/score "5:1"
+:match/hometeam_goals "5"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3968883"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_9682"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross_right"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3968895"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9682"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Heung-Min Son"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3968897"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Pawel Olkowski"
+:event/subtype "pushing"
+:event/player1 "Emir Spahic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3968903"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Matthias Lehmann"
+:event/subtype "penalty"
+:event/player1 "Bernd Leno"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3968909"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_9682"}
+
+{:event/type "card"
+:event/elapsed 4
+:event/card_type "y"
+:event/player1 "Bernd Leno"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3968912"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_9682"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/player1 "Matthias Lehmann"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_3968918"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_9682"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "distance"
+:event/player1 "Pawel Olkowski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3968931"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Pawel Olkowski"
+:event/subtype "trip"
+:event/player1 "Sebastian Boenisch"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3968955"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_9682"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Sebastian Boenisch"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3969001"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "distance"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3969012"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Stefan Kiessling"
+:event/subtype "pushing"
+:event/player1 "Miso Brecko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3969020"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_9682"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross_left"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3969037"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Gonzalo Castro"
+:event/subtype "pushing"
+:event/player1 "Kevin Vogt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3969074"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Kevin Wimmer"
+:event/subtype "pushing"
+:event/player1 "Roberto Hilbert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3969095"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Kevin Wimmer"
+:event/subtype "trip"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3969100"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Karim Bellarabi"
+:event/subtype "trip"
+:event/player1 "Kevin Vogt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3969126"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3969150"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_9682"}
+
+{:event/type "goal"
+:event/elapsed 26
+:event/subtype "tap_in"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_3969142"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "shot"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3969155"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "distance"
+:event/player1 "Heung-Min Son"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3969170"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_9682"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "short_left"
+:event/player1 "Heung-Min Son"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3969319"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_9682"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Pawel Olkowski"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3969343"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "blocked_shot"
+:event/player1 "Heung-Min Son"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3969352"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "distance"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3969356"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/subtype "trip"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3969365"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Jonas Hector"
+:event/subtype "trip"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3969387"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "deflected"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3969474"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_9682"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross_right"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3969484"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "header"
+:event/player1 "Sebastian Boenisch"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3969499"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_9682"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross_right"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3969501"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_9682"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "distance"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3969507"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_9682"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3969535"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_9682"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Roberto Hilbert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3969548"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9682"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Pawel Olkowski"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3969569"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Mergim Mavraj"
+:event/subtype "pushing"
+:event/player1 "Josip Drmic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3969965"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Pawel Olkowski"
+:event/subtype "obstruction"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3969980"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_9682"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Roberto Hilbert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3970018"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Lars Bender"
+:event/subtype "trip"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3970029"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_9682"}
+
+{:event/type "card"
+:event/elapsed 54
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3970041"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_9682"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3970048"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_9682"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "shot"
+:event/player1 "Josip Drmic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3970073"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 60
+:event/subtype "blocked_shot"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3970187"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Heung-Min Son"
+:event/subtype "dangerous_play"
+:event/player1 "Mergim Mavraj"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3970209"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_9682"}
+
+{:event/type "goal"
+:event/elapsed 61
+:event/subtype "direct_freekick"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_3970223"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_9682"}
+
+{:event/type "card"
+:event/elapsed 62
+:event/card_type "y"
+:event/player1 "Kevin Wimmer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3970235"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 66
+:event/subtype "shot"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3970276"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Jonas Hector"
+:event/subtype "trip"
+:event/player1 "Roberto Hilbert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3970304"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_9682"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Kevin Wimmer"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3970315"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_9682"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross_right"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3970320"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Hakan Calhanoglu"
+:event/subtype "trip"
+:event/player1 "Dominic Maroh"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3970324"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/subtype "hands"
+:event/player1 "Heung-Min Son"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3970335"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "shot"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3970344"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9682"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross_left"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3970346"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_9682"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Pawel Olkowski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3970362"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_9682"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross_right"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3970366"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_9682"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross_left"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3970410"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "blocked_shot"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3970419"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_9682"}
+
+{:event/type "goal"
+:event/elapsed 79
+:event/player2 "Heung-Min Son"
+:event/subtype "shot"
+:event/player1 "Josip Drmic"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_3970483"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9682"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3970520"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3970549"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_9682"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3970568"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_9682"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross_right"
+:event/player1 "Hakan Calhanoglu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3970615"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_9682"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "header"
+:event/player1 "Josip Drmic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3970618"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_9682"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Josip Drmic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3970650"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Matthias Lehmann"
+:event/subtype "dangerous_play"
+:event/player1 "Heung-Min Son"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3970658"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Gonzalo Castro"
+:event/subtype "trip"
+:event/player1 "Kevin Vogt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3970755"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Heung-Min Son"
+:event/subtype "obstruction"
+:event/player1 "Slawomir Peszko"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3970762"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_9682"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3970775"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9682"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "deflected"
+:event/player1 "Robbie Kruse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3970810"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9682"}
+
+{:event/type "goal"
+:event/elapsed 88
+:event/subtype "volley"
+:event/player1 "Josip Drmic"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_3970788"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9682"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3970833"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9682"}
+
+{:event/type "goal"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Josip Drmic"
+:event/subtype "shot"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_3970845"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 91
+:event/match_id "match_9682"}
+
+
+]
+

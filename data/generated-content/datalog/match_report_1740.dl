@@ -1,0 +1,1377 @@
+
+;;# data
+[
+{:match/id "match_1740"
+:match/league "England Premier League"
+:match/hometeam "Arsenal"
+:match/awayteam "Tottenham Hotspur"
+:match/score "4:4"
+:match/hometeam_goals "4"
+:match/awayteam_goals "4"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Theo Walcott"
+:event/player1 "Jermaine Jenas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_463617"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Gael Clichy"
+:event/player1 "David Bentley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_463628"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_463637"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player1 "Denilson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_463688"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Luka Modric"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_463732"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_463749"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "David Bentley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_463801"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "shot"
+:event/player1 "Theo Walcott"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_463823"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Luka Modric"
+:event/subtype "from_behind"
+:event/player1 "Denilson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_463829"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_1740"}
+
+{:event/type "goal"
+:event/elapsed 13
+:event/player2 "Jermaine Jenas"
+:event/subtype "distance"
+:event/player1 "David Bentley"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_463841"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Samir Nasri"
+:event/subtype "pushing"
+:event/player1 "Jermaine Jenas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_463872"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "direct_freekick"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_463893"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_463898"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1740"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_463898"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_463906"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1740"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_463906"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "shot"
+:event/player1 "Robin van Persie"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_463911"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player1 "Jermaine Jenas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_463928"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_463946"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_463982"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_463992"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_1740"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_463992"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "shot"
+:event/player1 "Robin van Persie"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_464009"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_464013"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_1740"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_464013"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Theo Walcott"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_464026"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_464036"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_1740"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_464036"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "William Gallas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_464047"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "David Bentley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_464059"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Denilson"
+:event/subtype "pushing"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_464119"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Theo Walcott"
+:event/subtype "shirt_pull"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_464144"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "David Bentley"
+:event/player1 "Bacary Sagna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_464175"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "David Bentley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_464199"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/subtype "pushing"
+:event/player1 "David Bentley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_464260"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_1740"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "blocked_shot"
+:event/player1 "Theo Walcott"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_464273"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_464290"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_1740"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_464290"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Gael Clichy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_464312"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_1740"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "shot"
+:event/player1 "Theo Walcott"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_464317"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_1740"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "blocked_shot"
+:event/player1 "Theo Walcott"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_464326"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "distance"
+:event/player1 "Gael Clichy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_464340"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_464360"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Denilson"
+:event/subtype "pushing"
+:event/player1 "Jermaine Jenas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_464367"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_464376"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "shot"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_464394"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_464404"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_1740"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_464404"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_1740"}
+
+{:event/type "goal"
+:event/elapsed 37
+:event/player2 "Robin van Persie"
+:event/subtype "header"
+:event/player1 "Mikael Silvestre"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_464406"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "shot"
+:event/player1 "Luka Modric"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_464428"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "David Bentley"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_464431"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_464435"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "David Bentley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_464450"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Gael Clichy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_464468"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Jermaine Jenas"
+:event/subtype "shirt_pull"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_464496"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Theo Walcott"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_464531"
+:event/minute 46
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Robin van Persie"
+:event/subtype "shirt_pull"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_464803"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1740"}
+
+{:event/type "goal"
+:event/elapsed 46
+:event/player2 "Robin van Persie"
+:event/subtype "header"
+:event/player1 "William Gallas"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_464813"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Luka Modric"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_464835"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "David Bentley"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_464857"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_464876"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Gael Clichy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_464913"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1740"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "distance"
+:event/player1 "Denilson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_464918"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_464929"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1740"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_464929"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "header"
+:event/player1 "Mikael Silvestre"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_464932"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Robin van Persie"
+:event/subtype "pushing"
+:event/player1 "Vedran Corluka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_464963"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Jermaine Jenas"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_464979"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Theo Walcott"
+:event/subtype "serious_foul"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_464999"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_1740"}
+
+{:event/type "card"
+:event/elapsed 54
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_465001"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "William Gallas"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_465014"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Gael Clichy"
+:event/subtype "serious_foul"
+:event/player1 "David Bentley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_465063"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_1740"}
+
+{:event/type "card"
+:event/elapsed 57
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "David Bentley"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_465064"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Gael Clichy"
+:event/subtype "serious_foul"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_465101"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_1740"}
+
+{:event/type "card"
+:event/elapsed 59
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_465103"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "shot"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_465132"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_1740"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "David Bentley"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_465176"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Aaron Lennon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_465197"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1740"}
+
+{:event/type "goal"
+:event/elapsed 64
+:event/player2 "Samir Nasri"
+:event/subtype "shot"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_465227"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_1740"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_465272"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_1740"}
+
+{:event/type "goal"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Darren Bent"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_465295"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1740"}
+
+{:event/type "goal"
+:event/elapsed 68
+:event/player2 "Emmanuel Adebayor"
+:event/subtype "shot"
+:event/player1 "Robin van Persie"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_465304"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Mikael Silvestre"
+:event/player1 "Darren Bent"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_465327"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Darren Bent"
+:event/subtype "from_behind"
+:event/player1 "Mikael Silvestre"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_465342"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Robin van Persie"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_465365"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player1 "Denilson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_465379"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_1740"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "shot"
+:event/player1 "Theo Walcott"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_465407"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_465437"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_465440"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_1740"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_465498"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_465517"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Denilson"
+:event/subtype "shirt_pull"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_465534"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_465560"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "header"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_465566"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1740"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "blocked_shot"
+:event/player1 "Bacary Sagna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_465600"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1740"}
+
+{:event/type "card"
+:event/elapsed 85
+:event/card_type "y"
+:event/player1 "Jermaine Jenas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_465612"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Aaron Lennon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_465620"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "header"
+:event/player1 "Darren Bent"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_465623"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "distance"
+:event/player1 "David Bentley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_465639"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1740"}
+
+{:event/type "goal"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Jermaine Jenas"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_465663"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1740"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_465672"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_465677"
+:event/minute 91
+:event/match_id "match_1740"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_465677"
+:event/minute 91
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Luka Modric"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_465682"
+:event/minute 91
+:event/match_id "match_1740"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Jermaine Jenas"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_465685"
+:event/minute 91
+:event/match_id "match_1740"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Chris Gunter"
+:event/player1 "Abou Diaby"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_465688"
+:event/minute 91
+:event/match_id "match_1740"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Abou Diaby"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "card"
+:event/id "event_465689"
+:event/minute 91
+:event/match_id "match_1740"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player1 "David Bentley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_465694"
+:event/minute 93
+:event/match_id "match_1740"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "post"
+:event/player1 "Luka Modric"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_465713"
+:event/minute 94
+:event/match_id "match_1740"}
+
+{:event/type "goal"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Aaron Lennon"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_465718"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 94
+:event/match_id "match_1740"}
+
+{:event/type "cross"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_465721"
+:event/minute 95
+:event/match_id "match_1740"}
+
+{:event/type "shoton"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_465722"
+:event/minute 95
+:event/match_id "match_1740"}
+
+
+]
+

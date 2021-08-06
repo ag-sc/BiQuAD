@@ -1,0 +1,968 @@
+
+;;# data
+[
+{:match/id "match_1913"
+:match/league "England Premier League"
+:match/hometeam "Middlesbrough"
+:match/awayteam "Wigan Athletic"
+:match/score "0:0"
+:match/hometeam_goals "0"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Afonso Alves,24"
+:event/player1 "Titus Bramble"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585008"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Emmerson Boyce"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_585015"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Amr Zaki"
+:event/player1 "Emanuel Pogatetz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_585045"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_585052"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Amr Zaki"
+:event/player1 "Robert Huth"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_585066"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_1913"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "blocked_shot"
+:event/player1 "Michael Brown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_585070"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_585080"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_1913"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_585080"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Gary O'Neil"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_585082"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_1913"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "blocked_shot"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_585098"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Adam Johnson"
+:event/player1 "Ben Watson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585101"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Didier Digard"
+:event/player1 "Amr Zaki"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585135"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Emanuel Pogatetz"
+:event/subtype "pushing"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585164"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Didier Digard"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585175"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_585324"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1913"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_585324"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1913"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Olivier Kapo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_585337"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_585351"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "David Wheater"
+:event/player1 "Amr Zaki"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585355"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Stewart Downing"
+:event/subtype "serious_foul"
+:event/player1 "Ben Watson"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585360"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1913"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Ben Watson"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_585362"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_585370"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Afonso Alves,24"
+:event/subtype "shirt_pull"
+:event/player1 "Emmerson Boyce"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585386"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_1913"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "blocked_shot"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_585399"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_1913"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "deflected"
+:event/player1 "Michael Brown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_585401"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_1913"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "distance"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_585459"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Gary O'Neil"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_585465"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1913"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Gary O'Neil"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_585465"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1913"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "distance"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_585472"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_585477"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Mario Melchiot"
+:event/player1 "Robert Huth"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_585491"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_1913"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "direct_freekick"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_585502"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Adam Johnson"
+:event/player1 "Lee Cattermole"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585529"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Gary O'Neil"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_585545"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_1913"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Gary O'Neil"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_585545"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_1913"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "distance"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_585567"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1913"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "distance"
+:event/player1 "Amr Zaki"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_585583"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Julio Arca"
+:event/subtype "from_behind"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585595"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1913"}
+
+{:event/type "card"
+:event/elapsed 44
+:event/card_type "y"
+:event/player1 "Lee Cattermole"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_585597"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1913"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_585633"
+:event/minute 46
+:event/match_id "match_1913"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/card_type "y"
+:event/player1 "Olivier Kapo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_585642"
+:event/minute 47
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/player2 "Gary O'Neil"
+:event/player1 "Olivier Kapo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585654"
+:event/minute 48
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_585668"
+:event/minute 49
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Olivier Kapo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_585850"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_1913"}
+
+{:event/type "card"
+:event/elapsed_plus 5
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Afonso Alves,24"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_585678"
+:event/minute 50
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 6
+:event/elapsed 45
+:event/player2 "Afonso Alves,24"
+:event/player1 "Emmerson Boyce"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585682"
+:event/minute 51
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Mario Melchiot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_585902"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Justin Hoyte"
+:event/subtype "serious_foul"
+:event/player1 "Amr Zaki"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_585943"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1913"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Amr Zaki"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_585947"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_586002"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_1913"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "volley"
+:event/player1 "Jeremie Aliadiere"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_586007"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Maynor Figueroa"
+:event/player1 "Tuncay Sanli"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_586026"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "David Wheater"
+:event/player1 "Amr Zaki"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_586055"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_586064"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_1913"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "volley"
+:event/player1 "Michael Brown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_586068"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_1913"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "deflected"
+:event/player1 "Amr Zaki"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_586089"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Gary O'Neil"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_586100"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1913"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Gary O'Neil"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_586100"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1913"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "header"
+:event/player1 "Emanuel Pogatetz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_586104"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Lee Cattermole"
+:event/player1 "Jeremie Aliadiere"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_586116"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_586130"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1913"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_586130"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1913"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "deflected"
+:event/player1 "Afonso Alves,24"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_586146"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_1913"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "blocked_shot"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_586154"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Ben Watson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_586195"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1913"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "header"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_586197"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1913"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_586214"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_1913"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Tuncay Sanli"
+:event/player1 "Emmerson Boyce"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_586238"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1913"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_586283"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_586298"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_586300"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_1913"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_586311"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_1913"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_586317"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_586333"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_1913"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Afonso Alves,24"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_586336"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_586384"
+:event/minute 91
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_586386"
+:event/minute 91
+:event/match_id "match_1913"}
+
+{:event/type "cross"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_586399"
+:event/minute 95
+:event/match_id "match_1913"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_586400"
+:event/minute 95
+:event/match_id "match_1913"}
+
+
+]
+

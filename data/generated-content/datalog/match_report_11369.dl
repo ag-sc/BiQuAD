@@ -1,0 +1,977 @@
+
+;;# data
+[
+{:match/id "match_11369"
+:match/league "Italy Serie A"
+:match/hometeam "Roma"
+:match/awayteam "Genoa"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Marco Cassetti"
+:event/subtype "pushing"
+:event/player1 "Chico"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1216592"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Rodrigo Taddei"
+:event/subtype "pushing"
+:event/player1 "Domenico Criscito"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1216593"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "John Arne Riise"
+:event/subtype "pushing"
+:event/player1 "Houssine Kharja"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1216603"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Dario Dainelli"
+:event/subtype "from_behind"
+:event/player1 "Nicolas Burdisso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1216604"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/subtype "obstruction"
+:event/player1 "Omar Milanetto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1216605"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Francesco Totti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1216608"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11369"}
+
+{:event/type "corner"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Francesco Totti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1216608"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11369"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "volley"
+:event/player1 "Rodrigo Taddei"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1216609"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Dario Dainelli"
+:event/subtype "pushing"
+:event/player1 "Rodrigo Taddei"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1216612"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_11369"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "post"
+:event/player1 "Marco Borriello"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1216614"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_11369"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "shot"
+:event/player1 "Francesco Totti"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1216615"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Giandomenico Mesto"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216617"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_11369"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "header"
+:event/player1 "Luca Toni"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1216618"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Giandomenico Mesto"
+:event/subtype "obstruction"
+:event/player1 "Francesco Totti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1216621"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11369"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "distance"
+:event/player1 "Francesco Totti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1216627"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Giandomenico Mesto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216644"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Marco Rossi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216648"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11369"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "shot"
+:event/player1 "Domenico Criscito"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1216649"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Luca Toni"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216660"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11369"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "header"
+:event/player1 "Andrea Ranocchia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1216661"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Simone Perrotta"
+:event/subtype "obstruction"
+:event/player1 "Omar Milanetto"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1216664"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Giandomenico Mesto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216669"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11369"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "blocked_shot"
+:event/player1 "Simone Perrotta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1216677"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Francesco Totti"
+:event/subtype "from_behind"
+:event/player1 "Houssine Kharja"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1216679"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Houssine Kharja"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216681"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11369"}
+
+{:event/type "goal"
+:event/elapsed 34
+:event/player2 "Francesco Totti"
+:event/subtype "shot"
+:event/player1 "Marco Borriello"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1216682"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Giandomenico Mesto"
+:event/subtype "pushing"
+:event/player1 "Rodrigo Taddei"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1216691"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Omar Milanetto"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216692"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Chico"
+:event/subtype "pushing"
+:event/player1 "Marco Borriello"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1216697"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11369"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "blocked_shot"
+:event/player1 "Francesco Totti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1216701"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "David Pizarro"
+:event/subtype "serious_foul"
+:event/player1 "Rodrigo Palacio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1216708"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11369"}
+
+{:event/type "card"
+:event/elapsed 43
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Rodrigo Palacio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1216709"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11369"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "header"
+:event/player1 "Matteo Brighi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1216711"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Rodrigo Palacio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216715"
+:event/minute 46
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216741"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Andrea Ranocchia"
+:event/subtype "pushing"
+:event/player1 "Francesco Totti"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1216742"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Domenico Criscito"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216752"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11369"}
+
+{:event/type "goal"
+:event/elapsed 53
+:event/player2 "Simone Perrotta"
+:event/subtype "shot"
+:event/player1 "Matteo Brighi"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1216762"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_11369"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "distance"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1216765"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_11369"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "blocked_shot"
+:event/player1 "Dario Dainelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1216771"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11369"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "crossbar"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1216772"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Marco Borriello"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1216774"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Marco Rossi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216776"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11369"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "distance"
+:event/player1 "Francesco Totti"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1216777"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11369"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "crossbar"
+:event/player1 "Marco Borriello"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1216778"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Luca Toni"
+:event/subtype "pushing"
+:event/player1 "Marco Cassetti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1216786"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_11369"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Giuseppe Sculli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1216799"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Giuseppe Sculli"
+:event/subtype "pushing"
+:event/player1 "Nicolas Burdisso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1216806"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Omar Milanetto"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1216809"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11369"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Omar Milanetto"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1216809"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11369"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "deflected"
+:event/player1 "Domenico Criscito"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1216810"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Omar Milanetto"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1216811"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11369"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Omar Milanetto"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1216811"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Omar Milanetto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216815"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/subtype "hands"
+:event/player1 "Matteo Brighi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1216816"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11369"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/subtype "hands"
+:event/player1 "Matteo Brighi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1216817"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11369"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Luca Toni"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1216826"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1216827"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11369"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1216827"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1216828"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_11369"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1216828"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216834"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "David Pizarro"
+:event/subtype "pushing"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1216838"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_11369"}
+
+{:event/type "goal"
+:event/elapsed 78
+:event/player2 "Luca Toni"
+:event/subtype "shot"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1216846"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Marco Borriello"
+:event/subtype "serious_foul"
+:event/player1 "Omar Milanetto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1216853"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11369"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Omar Milanetto"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1216854"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11369"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Luca Toni"
+:event/subtype "obstruction"
+:event/player1 "Nicolas Burdisso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1216859"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Chico"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216860"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Rafinha"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1216865"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1216866"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11369"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1216866"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11369"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "volley"
+:event/player1 "Omar Milanetto"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1216868"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11369"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Francesco Totti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1216877"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11369"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Francesco Totti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1216877"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11369"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "distance"
+:event/player1 "Giuseppe Sculli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1216880"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11369"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "short"
+:event/player1 "Francesco Totti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1216884"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_11369"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Omar Milanetto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1216887"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11369"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Domenico Criscito"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1216888"
+:event/minute 91
+:event/match_id "match_11369"}
+
+
+]
+

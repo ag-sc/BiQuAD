@@ -1,0 +1,939 @@
+
+;;# data
+[
+{:match/id "match_21903"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Valencia CF"
+:match/awayteam "Sevilla FC"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_744312"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744327"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "David Silva"
+:event/player1 "Abdoulay Konko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_744342"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744344"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_21903"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "distance"
+:event/player1 "Carlos Marchena"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_744347"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_744353"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "David Villa"
+:event/subtype "serious_foul"
+:event/player1 "Fernando Navarro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_744356"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_21903"}
+
+{:event/type "card"
+:event/elapsed 7
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Fernando Navarro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_744357"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Romaric"
+:event/player1 "Ever Banega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744378"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Abdoulay Konko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_744391"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/subtype "hands"
+:event/player1 "Romaric"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_744404"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_21903"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "distance"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_744426"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Carlos Marchena"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744429"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Diego Perotti"
+:event/subtype "serious_foul"
+:event/player1 "Miguel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744444"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_21903"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Miguel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_744445"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Carlos Marchena"
+:event/player1 "Luis Fabiano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_744451"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/subtype "hands"
+:event/player1 "David Villa"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744452"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Bruno Saltor"
+:event/subtype "serious_foul"
+:event/player1 "Frederic Kanoute"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_744467"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_21903"}
+
+{:event/type "card"
+:event/elapsed 23
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Frederic Kanoute"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_744468"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744480"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Fernando Navarro"
+:event/player1 "Ever Banega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744496"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_744498"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_21903"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "header"
+:event/player1 "Frederic Kanoute"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_744500"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_744504"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/subtype "hands"
+:event/player1 "Luis Fabiano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_744510"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Diego Perotti"
+:event/player1 "Carlos Marchena"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744537"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/subtype "hands"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_744539"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_744544"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Jesus Navas"
+:event/player1 "Bruno Saltor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744555"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744587"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_21903"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_744588"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Carlos Marchena"
+:event/subtype "serious_foul"
+:event/player1 "Frederic Kanoute"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_744598"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_21903"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Frederic Kanoute"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_744599"
+:event/minute 46
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744631"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_21903"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "short"
+:event/player1 "Juan Mata"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_744633"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "David Villa"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744634"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Ever Banega"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744639"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_21903"}
+
+{:event/type "goal"
+:event/elapsed 47
+:event/player2 "Ever Banega"
+:event/subtype "shot"
+:event/player1 "Juan Mata"
+:event/sortorder 6
+:event/team "home"
+:event/id "event_744640"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_21903"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Luis Fabiano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_744649"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744654"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744664"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_21903"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "short"
+:event/player1 "Ever Banega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_744667"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_21903"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "crossbar"
+:event/player1 "Dealbert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_744669"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744689"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_21903"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "short"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_744691"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744693"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_21903"}
+
+{:event/type "shoton"
+:event/elapsed 60
+:event/subtype "distance"
+:event/player1 "Ever Banega"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_744696"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Miguel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744706"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744716"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Ever Banega"
+:event/player1 "Jesus Navas"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_744718"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Ever Banega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744721"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_744725"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_21903"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_744725"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Jesus Navas"
+:event/player1 "David Albelda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744729"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_744736"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_21903"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_744736"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Ever Banega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744745"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Sebastien Squillaci"
+:event/player1 "David Silva"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744748"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Didier Zokora"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744759"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Abdoulay Konko"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744769"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Didier Zokora"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744771"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744777"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Arouna Kone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_744781"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Fernando Navarro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_744783"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Abdoulay Konko"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_744786"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Alvaro Negredo"
+:event/player1 "David Villa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744790"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Ever Banega"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_744803"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_21903"}
+
+{:event/type "goal"
+:event/elapsed 80
+:event/player2 "Ever Banega"
+:event/subtype "distance"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_744804"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Alvaro Negredo"
+:event/player1 "David Albelda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744812"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Pablo Hernandez"
+:event/player1 "Sebastien Squillaci"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_744820"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_21903"}
+
+{:event/type "card"
+:event/elapsed 82
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Sebastien Squillaci"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_744821"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Didier Zokora"
+:event/player1 "Michel Herrero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744837"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_21903"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Sebastien Squillaci"
+:event/player1 "Michel Herrero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_744846"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_21903"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "blocked_shot"
+:event/player1 "Didier Zokora"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_744854"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_21903"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Abdoulay Konko"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_744871"
+:event/minute 92
+:event/match_id "match_21903"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_744877"
+:event/minute 94
+:event/match_id "match_21903"}
+
+
+]
+

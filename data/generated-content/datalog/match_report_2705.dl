@@ -1,0 +1,1501 @@
+
+;;# data
+[
+{:match/id "match_2705"
+:match/league "England Premier League"
+:match/hometeam "Fulham"
+:match/awayteam "Blackburn Rovers"
+:match/score "4:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "2"}
+
+{:event/type "shoton"
+:event/elapsed 2
+:event/subtype "blocked_shot"
+:event/player1 "Andrew Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1439879"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Jason Roberts"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1439899"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Grant Hanley"
+:event/subtype "from_behind"
+:event/player1 "Andrew Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1439933"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/subtype "hands"
+:event/player1 "Andrew Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1439936"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Junior Hoilett"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1439948"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Junior Hoilett"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1439948"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Martin Olsson"
+:event/subtype "serious_foul"
+:event/player1 "Dickson Etuhu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1439971"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2705"}
+
+{:event/type "card"
+:event/elapsed 9
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Dickson Etuhu"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1439972"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Clint Dempsey"
+:event/subtype "from_behind"
+:event/player1 "Christopher Samba"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1439985"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "blocked_shot"
+:event/player1 "Chris Baird"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1439989"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2705"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1439992"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Chris Baird"
+:event/subtype "serious_foul"
+:event/player1 "Jason Roberts"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1440027"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Junior Hoilett"
+:event/subtype "from_behind"
+:event/player1 "Chris Baird"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440039"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440057"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2705"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "volley"
+:event/player1 "Andrew Johnson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1440059"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Jason Roberts"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1440071"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440082"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Mame Biram Diouf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440083"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Michel Salgado"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440090"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2705"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "header"
+:event/player1 "Jason Roberts"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1440092"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Jermaine Jones"
+:event/subtype "pushing"
+:event/player1 "Moussa Dembele"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440100"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2705"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "deflected"
+:event/player1 "Martin Olsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1440112"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440122"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440122"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Martin Olsson"
+:event/subtype "from_behind"
+:event/player1 "Moussa Dembele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440137"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440155"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1440161"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1440161"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Mame Biram Diouf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1440176"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Junior Hoilett"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440177"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440188"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440188"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "header"
+:event/player1 "Grant Hanley"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1440189"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Junior Hoilett"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440191"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Andrew Johnson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440207"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Jason Roberts"
+:event/subtype "from_behind"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440220"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Chris Baird"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440252"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Moussa Dembele"
+:event/subtype "pushing"
+:event/player1 "Jason Roberts"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1440257"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "shot"
+:event/player1 "Dickson Etuhu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1440273"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Clint Dempsey"
+:event/subtype "from_behind"
+:event/player1 "Grant Hanley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1440296"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440297"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Michel Salgado"
+:event/subtype "serious_foul"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440309"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Danny Murphy"
+:event/subtype "from_behind"
+:event/player1 "Jermaine Jones"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1440326"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2705"}
+
+{:event/type "goal"
+:event/elapsed 37
+:event/player2 "Dickson Etuhu"
+:event/subtype "shot"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1440332"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Andrew Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440361"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Moussa Dembele"
+:event/subtype "pushing"
+:event/player1 "Grant Hanley"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1440395"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440402"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Martin Olsson"
+:event/subtype "from_behind"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440426"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Michel Salgado"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440437"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440449"
+:event/minute 46
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440449"
+:event/minute 46
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Jason Roberts"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440574"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_2705"}
+
+{:event/type "goal"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1440464"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/minute 47
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440594"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1440601"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1440601"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Michel Salgado"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440488"
+:event/minute 48
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1440497"
+:event/minute 48
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1440497"
+:event/minute 48
+:event/match_id "match_2705"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "shot"
+:event/player1 "Aaron Hughes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1440618"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440625"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440625"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player1 "Martin Olsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1440681"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "blocked_shot"
+:event/player1 "Carlos Salcido"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1440705"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1440712"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1440712"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440717"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1440726"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1440726"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Andrew Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440749"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "blocked_shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1440753"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Jermaine Jones"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440766"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Martin Olsson"
+:event/subtype "from_behind"
+:event/player1 "Chris Baird"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440794"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2705"}
+
+{:event/type "goal"
+:event/elapsed 59
+:event/player2 "Moussa Dembele"
+:event/subtype "shot"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1440848"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Mame Biram Diouf"
+:event/subtype "from_behind"
+:event/player1 "Carlos Salcido"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440893"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Martin Olsson"
+:event/subtype "from_behind"
+:event/player1 "Chris Baird"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440955"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2705"}
+
+{:event/type "card"
+:event/elapsed 62
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Chris Baird"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1440919"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440935"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440935"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Jason Roberts"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440983"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2705"}
+
+{:event/type "goal"
+:event/elapsed 66
+:event/player2 "Jason Roberts"
+:event/subtype "shot"
+:event/player1 "Junior Hoilett"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1440984"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Carlos Salcido"
+:event/subtype "pushing"
+:event/player1 "Jason Roberts"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1440994"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1441001"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "blocked_shot"
+:event/player1 "Junior Hoilett"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1441030"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Damien Duff"
+:event/subtype "from_behind"
+:event/player1 "Gael Givet"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1441044"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "direct_freekick"
+:event/player1 "Bobby Zamora"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1441081"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1441083"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1441083"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1441124"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1441124"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1441125"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Mame Biram Diouf"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1441196"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2705"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Jermaine Jones"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1441202"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Jason Roberts"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1441225"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2705"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "header"
+:event/player1 "Steven Nzonzi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1441228"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1441261"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1441266"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1441266"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Mark Schwarzer"
+:event/subtype "pushing"
+:event/player1 "Jason Roberts"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1441275"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2705"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Jason Roberts"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1441276"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Carlos Salcido"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1441300"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Carlos Salcido"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1441306"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2705"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "deflected"
+:event/player1 "Damien Duff"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1441341"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1441345"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1441345"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Andrew Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1441357"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Jason Roberts"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1441369"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Chris Baird"
+:event/subtype "from_behind"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1441377"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2705"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "header"
+:event/player1 "Brede Hangeland"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1441386"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Gael Kakuta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1441412"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Chris Baird"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1441413"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2705"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Andrew Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1441423"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2705"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1441425"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2705"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1441425"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Andrew Johnson"
+:event/subtype "penalty"
+:event/player1 "Grant Hanley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1441436"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2705"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Grant Hanley"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1441439"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2705"}
+
+{:event/type "goal"
+:event/elapsed 89
+:event/player1 "Bobby Zamora"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1441443"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Bobby Zamora"
+:event/subtype "from_behind"
+:event/player1 "Jermaine Jones"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1441572"
+:event/minute 91
+:event/match_id "match_2705"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Jermaine Jones"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1441573"
+:event/minute 91
+:event/match_id "match_2705"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Bobby Zamora"
+:event/subtype "from_behind"
+:event/player1 "Steven Nzonzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1441512"
+:event/minute 93
+:event/match_id "match_2705"}
+
+{:event/type "card"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/card_type "r"
+:event/subtype "verbal_abuse"
+:event/player1 "Gael Givet"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1447715"
+:event/minute 95
+:event/match_id "match_2705"}
+
+
+]
+

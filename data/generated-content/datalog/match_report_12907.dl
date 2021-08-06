@@ -1,0 +1,953 @@
+
+;;# data
+[
+{:match/id "match_12907"
+:match/league "Italy Serie A"
+:match/hometeam "Hellas Verona"
+:match/awayteam "Fiorentina"
+:match/score "1:1"
+:match/hometeam_goals "0"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Nikola Kalinic"
+:event/subtype "pushing"
+:event/player1 "Eros Pisano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4963673"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Jacopo Sala"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4963744"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4963763"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_12907"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "volley"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4963770"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_12907"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "distance"
+:event/player1 "Josip Ilicic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4963871"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4963894"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_12907"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "distance"
+:event/player1 "Matias Vecino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4963916"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Nikola Kalinic"
+:event/subtype "serious_foul"
+:event/player1 "Eros Pisano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4963955"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_12907"}
+
+{:event/type "card"
+:event/elapsed 16
+:event/card_type "y"
+:event/player1 "Eros Pisano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4963962"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Borja Valero"
+:event/subtype "serious_foul"
+:event/player1 "Francelino Matuzalem"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4963973"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Josip Ilicic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4963988"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_12907"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "header"
+:event/player1 "Davide Astori"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4963992"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Matias Vecino"
+:event/subtype "serious_foul"
+:event/player1 "Francelino Matuzalem"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4964022"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Manuel Pasqual"
+:event/subtype "trip"
+:event/player1 "Artur Ionita"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4964037"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Francelino Matuzalem"
+:event/subtype "pull"
+:event/player1 "Josip Ilicic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4964076"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Borja Valero"
+:event/subtype "trip"
+:event/player1 "Leandro Greco"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4964089"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4964102"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_12907"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Nikola Kalinic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4964114"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4964161"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_12907"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Nikola Kalinic"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4964280"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_12907"}
+
+{:event/type "goal"
+:event/elapsed 25
+:event/player1 "Rafael Marquez"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_4964143"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4964187"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Leandro Greco"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4964209"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Jacopo Sala"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4964231"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Josip Ilicic"
+:event/subtype "serious_foul"
+:event/player1 "Leandro Greco"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4964237"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_12907"}
+
+{:event/type "card"
+:event/elapsed 30
+:event/card_type "y"
+:event/player1 "Leandro Greco"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4964243"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Bosko Jankovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4964290"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4964334"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_12907"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "bicycle_kick"
+:event/player1 "Bosko Jankovic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4964378"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_12907"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross_left"
+:event/player1 "Francelino Matuzalem"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4964387"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_12907"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "blocked_header"
+:event/player1 "Artur Ionita"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4964407"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Rafael Marquez"
+:event/subtype "dangerous_play"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4964397"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_12907"}
+
+{:event/type "card"
+:event/elapsed 37
+:event/card_type "y"
+:event/subtype "kicked_ball_away"
+:event/player1 "Borja Valero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4964403"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4964415"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Giuseppe Rossi"
+:event/subtype "serious_foul"
+:event/player1 "Francelino Matuzalem"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4964434"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_12907"}
+
+{:event/type "card"
+:event/elapsed 39
+:event/card_type "y"
+:event/player1 "Francelino Matuzalem"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4964437"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_12907"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "blocked_shot"
+:event/player1 "Josip Ilicic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4964450"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Bosko Jankovic"
+:event/subtype "trip"
+:event/player1 "Matias Vecino"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4964458"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Jacopo Sala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4964484"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_12907"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross_right"
+:event/player1 "Jacopo Sala"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4964495"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Jacopo Sala"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4964501"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_12907"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross_right"
+:event/player1 "Jacopo Sala"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4964510"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Giuseppe Rossi"
+:event/subtype "pull"
+:event/player1 "Samuel Souprayen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4964518"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Samuel Souprayen"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4964545"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Eros Pisano"
+:event/subtype "trip"
+:event/player1 "Nikola Kalinic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4964561"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Rafael Marquez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4964568"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Jacopo Sala"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4964682"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Manuel Pasqual"
+:event/subtype "trip"
+:event/player1 "Jacopo Sala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4964722"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_12907"}
+
+{:event/type "card"
+:event/elapsed 49
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4964774"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Rafael Marquez"
+:event/subtype "dangerous_play"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4964740"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_12907"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_left"
+:event/player1 "Francelino Matuzalem"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4964780"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Jacopo Sala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4964816"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Eros Pisano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4964851"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_12907"}
+
+{:event/type "goal"
+:event/elapsed 57
+:event/player2 "Giuseppe Rossi"
+:event/subtype "shot"
+:event/player1 "Nikola Kalinic"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_4964866"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Francelino Matuzalem"
+:event/subtype "trip"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4964931"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Francelino Matuzalem"
+:event/subtype "trip"
+:event/player1 "Federico Bernardeschi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4964955"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_12907"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross_right"
+:event/player1 "Francelino Matuzalem"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4964975"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Davide Astori"
+:event/subtype "pushing"
+:event/player1 "Juan Gomez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4964996"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_12907"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Josip Ilicic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4965020"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Vangelis Moras"
+:event/subtype "trip"
+:event/player1 "Nikola Kalinic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4965041"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_12907"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "blocked_shot"
+:event/player1 "Borja Valero"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4965102"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Milan Badelj"
+:event/subtype "serious_foul"
+:event/player1 "Juan Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4965146"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_12907"}
+
+{:event/type "card"
+:event/elapsed 72
+:event/card_type "y"
+:event/player1 "Juan Gomez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4965147"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Luca Siligardi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4965159"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Bosko Jankovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4965177"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Borja Valero"
+:event/subtype "pushing"
+:event/player1 "Eros Pisano"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4965185"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4965203"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Leandro Greco"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4965268"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Samuel Souprayen"
+:event/subtype "trip"
+:event/player1 "Federico Bernardeschi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4965352"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Luca Checchin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4965419"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4965449"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_12907"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "short_right"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4965460"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12907"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Milan Badelj"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4965464"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Borja Valero"
+:event/player1 "Samuel Souprayen"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4965468"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12907"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Samuel Souprayen"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4965482"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12907"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Gonzalo Rodriguez"
+:event/subtype "pushing"
+:event/player1 "Juan Gomez"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4965493"
+:event/minute 91
+:event/match_id "match_12907"}
+
+
+]
+

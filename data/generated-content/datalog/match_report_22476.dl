@@ -1,0 +1,835 @@
+
+;;# data
+[
+{:match/id "match_22476"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "RC Deportivo de La Coruña"
+:match/awayteam "Real Sociedad"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "David Zurutuza"
+:event/subtype "pushing"
+:event/player1 "Michel Herrero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1448210"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_22476"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "deflected"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1448217"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Ion Ansotegi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1448242"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Asier Illarramendi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1448246"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/subtype "pushing"
+:event/player1 "Asier Illarramendi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1448250"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Laure"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1448257"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22476"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "shot"
+:event/player1 "Ivan Sanchez Riki"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1448259"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Antoine Griezmann"
+:event/player1 "Laure"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1448267"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Dani Estrada"
+:event/subtype "shirt_pull"
+:event/player1 "Diego Daniel Colotto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1448289"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Michel Herrero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1448294"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1448296"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22476"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1448296"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1448298"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Dani Estrada"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1448320"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22476"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "big chance volley"
+:event/player1 "Ivan Sanchez Riki"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1448328"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Adrian Lopez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1448335"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1448339"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1448344"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22476"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1448344"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22476"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Michel Herrero"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1448348"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Adrian Lopez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1448349"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1448350"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Adrian Lopez"
+:event/subtype "pushing"
+:event/player1 "Mikel Gonzalez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1448355"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Claudio Morel"
+:event/subtype "pushing"
+:event/player1 "Xabier Prieto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1448360"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22476"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "bad shot"
+:event/player1 "Michel Herrero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1448364"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22476"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Adrian Lopez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1448379"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/subtype "hands"
+:event/player1 "Diego Rivas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1448382"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22476"}
+
+{:event/type "goal"
+:event/elapsed 41
+:event/subtype "shot"
+:event/player1 "Ivan Sanchez Riki"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1448384"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1448392"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Michel Herrero"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1448405"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1448430"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Diego Daniel Colotto"
+:event/subtype "shirt_pull"
+:event/player1 "David Zurutuza"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1448434"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Ivan Sanchez Riki"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1448450"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_22476"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Ivan Sanchez Riki"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1448450"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_22476"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "distance"
+:event/player1 "Asier Illarramendi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1448457"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22476"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "bad shot"
+:event/player1 "David Zurutuza"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1448465"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_22476"}
+
+{:event/type "goal"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Adrian Lopez"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1448474"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1448478"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22476"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "bad shot"
+:event/player1 "Claudio Morel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1448489"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Xabier Prieto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1448508"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_22476"}
+
+{:event/type "goal"
+:event/elapsed 65
+:event/subtype "header"
+:event/player1 "Imanol Agirretxe"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1448509"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Andres Guardado"
+:event/player1 "Asier Illarramendi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1448511"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22476"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "deflected"
+:event/player1 "Jeffrey Sarpong"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1448513"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1448515"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22476"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1448515"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Michel Herrero"
+:event/subtype "shirt_pull"
+:event/player1 "Asier Illarramendi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1448522"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_22476"}
+
+{:event/type "card"
+:event/elapsed 69
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Asier Illarramendi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1448523"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_22476"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "deflected"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1448536"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1448537"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22476"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1448537"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22476"}
+
+{:event/type "card"
+:event/elapsed 73
+:event/card_type "y"
+:event/subtype "kicked_ball_away"
+:event/player1 "Diego Daniel Colotto"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1448539"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Michel Herrero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1448556"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Alberto De la Bella"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1448561"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1448567"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22476"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1448567"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22476"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "bad shot"
+:event/player1 "Asier Illarramendi"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1448569"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Alberto De la Bella"
+:event/subtype "shirt_pull"
+:event/player1 "Michel Herrero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1448574"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_22476"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Ruben Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1448578"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Dani Estrada"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1448585"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player1 "Ruben Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1448591"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_22476"}
+
+{:event/type "card"
+:event/elapsed 85
+:event/card_type "y"
+:event/player1 "Ruben Perez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1448592"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Adrian Lopez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1448594"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1448600"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22476"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1448600"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Ruben Perez"
+:event/subtype "pushing"
+:event/player1 "Jeffrey Sarpong"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1448602"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_22476"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1448608"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_22476"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1448608"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_22476"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "hands"
+:event/player1 "Diego Ifran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1448624"
+:event/minute 91
+:event/match_id "match_22476"}
+
+
+]
+

@@ -1,0 +1,2 @@
+{"category": "Aggregation", "rule": "Q_A_12", "question": "In which minute was the last goal scored?", "datalog": "[:find (max ?minute)\n    :where [?e \":event/minute\" ?minute]\n    [?e \":event/type\" \"goal\"]]", "answer": "81", "answertype": "minute", "minute": "81"}
+{"category": "Aggregation", "rule": "Q_A_2", "question": "How long did the game run over time?", "datalog": "[:find (max ?minute)\n    :where [_ \":event/elapsed_plus\" ?minute]]", "answer": "3", "answertype": "minute", "minute": "3"}

@@ -1,0 +1,583 @@
+[@target="text", @id="Q_A_1", @type="Match", @category="Aggregation", @answertype="minute"]
+    How long was the game?
+    How many minutes did the game run?
+
+[@target="datalog", @id="Q_A_1"]
+    [:find (max ?minute)
+        :where [_ ":event/minute" ?minute]]
+
+[@target="text", @id="Q_A_2", @type="Match", @category="Aggregation", @answertype="minute"]
+    How long did the game run over time?
+    How many minutes did the game run over?
+
+[@target="datalog", @id="Q_A_2"]
+    [:find (max ?minute)
+        :where [_ ":event/elapsed_plus" ?minute]]
+
+[@target="text", @id="Q_A_3", @type="Match", @category="Aggregation", @answertype="minute"]
+    In which minute was the first goal scored?
+
+[@target="datalog", @id="Q_A_3"]
+    [:find (min ?minute)
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/type" "goal"]]
+
+[@target="text", @id="Q_A_12", @type="Match", @category="Aggregation", @answertype="minute"]
+    In which minute was the last goal scored?
+
+[@target="datalog", @id="Q_A_12"]
+    [:find (max ?minute)
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/type" "goal"]]
+
+[@target="text", @id="Q_A_4", @type="Match", @category="Aggregation", @answertype="text"]
+    Which team scored the last goal of the match?
+
+[@target="datalog", @id="Q_A_4", @propagate="true"]
+    [:find (max ?emin) 
+        :where 
+        [?e1 ":event/type" "goal"] 
+        [?e1 ":event/minute" ?emin] 
+        [?e1 ":event/player1" ?player] 
+    ]
+    [:find ?e
+        :in $ ?qrymin
+        :where 
+        [?e ":event/type" "goal"]
+        [?e ":event/minute" ?min] 
+        [?e ":event/team" ?teamside] 
+        [(= ?min ?qrymin)]
+    ]
+    [:find ?teamname
+		:in $ ?e
+        :where [?id ":event/type" "goal"]
+        [?id ":event/team" "home"]
+        [(= ?id ?e)]
+        [?id ":match/hometeam" ?teamname]
+        ]
+    [:find ?teamname
+		:in $ ?e
+        :where [?id ":event/type" "goal"]
+        [?id ":event/team" "away"]
+        [(= ?id ?e)]
+        [?id ":match/awayteam" ?teamname]
+        ]
+
+[@target="text", @id="Q_A_5", @condition="data.type=='corner'", @category="Aggregation", @answertype="numeric"]
+    How many corners were played by {@data.team|teamfilter}?
+    How many corners did {@data.team|teamfilter} play?
+
+[@target="datalog", @id="Q_A_5"]
+    [:find (count ?id)
+        :where [?id ":event/type" "corner"]
+        [?id ":event/team" "home"]
+        [?id ":match/hometeam" "SC Freiburg"]
+        ]
+    [:find (count ?id)
+        :in $ ?prev
+        :where [?id ":event/type" "corner"]
+        [?id ":event/team" "away"]
+        [?id ":match/awayteam" "SC Freiburg"]
+        ]
+
+[@target="text", @id="Q_A_6", @condition="data.type=='corner'", @category="Aggregation", @answertype="numeric"]
+    How many corners were played by the home team?
+
+[@target="datalog", @id="Q_A_6"]
+    [:find (count ?id)
+        :where [?id ":event/type" "corner"]
+        [?id ":event/team" "home"]
+        ]
+
+[@target="text", @id="Q_A_7", @condition="data.type=='corner'", @category="Aggregation", @answertype="numeric"]
+    How many corners were played by the away team?
+
+[@target="datalog", @id="Q_A_7"]
+    [:find (count ?id)
+        :where [?id ":event/type" "corner"]
+        [?id ":event/team" "away"]
+        ]
+
+[@target="text", @id="Q_A_8", @condition="data.type=='foulcommit'", @category="Aggregation", @answertype="numeric"]
+    How many fouls occurred during the match?
+    How many fouls were committed in total?
+
+[@target="datalog", @id="Q_A_8"]
+    [:find (count ?id)
+        :where [?id ":event/type" "foulcommit"]] 
+
+[@target="text", @id="Q_A_9", @condition="data.type=='foulcommit' and data.subtype=='pushing'", @category="Aggregation", @answertype="numeric"]
+    How many pushing fouls occurred during the match?
+    How many pushing fouls were committed in total?
+    How many pushing fouls were committed?
+
+[@target="datalog", @id="Q_A_9"]
+    [:find (count ?id)
+        :where [?id ":event/type" "foulcommit"]
+        [?id ":event/subtype" "pushing"]] 
+
+[@target="text", @id="Q_A_10", @condition="data.type=='foulcommit' and data.subtype=='serious_foul'", @category="Aggregation", @answertype="numeric"]
+    How many serious fouls occurred during the match?
+    How many serious fouls were committed in total?
+    How many serious fouls were committed?
+
+[@target="datalog", @id="Q_A_10"]
+    [:find (count ?id)
+        :where [?id ":event/type" "foulcommit"]
+        [?id ":event/subtype" "serious_foul"]] 
+
+[@target="text", @id="Q_A_11", @condition="data.type=='corner' and data.subtype=='short'", @category="Aggregation", @answertype="numeric"]
+    How many short corners were played by {@data.team|teamfilter}?
+    How many corners did {@data.team|teamfilter} play short?
+
+[@target="datalog", @id="Q_A_11"]
+    [:find (count ?id)
+        :where [?id ":event/type" "corner"]
+        [?id ":event/team" "home"]
+        [?id ":event/subtype" "short"]
+        [?id ":match/hometeam" "{@data.team|teamfilter}"]
+        ]
+    [:find (count ?id)
+        :where [?id ":event/type" "corner"]
+        [?id ":event/team" "away"]
+        [?id ":event/subtype" "short"]
+        [?id ":match/awayteam" "{@data.team|teamfilter}"]
+        ]
+
+[@target="text", @id="Q_S_0", @category="Simple", @type="Match", @answertype="text"]
+    Who won the game?
+    Who won the match?
+
+[@target="datalog", @id="Q_S_0"]
+    [:find ?awayteam 
+        :where [?m ":match/awayteam" ?awayteam]
+                [?m ":match/hometeam" ?hometeam]
+                [?m ":match/awayteam_goals" ?atg]
+                [?m ":match/hometeam_goals" ?htg]
+                [(< ?htg ?atg)]
+        ]
+    [:find ?hometeam 
+        :where [?m ":match/awayteam" ?awayteam]
+                [?m ":match/hometeam" ?hometeam]
+                [?m ":match/awayteam_goals" ?atg]
+                [?m ":match/hometeam_goals" ?htg]
+                [(> ?htg ?atg)]
+        ]
+
+[@target="text", @id="Q_S_1", @condition="data.type=='foulcommit'", @category="Simple", @answertype="text"]
+    Who committed a foul?
+
+[@target="datalog", @id="Q_S_1"]
+     [:find ?answer
+     :where [?id ":event/player1" ?answer]
+        [?id ":event/type" "foulcommit"]] 
+
+[@target="text", @id="Q_S_2", @condition="data.type=='foulcommit' and data.subtype=='pushing'", @category="Simple", @answertype="text"]
+    Who pushed somebody?
+
+[@target="datalog", @id="Q_S_2"]
+    [:find ?answer
+        :where [?id ":event/player1" ?answer]
+           [?id ":event/type" "foulcommit"]
+           [?id ":event/subtype" "pushing"] 
+        ]
+
+[@target="text", @id="Q_S_3", @condition="data.type=='foulcommit' and not data.player2 is None", @category="Simple", @answertype="text"]
+    Who was fouled?
+    Who was fouled during the match?
+    Who was fouled during the game?
+
+[@target="datalog", @id="Q_S_3"]
+     [:find ?answer
+     :where [?id ":event/player2" ?answer]
+        [?id ":event/type" "foulcommit"]] 
+
+[@target="text", @id="Q_M_0", @condition="data.type=='foulcommit' and not data.player2 is None", @category="Multiple", @answertype="text"]
+    Who was fouled by {@data.player1.name}?
+
+[@target="datalog", @id="Q_M_0"]
+     [:find ?answer
+         :where [?id ":event/player2" ?answer]
+            [?id ":event/player1" "{@data.player1.name}"]
+            [?id ":event/type" "foulcommit"]] 
+    
+[@target="text", @id="Q_M_1", @condition="data.type=='foulcommit' and not data.player2 is None", @category="Multiple", @answertype="text"]
+    Who was pulled by {@data.player1.name}?
+    Whose shirt was pulled by {@data.player1.name}?
+
+[@target="datalog", @id="Q_M_1"]
+     [:find ?answer
+         :where [?id ":event/player2" ?answer]
+            [?id ":event/player1" "{@data.player1.name}"]
+            [?id ":event/type" "foulcommit"]
+            [?id ":event/subtype" "shirt_pull"]] 
+
+[@target="text", @id="Q_M_2", @condition="data.type=='foulcommit' and not data.player2 is None", @category="Multiple", @answertype="text"]
+    Who was pushed by {@data.player1.name}?
+
+[@target="datalog", @id="Q_M_2"]
+     [:find ?answer
+         :where [?id ":event/player2" ?answer]
+            [?id ":event/player1" "{@data.player1.name}"]
+            [?id ":event/type" "foulcommit"]
+            [?id ":event/subtype" "pushing"]] 
+
+[@target="text", @id="Q_M_3", @condition="data.type=='foulcommit' and data.subtype=='serious_foul' and not data.player2 is None", @category="Multiple", @answertype="text"]
+    Who was seriously fouled by {@data.player1.name}?
+
+[@target="datalog", @id="Q_M_3"]
+     [:find ?answer
+         :where [?id ":event/player2" ?answer]
+            [?id ":event/player1" "{@data.player1.name}"]
+            [?id ":event/type" "foulcommit"]
+            [?id ":event/subtype" "serious_foul"]] 
+
+[@target="text", @id="Q_M_4", @condition="data.type=='foulcommit' and not data.player2 is None", @category="Multiple", @answertype="text"]
+    Who was tripped by {@data.player1.name}?
+
+[@target="datalog", @id="Q_M_4"]
+     [:find ?answer
+         :where [?id ":event/player2" ?answer]
+            [?id ":event/player1" "{@data.player1.name}"]
+            [?id ":event/type" "foulcommit"]
+            [?id ":event/subtype" "trip"]] 
+
+[@target="text", @id="Q_M_5", @condition="data.type=='foulcommit' and not data.player2 is None", @category="Multiple", @answertype="text"]
+    Who fouled {@data.player2.name}?
+
+[@target="datalog", @id="Q_M_5"]
+     [:find ?answer
+         :where [?id ":event/player1" ?answer]
+            [?id ":event/player2" "{@data.player2.name}"]
+            [?id ":event/type" "foulcommit"]] 
+    
+[@target="text", @id="Q_M_6", @condition="data.type=='foulcommit' and not data.player2 is None", @category="Multiple", @answertype="text"]
+    Who pulled {@data.player2.name}?
+
+[@target="datalog", @id="Q_M_6"]
+     [:find ?answer
+         :where [?id ":event/player1" ?answer]
+            [?id ":event/player2" "{@data.player2.name}"]
+            [?id ":event/type" "foulcommit"]
+            [?id ":event/subtype" "shirt_pull"]] 
+    
+[@target="text", @id="Q_M_7", @condition="data.type=='foulcommit' and not data.player2 is None", @category="Multiple", @answertype="text"]
+    Who pushed {@data.player2.name}?
+
+[@target="datalog", @id="Q_M_7"]
+     [:find ?answer
+         :where [?id ":event/player1" ?answer]
+            [?id ":event/player2" "{@data.player2.name}"]
+            [?id ":event/type" "foulcommit"]
+            [?id ":event/subtype" "pushing"]] 
+
+[@target="text", @id="Q_M_8", @condition="data.type=='foulcommit' and data.subtype=='serious_foul' and not data.player2 is None", @category="Multiple", @answertype="text"]
+    Who seriously fouled {@data.player2.name}?
+
+[@target="datalog", @id="Q_M_8"]
+     [:find ?answer
+         :where [?id ":event/player1" ?answer]
+            [?id ":event/player2" "{@data.player2.name}"]
+            [?id ":event/type" "foulcommit"]
+            [?id ":event/subtype" "serious_foul"]] 
+
+[@target="text", @id="Q_M_9", @condition="data.type=='foulcommit' and data.subtype=='trip' and not data.player2 is None", @category="Multiple", @answertype="text"]
+    Who tripped {@data.player2.name}?
+
+[@target="datalog", @id="Q_M_9"]
+     [:find ?answer
+         :where [?id ":event/player1" ?answer]
+            [?id ":event/player2" "{@data.player2.name}"]
+            [?id ":event/type" "foulcommit"]
+            [?id ":event/subtype" "trip"]] 
+    
+[@target="text", @id="Q_M_10", @condition="data.type=='foulcommit' and not data.player2 is None", @category="Multiple", @answertype="text"]
+    Who tackled {@data.player2.name} from behind?
+    Who tackled {@data.player2.name}?
+
+[@target="datalog", @id="Q_M_10"]
+     [:find ?answer
+         :where [?id ":event/player1" ?answer]
+            [?id ":event/player2" "{@data.player2.name}"]
+            [?id ":event/type" "foulcommit"]
+            [?id ":event/subtype" "from behind"]] 
+
+[@target="text", @id="Q_T_0", @condition="data.type=='goal'", @category="Temporal", @answertype="text"]
+    Who scored the first goal of the game?
+    Who scored the first goal of the match?
+
+[@target="datalog", @id="Q_T_0"]
+    [:find (min ?minute)
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/type" "goal"]]
+    [:find ?player
+        :in $ ?minute
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/player1" ?player]
+        [?e ":event/type" "goal"]]
+
+[@target="text", @id="Q_T_1", @condition="data.type=='goal'", @category="Temporal", @answertype="text"]
+    Who scored the last goal of the game?
+    Who scored the last goal of the match?
+
+[@target="datalog", @id="Q_T_1"]
+    [:find (max ?minute)
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/type" "goal"]]
+    [:find ?player
+        :in $ ?minute
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/player1" ?player]
+        [?e ":event/type" "goal"]]
+
+[@target="text", @id="Q_T_2", @condition="data.type=='goal'", @category="Temporal", @answertype="text"]
+        Which player committed the first foul?
+        Who committed the first foul of the match?
+        Who committed the first foul of the game?
+
+[@target="datalog", @id="Q_T_2"]
+    [:find (min ?minute)
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/type" "foulcommit"]]
+    [:find ?player
+        :in $ ?minute
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/player1" ?player]
+        [?e ":event/type" "foulcommit"]]
+
+[@target="text", @id="Q_T_3", @condition="data.type=='goal'", @category="Temporal", @answertype="text"]
+        Which player was fouled first in the round?
+        Which player was fouled first in the match?
+        Which player was fouled first in the game?
+        Who was fouled first in the round?
+        Who was fouled first in the match?
+        Who was fouled first in the game?
+
+[@target="datalog", @id="Q_T_3"]
+    [:find (min ?minute)
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/type" "foulcommit"]]
+    [:find ?player
+        :in $ ?minute
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/player2" ?player]
+        [?e ":event/type" "foulcommit"]]
+    
+[@target="text", @id="Q_T_4", @condition="data.type=='goal'", @category="Temporal", @answertype="text"]
+    Who scored the last goal of the first halftime?
+    Who scored the last goal in the first halftime?
+    Who scored the last goal before the break?
+
+[@target="datalog", @id="Q_T_4"]
+    [:find (max ?minute)
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/type" "goal"]
+        [(<= ?minute 45)]]
+    [:find ?player 
+        :in $ ?minute
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/player1" ?player]
+        [?e ":event/type" "goal"]]
+
+[@target="text", @id="Q_T_5", @condition="data.type=='goal'", @category="Temporal", @answertype="text"]
+    Who scored the first goal of the second halftime?
+    Who scored the first goal after the break?
+
+[@target="datalog", @id="Q_T_5"]
+    [:find (min ?minute)
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/type" "goal"]
+        [(> ?minute 45)]]
+    [:find ?player 
+        :in $ ?minute
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/player1" ?player]
+        [?e ":event/type" "goal"]]
+    
+[@target="text", @id="Q_T_6", @condition="data.type=='goal'", @category="Temporal", @answertype="text"]
+    Who scored the last goal of the first halftime?
+    Who scored the last goal of the second halftime?
+
+[@target="datalog", @id="Q_T_6"]
+    [:find (max ?minute)
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/type" "goal"]
+        [(> ?minute 45)]]
+    [:find ?player
+        :in $ ?minute
+        :where [?e ":event/minute" ?minute]
+        [?e ":event/player1" ?player]
+        [?e ":event/type" "goal"]]
+
+[@target="text", @id="Q_T_7", @condition="data.type=='goal'", @category="Temporal", @answertype="text"]
+    Who scored a goal in the first halftime?
+
+[@target="datalog", @id="Q_T_7"]
+    [:find ?player
+        :where [?e ":event/minute" ?minute]
+        [(<= ?minute 45)]
+        [?e ":event/player1" ?player]
+        [?e ":event/type" "goal"]]
+
+[@target="text", @id="Q_T_8", @condition="data.type=='goal'", @category="Temporal", @answertype="text"]
+    Who scored a goal in the second halftime?
+    Who scored a goal after the break?
+
+[@target="datalog", @id="Q_T_8"]
+    [:find ?player
+        :where [?e ":event/minute" ?minute]
+        [(> ?minute 45)]
+        [(<= ?minute 90)]
+        [?e ":event/player1" ?player]
+        [?e ":event/type" "goal"]]
+
+[@target="text", @id="Q_T_9", @condition="data.type=='goal'", @category="Temporal", @answertype="text"]
+    Who scored a goal after 90 minutes elapsed?
+    
+[@target="datalog", @id="Q_T_9"]
+    [:find ?player
+        :where [?e ":event/minute" ?minute]
+        [(> ?minute 90)]
+        [?e ":event/player1" ?player]
+        [?e ":event/type" "goal"]]
+
+[@target="text", @id="Q_AT_0", @condition="data.type=='goal'", @category="AggregationTemporal", @answertype="numeric"]
+    How many goals were shot in the first halftime?
+
+[@target="datalog", @id="Q_AT_0"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(<= ?minute 45)]
+        [?e ":event/type" "goal"]]
+  
+[@target="text", @id="Q_AT_1", @condition="data.type=='goal'", @category="AggregationTemporal", @answertype="numeric"]
+    How many goals were shot in the second halftime?
+
+[@target="datalog", @id="Q_AT_1"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(> ?minute 45)]
+        [(<= ?minute 90)]
+        [?e ":event/type" "goal"]]
+  
+[@target="text", @id="Q_AT_2", @condition="data.type=='goal'", @category="AggregationTemporal", @answertype="numeric"]
+    How many goals were shot after 90 minutes elapsed?
+    How many goals were shot after the regular play time?
+    How many goals were scored after 90 minutes elapsed?
+    How many goals were scored beyond the regular play time?
+
+[@target="datalog", @id="Q_AT_2"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(> ?minute 90)]
+        [?e ":event/type" "goal"]]
+    
+[@target="text", @id="Q_AT_3", @condition="data.type=='card'", @category="AggregationTemporal", @answertype="numeric"]
+    How many cards were given out before the halftime break?
+    How many cards were given out in the first halftime?
+
+[@target="datalog", @id="Q_AT_3"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(<= ?minute 45)]
+        [?e ":event/type" "card"]]
+
+[@target="text", @id="Q_AT_4", @condition="data.type=='card'", @category="AggregationTemporal", @answertype="numeric"]
+    How many cards were given out after the halftime break?
+    How many cards were given out after the first halftime?
+
+[@target="datalog", @id="Q_AT_4"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(> ?minute 45)]
+        [?e ":event/type" "card"]]
+
+[@target="text", @id="Q_AT_5", @condition="data.type=='card' and data.card_type=='y'", @category="AggregationTemporal", @answertype="numeric"]
+    How many yellow cards were given out before the halftime break?
+    How many yellow cards were given out in the first halftime?
+
+[@target="datalog", @id="Q_AT_5"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(<= ?minute 45)]
+        [?e ":event/card_type" "y"]
+        [?e ":event/type" "card"]]
+
+[@target="text", @id="Q_AT_6", @condition="data.type=='card' and data.card_type=='y'", @category="AggregationTemporal", @answertype="numeric"]
+    How many yellow cards were given out after the halftime break?
+    How many yellow cards were given out after the first halftime?
+
+[@target="datalog", @id="Q_AT_6"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(> ?minute 45)]
+        [?e ":event/card_type" "y"]
+        [?e ":event/type" "card"]]
+
+[@target="text", @id="Q_AT_7", @condition="data.type=='card' and data.card_type=='r'", @category="AggregationTemporal", @answertype="numeric"]
+    How many red cards were given out before the halftime break?
+    How many red cards were given out in the first halftime?
+
+[@target="datalog", @id="Q_AT_7"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(<= ?minute 45)]
+        [?e ":event/card_type" "r"]
+        [?e ":event/type" "card"]]
+
+[@target="text", @id="Q_AT_8", @condition="data.type=='card' and data.card_type=='r'", @category="AggregationTemporal", @answertype="numeric"]
+    How many red cards were given out after the halftime break?
+    How many red cards were given out after the first halftime?
+
+[@target="datalog", @id="Q_AT_8"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(> ?minute 45)]
+        [?e ":event/card_type" "r"]
+        [?e ":event/type" "card"]]
+
+[@target="text", @id="Q_AT_9", @condition="data.type=='card' and data.card_type=='y'", @category="AggregationTemporal", @answertype="numeric"]
+    How many yellow cards did the home team receive before the halftime break?
+    How many yellow cards were given out to the home team in the first halftime?
+
+[@target="datalog", @id="Q_AT_9"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(<= ?minute 45)]
+        [?e ":event/card_type" "y"]
+        [?e ":event/type" "card"]]
+
+[@target="text", @id="Q_AT_10", @condition="data.type=='card' and data.card_type=='y'", @category="AggregationTemporal", @answertype="numeric"]
+    How many yellow cards did the home team receive after the halftime break?
+    How many yellow cards were given out to the home team after the first halftime?
+
+[@target="datalog", @id="Q_AT_10"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(> ?minute 45)]
+        [?e ":event/card_type" "y"]
+        [?e ":event/type" "card"]]
+
+[@target="text", @id="Q_AT_11", @condition="data.type=='card' and data.card_type=='r'", @category="AggregationTemporal", @answertype="numeric"]
+    How many red cards did the home team receive before the halftime break?
+    How many red cards were given out to the home team in the first halftime?
+
+[@target="datalog", @id="Q_AT_11"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(<= ?minute 45)]
+        [?e ":event/card_type" "r"]
+        [?e ":event/type" "card"]]
+
+[@target="text", @id="Q_AT_12", @condition="data.type=='card' and data.card_type=='r'", @category="AggregationTemporal", @answertype="numeric"]
+    How many red cards did the home team receive after the halftime break?
+    How many red cards were given out to the home team after the first halftime?
+
+[@target="datalog", @id="Q_AT_12"]
+    [:find (count ?e)
+        :where [?e ":event/minute" ?minute]
+        [(> ?minute 45)]
+        [?e ":event/card_type" "r"]
+        [?e ":event/type" "card"]]
+
+

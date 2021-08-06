@@ -1,0 +1,950 @@
+
+;;# data
+[
+{:match/id "match_22064"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Getafe CF"
+:match/awayteam "Real Zaragoza"
+:match/score "0:2"
+:match/hometeam_goals "0"
+:match/awayteam_goals "2"}
+
+{:event/type "goal"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Humberto Suazo"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_973201"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Pedro Leon"
+:event/player1 "Leonardo Ponzio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_973207"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22064"}
+
+{:event/type "card"
+:event/elapsed 4
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Leonardo Ponzio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_973208"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player1 "David Cortes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_973219"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_973222"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_973222"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22064"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "shot"
+:event/player1 "Ander Herrera"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_973223"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Manu del Moral"
+:event/subtype "serious_foul"
+:event/player1 "Matteo Contini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_973230"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22064"}
+
+{:event/type "card"
+:event/elapsed 9
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Matteo Contini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_973231"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22064"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "direct_freekick"
+:event/player1 "Daniel Parejo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_973234"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "short"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973236"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22064"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "distance"
+:event/player1 "Cata Diaz"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_973238"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Ander Herrera"
+:event/subtype "pushing"
+:event/player1 "Derek Boateng"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_973246"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Humberto Suazo"
+:event/subtype "serious_foul"
+:event/player1 "Cata Diaz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_973251"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Manu del Moral"
+:event/player1 "Gabi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_973276"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Angel Javier Arizmendi"
+:event/player1 "Rafa Lopez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_973280"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22064"}
+
+{:event/type "goal"
+:event/elapsed 20
+:event/player2 "Gabi"
+:event/subtype "header"
+:event/player1 "Humberto Suazo"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_973284"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_973289"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Roberto Soldado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_973292"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973308"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973308"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Ander Herrera"
+:event/subtype "serious_foul"
+:event/player1 "Francisco Javier Casquero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_973350"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22064"}
+
+{:event/type "card"
+:event/elapsed 32
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Francisco Javier Casquero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_973351"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22064"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Manu del Moral"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_973369"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22064"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "blocked_shot"
+:event/player1 "David Cortes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_973386"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_22064"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "shot"
+:event/player1 "Eliseu"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_973392"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player1 "Gabi"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_973398"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Eliseu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_973419"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Daniel Parejo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_973426"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22064"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "big chance shot"
+:event/player1 "Roberto Soldado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_973431"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973441"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973441"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_973486"
+:event/minute 46
+:event/match_id "match_22064"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "big chance post"
+:event/player1 "Ander Herrera"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_973491"
+:event/minute 46
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "short"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973498"
+:event/minute 47
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_973586"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Daniel Parejo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973590"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Daniel Parejo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973590"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973508"
+:event/minute 49
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973508"
+:event/minute 49
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Eliseu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_973600"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Humberto Suazo"
+:event/subtype "shirt_pull"
+:event/player1 "Cata Diaz"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_973636"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_22064"}
+
+{:event/type "card"
+:event/elapsed 52
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Cata Diaz"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_973639"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Ander Herrera"
+:event/player1 "Rafa Lopez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_973643"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Ander Herrera"
+:event/subtype "serious_foul"
+:event/player1 "Francisco Javier Casquero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_973658"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973680"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973680"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22064"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "distance"
+:event/player1 "Francisco Javier Casquero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_973683"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_973713"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_22064"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "header"
+:event/player1 "Juan Albin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_973714"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_22064"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "distance"
+:event/player1 "Angel Lafita"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_973725"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22064"}
+
+{:event/type "shoton"
+:event/elapsed 66
+:event/subtype "big chance shot"
+:event/player1 "Pedro Rios"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_973748"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973749"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973749"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Angel Lafita"
+:event/subtype "serious_foul"
+:event/player1 "Rafa Lopez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_973755"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22064"}
+
+{:event/type "card"
+:event/elapsed 68
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Rafa Lopez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_973756"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22064"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "deflected"
+:event/player1 "Manu del Moral"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_973764"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22064"}
+
+{:event/type "card"
+:event/elapsed 72
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Jorge Lopez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_973776"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973777"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973777"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22064"}
+
+{:event/type "card"
+:event/elapsed 74
+:event/card_type "y"
+:event/subtype "stall_time"
+:event/player1 "Ruben Martin Pulido"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_973789"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_22064"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_973826"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973837"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973837"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_22064"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "shot"
+:event/player1 "Juan Albin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_973838"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Pedro Rios"
+:event/player1 "Angel Lafita"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_973854"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973866"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973866"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_973870"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973872"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973872"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22064"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Angel Lafita"
+:event/player1 "Cata Diaz"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_973880"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Manu del Moral"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_973889"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_973896"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22064"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973900"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_22064"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_973900"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_22064"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "big chance post"
+:event/player1 "Angel Javier Arizmendi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_973937"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_22064"}
+
+
+]
+

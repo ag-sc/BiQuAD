@@ -1,0 +1,870 @@
+
+;;# data
+[
+{:match/id "match_4075"
+:match/league "England Premier League"
+:match/hometeam "Southampton"
+:match/awayteam "Manchester United"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Antonio Valencia"
+:event/player1 "Dusan Tadic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4000664"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Sadio Mane"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4000667"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Robin van Persie"
+:event/player1 "Dusan Tadic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4000674"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4000676"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4075"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "header"
+:event/player1 "Shane Long"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4000677"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Victor Wanyama"
+:event/subtype "trip"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4000684"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4000694"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Marouane Fellaini"
+:event/player1 "Sadio Mane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4000696"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4075"}
+
+{:event/type "goal"
+:event/elapsed 12
+:event/subtype "shot"
+:event/player1 "Robin van Persie"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4000700"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4075"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross_left"
+:event/player1 "Steven Davis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4000709"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4075"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "header"
+:event/player1 "Graziano Pelle"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4000710"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Sadio Mane"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4000728"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4000740"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/subtype "hands"
+:event/player1 "Ashley Young"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4000757"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4075"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "shot"
+:event/player1 "Graziano Pelle"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4000766"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Antonio Valencia"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4000773"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4000775"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4075"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "blocked_shot"
+:event/player1 "Dusan Tadic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4000776"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4075"}
+
+{:event/type "goal"
+:event/elapsed 31
+:event/subtype "loose_ball"
+:event/player1 "Graziano Pelle"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4000777"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Robin van Persie"
+:event/subtype "pushing"
+:event/player1 "Victor Wanyama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4000786"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4000787"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4000792"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4075"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "big chance volley"
+:event/player1 "Shane Long"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4000795"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4000801"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4000822"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4000828"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4075"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "cross_right"
+:event/player1 "Steven Davis"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4000837"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Nathaniel Clyne"
+:event/subtype "trip"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4000855"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4000856"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Jonny Evans"
+:event/subtype "pushing"
+:event/player1 "Graziano Pelle"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4000864"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4075"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Robin van Persie"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4000849"
+:event/minute 47
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Sadio Mane"
+:event/subtype "trip"
+:event/player1 "Ander Herrera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4000873"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Dusan Tadic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4000876"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4075"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "big chance header"
+:event/player1 "Shane Long"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4000877"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Jonny Evans"
+:event/player1 "Graziano Pelle"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4000880"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4000884"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Dusan Tadic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4000892"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4075"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "blocked_shot"
+:event/player1 "Graziano Pelle"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4000893"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Antonio Valencia"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4000902"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4075"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "big chance shot"
+:event/player1 "Graziano Pelle"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4000907"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4000911"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4075"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross_right"
+:event/player1 "Wayne Rooney"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4000913"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4000921"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4075"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "header"
+:event/player1 "Graziano Pelle"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4000922"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4000927"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Ander Herrera"
+:event/subtype "advantage"
+:event/player1 "Steven Davis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4000929"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Graziano Pelle"
+:event/player1 "Antonio Valencia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4000933"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4000934"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Juan Mata"
+:event/subtype "trip"
+:event/player1 "Victor Wanyama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4000941"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Ashley Young"
+:event/subtype "from_behind"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4000944"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Wayne Rooney"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4000947"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4075"}
+
+{:event/type "goal"
+:event/elapsed 71
+:event/player2 "Wayne Rooney"
+:event/subtype "volley"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_4000948"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4075"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Graziano Pelle"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4000968"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4075"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross_right"
+:event/player1 "Steven Davis"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4000971"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4075"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "volley"
+:event/player1 "Steven Davis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4000973"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Robin van Persie"
+:event/subtype "pushing"
+:event/player1 "Maya Yoshida"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4000982"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Steven Davis"
+:event/player1 "Jonny Evans"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4000983"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Nathaniel Clyne"
+:event/player1 "Wayne Rooney"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4000992"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Graziano Pelle"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4000994"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4000997"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4075"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4001000"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4075"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross_left"
+:event/player1 "Steven Davis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4001006"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4075"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "distance"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4001009"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4075"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "deflected"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4001014"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4075"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross_left"
+:event/player1 "Steven Davis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4001016"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Robin van Persie"
+:event/subtype "serious_foul"
+:event/player1 "Sadio Mane"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4001025"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4075"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Sadio Mane"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4001027"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4075"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Wayne Rooney"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4001037"
+:event/minute 92
+:event/match_id "match_4075"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Ander Herrera"
+:event/subtype "dangerous_play"
+:event/player1 "Jose Fonte"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4001044"
+:event/minute 93
+:event/match_id "match_4075"}
+
+{:event/type "card"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Jose Fonte"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4001047"
+:event/minute 94
+:event/match_id "match_4075"}
+
+
+]
+

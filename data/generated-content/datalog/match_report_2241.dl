@@ -1,0 +1,968 @@
+
+;;# data
+[
+{:match/id "match_2241"
+:match/league "England Premier League"
+:match/hometeam "Manchester City"
+:match/awayteam "Blackburn Rovers"
+:match/score "4:1"
+:match/hometeam_goals "4"
+:match/awayteam_goals "1"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "deflected"
+:event/player1 "Carlos Tevez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_905270"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_905271"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2241"}
+
+{:event/type "corner"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_905271"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Franco Di Santo"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_905273"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Craig Bellamy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905278"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Keith Andrews"
+:event/player1 "Carlos Tevez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_905281"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_905285"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2241"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_905285"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2241"}
+
+{:event/type "goal"
+:event/elapsed 7
+:event/player2 "Benjani Mwaruwari"
+:event/subtype "shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_905288"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905293"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2241"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "short"
+:event/player1 "Martin Petrov"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_905295"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905297"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_905298"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Carlos Tevez"
+:event/player1 "Keith Andrews"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_905300"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Morten Gamst Pedersen"
+:event/player1 "Nigel de Jong"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_905302"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_905306"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player1 "Keith Andrews"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_905309"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905310"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Craig Bellamy"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905314"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_905316"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "distance"
+:event/player1 "Gael Givet"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_905318"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Lars Jacobsen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_905322"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905325"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "distance"
+:event/player1 "Steven Nzonzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_905327"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "shot"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_905332"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Carlos Tevez"
+:event/player1 "Keith Andrews"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_905334"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "direct_freekick"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_905335"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905339"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Christopher Samba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_905342"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_905344"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "distance"
+:event/player1 "Craig Bellamy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_905348"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player1 "Steven Nzonzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_905350"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "post"
+:event/player1 "Benjani Mwaruwari"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_905353"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2241"}
+
+{:event/type "goal"
+:event/elapsed 39
+:event/player2 "Benjani Mwaruwari"
+:event/subtype "loose_ball"
+:event/player1 "Micah Richards"
+:event/sortorder 6
+:event/team "home"
+:event/id "event_905352"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Carlos Tevez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905355"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_905406"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2241"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_905406"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905363"
+:event/minute 46
+:event/match_id "match_2241"}
+
+{:event/type "goal"
+:event/elapsed 49
+:event/player2 "Benjani Mwaruwari"
+:event/subtype "distance"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_905371"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Lars Jacobsen"
+:event/player1 "Craig Bellamy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_905378"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "header"
+:event/player1 "Nikola Kalinic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_905380"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905384"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "big chance header"
+:event/player1 "Carlos Tevez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_905385"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905387"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Junior Hoilett"
+:event/subtype "serious_foul"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_905389"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2241"}
+
+{:event/type "card"
+:event/elapsed 61
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_905392"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "header"
+:event/player1 "Steven Nzonzi"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_905395"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Morten Gamst Pedersen"
+:event/player1 "Nigel de Jong"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_905398"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "direct_freekick"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_905399"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Carlos Tevez"
+:event/player1 "David Dunn"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_905403"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2241"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Brett Emerton"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_905408"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "distance"
+:event/player1 "Martin Petrov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_905410"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Gael Givet"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_905414"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2241"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Brett Emerton"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_905416"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2241"}
+
+{:event/type "goal"
+:event/elapsed 71
+:event/subtype "distance"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_905420"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player1 "Martin Olsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_905421"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Gael Givet"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_905425"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Gael Givet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_905427"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Gael Givet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_905432"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Gael Givet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_905434"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_905436"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2241"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_905436"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Robinho"
+:event/subtype "serious_foul"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_905438"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2241"}
+
+{:event/type "card"
+:event/elapsed 78
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_905439"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905440"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Steven Nzonzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_905444"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2241"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "distance"
+:event/player1 "Robinho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_905447"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_905450"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "header"
+:event/player1 "Junior Hoilett"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_905451"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2241"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "shot"
+:event/player1 "Roque Santa Cruz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_905455"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2241"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Nigel de Jong"
+:event/player1 "Brett Emerton"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_905457"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2241"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "blocked_shot"
+:event/player1 "Robinho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_905460"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Brett Emerton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_905464"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_905466"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2241"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_905466"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_905468"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2241"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_905468"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2241"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_905471"
+:event/minute 91
+:event/match_id "match_2241"}
+
+{:event/type "goal"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Robinho"
+:event/subtype "distance"
+:event/player1 "Carlos Tevez"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_905474"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 91
+:event/match_id "match_2241"}
+
+
+]
+

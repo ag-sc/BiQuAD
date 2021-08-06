@@ -1,0 +1,978 @@
+
+;;# data
+[
+{:match/id "match_10932"
+:match/league "Italy Serie A"
+:match/hometeam "Sampdoria"
+:match/awayteam "Livorno"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Nico Pulzetti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1069904"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1069912"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10932"}
+
+{:event/type "goal"
+:event/elapsed 5
+:event/player2 "Angelo Palombo"
+:event/subtype "shot"
+:event/player1 "Antonio Cassano"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1069925"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10932"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "blocked_shot"
+:event/player1 "Cristiano Lucarelli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1069953"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10932"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "short"
+:event/player1 "Claudio Bellucci"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1069956"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Cristian Raimondi"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1069958"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1069983"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Antonio Cassano"
+:event/player1 "Junior Santos Mozart"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070026"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Claudio Bellucci"
+:event/player1 "Reto Ziegler"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1070029"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10932"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "distance"
+:event/player1 "Nico Pulzetti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1070077"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Cristian Raimondi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1070094"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10932"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Claudio Bellucci"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1070107"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Angelo Palombo"
+:event/player1 "Romano Perticone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070130"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_10932"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "direct_freekick"
+:event/player1 "Angelo Palombo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1070140"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Fernando Damian Tissone"
+:event/player1 "Davide Moro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070143"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10932"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Angelo Palombo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1070146"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Giampaolo Pazzini"
+:event/player1 "Luigi Vitale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070167"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Angelo Palombo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070171"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10932"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "header"
+:event/player1 "Stefano Lucchini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1070174"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1070179"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10932"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1070179"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Claudio Bellucci"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1070192"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Franco Semioli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070203"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Franco Semioli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070226"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Stefano Lucchini"
+:event/subtype "pushing"
+:event/player1 "Nico Pulzetti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070236"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10932"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "blocked_shot"
+:event/player1 "Fernando Damian Tissone"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1070246"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10932"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "short"
+:event/player1 "Claudio Bellucci"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1070251"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Fabio Galante"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1070253"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10932"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "blocked_shot"
+:event/player1 "Antonio Cassano"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1070274"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Antonio Cassano"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1070275"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10932"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Antonio Cassano"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1070275"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Reto Ziegler"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070282"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Angelo Palombo"
+:event/player1 "Junior Santos Mozart"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070304"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1070310"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Luciano Zauri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070334"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Angelo Palombo"
+:event/player1 "Cristiano Lucarelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070345"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Luciano Zauri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070350"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10932"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "shot"
+:event/player1 "Antonio Cassano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1070462"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Antonio Cassano"
+:event/player1 "Alessandro Bernardini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070479"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Antonio Cassano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070482"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Cristiano Lucarelli"
+:event/player1 "Stefano Lucchini"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1070489"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1070503"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Angelo Palombo"
+:event/player1 "Davide Di Gennaro"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070518"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Alessandro Bernardini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1070557"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10932"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "deflected"
+:event/player1 "Davide Di Gennaro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1070565"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10932"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "header"
+:event/player1 "Tomas Danilevicius"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1070566"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Luciano Zauri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070581"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070595"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Antonio Cassano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070596"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10932"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "volley"
+:event/player1 "Giampaolo Pazzini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1070598"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Franco Semioli"
+:event/player1 "Cristian Raimondi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070634"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10932"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "crossbar"
+:event/player1 "Daniele Mannini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1070677"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player1 "Cristiano Lucarelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070693"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070706"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Angelo Palombo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070715"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Reto Ziegler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1070755"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10932"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Reto Ziegler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1070755"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Davide Di Gennaro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1070863"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Davide Di Gennaro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1070868"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10932"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Davide Di Gennaro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1070868"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Luigi Vitale"
+:event/subtype "serious_foul"
+:event/player1 "Luciano Zauri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1070881"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10932"}
+
+{:event/type "card"
+:event/elapsed 74
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Luciano Zauri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1070883"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Giampaolo Pazzini"
+:event/player1 "Nico Pulzetti"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070895"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Angelo Palombo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070899"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10932"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "blocked_shot"
+:event/player1 "Fernando Damian Tissone"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1070900"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Marco Padalino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070922"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Antonio Cassano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1070924"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10932"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "short"
+:event/player1 "Reto Ziegler"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1070933"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Angelo Palombo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1070942"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10932"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Angelo Palombo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1070942"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Luigi Vitale"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1070947"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Giampaolo Pazzini"
+:event/player1 "Romano Perticone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1070997"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10932"}
+
+{:event/type "goal"
+:event/elapsed 84
+:event/subtype "direct_freekick"
+:event/player1 "Reto Ziegler"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1071005"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Angelo Palombo"
+:event/player1 "Jurgen Prutsch"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1071043"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Daniele Gastaldello"
+:event/player1 "Alessandro Bernardini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1071077"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10932"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/player1 "Alessandro Bernardini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1071078"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Angelo Palombo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1071123"
+:event/minute 91
+:event/match_id "match_10932"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Angelo Palombo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1071123"
+:event/minute 91
+:event/match_id "match_10932"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player1 "Luciano Zauri"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1071135"
+:event/minute 91
+:event/match_id "match_10932"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Luciano Zauri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1071154"
+:event/minute 93
+:event/match_id "match_10932"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Giampaolo Pazzini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1071156"
+:event/minute 93
+:event/match_id "match_10932"}
+
+
+]
+

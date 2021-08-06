@@ -1,0 +1,996 @@
+
+;;# data
+[
+{:match/id "match_2847"
+:match/league "England Premier League"
+:match/hometeam "Wigan Athletic"
+:match/awayteam "Wolverhampton Wanderers"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200086"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Jordi Gomez"
+:event/player1 "Steven Fletcher"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200088"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Stephen Ward"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1200092"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed 2
+:event/subtype "header"
+:event/player1 "Steven Fletcher"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1200089"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Antolin Alcaraz"
+:event/player1 "Matt Jarvis"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200090"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "James McCarthy"
+:event/player1 "Kevin Doyle"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200097"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "James McCarthy"
+:event/player1 "Karl Henry"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200098"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200104"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Jordi Gomez"
+:event/subtype "serious_foul"
+:event/player1 "Karl Henry"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200105"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2847"}
+
+{:event/type "card"
+:event/elapsed 11
+:event/card_type "r"
+:event/subtype "serious_fouls"
+:event/player1 "Karl Henry"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1200106"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Maynor Figueroa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200110"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2847"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "shot"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1200113"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2847"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "distance"
+:event/player1 "Jordi Gomez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1200115"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Kevin Doyle"
+:event/subtype "pushing"
+:event/player1 "Steve Gohouri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200120"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2847"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "direct_freekick"
+:event/player1 "Steven Fletcher"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1200121"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Michael Mancienne"
+:event/player1 "James McCarthy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200123"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Franco Di Santo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200128"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Emmerson Boyce"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200130"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Kevin Foley"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1200134"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1200136"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2847"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1200136"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1200138"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2847"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1200138"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Kevin Foley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1200141"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Kevin Doyle"
+:event/player1 "Hendry Thomas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200143"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200145"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Kevin Foley"
+:event/player1 "Antolin Alcaraz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200148"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Franco Di Santo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200154"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2847"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "deflected"
+:event/player1 "Hendry Thomas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1200156"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1200157"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2847"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1200157"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2847"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "shot"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1200159"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200162"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Kevin Doyle"
+:event/player1 "Franco Di Santo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200164"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200165"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1200168"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1200170"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2847"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1200170"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Franco Di Santo"
+:event/player1 "Steven Fletcher"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200172"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2847"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Steven Fletcher"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1200173"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "blocked_shot"
+:event/player1 "Franco Di Santo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200176"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1200177"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2847"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1200177"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200179"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2847"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "header"
+:event/player1 "Jordi Gomez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1200180"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "David Edwards"
+:event/player1 "Hendry Thomas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200184"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2847"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Hendry Thomas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1200185"
+:event/minute 46
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Jordi Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200186"
+:event/minute 46
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "shot"
+:event/player1 "Franco Di Santo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200196"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "distance"
+:event/player1 "Franco Di Santo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200198"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Emmerson Boyce"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200203"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200212"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "distance"
+:event/player1 "James McCarthy"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200215"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "distance"
+:event/player1 "Jordi Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200227"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Emmerson Boyce"
+:event/player1 "Kevin Doyle"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200228"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Antolin Alcaraz"
+:event/player1 "Kevin Doyle"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200231"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "James McCarthy"
+:event/player1 "Kevin Doyle"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200234"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "blocked_shot"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200238"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200245"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2847"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "bad shot"
+:event/player1 "James McCarthy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1200246"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Ronnie Stam"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200247"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2847"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "deflected"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1200250"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Charles N'Zogbia"
+:event/player1 "David Edwards"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200254"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_2847"}
+
+{:event/type "goal"
+:event/elapsed 65
+:event/subtype "direct_freekick"
+:event/player1 "Jordi Gomez"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1200255"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Kevin Doyle"
+:event/player1 "Steve Gohouri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200259"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Michael Mancienne"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1200265"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "blocked_shot"
+:event/player1 "Franco Di Santo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200276"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200278"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "volley"
+:event/player1 "Franco Di Santo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200283"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2847"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "short"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1200284"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Mohamed Diame"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200285"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200288"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2847"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "bad shot"
+:event/player1 "Ronnie Stam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1200294"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "James McCarthy"
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200306"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2847"}
+
+{:event/type "goal"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_1200310"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200314"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200340"
+:event/minute 92
+:event/match_id "match_2847"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Jordi Gomez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1200342"
+:event/minute 92
+:event/match_id "match_2847"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player1 "Christophe Berra"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200349"
+:event/minute 93
+:event/match_id "match_2847"}
+
+{:event/type "card"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Christophe Berra"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1200350"
+:event/minute 93
+:event/match_id "match_2847"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200351"
+:event/minute 94
+:event/match_id "match_2847"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "James McCarthy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200353"
+:event/minute 94
+:event/match_id "match_2847"}
+
+
+]
+

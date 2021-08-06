@@ -1,0 +1,946 @@
+
+;;# data
+[
+{:match/id "match_7286"
+:match/league "France Ligue 1"
+:match/hometeam "Stade Rennais FC"
+:match/awayteam "FC Nantes"
+:match/score "0:0"
+:match/hometeam_goals "0"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Benjamin Andre"
+:event/subtype "from_behind"
+:event/player1 "Lucas Deaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4284504"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Georges N'Koudou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4284527"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Pedro Henrique"
+:event/subtype "pushing"
+:event/player1 "Papy Djilobodji"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4284555"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Pedro Henrique"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4284564"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/subtype "hands"
+:event/player1 "Pedro Henrique"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4284603"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Vincent Bessat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4284628"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7286"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "bad shot"
+:event/player1 "Georges N'Koudou"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4284631"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Georges N'Koudou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4284684"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7286"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "big chance shot"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4284698"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Vincent Bessat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4284708"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Vincent Bessat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4284728"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7286"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "shot"
+:event/player1 "Ismael Bangoura"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4284746"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Serge Gakpe"
+:event/player1 "Cheikh Mbengue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4284758"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Pedro Henrique"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4284782"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Pedro Henrique"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4284799"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Pedro Henrique"
+:event/subtype "dangerous_play"
+:event/player1 "Vincent Bessat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4284853"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4284868"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Ola Toivonen"
+:event/player1 "Oswaldo Vizcarrondo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4284877"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Kian Hansen"
+:event/player1 "Ola Toivonen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4284881"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7286"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross_right"
+:event/player1 "Pedro Henrique"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4284901"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7286"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "shot"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4284921"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7286"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross_left"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4284926"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7286"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "header"
+:event/player1 "Ola Toivonen"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4284930"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Pedro Henrique"
+:event/subtype "pull"
+:event/player1 "Lucas Deaux"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4284968"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Pedro Henrique"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4284975"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Chaker Alhadhur"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4285004"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7286"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "blocked_shot"
+:event/player1 "Serge Gakpe"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4285009"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7286"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Jordan Veretout"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4285011"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Benjamin Andre"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4285029"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7286"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross_left"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4285033"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7286"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross_right"
+:event/player1 "Pedro Henrique"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4285039"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Remy Riou"
+:event/player1 "Sylvain Armand"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4285041"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7286"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "distance"
+:event/player1 "Pedro Henrique"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4285064"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7286"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "blocked_shot"
+:event/player1 "Abdoulaye Doucoure"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4285101"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/subtype "hands"
+:event/player1 "Abdoulaye Doucoure"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4285103"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Mexer"
+:event/player1 "Lucas Deaux"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4285107"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Vincent Bessat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4285115"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7286"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "bad shot"
+:event/player1 "Kian Hansen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4285125"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Kian Hansen"
+:event/player1 "Ola Toivonen"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4285131"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4285140"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4285266"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7286"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "big chance shot"
+:event/player1 "Abdoulaye Doucoure"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4285271"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Remy Riou"
+:event/player1 "Abdoulaye Doucoure"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4285284"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Benjamin Andre"
+:event/player1 "Ismael Bangoura"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4285291"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Pedro Henrique"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4285307"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7286"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Georges N'Koudou"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4285333"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Cheikh Mbengue"
+:event/player1 "Vincent Bessat"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4285342"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Georges N'Koudou"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4285351"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Chaker Alhadhur"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4285424"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Serge Gakpe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4285541"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4285546"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Pedro Henrique"
+:event/player1 "Yacine Bammou"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4285591"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Pedro Henrique"
+:event/subtype "trip"
+:event/player1 "Vincent Bessat"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4285565"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7286"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/player1 "Vincent Bessat"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4285566"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7286"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "distance"
+:event/player1 "Mexer"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4285580"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Benjamin Andre"
+:event/subtype "trip"
+:event/player1 "Yacine Bammou"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4285674"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Georges N'Koudou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4285695"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Vincent Bessat"
+:event/player1 "Pedro Henrique"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4285742"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7286"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4285752"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Vincent Bessat"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4285757"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7286"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross_left"
+:event/player1 "Jordan Veretout"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4285761"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7286"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "blocked_header"
+:event/player1 "Oswaldo Vizcarrondo"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4285762"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Mexer"
+:event/subtype "pull"
+:event/player1 "Jordan Veretout"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4285782"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7286"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "volley"
+:event/player1 "Ola Toivonen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4285802"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Kamil Grosicki"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4285812"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7286"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "blocked_shot"
+:event/player1 "Ola Toivonen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4285861"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Paul-Georges Ntep"
+:event/subtype "serious_foul"
+:event/player1 "Chaker Alhadhur"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4285878"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7286"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/player1 "Chaker Alhadhur"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4285880"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4285889"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7286"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Abdoulaye Doucoure"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4285893"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7286"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Jordan Veretout"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4285908"
+:event/minute 91
+:event/match_id "match_7286"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Jordan Veretout"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4285920"
+:event/minute 92
+:event/match_id "match_7286"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Lucas Deaux"
+:event/sortorder 10
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4285926"
+:event/minute 92
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Lucas Deaux"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 14
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4285942"
+:event/minute 93
+:event/match_id "match_7286"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 16
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4285970"
+:event/minute 94
+:event/match_id "match_7286"}
+
+{:event/type "corner"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "Paul-Georges Ntep"
+:event/sortorder 17
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4285974"
+:event/minute 95
+:event/match_id "match_7286"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player2 "Jordan Veretout"
+:event/player1 "Cheikh Mbengue"
+:event/sortorder 19
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4285981"
+:event/minute 95
+:event/match_id "match_7286"}
+
+
+]
+

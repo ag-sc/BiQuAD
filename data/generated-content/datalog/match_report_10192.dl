@@ -1,0 +1,1375 @@
+
+;;# data
+[
+{:match/id "match_10192"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Hertha BSC Berlin"
+:match/awayteam "SV Darmstadt 98"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Jerome Gondorf"
+:event/subtype "pushing"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5577056"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Gyorgy Garics"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5577062"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Vedad Ibisevic"
+:event/subtype "dangerous_play"
+:event/player1 "Peter Niemeyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5577091"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5577132"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10192"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross_right"
+:event/player1 "Vladimir Darida"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5577139"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5577145"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10192"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross_right"
+:event/player1 "Vladimir Darida"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5577152"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10192"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "distance"
+:event/player1 "Vladimir Darida"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5577201"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Salomon Kalou"
+:event/subtype "trip"
+:event/player1 "Peter Niemeyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5577225"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10192"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross_right"
+:event/player1 "Vladimir Darida"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5577254"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10192"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "header"
+:event/player1 "Niklas Stark"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5577268"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Christian Mathenia"
+:event/subtype "dangerous_play"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5577274"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Konstantin Rausch"
+:event/subtype "trip"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5577310"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Vladimir Darida"
+:event/subtype "dangerous_play"
+:event/player1 "Peter Niemeyer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5577314"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5577338"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10192"}
+
+{:event/type "goal"
+:event/elapsed 15
+:event/player2 "Maximilian Mittelstaedt"
+:event/subtype "volley"
+:event/player1 "Vladimir Darida"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_5577340"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Per Ciljan Skjelbred"
+:event/subtype "trip"
+:event/player1 "Jerome Gondorf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5577387"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Sandro Wagner"
+:event/subtype "pushing"
+:event/player1 "John Anthony Brooks"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5577423"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Sandro Wagner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5577437"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Niklas Stark"
+:event/subtype "dangerous_play"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5577449"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/subtype "hands"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5577468"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Marcel Heller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5577476"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10192"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "shot"
+:event/player1 "Marcel Heller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5577487"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "John Anthony Brooks"
+:event/subtype "dangerous_play"
+:event/player1 "Sandro Wagner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5577520"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10192"}
+
+{:event/type "goal"
+:event/elapsed 25
+:event/player2 "Marcel Heller"
+:event/subtype "shot"
+:event/player1 "Jerome Gondorf"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_5577551"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Peter Niemeyer"
+:event/subtype "trip"
+:event/player1 "Fabian Lustenberger"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5577587"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Mario Vrancic"
+:event/subtype "trip"
+:event/player1 "Per Ciljan Skjelbred"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5577608"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Peter Niemeyer"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5577612"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Fabian Lustenberger"
+:event/subtype "trip"
+:event/player1 "Gyorgy Garics"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5577619"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10192"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross_left"
+:event/player1 "Vladimir Darida"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5577653"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5577676"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5577739"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Mario Vrancic"
+:event/subtype "pushing"
+:event/player1 "John Anthony Brooks"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5577761"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5577769"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10192"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "blocked_shot"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5577792"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10192"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "blocked_shot"
+:event/player1 "Vladimir Darida"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5577810"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Marcel Heller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5577844"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Jerome Gondorf"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5577854"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5577865"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Jerome Gondorf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5578032"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Genki Haraguchi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5578112"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10192"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross_right"
+:event/player1 "Vladimir Darida"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5578127"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Salomon Kalou"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5578186"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5578225"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5578233"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Marcel Heller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5578628"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_10192"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "deflected"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5578276"
+:event/minute 46
+:event/match_id "match_10192"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross_right"
+:event/player1 "Vladimir Darida"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5578286"
+:event/minute 47
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Maximilian Mittelstaedt"
+:event/subtype "pull"
+:event/player1 "Sandro Wagner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5578675"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Vladimir Darida"
+:event/subtype "dangerous_play"
+:event/player1 "Peter Niemeyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5578744"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Fabian Lustenberger"
+:event/subtype "serious_foul"
+:event/player1 "Jerome Gondorf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5578854"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10192"}
+
+{:event/type "card"
+:event/elapsed 53
+:event/card_type "y"
+:event/player1 "Jerome Gondorf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5578859"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Per Ciljan Skjelbred"
+:event/subtype "trip"
+:event/player1 "Peter Niemeyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5578922"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Aytac Sulu"
+:event/subtype "dangerous_play"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5578967"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10192"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5578972"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Per Ciljan Skjelbred"
+:event/subtype "trip"
+:event/player1 "Sandro Wagner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5579040"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5579068"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Vladimir Darida"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5579130"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Luca Caldirola"
+:event/subtype "pushing"
+:event/player1 "Vladimir Darida"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5579165"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Sandro Wagner"
+:event/subtype "dangerous_play"
+:event/player1 "Niklas Stark"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5579187"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5579201"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10192"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "blocked_shot"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5579239"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Sandro Wagner"
+:event/subtype "trip"
+:event/player1 "Fabian Lustenberger"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5579261"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Tobias Kempe"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5579278"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10192"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "big chance shot"
+:event/player1 "Sandro Wagner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5579295"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Niklas Stark"
+:event/subtype "trip"
+:event/player1 "Marcel Heller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5579300"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Marcel Heller"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5579309"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10192"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross_right"
+:event/player1 "Tobias Kempe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5579335"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10192"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "header"
+:event/player1 "Sandro Wagner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5579340"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/subtype "hands"
+:event/player1 "Gyorgy Garics"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5579384"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Vladimir Darida"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5579390"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Mitchell Weiser"
+:event/subtype "trip"
+:event/player1 "Fabian Holland"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5579407"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Vladimir Darida"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5579415"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10192"}
+
+{:event/type "corner"
+:event/elapsed 69
+:event/subtype "cross_right"
+:event/player1 "Vladimir Darida"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5579424"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Gyorgy Garics"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5579432"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Salomon Kalou"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5579464"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10192"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "shot"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5579476"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Salomon Kalou"
+:event/subtype "dangerous_play"
+:event/player1 "Gyorgy Garics"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5579494"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Genki Haraguchi"
+:event/player1 "Jerome Gondorf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5579531"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Vedad Ibisevic"
+:event/subtype "pull"
+:event/player1 "Gyorgy Garics"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5579556"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10192"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "direct_freekick"
+:event/player1 "Vladimir Darida"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5579568"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5579591"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "John Anthony Brooks"
+:event/subtype "dangerous_play"
+:event/player1 "Sandro Wagner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5579608"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Maximilian Mittelstaedt"
+:event/subtype "trip"
+:event/player1 "Marcel Heller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5579646"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Luca Caldirola"
+:event/subtype "trip"
+:event/player1 "Julian Schieber"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5579706"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Peter Niemeyer"
+:event/subtype "from_behind"
+:event/player1 "Per Ciljan Skjelbred"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5579783"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10192"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/player1 "Per Ciljan Skjelbred"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5579791"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Tobias Kempe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5579815"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_10192"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Felix Platte"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5579826"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_10192"}
+
+{:event/type "goal"
+:event/elapsed 83
+:event/player2 "Jerome Gondorf"
+:event/subtype "shot"
+:event/player1 "Sandro Wagner"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_5579857"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10192"}
+
+{:event/type "card"
+:event/elapsed 83
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Rune Almenning Jarstein"
+:event/sortorder 14
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5579975"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10192"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/subtype "Removing Shirt"
+:event/player1 "Sandro Wagner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5579902"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10192"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Salomon Kalou"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5579939"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10192"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross_right"
+:event/player1 "Valentin Stocker"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5579946"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10192"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "header"
+:event/player1 "Niklas Stark"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5579952"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Mitchell Weiser"
+:event/subtype "serious_foul"
+:event/player1 "Sandro Wagner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5580055"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10192"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/player1 "Sandro Wagner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5580060"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5580107"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_10192"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "Vladimir Darida"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5580114"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5580122"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Alexander Baumjohann"
+:event/subtype "trip"
+:event/player1 "Jerome Gondorf"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5580169"
+:event/minute 91
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Julian Schieber"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5580177"
+:event/minute 91
+:event/match_id "match_10192"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "short_left"
+:event/player1 "Vladimir Darida"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5580227"
+:event/minute 92
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Vladimir Darida"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5580229"
+:event/minute 92
+:event/match_id "match_10192"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "John Anthony Brooks"
+:event/sortorder 11
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5580235"
+:event/minute 92
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Jerome Gondorf"
+:event/subtype "dangerous_play"
+:event/player1 "John Anthony Brooks"
+:event/sortorder 14
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5580278"
+:event/minute 93
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 15
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5580303"
+:event/minute 94
+:event/match_id "match_10192"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 16
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5580310"
+:event/minute 94
+:event/match_id "match_10192"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player2 "Mitchell Weiser"
+:event/subtype "trip"
+:event/player1 "Tobias Kempe"
+:event/sortorder 19
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5580331"
+:event/minute 95
+:event/match_id "match_10192"}
+
+{:event/type "cross"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 20
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5580337"
+:event/minute 95
+:event/match_id "match_10192"}
+
+
+]
+

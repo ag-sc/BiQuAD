@@ -1,0 +1,940 @@
+
+;;# data
+[
+{:match/id "match_22140"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Villarreal CF"
+:match/awayteam "Real Sporting de Gijón"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "deflected"
+:event/player1 "Joseba Llorente"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1036719"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Marcos Senna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1036721"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22140"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Marcos Senna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1036721"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22140"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "big chance header"
+:event/player1 "Nilmar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1036722"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Marcos Senna"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1036723"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22140"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Marcos Senna"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1036723"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1036725"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22140"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "header"
+:event/player1 "Gonzalo Rodriguez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1036727"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Giuseppe Rossi"
+:event/player1 "Lora"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1036734"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player1 "Sergio Matabuena"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1036737"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Diego Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1036740"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22140"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Diego Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1036740"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Diego Lopez"
+:event/player1 "Serrabasa Gerard"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1036742"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22140"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "big chance shot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1036747"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Diego Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1036749"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22140"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Diego Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1036749"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Giuseppe Rossi"
+:event/player1 "Serrabasa Gerard"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1036754"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22140"}
+
+{:event/type "card"
+:event/elapsed 10
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Sergio Matabuena"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1036755"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1036759"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_22140"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "deflected"
+:event/player1 "Joseba Llorente"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1036772"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22140"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "short"
+:event/player1 "Marcos Senna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1036773"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22140"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "shot"
+:event/player1 "Cani"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1036778"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22140"}
+
+{:event/type "goal"
+:event/elapsed 16
+:event/subtype "header"
+:event/player1 "Diego Godin"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_1036776"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Diego Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1036780"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22140"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Diego Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1036780"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22140"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "distance"
+:event/player1 "Kike Mateo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1036783"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Bruno Soriano"
+:event/player1 "Kike Mateo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1036787"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Javier Venta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1036794"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22140"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "shot"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1036795"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Marcos Senna"
+:event/player1 "Kike Mateo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1036796"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Marcos Senna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1036797"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_22140"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Marcos Senna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1036797"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Bruno Soriano"
+:event/player1 "Kike Mateo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1036799"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Diego Godin"
+:event/player1 "Kike Mateo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1036802"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Marcos Senna"
+:event/player1 "Mate Bilic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1036813"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Nilmar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1036820"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22140"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "big chance header"
+:event/player1 "Joseba Llorente"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1036821"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player1 "Joan Capdevila"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1036824"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Joseba Llorente"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1036826"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Bruno Soriano"
+:event/player1 "Kike Mateo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1036828"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_22140"}
+
+{:event/type "shotoff"
+:event/elapsed 46
+:event/subtype "shot"
+:event/player1 "Mate Bilic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1036879"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1036888"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Roberto Canella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1036902"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Javier Venta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1036904"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_22140"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "distance"
+:event/player1 "Bruno Soriano"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1036910"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Nilmar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1036916"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Marcos Senna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1036921"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22140"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Marcos Senna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1036921"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22140"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "post"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1036922"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Gregory Arnolin"
+:event/player1 "Joseba Llorente"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1036942"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Roberto Canella"
+:event/player1 "Marcos Senna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1036951"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Diego Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1036956"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22140"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Diego Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1036956"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Kike Mateo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1036959"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Nilmar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1036969"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Cani"
+:event/player1 "Sergio Matabuena"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1036975"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player1 "Diego Camacho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1036988"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Sergio Matabuena"
+:event/player1 "Marcos Senna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1036996"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Marcos Senna"
+:event/player1 "Roberto Canella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1037004"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Javier Venta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1037005"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1037019"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22140"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Robert Pires"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1037020"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22140"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "shot"
+:event/player1 "Nilmar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1037026"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22140"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "short"
+:event/player1 "Ariel Ibagaza"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1037041"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Ariel Ibagaza"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1037042"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22140"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Robert Pires"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1037045"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1037048"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Luis Moran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1037049"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Miguel Angel de las Cuevas"
+:event/player1 "Joan Capdevila"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1037055"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22140"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "shot"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1037059"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22140"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "short"
+:event/player1 "Ariel Ibagaza"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1037061"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22140"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Ariel Ibagaza"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1037062"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22140"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "blocked_shot"
+:event/player1 "Robert Pires"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1037063"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player1 "Bruno Soriano"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1037065"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Giuseppe Rossi"
+:event/player1 "Gregory Arnolin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1037069"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22140"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Lora"
+:event/player1 "Joan Capdevila"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1037073"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_22140"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1037083"
+:event/minute 92
+:event/match_id "match_22140"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Robert Pires"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1037084"
+:event/minute 93
+:event/match_id "match_22140"}
+
+
+]
+

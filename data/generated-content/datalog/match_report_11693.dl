@@ -1,0 +1,1328 @@
+
+;;# data
+[
+{:match/id "match_11693"
+:match/league "Italy Serie A"
+:match/hometeam "Napoli"
+:match/awayteam "Siena"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Paolo Cannavaro"
+:event/player1 "Mattia Destro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2140987"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141010"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11693"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/player2 "Marek Hamsik"
+:event/subtype "shot"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2141011"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "distance"
+:event/player1 "Claudio Terzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2141014"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_11693"}
+
+{:event/type "goal"
+:event/elapsed 6
+:event/player2 "Franco Brienza"
+:event/subtype "shot"
+:event/player1 "Mattia Destro"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_2141020"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Christian Maggio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141062"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Paolo Cannavaro"
+:event/player1 "Mattia Destro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141067"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Miguel Britos"
+:event/player1 "Mattia Destro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141078"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Hugo Campagnaro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141084"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Goran Pandev"
+:event/player1 "Roberto Vitiello"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141090"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Hugo Campagnaro"
+:event/player1 "Mattia Destro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141098"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11693"}
+
+{:event/type "card"
+:event/elapsed 15
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Mattia Destro"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2141099"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141100"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141103"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141113"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141113"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Walter Gargano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141122"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141131"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141136"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141136"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2141143"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2141143"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2141148"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Christian Maggio"
+:event/player1 "Andrea Rossi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141165"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "direct_freekick"
+:event/player1 "Goran Pandev"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2141169"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Christian Maggio"
+:event/player1 "Andrea Rossi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141172"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Christian Maggio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141178"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141213"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141213"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player1 "Gokhan Inler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2141229"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141239"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Gaetano D'Agostino"
+:event/player1 "Hugo Campagnaro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2141245"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11693"}
+
+{:event/type "card"
+:event/elapsed 30
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Hugo Campagnaro"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2141246"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11693"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Simone Vergassola"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2141251"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed 31
+:event/subtype "distance"
+:event/player1 "Mattia Destro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2141254"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "short"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141261"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141262"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "header"
+:event/player1 "Federico Fernandez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2141263"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Christian Maggio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141271"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Hugo Campagnaro"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141274"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11693"}
+
+{:event/type "goal"
+:event/elapsed 34
+:event/player2 "Hugo Campagnaro"
+:event/subtype "shot"
+:event/player1 "unknown"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_2141275"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11693"}
+
+{:event/type "card"
+:event/elapsed 34
+:event/card_type "y"
+:event/subtype "Removing Shirt"
+:event/player1 "unknown"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2141306"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player1 "Christian Maggio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2141281"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Luigi Giorgi"
+:event/player1 "Federico Fernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2141292"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "direct_freekick"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2141301"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "big chance shot"
+:event/player1 "Goran Pandev"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2141308"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141314"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Luigi Giorgi"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2141316"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_11693"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Marek Hamsik"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2141317"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141320"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141321"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141324"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141324"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11693"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2141374"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141377"
+:event/minute 46
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2141385"
+:event/minute 47
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2141385"
+:event/minute 47
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Gokhan Inler"
+:event/player1 "Luigi Giorgi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141484"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "direct_freekick"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2141492"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Ezequiel Lavezzi"
+:event/player1 "Claudio Terzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141498"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Marek Hamsik"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2141503"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_11693"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "distance"
+:event/player1 "Gokhan Inler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2141509"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141510"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141510"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141516"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141519"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141519"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player1 "Andrea Rossi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141522"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player1 "Francesco Parravicini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141539"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_11693"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "deflected"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2141544"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11693"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/player1 "Francesco Parravicini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2141621"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "short"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141548"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Franco Brienza"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2141550"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11693"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "big chance shot"
+:event/player1 "Mattia Destro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2141551"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2141553"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2141553"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "unknown"
+:event/player1 "Luigi Giorgi"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141556"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "big chance shot"
+:event/player1 "Luigi Giorgi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2141563"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11693"}
+
+{:event/type "card"
+:event/elapsed 59
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2141565"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player1 "Hugo Campagnaro"
+:event/sortorder -1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2141583"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "direct_freekick"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2141587"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Christian Maggio"
+:event/player1 "Simone Vergassola"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141591"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2141601"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Ezequiel Lavezzi"
+:event/player1 "Francesco Parravicini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141614"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Hugo Campagnaro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141629"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "distance"
+:event/player1 "Marek Hamsik"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2141633"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "short"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141674"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141682"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2141682"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Juan Camilo Zuniga"
+:event/player1 "Andrea Rossi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141708"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "distance"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2141713"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11693"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "blocked_shot"
+:event/player1 "Juan Camilo Zuniga"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2141720"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Hugo Campagnaro"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141721"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2141753"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2141753"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Walter Gargano"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2141756"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Marcelo Larrondo"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2141760"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11693"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "blocked_shot"
+:event/player1 "Marcelo Larrondo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2141762"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Ezequiel Lavezzi"
+:event/player1 "Claudio Terzi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141764"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11693"}
+
+{:event/type "card"
+:event/elapsed 86
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Claudio Terzi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2141771"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Franco Brienza"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2141781"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11693"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Franco Brienza"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2141781"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Franco Brienza"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2141784"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11693"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Andrea Rossi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2141796"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_11693"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "big chance bicycle"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2141797"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Claudio Terzi"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2141799"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11693"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2141800"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11693"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Simone Vergassola"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2141812"
+:event/minute 91
+:event/match_id "match_11693"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Ezequiel Lavezzi"
+:event/player1 "Andrea Rossi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2141823"
+:event/minute 93
+:event/match_id "match_11693"}
+
+
+]
+

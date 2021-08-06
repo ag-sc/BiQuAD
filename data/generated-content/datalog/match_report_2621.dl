@@ -1,0 +1,999 @@
+
+;;# data
+[
+{:match/id "match_2621"
+:match/league "England Premier League"
+:match/hometeam "Tottenham Hotspur"
+:match/awayteam "Fulham"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1346506"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Rafael van der Vaart"
+:event/subtype "pushing"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1346532"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2621"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "blocked_shot"
+:event/player1 "Rafael van der Vaart"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1346537"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Andrew Johnson"
+:event/subtype "pushing"
+:event/player1 "Luka Modric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1346547"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1346574"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1346582"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Alan Hutton"
+:event/subtype "pushing"
+:event/player1 "Simon Davies"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1346625"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Clint Dempsey"
+:event/subtype "pushing"
+:event/player1 "Luka Modric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1346653"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Danny Murphy"
+:event/subtype "from_behind"
+:event/player1 "Wilson Palacios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1346656"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2621"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Alan Hutton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1346704"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Brede Hangeland"
+:event/subtype "pushing"
+:event/player1 "Roman Pavlyuchenko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1346711"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Gareth Bale"
+:event/subtype "serious_foul"
+:event/player1 "John Pantsil"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1346721"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2621"}
+
+{:event/type "card"
+:event/elapsed 19
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "John Pantsil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1346725"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2621"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "distance"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1346739"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Luka Modric"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1346754"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2621"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Luka Modric"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1346754"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Andrew Johnson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1346794"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Michael Dawson"
+:event/subtype "pushing"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1346796"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Clint Dempsey"
+:event/subtype "serious_foul"
+:event/player1 "Michael Dawson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1346806"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2621"}
+
+{:event/type "card"
+:event/elapsed 25
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Michael Dawson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1346807"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/subtype "hands"
+:event/player1 "Andrew Johnson"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1346825"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "John Pantsil"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1346865"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/subtype "hands"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1346871"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2621"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "deflected"
+:event/player1 "Aaron Lennon"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1346899"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2621"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "distance"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1346920"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Rafael van der Vaart"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1346949"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2621"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Rafael van der Vaart"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1346949"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2621"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "distance"
+:event/player1 "Roman Pavlyuchenko"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1346958"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1346960"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "John Pantsil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1346968"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1346970"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Luka Modric"
+:event/subtype "pushing"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1346985"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Luka Modric"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1347026"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1347029"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "William Gallas"
+:event/subtype "pushing"
+:event/player1 "Andrew Johnson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1347038"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2621"}
+
+{:event/type "goal"
+:event/elapsed 42
+:event/player2 "Rafael van der Vaart"
+:event/subtype "header"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1347048"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2621"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "big chance shot"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1347068"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1347115"
+:event/minute 46
+:event/match_id "match_2621"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1347115"
+:event/minute 46
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Luka Modric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1347162"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Rafael van der Vaart"
+:event/subtype "pushing"
+:event/player1 "John Pantsil"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1347120"
+:event/minute 47
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1347181"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2621"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Damien Duff"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1347213"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Clint Dempsey"
+:event/subtype "pushing"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1347281"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2621"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "blocked_shot"
+:event/player1 "Chris Baird"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1347290"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1347294"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2621"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Danny Murphy"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1347301"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Aaron Hughes"
+:event/subtype "pushing"
+:event/player1 "Luka Modric"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1347307"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Rafael van der Vaart"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1347332"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2621"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Rafael van der Vaart"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1347332"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2621"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "distance"
+:event/player1 "Clint Dempsey"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1347350"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "John Pantsil"
+:event/subtype "pushing"
+:event/player1 "Roman Pavlyuchenko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1347354"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2621"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "distance"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1347360"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2621"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "big chance shot"
+:event/player1 "Andrew Johnson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1347372"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "John Pantsil"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1347375"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_2621"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Andrew Johnson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1347387"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "John Pantsil"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1347399"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1347475"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2621"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "shot"
+:event/player1 "Dickson Etuhu"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1347476"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2621"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "big chance shot"
+:event/player1 "Gareth Bale"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1347537"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Rafael van der Vaart"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1347558"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2621"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Rafael van der Vaart"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1347558"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2621"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Michael Dawson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1347560"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Andrew Johnson"
+:event/subtype "pushing"
+:event/player1 "Vedran Corluka"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1347595"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2621"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "blocked_shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1347613"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2621"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1347625"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Dickson Etuhu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1347645"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2621"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "blocked_shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1347649"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2621"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Aaron Lennon"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1347659"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Zoltan Gera"
+:event/subtype "shirt_pull"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1347677"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2621"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1347679"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "John Pantsil"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1347687"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Benoit Assou-Ekotto"
+:event/subtype "pushing"
+:event/player1 "Zoltan Gera"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1347705"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Peter Crouch"
+:event/subtype "pushing"
+:event/player1 "Aaron Hughes"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1347708"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2621"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Luka Modric"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1347723"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2621"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Peter Crouch"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1347729"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2621"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1347750"
+:event/minute 92
+:event/match_id "match_2621"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Jermaine Jenas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1347755"
+:event/minute 92
+:event/match_id "match_2621"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "John Pantsil"
+:event/subtype "pushing"
+:event/player1 "Gareth Bale"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1347771"
+:event/minute 93
+:event/match_id "match_2621"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Chris Baird"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1347777"
+:event/minute 94
+:event/match_id "match_2621"}
+
+
+]
+

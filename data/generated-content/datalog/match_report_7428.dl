@@ -1,0 +1,954 @@
+
+;;# data
+[
+{:match/id "match_7428"
+:match/league "France Ligue 1"
+:match/hometeam "Paris Saint-Germain"
+:match/awayteam "AS Monaco"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Marco Verratti"
+:event/subtype "pull"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3821228"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Maxwell"
+:event/subtype "pushing"
+:event/player1 "Nabil Dirar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3821243"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7428"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "shot"
+:event/player1 "Marco Verratti"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3821273"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Lavyin Kurzawa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3821308"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Geoffrey Kondogbia"
+:event/subtype "trip"
+:event/player1 "Marco Verratti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3821322"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7428"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "distance"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3821323"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3821336"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7428"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "blocked_header"
+:event/player1 "Javier Pastore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3821337"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7428"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross_left"
+:event/player1 "Joao Moutinho"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3821345"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7428"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "shot"
+:event/player1 "Lucas Ariel Ocampos"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3821356"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Geoffrey Kondogbia"
+:event/subtype "trip"
+:event/player1 "Marco Verratti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3821366"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Blaise Matuidi"
+:event/subtype "pushing"
+:event/player1 "Tiemoue Bakayoko"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3821385"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3821391"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7428"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross_left"
+:event/player1 "Joao Moutinho"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3821397"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7428"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "deflected"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3821422"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Marco Verratti"
+:event/subtype "pushing"
+:event/player1 "Joao Moutinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3821426"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_7428"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "shot"
+:event/player1 "Javier Pastore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3821450"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Lavyin Kurzawa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3821468"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7428"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross_right"
+:event/player1 "Joao Moutinho"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3821476"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7428"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "shot"
+:event/player1 "Lucas Moura"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3821490"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Lavyin Kurzawa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3821506"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Blaise Matuidi"
+:event/subtype "pull"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3821510"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7428"}
+
+{:event/type "card"
+:event/elapsed 28
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3821511"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Marco Verratti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3821524"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Lavyin Kurzawa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3821528"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3821540"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Lucas Ariel Ocampos"
+:event/subtype "trip"
+:event/player1 "Thiago Motta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3821544"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7428"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross_left"
+:event/player1 "Joao Moutinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3821551"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "David Luiz"
+:event/subtype "pushing"
+:event/player1 "Andrea Raggi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3821553"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Lucas Moura"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3821563"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Maxwell"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3821573"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7428"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "miss_kick"
+:event/player1 "Edinson Cavani"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3821574"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "David Luiz"
+:event/subtype "trip"
+:event/player1 "Lucas Ariel Ocampos"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3821592"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Geoffrey Kondogbia"
+:event/subtype "trip"
+:event/player1 "David Luiz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3821604"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7428"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "blocked_shot"
+:event/player1 "Lavyin Kurzawa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3821611"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7428"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross_left"
+:event/player1 "Joao Moutinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3821613"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7428"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "post"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3821617"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Nabil Dirar"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3821618"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Geoffrey Kondogbia"
+:event/subtype "serious_foul"
+:event/player1 "Marco Verratti"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3821625"
+:event/minute 46
+:event/match_id "match_7428"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "violence"
+:event/player1 "Marco Verratti"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3821626"
+:event/minute 46
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Lucas Moura"
+:event/subtype "trip"
+:event/player1 "Lavyin Kurzawa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3821747"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Yannick Ferreira-Carrasco"
+:event/subtype "trip"
+:event/player1 "Thiago Motta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3821760"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Tiemoue Bakayoko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3821776"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/subtype "hands"
+:event/player1 "Thiago Motta"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3821799"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Maxwell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3821823"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Maxwell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3821839"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Fabinho"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3821843"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7428"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "big chance shot"
+:event/player1 "Jean-Christophe Bahebeck"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3821851"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7428"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross_left"
+:event/player1 "Jean-Christophe Bahebeck"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3821853"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Lucas Moura"
+:event/subtype "trip"
+:event/player1 "Geoffrey Kondogbia"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3821866"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7428"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "miss_kick"
+:event/player1 "Edinson Cavani"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3821872"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7428"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross_left"
+:event/player1 "Jean-Christophe Bahebeck"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3821883"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Yannick Ferreira-Carrasco"
+:event/subtype "obstruction"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3821886"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7428"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "Lavyin Kurzawa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3821891"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7428"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross_right"
+:event/player1 "Joao Moutinho"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3821894"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7428"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "blocked_header"
+:event/player1 "Tiemoue Bakayoko"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3821895"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "David Luiz"
+:event/subtype "trip"
+:event/player1 "Joao Moutinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3821900"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Tiemoue Bakayoko"
+:event/subtype "trip"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3821909"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7428"}
+
+{:event/type "card"
+:event/elapsed 63
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3821911"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7428"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "shot"
+:event/player1 "Lucas Ariel Ocampos"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3821919"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7428"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "blocked_shot"
+:event/player1 "Geoffrey Kondogbia"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3821967"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Jean-Christophe Bahebeck"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3821982"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7428"}
+
+{:event/type "goal"
+:event/elapsed 71
+:event/player2 "Jean-Christophe Bahebeck"
+:event/subtype "shot"
+:event/player1 "Lucas Moura"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_3821985"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Fabinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3821994"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Edinson Cavani"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3822007"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Edinson Cavani"
+:event/subtype "pushing"
+:event/player1 "Geoffrey Kondogbia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3822037"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Joao Moutinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3822055"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7428"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Lucas Moura"
+:event/subtype "serious_foul"
+:event/player1 "Joao Moutinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3822085"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7428"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Joao Moutinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3822086"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7428"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Lucas Moura"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3822093"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Lavyin Kurzawa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3822094"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7428"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "Bernardo Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3822096"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7428"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Lavyin Kurzawa"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3822105"
+:event/minute 91
+:event/match_id "match_7428"}
+
+{:event/type "goal"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Anthony Martial"
+:event/sortorder 11
+:event/team "away"
+:event/id "event_3822107"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 92
+:event/match_id "match_7428"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Lucas Moura"
+:event/sortorder 12
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3822108"
+:event/minute 93
+:event/match_id "match_7428"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 14
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3822110"
+:event/minute 93
+:event/match_id "match_7428"}
+
+
+]
+

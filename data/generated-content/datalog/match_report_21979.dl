@@ -1,0 +1,907 @@
+
+;;# data
+[
+{:match/id "match_21979"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Real Valladolid"
+:match/awayteam "Atlético Madrid"
+:match/score "0:4"
+:match/hometeam_goals "0"
+:match/awayteam_goals "4"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901680"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901684"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_21979"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901684"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_21979"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "header"
+:event/player1 "Nivaldo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_901685"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Simao"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901687"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901692"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_21979"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901692"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Pedro Lopez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901695"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Fabian Canobbio"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901699"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_21979"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Fabian Canobbio"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901699"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Luis Perea"
+:event/subtype "pushing"
+:event/player1 "Nivaldo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901701"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Jose Manuel Jurado"
+:event/player1 "Borja Fernandez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901707"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Alberto Bueno"
+:event/player1 "Paulo Assuncao"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901713"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Raul Garcia"
+:event/player1 "Pedro Lopez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901720"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Diego Forlan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901726"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_21979"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "distance"
+:event/player1 "Raul Garcia"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_901728"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_21979"}
+
+{:event/type "goal"
+:event/elapsed 16
+:event/player2 "Jose Antonio Reyes"
+:event/subtype "shot"
+:event/player1 "Jose Manuel Jurado"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_901742"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Jose Antonio Reyes"
+:event/subtype "serious_foul"
+:event/player1 "Nauzet Aleman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901746"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Luis Perea"
+:event/subtype "pushing"
+:event/player1 "Diego Costa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901754"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Nauzet Aleman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901760"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_21979"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Nauzet Aleman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901760"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Diego Costa"
+:event/player1 "Raul Garcia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901776"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Juan Valera"
+:event/subtype "pushing"
+:event/player1 "Diego Costa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901781"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901784"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Fabian Canobbio"
+:event/subtype "pushing"
+:event/player1 "Antonio Lopez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901790"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Diego Forlan"
+:event/player1 "Nivaldo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901793"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_21979"}
+
+{:event/type "goal"
+:event/elapsed 31
+:event/player2 "Raul Garcia"
+:event/subtype "shot"
+:event/player1 "Diego Forlan"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_901799"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Pedro Lopez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901809"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Diego Costa"
+:event/subtype "from_behind"
+:event/player1 "Alvaro Dominguez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901823"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_21979"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "distance"
+:event/player1 "Pele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_901826"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_21979"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "Marquitos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_901841"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Diego Costa"
+:event/subtype "pushing"
+:event/player1 "Alvaro Dominguez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901847"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Fabian Canobbio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901849"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_21979"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Fabian Canobbio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901849"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Pele"
+:event/player1 "Jose Manuel Jurado"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901859"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Jose Manuel Jurado"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901866"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901872"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_21979"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901872"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_21979"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "shot"
+:event/player1 "Diego Costa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_901881"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Borja Fernandez"
+:event/subtype "pushing"
+:event/player1 "Simao"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901934"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901952"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Jose Manuel Jurado"
+:event/player1 "Borja Fernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901955"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Diego Forlan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901960"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_21979"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_901962"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Marquitos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901974"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Jose Antonio Reyes"
+:event/subtype "shirt_pull"
+:event/player1 "Pedro Lopez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901976"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21979"}
+
+{:event/type "card"
+:event/elapsed 52
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Pedro Lopez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_901978"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Juan Valera"
+:event/player1 "Marquitos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901990"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Simao"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901996"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_21979"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "shot"
+:event/player1 "Fabian Canobbio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_902002"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player1 "Diego Costa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_902019"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Juan Valera"
+:event/subtype "pushing"
+:event/player1 "Marquitos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_902022"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_21979"}
+
+{:event/type "goal"
+:event/elapsed 59
+:event/player2 "Diego Forlan"
+:event/subtype "shot"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_902028"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_21979"}
+
+{:event/type "shoton"
+:event/elapsed 60
+:event/subtype "blocked_shot"
+:event/player1 "Marquitos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_902035"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_21979"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "distance"
+:event/player1 "Borja Fernandez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_902036"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_21979"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "distance"
+:event/player1 "Diego Forlan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_902047"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Alberto Bueno"
+:event/player1 "Raul Garcia"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_902051"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Diego Forlan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_902056"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_21979"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Fabian Canobbio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_902064"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Jose Antonio Reyes"
+:event/player1 "Borja Fernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_902065"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Diego Costa"
+:event/subtype "from_behind"
+:event/player1 "Luis Perea"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_902071"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_21979"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Luis Perea"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_902072"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Jose Manuel Jurado"
+:event/subtype "serious_foul"
+:event/player1 "Nivaldo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_902081"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_21979"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Nivaldo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_902082"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_21979"}
+
+{:event/type "card"
+:event/elapsed 73
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Marquitos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_902087"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Raul Garcia"
+:event/subtype "serious_foul"
+:event/player1 "Pele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_902124"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_21979"}
+
+{:event/type "card"
+:event/elapsed 83
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Pele"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_902127"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_21979"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_902145"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_21979"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "direct_freekick"
+:event/player1 "Fabian Canobbio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_902146"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_902171"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_21979"}
+
+{:event/type "goal"
+:event/elapsed 90
+:event/player2 "Jose Antonio Reyes"
+:event/subtype "shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_902170"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_21979"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Diego Costa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_902182"
+:event/minute 92
+:event/match_id "match_21979"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Fabian Canobbio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_902183"
+:event/minute 92
+:event/match_id "match_21979"}
+
+
+]
+

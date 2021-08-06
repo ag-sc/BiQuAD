@@ -1,0 +1,980 @@
+
+;;# data
+[
+{:match/id "match_4741"
+:match/league "England Premier League"
+:match/hometeam "Manchester United"
+:match/awayteam "Sunderland"
+:match/score "3:0"
+:match/hometeam_goals "3"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Ola Toivonen"
+:event/player1 "Michael Carrick"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4831838"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Matteo Darmian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4831965"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Anthony Martial"
+:event/subtype "pull"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832009"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4832028"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "shot"
+:event/player1 "Memphis Depay"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4832073"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Yann M'Vila"
+:event/player1 "Morgan Schneiderlin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4832083"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Yann M'Vila"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4832096"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Younes Kaboul"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4832100"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "header"
+:event/player1 "John O'Shea"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4832111"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Anthony Martial"
+:event/subtype "pushing"
+:event/player1 "John O'Shea"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832105"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Anthony Martial"
+:event/player1 "John O'Shea"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832185"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4741"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "deflected"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4832191"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4741"}
+
+{:event/type "corner"
+:event/elapsed 15
+:event/subtype "cross_left"
+:event/player1 "Memphis Depay"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4832202"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/subtype "goalkeeper_hands"
+:event/player1 "Costel Pantilimon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832235"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4832269"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Jeremain Lens"
+:event/player1 "Antonio Valencia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4832329"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "big chance shot"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4832401"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Wayne Rooney"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4832427"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Memphis Depay"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4832433"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4741"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross_right"
+:event/player1 "Memphis Depay"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4832441"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4741"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "header"
+:event/player1 "Michael Carrick"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4832445"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Daley Blind"
+:event/subtype "trip"
+:event/player1 "Fabio Borini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832470"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Antonio Valencia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4832486"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Daley Blind"
+:event/subtype "pull"
+:event/player1 "Fabio Borini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832501"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Fabio Borini"
+:event/player1 "Chris Smalling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4832610"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Jeremain Lens"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4832624"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/subtype "hands"
+:event/player1 "Adam Johnson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832702"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4741"}
+
+{:event/type "card"
+:event/elapsed 38
+:event/card_type "y"
+:event/player1 "Adam Johnson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4832704"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "direct_freekick"
+:event/player1 "Memphis Depay"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4832738"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Juan Mata"
+:event/subtype "trip"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832772"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4741"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross_left"
+:event/player1 "Memphis Depay"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4832800"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Morgan Schneiderlin"
+:event/subtype "trip"
+:event/player1 "Fabio Borini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832855"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Wayne Rooney"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4832917"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Matteo Darmian"
+:event/subtype "pushing"
+:event/player1 "Adam Johnson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832947"
+:event/minute 46
+:event/match_id "match_4741"}
+
+{:event/type "goal"
+:event/elapsed 46
+:event/player2 "Anthony Martial"
+:event/subtype "shot"
+:event/player1 "Wayne Rooney"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_4833371"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Lee Cattermole"
+:event/player1 "Morgan Schneiderlin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4833459"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Adam Johnson"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4832981"
+:event/minute 47
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Yann M'Vila"
+:event/subtype "trip"
+:event/player1 "Morgan Schneiderlin"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4832992"
+:event/minute 47
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Ola Toivonen"
+:event/player1 "Chris Smalling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4833401"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Anthony Martial"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4833034"
+:event/minute 49
+:event/match_id "match_4741"}
+
+{:event/type "goal"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/player2 "Juan Mata"
+:event/subtype "tap_in"
+:event/player1 "Memphis Depay"
+:event/sortorder 9
+:event/team "home"
+:event/id "event_4833045"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 49
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Memphis Depay"
+:event/subtype "trip"
+:event/player1 "Billy Jones"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4833468"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4741"}
+
+{:event/type "card"
+:event/elapsed 50
+:event/card_type "y"
+:event/player1 "Billy Jones"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4833481"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Antonio Valencia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4833531"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Antonio Valencia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4833538"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Steven Fletcher"
+:event/subtype "trip"
+:event/player1 "Morgan Schneiderlin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4833542"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Yann M'Vila"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4833558"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "blocked_header"
+:event/player1 "Ola Toivonen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4833562"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "shot"
+:event/player1 "Ola Toivonen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4833565"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Younes Kaboul"
+:event/player1 "Memphis Depay"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4833587"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4833590"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4741"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross_right"
+:event/player1 "Yann M'Vila"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4833601"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4741"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_right"
+:event/player1 "Yann M'Vila"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4833618"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Chris Smalling"
+:event/player1 "Steven Fletcher"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4833749"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "big chance shot"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4833774"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Wayne Rooney"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4833783"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "big chance shot"
+:event/player1 "Memphis Depay"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4833866"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Antonio Valencia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4833903"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4741"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "header"
+:event/player1 "Anthony Martial"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4833906"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4741"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "bad shot"
+:event/player1 "Memphis Depay"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4833999"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "distance"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4834072"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4741"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross_left"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4834082"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Antonio Valencia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4834130"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4741"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_right"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4834143"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Morgan Schneiderlin"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4834152"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Matteo Darmian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4834166"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4741"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4834199"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Jeremain Lens"
+:event/player1 "Chris Smalling"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4834206"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Morgan Schneiderlin"
+:event/subtype "trip"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4834208"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4741"}
+
+{:event/type "card"
+:event/elapsed 85
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Lee Cattermole"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4834213"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Matteo Darmian"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4834232"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Juan Mata"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4834246"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "blocked_shot"
+:event/player1 "Wayne Rooney"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4834273"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Steven Fletcher"
+:event/player1 "Phil Jones"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4834284"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4741"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "distance"
+:event/player1 "Yann M'Vila"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4834295"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4741"}
+
+{:event/type "goal"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4834321"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4741"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Jeremain Lens"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4834363"
+:event/minute 92
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Phil Jones"
+:event/subtype "dangerous_play"
+:event/player1 "Jeremain Lens"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4834376"
+:event/minute 93
+:event/match_id "match_4741"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Younes Kaboul"
+:event/player1 "Anthony Martial"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4834388"
+:event/minute 94
+:event/match_id "match_4741"}
+
+
+]
+

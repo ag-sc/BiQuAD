@@ -1,0 +1,925 @@
+
+;;# data
+[
+{:match/id "match_2506"
+:match/league "England Premier League"
+:match/hometeam "Fulham"
+:match/awayteam "Wigan Athletic"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1242429"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_2506"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "blocked_shot"
+:event/player1 "Tom Cleverley"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1242431"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1242442"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2506"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "blocked_shot"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1242473"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1242448"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2506"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1242448"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Simon Davies"
+:event/subtype "from_behind"
+:event/player1 "Hendry Thomas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1242479"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2506"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "header"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1242489"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2506"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "shot"
+:event/player1 "Tom Cleverley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1242519"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2506"}
+
+{:event/type "shotoff"
+:event/elapsed 13
+:event/subtype "distance"
+:event/player1 "Zoltan Gera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1242601"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Zoltan Gera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1242563"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Gary Caldwell"
+:event/subtype "from_behind"
+:event/player1 "Moussa Dembele"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1242609"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Zoltan Gera"
+:event/subtype "serious_foul"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1242627"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2506"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "direct_freekick"
+:event/player1 "Zoltan Gera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1242635"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2506"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "big chance shot"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1242657"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2506"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "distance"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1242689"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2506"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1242732"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Maynor Figueroa"
+:event/subtype "pushing"
+:event/player1 "Moussa Dembele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1242742"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2506"}
+
+{:event/type "goal"
+:event/elapsed 30
+:event/player2 "Carlos Salcido"
+:event/subtype "header"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1242758"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Clint Dempsey"
+:event/subtype "from_behind"
+:event/player1 "Antolin Alcaraz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1242794"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Carlos Salcido"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1242814"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1242816"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2506"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1242816"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Zoltan Gera"
+:event/subtype "from_behind"
+:event/player1 "Antolin Alcaraz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1242824"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Brede Hangeland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1242837"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Franco Di Santo"
+:event/subtype "from_behind"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1242862"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2506"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "direct_freekick"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1242869"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Carlos Salcido"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1242874"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1242921"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2506"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "distance"
+:event/player1 "Zoltan Gera"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1242928"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Carlos Salcido"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1242946"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2506"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "header"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1242952"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2506"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "header"
+:event/player1 "Zoltan Gera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1242956"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2506"}
+
+{:event/type "goal"
+:event/elapsed 44
+:event/player2 "Chris Baird"
+:event/subtype "shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1242964"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Zoltan Gera"
+:event/subtype "from_behind"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1242995"
+:event/minute 46
+:event/match_id "match_2506"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "blocked_shot"
+:event/player1 "Zoltan Gera"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1243091"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1243096"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2506"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1243096"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Maynor Figueroa"
+:event/subtype "from_behind"
+:event/player1 "Zoltan Gera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1243102"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Mohamed Diame"
+:event/subtype "from_behind"
+:event/player1 "Jonathan Greening"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1243152"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Carlos Salcido"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1243181"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Aaron Hughes"
+:event/subtype "pushing"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1243203"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Charles N'Zogbia"
+:event/subtype "from_behind"
+:event/player1 "Chris Baird"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1243227"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Ronnie Stam"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1243243"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2506"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "distance"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1243251"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2506"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Mohamed Diame"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1243282"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Zoltan Gera"
+:event/subtype "from_behind"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1243333"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Jonathan Greening"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1243374"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Maynor Figueroa"
+:event/subtype "pushing"
+:event/player1 "Moussa Dembele"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1243379"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1243388"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Aaron Hughes"
+:event/subtype "from_behind"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1243395"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Chris Baird"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1243409"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1243412"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2506"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1243412"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Mark Schwarzer"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1243432"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1243438"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2506"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1243438"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2506"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "distance"
+:event/player1 "Zoltan Gera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1243467"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2506"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "blocked_shot"
+:event/player1 "Moussa Dembele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1243470"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Zoltan Gera"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1243475"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2506"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Zoltan Gera"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1243475"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Zoltan Gera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1243485"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2506"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Zoltan Gera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1243485"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Clint Dempsey"
+:event/subtype "serious_foul"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1243522"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Victor Moses"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1243562"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1243565"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Tom Cleverley"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1243570"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2506"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Tom Cleverley"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1243570"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Hendry Thomas"
+:event/subtype "serious_foul"
+:event/player1 "Andrew Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1243587"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Andrew Johnson"
+:event/subtype "from_behind"
+:event/player1 "Gary Caldwell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1243619"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2506"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "direct_freekick"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1243623"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2506"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Andrew Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1243630"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Zoltan Gera"
+:event/subtype "from_behind"
+:event/player1 "Victor Moses"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1243633"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2506"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "hands"
+:event/player1 "Victor Moses"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1243654"
+:event/minute 92
+:event/match_id "match_2506"}
+
+
+]
+

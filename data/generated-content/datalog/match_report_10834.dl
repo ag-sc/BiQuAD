@@ -1,0 +1,832 @@
+
+;;# data
+[
+{:match/id "match_10834"
+:match/league "Italy Serie A"
+:match/hometeam "Bologna"
+:match/awayteam "Napoli"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Leandro Rinaudo"
+:event/player1 "Antonio Busce"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_983103"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/subtype "pushing"
+:event/player1 "Hugo Campagnaro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983118"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Salvatore Lanna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_983139"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10834"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "deflected"
+:event/player1 "Antonio Busce"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_983152"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10834"}
+
+{:event/type "goal"
+:event/elapsed 7
+:event/subtype "shot"
+:event/player1 "Marcelo Zalayeta"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_983149"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10834"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "deflected"
+:event/player1 "Walter Gargano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_983159"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_983163"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_10834"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_983163"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Miguel Britos"
+:event/subtype "pushing"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983172"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Hugo Campagnaro"
+:event/player1 "Marcelo Zalayeta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_983188"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Andrea Raggi"
+:event/player1 "Salvatore Aronica"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983199"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10834"}
+
+{:event/type "goal"
+:event/elapsed 12
+:event/subtype "direct_freekick"
+:event/player1 "Adailton"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_983200"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player1 "Salvatore Lanna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_983209"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_983211"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10834"}
+
+{:event/type "goal"
+:event/elapsed 14
+:event/subtype "header"
+:event/player1 "Leandro Rinaudo"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_983213"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10834"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "shot"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_983240"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983251"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_983270"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Marcelo Zalayeta"
+:event/player1 "Paolo Cannavaro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983288"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983307"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Adailton"
+:event/subtype "pushing"
+:event/player1 "Christian Maggio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983315"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Marcelo Zalayeta"
+:event/subtype "serious_foul"
+:event/player1 "Leandro Rinaudo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983325"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10834"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Leandro Rinaudo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_983326"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983333"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Paolo Cannavaro"
+:event/player1 "Adailton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_983364"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player1 "Gaby Mudingayi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_983385"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_983398"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10834"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_983398"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Adailton"
+:event/player1 "Michele Pazienza"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983403"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_983423"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10834"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "shot"
+:event/player1 "Adailton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_983441"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_983446"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10834"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_983446"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Adailton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_983596"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10834"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Adailton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_983596"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10834"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "header"
+:event/player1 "Salvatore Lanna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_983604"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Leandro Rinaudo"
+:event/player1 "Marcelo Zalayeta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_983643"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_983666"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10834"}
+
+{:event/type "corner"
+:event/elapsed 54
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_983666"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Adailton"
+:event/subtype "pushing"
+:event/player1 "Salvatore Aronica"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983682"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10834"}
+
+{:event/type "card"
+:event/elapsed 55
+:event/card_type "y"
+:event/player1 "Salvatore Aronica"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_983690"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10834"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "shot"
+:event/player1 "Francesco Modesto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_983699"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Adailton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_983729"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10834"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Adailton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_983729"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player1 "Walter Gargano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983773"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player1 "Daniele Portanova"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_983799"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10834"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "direct_freekick"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_983813"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_983814"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10834"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_983814"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/subtype "pushing"
+:event/player1 "Adailton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_983820"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player1 "German Denis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983831"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Henry Gimenez"
+:event/subtype "serious_foul"
+:event/player1 "Paolo Cannavaro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_983881"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10834"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Paolo Cannavaro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_983887"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player1 "Francesco Modesto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_983910"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Ezequiel Lavezzi"
+:event/player1 "Marcelo Zalayeta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_983924"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Francesco Modesto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_983944"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10834"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Francesco Modesto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_983944"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player1 "Andrea Raggi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_983951"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10834"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "big chance shot"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_983981"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_983987"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_10834"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_983987"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Luca Cigarini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_984004"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10834"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player1 "Hugo Campagnaro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_984022"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Luca Cigarini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_984044"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10834"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Luca Cigarini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_984044"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10834"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_984091"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_10834"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_984094"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_10834"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_984094"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_10834"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "short"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_984105"
+:event/minute 91
+:event/match_id "match_10834"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_984138"
+:event/minute 93
+:event/match_id "match_10834"}
+
+
+]
+

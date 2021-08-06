@@ -1,0 +1,1464 @@
+
+;;# data
+[
+{:match/id "match_1998"
+:match/league "England Premier League"
+:match/hometeam "Chelsea"
+:match/awayteam "Everton"
+:match/score "0:0"
+:match/hometeam_goals "0"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Michael Ballack"
+:event/player1 "Tim Cahill"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_654297"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Alex"
+:event/player1 "Jo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_654303"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_654321"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "header"
+:event/player1 "Jo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_654323"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_654354"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Jo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_654385"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "deflected"
+:event/player1 "Michael Ballack"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_654389"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Michael Essien"
+:event/player1 "Joleon Lescott"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_654398"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Nicolas Anelka"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_654409"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "blocked_shot"
+:event/player1 "Florent Malouda"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_654422"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_654431"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Didier Drogba"
+:event/subtype "serious_foul"
+:event/player1 "Philip Neville"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_654458"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_1998"}
+
+{:event/type "card"
+:event/elapsed 14
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Philip Neville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_654459"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "header"
+:event/player1 "Michael Ballack"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_654485"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "distance"
+:event/player1 "Frank Lampard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_654498"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "distance"
+:event/player1 "Michael Essien"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_654512"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Michael Essien"
+:event/player1 "Joseph Yobo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_654532"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "blocked_shot"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_654543"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Joseph Yobo"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_654560"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "distance"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_654571"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Tim Cahill"
+:event/player1 "Michael Ballack"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_654584"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Frank Lampard"
+:event/player1 "Philip Neville"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_654622"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_654635"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Michael Ballack"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_654640"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Michael Essien"
+:event/player1 "Steven Pienaar"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_654653"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "direct_freekick"
+:event/player1 "Michael Ballack"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_654662"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Frank Lampard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_654679"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Jo"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_654690"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_654717"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Tim Cahill"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_654725"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Steven Pienaar"
+:event/player1 "Michael Essien"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_654729"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Tim Cahill"
+:event/player1 "Michael Ballack"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_654749"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Michael Essien"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_654775"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Jo"
+:event/player1 "Alex"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_654778"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Philip Neville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_654796"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "deflected"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_654804"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_654806"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1998"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_654806"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Nicolas Anelka"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_654817"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "shot"
+:event/player1 "Jo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_654827"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Lars Jacobsen"
+:event/player1 "Ashley Cole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_654835"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Joseph Yobo"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_654840"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_654846"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_654853"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Didier Drogba"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_654979"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_654982"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1998"}
+
+{:event/type "corner"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_654982"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "header"
+:event/player1 "Alex"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_654983"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_654988"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "header"
+:event/player1 "Tim Cahill"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_654990"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Ashley Cole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655003"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_1998"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "short"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_655014"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "distance"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_655015"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655023"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655031"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Ashley Cole"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655040"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Nicolas Anelka"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655042"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Nicolas Anelka"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655049"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Nicolas Anelka"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655058"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Jo"
+:event/player1 "Alex"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_655073"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "distance"
+:event/player1 "Segundo Castillo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_655075"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Nicolas Anelka"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_655085"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655122"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "distance"
+:event/player1 "John Terry"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_655127"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_655129"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1998"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_655129"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Florent Malouda"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_655130"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Jo"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_655138"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "direct_freekick"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_655142"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_655165"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_1998"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "short"
+:event/player1 "Steven Pienaar"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_655168"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_655171"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_655175"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1998"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_655175"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "header"
+:event/player1 "Joleon Lescott"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_655178"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Didier Drogba"
+:event/player1 "Joleon Lescott"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_655185"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/subtype "hands"
+:event/player1 "Tim Cahill"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_655200"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "header"
+:event/player1 "Alex"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_655210"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655215"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "blocked_shot"
+:event/player1 "Frank Lampard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_655228"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Ashley Cole"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655229"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Ashley Cole"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655235"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "shot"
+:event/player1 "Jo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_655242"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655248"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "blocked_shot"
+:event/player1 "Frank Lampard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_655249"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655253"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655259"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "header"
+:event/player1 "Salomon Kalou"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_655263"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "distance"
+:event/player1 "Frank Lampard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_655275"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Ashley Cole"
+:event/player1 "Leon Osman"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_655281"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655282"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_655286"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1998"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_655286"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "deflected"
+:event/player1 "Salomon Kalou"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_655287"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Salomon Kalou"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_655288"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1998"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Salomon Kalou"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_655288"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655290"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "header"
+:event/player1 "Alex"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_655292"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Salomon Kalou"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655296"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655302"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "distance"
+:event/player1 "Frank Lampard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_655305"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "deflected"
+:event/player1 "Tim Cahill"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_655307"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_655311"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_1998"}
+
+{:event/type "corner"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_655311"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_655313"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_1998"}
+
+{:event/type "corner"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_655313"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_655316"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_1998"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "deflected"
+:event/player1 "Joleon Lescott"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_655318"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "shot"
+:event/player1 "Tim Cahill"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_655319"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Ashley Cole"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655321"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "distance"
+:event/player1 "Alex"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_655328"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_655332"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Ashley Cole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655342"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_655357"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655384"
+:event/minute 93
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "crossbar"
+:event/player1 "Didier Drogba"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_655385"
+:event/minute 93
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "John Obi Mikel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655388"
+:event/minute 94
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_655391"
+:event/minute 94
+:event/match_id "match_1998"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Alex"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_655392"
+:event/minute 94
+:event/match_id "match_1998"}
+
+{:event/type "cross"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_655397"
+:event/minute 96
+:event/match_id "match_1998"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/player2 "Branislav Ivanovic"
+:event/player1 "Steven Pienaar"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_655400"
+:event/minute 96
+:event/match_id "match_1998"}
+
+
+]
+

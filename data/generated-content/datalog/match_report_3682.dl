@@ -1,0 +1,1376 @@
+
+;;# data
+[
+{:match/id "match_3682"
+:match/league "England Premier League"
+:match/hometeam "Southampton"
+:match/awayteam "Aston Villa"
+:match/score "2:3"
+:match/hometeam_goals "2"
+:match/awayteam_goals "3"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3161587"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3161654"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Jay Rodriguez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3161615"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_3682"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "blocked_shot"
+:event/player1 "Adam Lallana"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3161616"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_3682"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "crossbar"
+:event/player1 "Victor Wanyama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3161623"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3161634"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Ashley R. Westwood"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3161641"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_3682"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Ashley R. Westwood"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3161641"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Luke Shaw"
+:event/player1 "Libor Kozak"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3161669"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3161703"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3682"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3161703"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Luke Shaw"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3161714"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Rickie Lambert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3161746"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3682"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "distance"
+:event/player1 "Jay Rodriguez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3161773"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Luke Shaw"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3161782"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_3682"}
+
+{:event/type "goal"
+:event/elapsed 15
+:event/player2 "Fabian Delph"
+:event/subtype "shot"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_3161785"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Gabriel Agbonlahor"
+:event/player1 "Steven Davis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3161833"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Ashley R. Westwood"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3161899"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3682"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Ashley R. Westwood"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3161899"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3682"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "header"
+:event/player1 "Nathan Baker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3161907"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Luke Shaw"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3161938"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Victor Wanyama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3161985"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3682"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "big chance header"
+:event/player1 "Jay Rodriguez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3161989"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3161995"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3682"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3161995"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3682"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "blocked_shot"
+:event/player1 "Dejan Lovren"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3161997"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3162031"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3682"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3162031"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Dejan Lovren"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162033"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3682"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "shot"
+:event/player1 "Jay Rodriguez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3162038"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3162110"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3682"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3162110"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3682"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Luke Shaw"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3162112"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3682"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "shot"
+:event/player1 "Steven Davis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3162149"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Jay Rodriguez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162170"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Victor Wanyama"
+:event/player1 "Antonio Luna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3162207"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Luke Shaw"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162211"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3162238"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/subtype "hands"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3162363"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Rickie Lambert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162336"
+:event/minute 46
+:event/match_id "match_3682"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "shot"
+:event/player1 "Karim El Ahmadi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3162470"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162490"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_3682"}
+
+{:event/type "goal"
+:event/elapsed 48
+:event/player2 "Nathaniel Clyne"
+:event/subtype "header"
+:event/player1 "Jay Rodriguez"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_3162492"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Leandro Bacuna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3162507"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Jay Rodriguez"
+:event/player1 "Ciaran Clark"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3162518"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3682"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "blocked_shot"
+:event/player1 "Rickie Lambert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3162534"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162555"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Luke Shaw"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162561"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Pablo Osvaldo"
+:event/player1 "Nathan Baker"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3162581"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162588"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Fabian Delph"
+:event/player1 "Pablo Osvaldo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3162597"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162626"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Jay Rodriguez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162646"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3162653"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3682"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3162653"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Jack Cork"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162664"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Matthew Lowton"
+:event/player1 "Pablo Osvaldo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3162677"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Rickie Lambert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162709"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162726"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3682"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "Pablo Osvaldo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3162732"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Steven Davis"
+:event/player1 "Antonio Luna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3162739"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3682"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "distance"
+:event/player1 "Rickie Lambert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3162759"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Karim El Ahmadi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3162782"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3682"}
+
+{:event/type "goal"
+:event/elapsed 64
+:event/player2 "Karim El Ahmadi"
+:event/subtype "header"
+:event/player1 "Libor Kozak"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_3162770"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3682"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/subtype "Removing Shirt"
+:event/player1 "Libor Kozak"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3163279"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player1 "Rickie Lambert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3162795"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_3682"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Pablo Osvaldo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3162814"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3682"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "volley"
+:event/player1 "Christian Benteke"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3162823"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Jose Fonte"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162845"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3682"}
+
+{:event/type "goal"
+:event/elapsed 69
+:event/player2 "Rickie Lambert"
+:event/subtype "header"
+:event/player1 "Pablo Osvaldo"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_3162846"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player1 "Jay Rodriguez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3162885"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Fabian Delph"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3162919"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162929"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3162937"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3682"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3162937"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Rickie Lambert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162954"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3162973"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162976"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Pablo Osvaldo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162978"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3162982"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3682"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "bad shot"
+:event/player1 "Pablo Osvaldo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3162987"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player1 "Christian Benteke"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3163002"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Luke Shaw"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3163006"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Luke Shaw"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3163024"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3682"}
+
+{:event/type "goal"
+:event/elapsed 80
+:event/player2 "Gabriel Agbonlahor"
+:event/subtype "distance"
+:event/player1 "Fabian Delph"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_3163045"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Christian Benteke"
+:event/subtype "from_behind"
+:event/player1 "Jose Fonte"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3163080"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_3682"}
+
+{:event/type "card"
+:event/elapsed 82
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Jose Fonte"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3163292"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Jack Cork"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3163116"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3163142"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_3682"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Jack Cork"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3163150"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Jack Cork"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3163168"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Jose Fonte"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3163173"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player1 "Rickie Lambert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3163175"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player1 "Christian Benteke"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3163184"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Jose Fonte"
+:event/player1 "Antonio Luna"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3163189"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3163200"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3163208"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3682"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3163208"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3163211"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Rickie Lambert"
+:event/player1 "Nathan Baker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3163223"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_3682"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Rickie Lambert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3163236"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jack Cork"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3163245"
+:event/minute 91
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jose Fonte"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3163249"
+:event/minute 91
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Nathan Baker"
+:event/subtype "dangerous_play"
+:event/player1 "Pablo Osvaldo"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3163258"
+:event/minute 91
+:event/match_id "match_3682"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "deflected"
+:event/player1 "Rickie Lambert"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3163300"
+:event/minute 94
+:event/match_id "match_3682"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Adam Lallana"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3163305"
+:event/minute 94
+:event/match_id "match_3682"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3163306"
+:event/minute 94
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player1 "Jack Cork"
+:event/sortorder 11
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3163315"
+:event/minute 95
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/player2 "Luke Shaw"
+:event/player1 "Andreas Weimann"
+:event/sortorder 12
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3163337"
+:event/minute 96
+:event/match_id "match_3682"}
+
+{:event/type "card"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Andreas Weimann"
+:event/sortorder 13
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3163338"
+:event/minute 96
+:event/match_id "match_3682"}
+
+{:event/type "card"
+:event/elapsed_plus 7
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Pablo Osvaldo"
+:event/sortorder 14
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3163343"
+:event/minute 97
+:event/match_id "match_3682"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 8
+:event/elapsed 90
+:event/player2 "Brad Guzan"
+:event/player1 "Rickie Lambert"
+:event/sortorder 16
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3163347"
+:event/minute 98
+:event/match_id "match_3682"}
+
+{:event/type "card"
+:event/elapsed_plus 8
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Rickie Lambert"
+:event/sortorder 17
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3163349"
+:event/minute 98
+:event/match_id "match_3682"}
+
+
+]
+

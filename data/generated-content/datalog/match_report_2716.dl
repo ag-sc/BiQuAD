@@ -1,0 +1,1053 @@
+
+;;# data
+[
+{:match/id "match_2716"
+:match/league "England Premier League"
+:match/hometeam "Bolton Wanderers"
+:match/awayteam "Birmingham City"
+:match/score "2:2"
+:match/hometeam_goals "2"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player1 "Fabrice Muamba"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1146802"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "James McFadden"
+:event/subtype "from_behind"
+:event/player1 "Fabrice Muamba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1146808"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "James McFadden"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1146816"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2716"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/player2 "Cameron Jerome"
+:event/subtype "shot"
+:event/player1 "Roger Johnson"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1146812"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2716"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Johan Elmander"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1146820"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "James McFadden"
+:event/subtype "from_behind"
+:event/player1 "Gretar Rafn Steinsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1146831"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Lee Bowyer"
+:event/subtype "from_behind"
+:event/player1 "Stuart Holden"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1146834"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2716"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "blocked_shot"
+:event/player1 "Martin Petrov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1146841"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1146842"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Lee Bowyer"
+:event/subtype "serious_foul"
+:event/player1 "Fabrice Muamba"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1146843"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Zatyiah Knight"
+:event/subtype "pushing"
+:event/player1 "Craig Gardner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1146847"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Paul Robinson"
+:event/player1 "Liam Ridgewell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1146852"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1146855"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2716"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1146855"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Kevin Davies"
+:event/subtype "serious_foul"
+:event/player1 "Craig Gardner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1146862"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2716"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Johan Elmander"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1146863"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2716"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "deflected"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1146864"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Liam Ridgewell"
+:event/subtype "serious_foul"
+:event/player1 "Chung-Yong Lee"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1146867"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2716"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "direct_freekick"
+:event/player1 "Stuart Holden"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1146871"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2716"}
+
+{:event/type "card"
+:event/elapsed 21
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Lee Bowyer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1146872"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1146873"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2716"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1146873"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player1 "Stuart Holden"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1146875"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Chung-Yong Lee"
+:event/player1 "Liam Ridgewell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1146876"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Paul Robinson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1146882"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Chung-Yong Lee"
+:event/subtype "serious_foul"
+:event/player1 "James McFadden"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1146884"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Gretar Rafn Steinsson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1146889"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Stuart Holden"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1146892"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2716"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Stuart Holden"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1146892"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2716"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "blocked_shot"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1146893"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Gary Cahill"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1146895"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2716"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "distance"
+:event/player1 "Craig Gardner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1146897"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Stuart Holden"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1146899"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2716"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Stuart Holden"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1146899"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2716"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Craig Gardner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1146904"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Liam Ridgewell"
+:event/player1 "Stuart Holden"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1146906"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/player2 "Roger Johnson"
+:event/elapsed 36
+:event/card_type "r"
+:event/player1 "Jussi Jaaskelainen"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1146912"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2716"}
+
+{:event/type "card"
+:event/elapsed 36
+:event/card_type "r"
+:event/subtype "violence"
+:event/player1 "Jussi Jaaskelainen"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1146980"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2716"}
+
+{:event/type "card"
+:event/elapsed 38
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Roger Johnson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1146915"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1146923"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2716"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "blocked_shot"
+:event/player1 "Stuart Holden"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1146925"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2716"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "deflected"
+:event/player1 "Stuart Holden"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1146946"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Stuart Holden"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1146928"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2716"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Stuart Holden"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1146928"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Barry Ferguson"
+:event/player1 "Chung-Yong Lee"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1146930"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player1 "Kevin Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1146934"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1146940"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1146947"
+:event/minute 47
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player1 "Gretar Rafn Steinsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1147008"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/player1 "Craig Gardner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1146954"
+:event/minute 48
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "James McFadden"
+:event/sortorder -1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1147025"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2716"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player2 "Cameron Jerome"
+:event/subtype "shot"
+:event/player1 "Craig Gardner"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1147023"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Chung-Yong Lee"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1147042"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2716"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "shot"
+:event/player1 "Johan Elmander"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1147044"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "James McFadden"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1147046"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2716"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "shot"
+:event/player1 "Cameron Jerome"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1147048"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1147054"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Fabrice Muamba"
+:event/player1 "Craig Gardner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1147081"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2716"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "distance"
+:event/player1 "Kevin Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1147083"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Stuart Holden"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1147091"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2716"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Stuart Holden"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1147091"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Liam Ridgewell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1147109"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "James McFadden"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1147111"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Kevin Davies"
+:event/subtype "penalty"
+:event/player1 "Roger Johnson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1147130"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2716"}
+
+{:event/type "goal"
+:event/elapsed 71
+:event/player1 "Kevin Davies"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1147136"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1147154"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2716"}
+
+{:event/type "card"
+:event/elapsed 72
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1147156"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Liam Ridgewell"
+:event/player1 "Robbie Blake"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1147214"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Fabrice Muamba"
+:event/player1 "Matt Derbyshire"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1147236"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Gary Cahill"
+:event/subtype "pushing"
+:event/player1 "Barry Ferguson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1147247"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2716"}
+
+{:event/type "goal"
+:event/elapsed 81
+:event/subtype "direct_freekick"
+:event/player1 "Robbie Blake"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1147254"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2716"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "shot"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1147273"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Liam Ridgewell"
+:event/player1 "Kevin Davies"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1147282"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2716"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Kevin Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1147283"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2716"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Keith Fahey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1147318"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2716"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Kevin Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1147321"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Kevin Davies"
+:event/subtype "pushing"
+:event/player1 "Scott Dann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1147330"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2716"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "bicycle_kick"
+:event/player1 "Gary Cahill"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1147340"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2716"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player1 "Fabrice Muamba"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1147348"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2716"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/player1 "Fabrice Muamba"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1147350"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2716"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Cameron Jerome"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1147375"
+:event/minute 91
+:event/match_id "match_2716"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Craig Gardner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1147400"
+:event/minute 92
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Lee Bowyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1147388"
+:event/minute 93
+:event/match_id "match_2716"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1147409"
+:event/minute 93
+:event/match_id "match_2716"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1147409"
+:event/minute 93
+:event/match_id "match_2716"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Roger Johnson"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1147410"
+:event/minute 93
+:event/match_id "match_2716"}
+
+
+]
+

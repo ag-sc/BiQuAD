@@ -1,0 +1,988 @@
+
+;;# data
+[
+{:match/id "match_22308"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Sevilla FC"
+:match/awayteam "RCD Mallorca"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Renato"
+:event/subtype "pushing"
+:event/player1 "Ayoze Diaz Diaz"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1290913"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Ivan Ramis"
+:event/subtype "pushing"
+:event/player1 "Luca Cigarini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1290920"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Pierre Webo"
+:event/subtype "shirt_pull"
+:event/player1 "Luca Cigarini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1290943"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22308"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1290958"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Ayoze Diaz Diaz"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1290984"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22308"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "big chance shot"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1290987"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Alvaro Negredo"
+:event/subtype "pushing"
+:event/player1 "Joao Victor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1290999"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Luca Cigarini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291032"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Mouhamadou Dabo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291072"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "shot"
+:event/player1 "Pierre Webo"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1291082"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Ayoze Diaz Diaz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1291102"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "header"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1291104"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_22308"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "shot"
+:event/player1 "Ayoze Diaz Diaz"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1291132"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_22308"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "big chance shot"
+:event/player1 "Pierre Webo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1291141"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_22308"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "distance"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1291152"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/subtype "hands"
+:event/player1 "Joao Victor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1291164"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Diego Perotti"
+:event/subtype "obstruction"
+:event/player1 "Jose Carlos Nunes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1291168"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22308"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Jose Carlos Nunes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1291170"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "direct_freekick"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1291173"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "shot"
+:event/player1 "Michael Pereira"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1291180"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Gonzalo Castro"
+:event/subtype "from_behind"
+:event/player1 "Alejandro Alfaro"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1291206"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_22308"}
+
+{:event/type "card"
+:event/elapsed 30
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Alejandro Alfaro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1291197"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "header"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1291200"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22308"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "shot"
+:event/player1 "Marti Soler"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1291218"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Antonio Luna"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291222"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Mouhamadou Dabo"
+:event/subtype "pushing"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1291228"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Alejandro Alfaro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291234"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Luca Cigarini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1291249"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22308"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Luca Cigarini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1291249"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "distance"
+:event/player1 "Renato"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1291253"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22308"}
+
+{:event/type "goal"
+:event/elapsed 36
+:event/player2 "Gonzalo Castro"
+:event/subtype "shot"
+:event/player1 "Michael Pereira"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1291260"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Julien Escude"
+:event/subtype "pushing"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1291270"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Michael Pereira"
+:event/subtype "from_behind"
+:event/player1 "Antonio Luna"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1291274"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291283"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "distance"
+:event/player1 "Frederic Kanoute"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1291289"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22308"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "shot"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1291301"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Luca Cigarini"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291310"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Antonio Luna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291328"
+:event/minute 46
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291372"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Mouhamadou Dabo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291334"
+:event/minute 47
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "big chance shot"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1291349"
+:event/minute 48
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Renato"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1291381"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22308"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Renato"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1291381"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Abdoulay Konko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291383"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "header"
+:event/player1 "Luis Fabiano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1291384"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "distance"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1291387"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Abdoulay Konko"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291392"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Mouhamadou Dabo"
+:event/subtype "pushing"
+:event/player1 "Ayoze Diaz Diaz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1291406"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Mouhamadou Dabo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291407"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Antonio Luna"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291410"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "header"
+:event/player1 "Luis Fabiano"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1291411"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291417"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Antonio Luna"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291419"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1291424"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1291427"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1291431"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22308"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1291431"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Julien Escude"
+:event/subtype "pushing"
+:event/player1 "Michael Pereira"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1291433"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/subtype "hands"
+:event/player1 "Luis Fabiano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1291436"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Joao Victor"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1291440"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "distance"
+:event/player1 "Emilio Nsue"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1291444"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22308"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "big chance shot"
+:event/player1 "Pierre Webo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1291448"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Renato"
+:event/subtype "pushing"
+:event/player1 "Pablo Cendros"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1291449"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22308"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "blocked_shot"
+:event/player1 "Luis Fabiano"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1291454"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "shot"
+:event/player1 "Pierre Webo"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1291466"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "distance"
+:event/player1 "Jonathan De Guzman"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1291469"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Emilio Nsue"
+:event/subtype "pushing"
+:event/player1 "Mouhamadou Dabo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1291471"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Jonathan De Guzman"
+:event/subtype "from_behind"
+:event/player1 "Antonio Luna"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1291477"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22308"}
+
+{:event/type "card"
+:event/elapsed 80
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Antonio Luna"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1291478"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22308"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "deflected"
+:event/player1 "Emilio Nsue"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1291487"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Abdoulay Konko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291491"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Romaric"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291493"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_22308"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "big chance header"
+:event/player1 "Luis Fabiano"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1291494"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_22308"}
+
+{:event/type "goal"
+:event/elapsed 88
+:event/player2 "Renato"
+:event/subtype "shot"
+:event/player1 "Luis Fabiano"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1291498"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Jose Carlos Nunes"
+:event/subtype "pushing"
+:event/player1 "Romaric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1291501"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_22308"}
+
+{:event/type "goal"
+:event/elapsed 90
+:event/player2 "Jonathan De Guzman"
+:event/subtype "header"
+:event/player1 "Pierre Webo"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1291503"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_22308"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Renato"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1291513"
+:event/minute 92
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player2 "Alexis"
+:event/subtype "pushing"
+:event/player1 "Kevin Garcia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1291524"
+:event/minute 95
+:event/match_id "match_22308"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player2 "Joao Victor"
+:event/subtype "pushing"
+:event/player1 "Julien Escude"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1291528"
+:event/minute 95
+:event/match_id "match_22308"}
+
+
+]
+

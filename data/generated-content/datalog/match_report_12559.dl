@@ -1,0 +1,1394 @@
+
+;;# data
+[
+{:match/id "match_12559"
+:match/league "Italy Serie A"
+:match/hometeam "Juventus"
+:match/awayteam "Torino"
+:match/score "4:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Bruno Peres"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3977846"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_12559"}
+
+{:event/type "corner"
+:event/elapsed 1
+:event/subtype "short_right"
+:event/player1 "Omar El Kaddouri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3977849"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_12559"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "distance"
+:event/player1 "Bruno Peres"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3977851"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "blocked_shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3977861"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3977874"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3977908"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3977930"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3977952"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_12559"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "header"
+:event/player1 "Fernando Llorente"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3977954"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Matteo Darmian"
+:event/player1 "Carlos Tevez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3977964"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "direct_freekick"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3977983"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Paul Pogba"
+:event/player1 "Kamil Glik"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3978000"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "blocked_shot"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3978024"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/subtype "penalty"
+:event/player1 "Omar El Kaddouri"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3978026"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_12559"}
+
+{:event/type "goal"
+:event/elapsed 15
+:event/player1 "Arturo Vidal"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_3978043"
+:event/event_type "goal"
+:event/goal_type "rp"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_12559"}
+
+{:event/type "goal"
+:event/elapsed 15
+:event/player1 "Arturo Vidal"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_3978047"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Bruno Peres"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3978073"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3978079"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Arturo Vidal"
+:event/subtype "trip"
+:event/player1 "Kamil Glik"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3978083"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_12559"}
+
+{:event/type "card"
+:event/elapsed 17
+:event/card_type "y"
+:event/player1 "Kamil Glik"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3978088"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Matteo Darmian"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3978116"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Giuseppe Vives"
+:event/player1 "Patrice Evra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978137"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Bruno Peres"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3978146"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_12559"}
+
+{:event/type "goal"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Bruno Peres"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_3978179"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Bruno Peres"
+:event/player1 "Paul Pogba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978233"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Nikola Maksimovic"
+:event/player1 "Carlos Tevez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978263"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Matteo Darmian"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3978280"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Bruno Peres"
+:event/player1 "Paul Pogba"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978303"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Andrea Pirlo"
+:event/player1 "Amauri"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3978312"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Giuseppe Vives"
+:event/player1 "Paul Pogba"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978359"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3978382"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Bruno Peres"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3978386"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "blocked_shot"
+:event/player1 "Amauri"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3978387"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3978398"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_12559"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "volley"
+:event/player1 "Carlos Tevez"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3978400"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "blocked_shot"
+:event/player1 "Claudio Marchisio"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3978417"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_12559"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross_right"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3978425"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Emiliano Moretti"
+:event/player1 "Paul Pogba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978439"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Emiliano Moretti"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978457"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3978468"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_12559"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "big chance shot"
+:event/player1 "Arturo Vidal"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3978487"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "blocked_shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3978508"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Carlos Tevez"
+:event/player1 "Giuseppe Vives"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3978512"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3978519"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "blocked_shot"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3978529"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_12559"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "short_right"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3978536"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3978539"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_12559"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "short_left"
+:event/player1 "Arturo Vidal"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3978542"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3978543"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_12559"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3978552"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Carlos Tevez"
+:event/subtype "serious_foul"
+:event/player1 "Alessandro Gazzi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3978717"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_12559"}
+
+{:event/type "card"
+:event/elapsed 46
+:event/card_type "y"
+:event/player1 "Alessandro Gazzi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3978713"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3978720"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_12559"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "header"
+:event/player1 "Arturo Vidal"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3978722"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Paul Pogba"
+:event/player1 "Giuseppe Vives"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3978738"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3978745"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_12559"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "short_left"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3978749"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3978755"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_12559"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "big chance shot"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3978784"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Marco Benassi"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978799"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Bruno Peres"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3978805"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "header"
+:event/player1 "Amauri"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3978808"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Marco Benassi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3978824"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "distance"
+:event/player1 "Leonardo Bonucci"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3978834"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_12559"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross_right"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3978842"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Marco Benassi"
+:event/player1 "Paul Pogba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978851"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Arturo Vidal"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3978868"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Nikola Maksimovic"
+:event/subtype "pull"
+:event/player1 "Paul Pogba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978881"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_12559"}
+
+{:event/type "card"
+:event/elapsed 60
+:event/card_type "y"
+:event/player1 "Paul Pogba"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3978883"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Stephan Lichtsteiner"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3978905"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Amauri"
+:event/player1 "Alvaro Morata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978909"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_12559"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "distance"
+:event/player1 "Bruno Peres"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3978915"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_12559"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "distance"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3978929"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Bruno Peres"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3978940"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Alvaro Morata"
+:event/player1 "Omar El Kaddouri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3978942"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Amauri"
+:event/subtype "pull"
+:event/player1 "Giorgio Chiellini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978956"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Matteo Darmian"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3978959"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_shot"
+:event/player1 "Omar El Kaddouri"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3978961"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_12559"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross_left"
+:event/player1 "Matteo Darmian"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3978963"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "blocked_shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3978979"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Bruno Peres"
+:event/player1 "Alvaro Morata"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978980"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/subtype "hands"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3978998"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_12559"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3979024"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Leonardo Bonucci"
+:event/subtype "serious_foul"
+:event/player1 "Amauri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3979006"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_12559"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/player1 "Amauri"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3979007"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3979013"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3979031"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Amauri"
+:event/player1 "Arturo Vidal"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3979041"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Bruno Peres"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3979045"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_12559"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "short_right"
+:event/player1 "Bruno Peres"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3979048"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Marco Benassi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3979050"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "header"
+:event/player1 "Marcelo Larrondo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3979053"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3979064"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_12559"}
+
+{:event/type "goal"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Arturo Vidal"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_3979074"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Omar El Kaddouri"
+:event/subtype "serious_foul"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3979088"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_12559"}
+
+{:event/type "card"
+:event/elapsed 78
+:event/card_type "y"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3979090"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_12559"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "distance"
+:event/player1 "Bruno Peres"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3979097"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Roberto Pereyra"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3979107"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_12559"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_right"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3979108"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "blocked_shot"
+:event/player1 "Marco Benassi"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3979119"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "blocked_shot"
+:event/player1 "Marco Benassi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3979133"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_12559"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross_right"
+:event/player1 "Bruno Peres"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3979134"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_12559"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "big chance header"
+:event/player1 "Kamil Glik"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3979135"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3979163"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/subtype "hands"
+:event/player1 "Marcelo Larrondo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3979203"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_12559"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross_left"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3979176"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Giorgio Chiellini"
+:event/player1 "Amauri"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3979191"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_12559"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "distance"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3979196"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_12559"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "distance"
+:event/player1 "Omar El Kaddouri"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3979209"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_12559"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Roberto Pereyra"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3979221"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12559"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3979217"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12559"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Arturo Vidal"
+:event/subtype "serious_foul"
+:event/player1 "Emiliano Moretti"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3979231"
+:event/minute 91
+:event/match_id "match_12559"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Emiliano Moretti"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3979232"
+:event/minute 91
+:event/match_id "match_12559"}
+
+{:event/type "goal"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Arturo Vidal"
+:event/subtype "distance"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 15
+:event/team "home"
+:event/id "event_3979263"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 94
+:event/match_id "match_12559"}
+
+
+]
+

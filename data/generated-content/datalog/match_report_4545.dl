@@ -1,0 +1,824 @@
+
+;;# data
+[
+{:match/id "match_4545"
+:match/league "England Premier League"
+:match/hometeam "Sunderland"
+:match/awayteam "Bournemouth"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Wes Brown"
+:event/subtype "trip"
+:event/player1 "Benik Afobe"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5206140"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4545"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross_right"
+:event/player1 "Adam Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5206169"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Marc Pugh"
+:event/subtype "pushing"
+:event/player1 "Billy Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5206244"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5206252"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4545"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "shot"
+:event/player1 "Charlie Daniels"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5206261"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Marc Pugh"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5206294"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5206435"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4545"}
+
+{:event/type "goal"
+:event/elapsed 13
+:event/player2 "Junior Stanislas"
+:event/subtype "header"
+:event/player1 "Benik Afobe"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5206417"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Charlie Daniels"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5206474"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4545"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "shot"
+:event/player1 "Marc Pugh"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5206479"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Yann M'Vila"
+:event/subtype "trip"
+:event/player1 "Dan Gosling"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5206543"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Marc Pugh"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5206558"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4545"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "blocked_shot"
+:event/player1 "Harry Arter"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5206567"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Fabio Borini"
+:event/subtype "trip"
+:event/player1 "Andrew Surman"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5206578"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4545"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/player1 "Andrew Surman"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5206583"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4545"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross_left"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5206596"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4545"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "shot"
+:event/player1 "Andrew Surman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5206601"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5206621"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4545"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Junior Stanislas"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5206639"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4545"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Junior Stanislas"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5206687"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4545"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "Benik Afobe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5206702"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Harry Arter"
+:event/subtype "trip"
+:event/player1 "Yann M'Vila"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5206716"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4545"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "distance"
+:event/player1 "Steve Cook"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5206735"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4545"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross_right"
+:event/player1 "Adam Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5206769"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5206782"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Jeremain Lens"
+:event/subtype "trip"
+:event/player1 "Dan Gosling"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5206808"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5206815"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Patrick van Aanholt"
+:event/subtype "trip"
+:event/player1 "Adam Smith"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5206855"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5206947"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4545"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Marc Pugh"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5206983"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4545"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "blocked_shot"
+:event/player1 "Fabio Borini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5207031"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Dan Gosling"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5207052"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Wes Brown"
+:event/subtype "trip"
+:event/player1 "Benik Afobe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5207075"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4545"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Fabio Borini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5207138"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Wes Brown"
+:event/subtype "pushing"
+:event/player1 "Benik Afobe"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5207166"
+:event/minute 46
+:event/match_id "match_4545"}
+
+{:event/type "goal"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Fabio Borini"
+:event/subtype "shot"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 7
+:event/team "home"
+:event/id "event_5207193"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 46
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Charlie Daniels"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5207516"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4545"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross_left"
+:event/player1 "Junior Stanislas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5207539"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4545"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "distance"
+:event/player1 "Junior Stanislas"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5207554"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Junior Stanislas"
+:event/subtype "pull"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5207578"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5207683"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4545"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "distance"
+:event/player1 "Adam Johnson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5207686"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4545"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "distance"
+:event/player1 "Jermain Defoe"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5207754"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4545"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross_right"
+:event/player1 "Adam Johnson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5207814"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5207819"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4545"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "header"
+:event/player1 "Billy Jones"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5207822"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Charlie Daniels"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5207931"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4545"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross_left"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5207946"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Matt Ritchie"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5207957"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Wes Brown"
+:event/subtype "trip"
+:event/player1 "Benik Afobe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5207986"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Matt Ritchie"
+:event/subtype "trip"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5208005"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4545"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "distance"
+:event/player1 "Andrew Surman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5208017"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Jeremain Lens"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5208151"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Jeremain Lens"
+:event/subtype "pull"
+:event/player1 "Adam Smith"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5208164"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5208181"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5208208"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Adam Smith"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5208234"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Jeremain Lens"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5208260"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4545"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "deflected"
+:event/player1 "Matt Ritchie"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5208313"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Lewis Grabban"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5208340"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4545"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "big chance shot"
+:event/player1 "Lewis Grabban"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5208359"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4545"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Junior Stanislas"
+:event/subtype "serious_foul"
+:event/player1 "Billy Jones"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5208469"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4545"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/player1 "Billy Jones"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5208471"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Dan Gosling"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5208523"
+:event/minute 92
+:event/match_id "match_4545"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "Dan Gosling"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5208529"
+:event/minute 92
+:event/match_id "match_4545"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Yann M'Vila"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5208559"
+:event/minute 94
+:event/match_id "match_4545"}
+
+
+]
+

@@ -1,0 +1,979 @@
+
+;;# data
+[
+{:match/id "match_10150"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Borussia Dortmund"
+:match/awayteam "Hertha BSC Berlin"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Vladimir Darida"
+:event/player1 "Julian Weigl"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4726288"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4726314"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Johannes van den Bergh"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4726333"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Marcel Schmelzer"
+:event/player1 "Valentin Stocker"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4726328"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Vladimir Darida"
+:event/player1 "Julian Weigl"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4726342"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Marco Reus"
+:event/player1 "John Anthony Brooks"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4726363"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Marvin Plattenhardt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4726377"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10150"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "distance"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4726419"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4726460"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10150"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "volley"
+:event/player1 "Vladimir Darida"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4726472"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Fabian Lustenberger"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4726476"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Marcel Schmelzer"
+:event/player1 "Valentin Stocker"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4726481"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Vladimir Darida"
+:event/subtype "pushing"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4726490"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Julian Weigl"
+:event/player1 "Valentin Stocker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4726500"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10150"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "distance"
+:event/player1 "Julian Weigl"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4726506"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Henrik Mkhitaryan"
+:event/subtype "dangerous_play"
+:event/player1 "Vladimir Darida"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4726537"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4726542"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10150"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "short_right"
+:event/player1 "Marco Reus"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4726546"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4726557"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10150"}
+
+{:event/type "goal"
+:event/elapsed 27
+:event/player2 "Shinji Kagawa"
+:event/subtype "header"
+:event/player1 "Mats Hummels"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_4726547"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Marvin Plattenhardt"
+:event/player1 "Matthias Ginter"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4726563"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Sebastian Langkamp"
+:event/subtype "trip"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4726585"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4726624"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10150"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross_left"
+:event/player1 "Marco Reus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4726631"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10150"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "distance"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4726696"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10150"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "short_left"
+:event/player1 "Marco Reus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4726698"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4726702"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Marcel Schmelzer"
+:event/player1 "Valentin Stocker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4726732"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4726738"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/subtype "hands"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4726745"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Shinji Kagawa"
+:event/subtype "trip"
+:event/player1 "Johannes van den Bergh"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4726772"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10150"}
+
+{:event/type "card"
+:event/elapsed 45
+:event/card_type "y"
+:event/player1 "Johannes van den Bergh"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4726777"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4726782"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10150"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Matthias Ginter"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4726784"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Fabian Lustenberger"
+:event/subtype "pushing"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4726804"
+:event/minute 47
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Vladimir Darida"
+:event/subtype "from_behind"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4726964"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Julian Weigl"
+:event/subtype "dangerous_play"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4726967"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10150"}
+
+{:event/type "card"
+:event/elapsed 50
+:event/card_type "y"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4726970"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4726979"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10150"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player2 "Matthias Ginter"
+:event/subtype "shot"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4726972"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Mitchell Weiser"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4726994"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10150"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "distance"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4727006"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10150"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "distance"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4727012"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4727028"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10150"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "cross_right"
+:event/player1 "Marco Reus"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4727039"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Henrik Mkhitaryan"
+:event/subtype "from_behind"
+:event/player1 "Vladimir Darida"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4727059"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4727063"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Genki Haraguchi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4727065"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Alexander Baumjohann"
+:event/subtype "pushing"
+:event/player1 "Julian Weigl"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4727068"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Johannes van den Bergh"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4727074"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Vladimir Darida"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4727076"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10150"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "header"
+:event/player1 "Fabian Lustenberger"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4727079"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10150"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_shot"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4727093"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10150"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "big chance shot"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4727127"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Marvin Plattenhardt"
+:event/player1 "Sokratis Papastathopoulos"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4727144"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10150"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "short_right"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4727151"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Salomon Kalou"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4727152"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4727160"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10150"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "big chance shot"
+:event/player1 "Marco Reus"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4727161"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4727179"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4727190"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10150"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Vladimir Darida"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4727224"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10150"}
+
+{:event/type "goal"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Salomon Kalou"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_4727204"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10150"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_left"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4727243"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Marvin Plattenhardt"
+:event/subtype "trip"
+:event/player1 "Jonas Hofmann"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4727247"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Jonas Hofmann"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4727303"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10150"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "shot"
+:event/player1 "Adrian Ramos"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4727306"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Vladimir Darida"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4727253"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_10150"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4727278"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10150"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "blocked_shot"
+:event/player1 "Adrian Ramos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4727282"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Matthias Ginter"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4727315"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Genki Haraguchi"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4727323"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Fabian Lustenberger"
+:event/player1 "Adrian Ramos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4727325"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/subtype "hands"
+:event/player1 "Peter Pekarik"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4727404"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Jonas Hofmann"
+:event/player1 "Marvin Plattenhardt"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4727401"
+:event/minute 92
+:event/match_id "match_10150"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Adrian Ramos"
+:event/player1 "John Anthony Brooks"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4727410"
+:event/minute 93
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4727413"
+:event/minute 93
+:event/match_id "match_10150"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jonas Hofmann"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4727425"
+:event/minute 93
+:event/match_id "match_10150"}
+
+{:event/type "goal"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Henrik Mkhitaryan"
+:event/subtype "shot"
+:event/player1 "Adrian Ramos"
+:event/sortorder 7
+:event/team "home"
+:event/id "event_4727414"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 93
+:event/match_id "match_10150"}
+
+
+]
+

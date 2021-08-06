@@ -1,0 +1,827 @@
+
+;;# data
+[
+{:match/id "match_24375"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Athletic Club de Bilbao"
+:match/awayteam "RC Deportivo de La Coruña"
+:match/score "4:1"
+:match/hometeam_goals "4"
+:match/awayteam_goals "1"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Aritz Aduriz"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5350904"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Markel Susaeta"
+:event/subtype "trip"
+:event/player1 "Alejandro Arribas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5350950"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Oriol Riera"
+:event/player1 "Xabier Etxeita"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5350974"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Lucas Perez"
+:event/subtype "trip"
+:event/player1 "Benat Etxebarria"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5351038"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Oriol Riera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351066"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_24375"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "shot"
+:event/player1 "Faycal Fajr"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5351067"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Benat Etxebarria"
+:event/subtype "trip"
+:event/player1 "Pedro Mosquera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351074"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Benat Etxebarria"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351088"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_24375"}
+
+{:event/type "goal"
+:event/elapsed 13
+:event/player2 "Raul Garcia"
+:event/subtype "shot"
+:event/player1 "Iker Muniain"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5351130"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Iker Muniain"
+:event/subtype "trip"
+:event/player1 "Pedro Mosquera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351200"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_24375"}
+
+{:event/type "card"
+:event/elapsed 17
+:event/card_type "y"
+:event/player1 "Pedro Mosquera"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5351202"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351214"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Alejandro Arribas"
+:event/subtype "dangerous_play"
+:event/player1 "Aritz Aduriz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5351226"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_24375"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/player1 "Aritz Aduriz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5351233"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_24375"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "short_left"
+:event/player1 "Faycal Fajr"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5351269"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Gorka Iraizoz Moreno"
+:event/subtype "obstruction"
+:event/player1 "Alejandro Arribas"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351281"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Celso Borges"
+:event/player1 "Benat Etxebarria"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5351330"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Mikel San Jose"
+:event/subtype "serious_foul"
+:event/player1 "Celso Borges"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351338"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_24375"}
+
+{:event/type "card"
+:event/elapsed 22
+:event/card_type "y"
+:event/player1 "Celso Borges"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5351340"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Iker Muniain"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351404"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351411"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351459"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Oscar de Marcos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351512"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Raul Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351525"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Raul Garcia"
+:event/player1 "Alejandro Arribas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351605"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Markel Susaeta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351613"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_24375"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "big chance header"
+:event/player1 "Aritz Aduriz"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5351619"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_24375"}
+
+{:event/type "goal"
+:event/elapsed 36
+:event/player2 "Markel Susaeta"
+:event/subtype "shot"
+:event/player1 "Aritz Aduriz"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5351683"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Inigo Lekue"
+:event/player1 "Laure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351715"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Iker Muniain"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351750"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Oscar de Marcos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351762"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351785"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24375"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "blocked_shot"
+:event/player1 "Oriol Riera"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5351788"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24375"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "shot"
+:event/player1 "Aritz Aduriz"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5351822"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Laure"
+:event/player1 "Inigo Lekue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5351888"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Celso Borges"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351930"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Aymeric Laporte"
+:event/subtype "trip"
+:event/player1 "Celso Borges"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5352153"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_24375"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player2 "Lucas Perez"
+:event/subtype "shot"
+:event/player1 "Oriol Riera"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5352269"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_24375"}
+
+{:event/type "goal"
+:event/elapsed 53
+:event/player2 "Markel Susaeta"
+:event/subtype "header"
+:event/player1 "Aritz Aduriz"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5352336"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5352385"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_24375"}
+
+{:event/type "corner"
+:event/elapsed 54
+:event/subtype "cross_right"
+:event/player1 "Lucas Perez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5352407"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Markel Susaeta"
+:event/subtype "trip"
+:event/player1 "Pedro Mosquera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5352453"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Inigo Lekue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5352562"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Aritz Aduriz"
+:event/subtype "dangerous_play"
+:event/player1 "Alberto Lopo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5352602"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24375"}
+
+{:event/type "card"
+:event/elapsed 59
+:event/card_type "y"
+:event/player1 "Alberto Lopo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5352612"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Benat Etxebarria"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5352644"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Aymeric Laporte"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5352655"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_24375"}
+
+{:event/type "goal"
+:event/elapsed 61
+:event/subtype "volley"
+:event/player1 "Aritz Aduriz"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5352673"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Aritz Aduriz"
+:event/subtype "trip"
+:event/player1 "Fernando Navarro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5352743"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_24375"}
+
+{:event/type "shoton"
+:event/elapsed 66
+:event/subtype "distance"
+:event/player1 "Oriol Riera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5352871"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5352997"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Inigo Lekue"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5353143"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5353316"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_24375"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross_left"
+:event/player1 "Markel Susaeta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5353366"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_24375"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "header"
+:event/player1 "Xabier Etxeita"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5353378"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_24375"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Sabin Merino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5353452"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Faycal Fajr"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5353460"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_24375"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Mikel San Jose"
+:event/subtype "dangerous_play"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5353475"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5353523"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Markel Susaeta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5353543"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Oscar de Marcos"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5353567"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_24375"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "miss_kick"
+:event/player1 "Markel Susaeta"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5353571"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_24375"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5353646"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24375"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Federico Nicolas Cartabia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5353649"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24375"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Pedro Mosquera"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5353764"
+:event/minute 91
+:event/match_id "match_24375"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Faycal Fajr"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5353795"
+:event/minute 91
+:event/match_id "match_24375"}
+
+
+]
+

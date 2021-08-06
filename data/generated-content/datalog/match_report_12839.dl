@@ -1,0 +1,989 @@
+
+;;# data
+[
+{:match/id "match_12839"
+:match/league "Italy Serie A"
+:match/hometeam "Juventus"
+:match/awayteam "Cesena"
+:match/score "3:0"
+:match/hometeam_goals "3"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3769911"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Sebastian Giovinco"
+:event/subtype "trip"
+:event/player1 "Daniele Capelli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3769950"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Fernando Llorente"
+:event/subtype "trip"
+:event/player1 "Stefano Lucchini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3769973"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3769993"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_12839"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "distance"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3770000"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Roberto Pereyra"
+:event/subtype "trip"
+:event/player1 "Emmanuel Cascione"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3770021"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "blocked_shot"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3770042"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "volley"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3770045"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_12839"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross_right"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3770050"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Francesco Renzetti"
+:event/subtype "trip"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3770083"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Gabriele Perico"
+:event/player1 "Patrice Evra"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3770098"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3770127"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Sebastian Giovinco"
+:event/subtype "trip"
+:event/player1 "Francesco Renzetti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3770136"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3770145"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "header"
+:event/player1 "Leonardo Bonucci"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3770149"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Roberto Pereyra"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3770176"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/subtype "penalty"
+:event/player1 "Emmanuel Cascione"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3770185"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_12839"}
+
+{:event/type "card"
+:event/elapsed 17
+:event/card_type "y"
+:event/player1 "Emmanuel Cascione"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3770188"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_12839"}
+
+{:event/type "goal"
+:event/elapsed 18
+:event/player1 "Arturo Vidal"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_3770198"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Sebastian Giovinco"
+:event/player1 "Luigi Giorgi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3770247"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Francesco Renzetti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3770660"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_12839"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross_left"
+:event/player1 "Antonio Mazzotta"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3770669"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "distance"
+:event/player1 "Guido Marilungo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3770713"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Antonio Mazzotta"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3770718"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Arturo Vidal"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3770740"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_12839"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/card_type "y"
+:event/player1 "Daniele Capelli"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3770733"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Sebastian Giovinco"
+:event/subtype "trip"
+:event/player1 "Daniele Capelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3770728"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3770803"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_12839"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Fernando Llorente"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3770807"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "blocked_shot"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3770877"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Stephan Lichtsteiner"
+:event/player1 "Guido Marilungo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3770953"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Francesco Renzetti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3771070"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_12839"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "distance"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3771105"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Giorgio Chiellini"
+:event/subtype "pushing"
+:event/player1 "Gabriele Perico"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3771131"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_12839"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "distance"
+:event/player1 "Claudio Marchisio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3771166"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_12839"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "distance"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3771214"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3771282"
+:event/minute 46
+:event/match_id "match_12839"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3771304"
+:event/minute 46
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Arturo Vidal"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3771310"
+:event/minute 46
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3771744"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3771757"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_12839"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Arturo Vidal"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3771768"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "blocked_shot"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3771780"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Giorgio Chiellini"
+:event/player1 "Gabriele Perico"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3771846"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_12839"}
+
+{:event/type "card"
+:event/elapsed 51
+:event/card_type "y"
+:event/player1 "Gabriele Perico"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3771852"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3771869"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3771929"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Guido Marilungo"
+:event/subtype "pushing"
+:event/player1 "Patrice Evra"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3771942"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3771987"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_12839"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "cross_right"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3771998"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Claudio Marchisio"
+:event/subtype "pushing"
+:event/player1 "Emmanuel Cascione"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3772024"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "direct_freekick"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3772039"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_12839"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross_right"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3772048"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "header"
+:event/player1 "Angelo Obinze Ogbonna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3772051"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Emmanuel Cascione"
+:event/player1 "Fernando Llorente"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3772080"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_12839"}
+
+{:event/type "goal"
+:event/elapsed 64
+:event/subtype "distance"
+:event/player1 "Arturo Vidal"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_3772100"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_12839"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Carlos Carbonero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3772191"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Sebastian Giovinco"
+:event/subtype "pull"
+:event/player1 "Francesco Renzetti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3772169"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_12839"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "deflected"
+:event/player1 "Claudio Marchisio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3772253"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_12839"}
+
+{:event/type "corner"
+:event/elapsed 69
+:event/subtype "short_left"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3772263"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "blocked_shot"
+:event/player1 "Claudio Marchisio"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3772266"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Alvaro Morata"
+:event/subtype "pushing"
+:event/player1 "Luka Krajnc"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3772358"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Arturo Vidal"
+:event/player1 "Manuel Coppola"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3772463"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_12839"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "miss_kick"
+:event/player1 "Alvaro Morata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3772433"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Alvaro Morata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3772475"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Manuel Coppola"
+:event/player1 "Arturo Vidal"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3772509"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3772609"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Manuel Coppola"
+:event/player1 "Angelo Obinze Ogbonna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3772625"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Guido Marilungo"
+:event/player1 "Angelo Obinze Ogbonna"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3772632"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Francesco Renzetti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3772642"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_12839"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3772691"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_12839"}
+
+{:event/type "goal"
+:event/elapsed 85
+:event/player2 "Simone Padoin"
+:event/subtype "shot"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_3772706"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_12839"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "post"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3772772"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3772805"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Guido Marilungo"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3772818"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12839"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Patrice Evra"
+:event/subtype "trip"
+:event/player1 "Constantin Nica"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3772821"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12839"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3772831"
+:event/minute 91
+:event/match_id "match_12839"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Sebastian Giovinco"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3772848"
+:event/minute 91
+:event/match_id "match_12839"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Simone Padoin"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3772859"
+:event/minute 92
+:event/match_id "match_12839"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Simone Pepe"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3772873"
+:event/minute 92
+:event/match_id "match_12839"}
+
+
+]
+

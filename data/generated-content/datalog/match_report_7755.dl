@@ -1,0 +1,895 @@
+
+;;# data
+[
+{:match/id "match_7755"
+:match/league "France Ligue 1"
+:match/hometeam "Stade de Reims"
+:match/awayteam "FC Lorient"
+:match/score "4:1"
+:match/hometeam_goals "4"
+:match/awayteam_goals "1"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "cross_right"
+:event/player1 "Atila Turan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4721944"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4721979"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Vincent Le Goff"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4722033"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7755"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross_right"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4722070"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Raphael Guerreiro"
+:event/subtype "trip"
+:event/player1 "Antoine Devaux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4722160"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7755"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "blocked_shot"
+:event/player1 "Denis Bouanga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4722189"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7755"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross_right"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4722195"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4722219"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4722263"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/subtype "hands"
+:event/player1 "Grejohn Kyei"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4722315"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7755"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "distance"
+:event/player1 "Denis Bouanga"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4722352"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Franck Signorino"
+:event/subtype "trip"
+:event/player1 "Francois Bellugou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4722371"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Anthony Weber"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4722380"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7755"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "distance"
+:event/player1 "Alexi Peuget"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4722385"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7755"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross_right"
+:event/player1 "Atila Turan"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4722390"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7755"}
+
+{:event/type "goal"
+:event/elapsed 23
+:event/subtype "distance"
+:event/player1 "Gaetan Charbonnier"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_4722403"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4722440"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Denis Bouanga"
+:event/subtype "trip"
+:event/player1 "Atila Turan"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4722447"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7755"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "deflected"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4722451"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Gaetan Charbonnier"
+:event/player1 "Francois Bellugou"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4722458"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Atila Turan"
+:event/subtype "trip"
+:event/player1 "Walid Mesloub"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4722522"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7755"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross_left"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4722547"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Grejohn Kyei"
+:event/player1 "Wesley Lautoa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4722549"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Vincent Le Goff"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4722565"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Vincent Le Goff"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4722576"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7755"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "blocked_shot"
+:event/player1 "Denis Bouanga"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4722579"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Lamine Gassama"
+:event/player1 "Grejohn Kyei"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4722659"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7755"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "shot"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4722622"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7755"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "shot"
+:event/player1 "Grejohn Kyei"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4722627"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4722653"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7755"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "shot"
+:event/player1 "Gaetan Charbonnier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4722688"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7755"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "shot"
+:event/player1 "Grejohn Kyei"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4722692"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7755"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross_left"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4722696"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7755"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "distance"
+:event/player1 "Walid Mesloub"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4722722"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7755"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross_left"
+:event/player1 "Atila Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4722744"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Alexi Peuget"
+:event/subtype "dangerous_play"
+:event/player1 "Benjamin Moukandjo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4722752"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7755"}
+
+{:event/type "card"
+:event/elapsed 44
+:event/card_type "y"
+:event/player1 "Benjamin Moukandjo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4722754"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7755"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Atila Turan"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4722797"
+:event/minute 46
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Denis Bouanga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4723034"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7755"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4722813"
+:event/minute 47
+:event/match_id "match_7755"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "distance"
+:event/player1 "Benjamin Moukandjo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4723049"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7755"}
+
+{:event/type "goal"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Denis Bouanga"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4723054"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7755"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "distance"
+:event/player1 "Atila Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4723089"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Walid Mesloub"
+:event/subtype "trip"
+:event/player1 "Franck Signorino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4723121"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7755"}
+
+{:event/type "card"
+:event/elapsed 51
+:event/card_type "y"
+:event/player1 "Franck Signorino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4723123"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4723144"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7755"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_right"
+:event/player1 "Walid Mesloub"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4723159"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7755"}
+
+{:event/type "goal"
+:event/elapsed 54
+:event/subtype "shot"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4723187"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Benjamin Moukandjo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4723232"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7755"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_left"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4723240"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Lamine Gassama"
+:event/subtype "trip"
+:event/player1 "Atila Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4723250"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7755"}
+
+{:event/type "card"
+:event/elapsed 57
+:event/card_type "y"
+:event/player1 "Atila Turan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4723254"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4723272"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Lamine Gassama"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4723286"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7755"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "header"
+:event/player1 "Benjamin Jeannot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4723295"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7755"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "Benjamin Jeannot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4723447"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7755"}
+
+{:event/type "goal"
+:event/elapsed 66
+:event/player2 "Nicolas De Preville"
+:event/subtype "shot"
+:event/player1 "Grejohn Kyei"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_4723465"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7755"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Atila Turan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4723547"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Vincent Le Goff"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4723590"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Lamine Kone"
+:event/player1 "Theoson Jordan Siebatcheu"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4723684"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Rafidine Abdullah"
+:event/subtype "trip"
+:event/player1 "Theoson Jordan Siebatcheu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4723639"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Atila Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4723704"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7755"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "volley"
+:event/player1 "Theoson Jordan Siebatcheu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4723705"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Vincent Le Goff"
+:event/subtype "trip"
+:event/player1 "Theoson Jordan Siebatcheu"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4723734"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_7755"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/player1 "Theoson Jordan Siebatcheu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4723739"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Antoine Devaux"
+:event/player1 "Benjamin Jeannot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4723811"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Aissa Mandi"
+:event/player1 "Benjamin Jeannot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4723845"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Theoson Jordan Siebatcheu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4723857"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7755"}
+
+{:event/type "goal"
+:event/elapsed 85
+:event/player2 "Theoson Jordan Siebatcheu"
+:event/subtype "shot"
+:event/player1 "Atila Turan"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4723859"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Lamine Gassama"
+:event/subtype "trip"
+:event/player1 "Theoson Jordan Siebatcheu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4723918"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7755"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Raphael Guerreiro"
+:event/player1 "Franck Signorino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4723942"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7755"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4723946"
+:event/minute 91
+:event/match_id "match_7755"}
+
+
+]
+

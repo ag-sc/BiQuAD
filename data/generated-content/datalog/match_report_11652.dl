@@ -1,0 +1,736 @@
+
+;;# data
+[
+{:match/id "match_11652"
+:match/league "Italy Serie A"
+:match/hometeam "Juventus"
+:match/awayteam "Roma"
+:match/score "5:0"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Fabio Quagliarella"
+:event/player1 "Marquinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2081204"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_11652"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/player2 "Paolo De Ceglie"
+:event/subtype "shot"
+:event/player1 "Arturo Vidal"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_2081205"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Giorgio Chiellini"
+:event/player1 "Fabio Borini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2081210"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_11652"}
+
+{:event/type "goal"
+:event/elapsed 8
+:event/player2 "Mirko Vucinic"
+:event/subtype "distance"
+:event/player1 "Arturo Vidal"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2081212"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_11652"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Mirko Vucinic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2081216"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_11652"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "short"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2081222"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11652"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "distance"
+:event/player1 "Jose Angel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2081227"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2081230"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Aleandro Rosi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2081231"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Miralem Pjanic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2081233"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Jose Angel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2081234"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11652"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "shot"
+:event/player1 "Fernando Gago"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2081235"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player1 "Fabio Borini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2081237"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Giorgio Chiellini"
+:event/player1 "Pablo Osvaldo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2081241"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11652"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "big chance header"
+:event/player1 "Giorgio Chiellini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2081243"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player1 "Mirko Vucinic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2081244"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11652"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "deflected"
+:event/player1 "Miralem Pjanic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2081252"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Miralem Pjanic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2081253"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_11652"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Miralem Pjanic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2081253"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Claudio Marchisio"
+:event/subtype "penalty"
+:event/player1 "Maarten Stekelenburg"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2081255"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11652"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/card_type "r"
+:event/player1 "Maarten Stekelenburg"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2081257"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11652"}
+
+{:event/type "goal"
+:event/elapsed 29
+:event/subtype "saved_back_into_play"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_2081259"
+:event/event_type "goal"
+:event/goal_type "npm"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11652"}
+
+{:event/type "goal"
+:event/elapsed 29
+:event/subtype "shot"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2081260"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/subtype "serious_foul"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2081263"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11652"}
+
+{:event/type "card"
+:event/elapsed 33
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2081264"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Miralem Pjanic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2081266"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11652"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Miralem Pjanic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2081266"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Claudio Marchisio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2081272"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_11652"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Claudio Marchisio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2081272"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_11652"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "big chance shot"
+:event/player1 "Paolo De Ceglie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2081273"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_11652"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2081278"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Daniele De Rossi"
+:event/player1 "Arturo Vidal"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2081280"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player1 "Andrea Pirlo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2081282"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Paolo De Ceglie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2081283"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11652"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "distance"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2081285"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player1 "Marquinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2081292"
+:event/minute 46
+:event/match_id "match_11652"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2081293"
+:event/minute 46
+:event/match_id "match_11652"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "distance"
+:event/player1 "Claudio Marchisio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2081331"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11652"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "distance"
+:event/player1 "Mirko Vucinic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2081335"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2081339"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_11652"}
+
+{:event/type "goal"
+:event/elapsed 52
+:event/player2 "Mirko Vucinic"
+:event/subtype "shot"
+:event/player1 "Claudio Marchisio"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_2081349"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Simone Perrotta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2081373"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Claudio Marchisio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2081375"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_11652"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "blocked_shot"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2081377"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Paolo De Ceglie"
+:event/player1 "Daniele De Rossi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2081387"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Claudio Marchisio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2081394"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11652"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "big chance shot"
+:event/player1 "Claudio Marchisio"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2081407"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2081408"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_11652"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Emanuele Giaccherini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2081413"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11652"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "distance"
+:event/player1 "Alessandro Del Piero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2081419"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Erik Lamela"
+:event/player1 "Claudio Marchisio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2081421"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player1 "Marco Borriello"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2081424"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11652"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Alessandro Del Piero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2081425"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_11652"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Alessandro Del Piero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2081425"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player1 "Erik Lamela"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2081428"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player1 "Bojan Krkic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2081429"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11652"}
+
+{:event/type "card"
+:event/elapsed 86
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Bojan Krkic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2081453"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Alessandro Del Piero"
+:event/player1 "Simon Kjaer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2081438"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11652"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player1 "Paolo De Ceglie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2081439"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11652"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Simone Perrotta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2081443"
+:event/minute 91
+:event/match_id "match_11652"}
+
+
+]
+

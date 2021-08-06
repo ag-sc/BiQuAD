@@ -1,0 +1,1353 @@
+
+;;# data
+[
+{:match/id "match_2871"
+:match/league "England Premier League"
+:match/hometeam "Liverpool"
+:match/awayteam "Sunderland"
+:match/score "2:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player1 "Luis Suarez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1603622"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1603635"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2871"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1603635"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Luis Suarez"
+:event/subtype "penalty"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1603643"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2871"}
+
+{:event/type "card"
+:event/elapsed 5
+:event/card_type "y"
+:event/player1 "Kieran Richardson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1603646"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2871"}
+
+{:event/type "goal"
+:event/elapsed 5
+:event/subtype "missed"
+:event/player1 "Luis Suarez"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1603650"
+:event/event_type "goal"
+:event/goal_type "npm"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1603669"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1603719"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Luis Suarez"
+:event/player1 "Wes Brown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1603724"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2871"}
+
+{:event/type "goal"
+:event/elapsed 11
+:event/player2 "Charlie Adam"
+:event/subtype "header"
+:event/player1 "Luis Suarez"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1603734"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1603746"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2871"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "header"
+:event/player1 "Stephane Sessegnon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1603749"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 13
+:event/subtype "distance"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1603759"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Jack Colback"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1603773"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Luis Suarez"
+:event/player1 "Anton Ferdinand"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1603829"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1603835"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Anton Ferdinand"
+:event/subtype "pushing"
+:event/player1 "Andy Carroll"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1603836"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1603848"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1603854"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2871"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1603854"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2871"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "header"
+:event/player1 "Wes Brown"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1603857"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2871"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "distance"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1603860"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Phil Bardsley"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1603867"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "bad shot"
+:event/player1 "Asamoah Gyan"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1603870"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Phil Bardsley"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1603902"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Luis Suarez"
+:event/subtype "from_behind"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1603905"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2871"}
+
+{:event/type "card"
+:event/elapsed 26
+:event/card_type "y"
+:event/player1 "Lee Cattermole"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1603908"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1603918"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2871"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1603918"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "Stephane Sessegnon"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1603927"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1603934"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2871"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1603934"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "bad shot"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1603946"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player1 "Stephane Sessegnon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1603974"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1603995"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "crossbar"
+:event/player1 "Stewart Downing"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1604002"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Phil Bardsley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1604015"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Sebastian Larsson"
+:event/player1 "Jon Flanagan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1604037"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "distance"
+:event/player1 "Lucas Leiva"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1604066"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1604094"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2871"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "blocked_shot"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1604099"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Stephane Sessegnon"
+:event/player1 "Lucas Leiva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1604122"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "header"
+:event/player1 "Stephane Sessegnon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1604129"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1604141"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2871"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1604141"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "header"
+:event/player1 "Andy Carroll"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1604143"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1604144"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "header"
+:event/player1 "Andy Carroll"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1604145"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Asamoah Gyan"
+:event/player1 "Jamie Carragher"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1604148"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2871"}
+
+{:event/type "card"
+:event/elapsed 43
+:event/card_type "y"
+:event/player1 "Jamie Carragher"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1604149"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Andy Carroll"
+:event/player1 "Anton Ferdinand"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1604173"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2871"}
+
+{:event/type "card"
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Phil Bardsley"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1604176"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Jack Colback"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1604198"
+:event/minute 46
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Luis Suarez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1604297"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "distance"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1604306"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "distance"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1604323"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1604373"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Wes Brown"
+:event/subtype "obstruction"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1604381"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1604417"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1604425"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2871"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "big chance header"
+:event/player1 "Asamoah Gyan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1604430"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1604432"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "header"
+:event/player1 "Andy Carroll"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1604435"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Jose Enrique"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1604455"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1604460"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2871"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1604460"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "header"
+:event/player1 "Andy Carroll"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1604464"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1604498"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2871"}
+
+{:event/type "goal"
+:event/elapsed 57
+:event/player2 "Ahmed El Mohamady"
+:event/subtype "volley"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1604499"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Stephane Sessegnon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1604545"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Jack Colback"
+:event/player1 "Jordan Henderson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1604562"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2871"}
+
+{:event/type "card"
+:event/elapsed 59
+:event/card_type "y"
+:event/player1 "Jordan Henderson"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1604565"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1604591"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2871"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1604591"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2871"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "header"
+:event/player1 "Andy Carroll"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1604592"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/player1 "Andy Carroll"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1604596"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Stephane Sessegnon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1604614"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Lee Cattermole"
+:event/subtype "pushing"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1604663"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2871"}
+
+{:event/type "card"
+:event/elapsed 66
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Charlie Adam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1604666"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "direct_freekick"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1604691"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Dong-Won Ji"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1604750"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1604756"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Luis Suarez"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1604759"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Dirk Kuyt"
+:event/subtype "pushing"
+:event/player1 "Stephane Sessegnon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1604771"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Luis Suarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1604787"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2871"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1604793"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Jack Colback"
+:event/player1 "Lucas Leiva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1604810"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Luis Suarez"
+:event/player1 "Anton Ferdinand"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1604816"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "deflected"
+:event/player1 "Andy Carroll"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1604819"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1604828"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2871"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1604828"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Lee Cattermole"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1604851"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Wes Brown"
+:event/player1 "Andy Carroll"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1604869"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1604885"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/subtype "hands"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1604889"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2871"}
+
+{:event/type "card"
+:event/elapsed 78
+:event/card_type "y"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1604891"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Wes Brown"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1604907"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Stephane Sessegnon"
+:event/player1 "Daniel Agger"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1604913"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1604949"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1604974"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1604979"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "distance"
+:event/player1 "Stephane Sessegnon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1604997"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1605018"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Charlie Adam"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1605022"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Raul Meireles"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1605043"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "header"
+:event/player1 "Andy Carroll"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1605047"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Dirk Kuyt"
+:event/player1 "Wes Brown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1605052"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2871"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Dong-Won Ji"
+:event/player1 "Jon Flanagan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1605103"
+:event/minute 91
+:event/match_id "match_2871"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1605116"
+:event/minute 92
+:event/match_id "match_2871"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "bad shot"
+:event/player1 "Lee Cattermole"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1605141"
+:event/minute 93
+:event/match_id "match_2871"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Stewart Downing"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1605151"
+:event/minute 93
+:event/match_id "match_2871"}
+
+
+]
+

@@ -1,0 +1,785 @@
+
+;;# data
+[
+{:match/id "match_11442"
+:match/league "Italy Serie A"
+:match/hometeam "Milan"
+:match/awayteam "Chievo Verona"
+:match/score "4:0"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "goal"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Thiago Silva"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1799624"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799626"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_11442"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "shot"
+:event/player1 "Sergio Pellissier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1799628"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Luca Rigoni"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1799631"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Antonio Nocerino"
+:event/subtype "pushing"
+:event/player1 "Luca Rigoni"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1799634"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Mark van Bommel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1799635"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Antonio Nocerino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1799636"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11442"}
+
+{:event/type "goal"
+:event/elapsed 16
+:event/subtype "distance"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_1799638"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Mark van Bommel"
+:event/subtype "pushing"
+:event/player1 "Paolo Sammarco"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1799646"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Antonio Nocerino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1799647"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1799661"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11442"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "short"
+:event/player1 "Alexandre Pato"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1799663"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799664"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Cyril Thereau"
+:event/player1 "Mario Yepes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799668"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11442"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "direct_freekick"
+:event/player1 "Michael Bradley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1799669"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1799670"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Alexandre Pato"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1799675"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_11442"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Alexandre Pato"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1799675"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Alexandre Pato"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1799678"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11442"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Alexandre Pato"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1799678"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11442"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "deflected"
+:event/player1 "Luca Antonini"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1799681"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Antonio Nocerino"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1799682"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11442"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Antonio Nocerino"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1799682"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11442"}
+
+{:event/type "goal"
+:event/elapsed 33
+:event/subtype "shot"
+:event/player1 "Alexandre Pato"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1799684"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11442"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "distance"
+:event/player1 "Cyril Thereau"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1799685"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Mark van Bommel"
+:event/subtype "pushing"
+:event/player1 "Bostjan Cesar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1799687"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_11442"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "direct_freekick"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1799688"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Alberto Aquilani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1799694"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Paolo Sammarco"
+:event/subtype "pushing"
+:event/player1 "Thiago Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799697"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Paolo Sammarco"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1799701"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11442"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "big chance header"
+:event/player1 "Michael Bradley"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1799702"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Zlatan Ibrahimovic"
+:event/subtype "penalty"
+:event/player1 "Siqueira De Olivera Luciano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1799711"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11442"}
+
+{:event/type "card"
+:event/elapsed 44
+:event/card_type "y"
+:event/player1 "Siqueira De Olivera Luciano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1799712"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_11442"}
+
+{:event/type "goal"
+:event/elapsed 44
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1799714"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Antonio Nocerino"
+:event/subtype "pushing"
+:event/player1 "Bostjan Cesar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1799721"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_11442"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Luca Antonini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1799724"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_11442"}
+
+{:event/type "shotoff"
+:event/elapsed 46
+:event/subtype "big chance volley"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1799803"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1799809"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Luca Antonini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1799812"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11442"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "deflected"
+:event/player1 "Kevin-Prince Boateng"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1799817"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Perparim Hetemaj"
+:event/player1 "Antonio Nocerino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799821"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Alberto Aquilani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1799828"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Cyril Thereau"
+:event/subtype "shirt_pull"
+:event/player1 "Luca Antonini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799832"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Alberto Aquilani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1799849"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Luca Rigoni"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1799868"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Alberto Aquilani"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1799876"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_11442"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "short"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1799884"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_11442"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Alexandre Pato"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1799897"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Sergio Pellissier"
+:event/player1 "Mario Yepes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799929"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_11442"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "direct_freekick"
+:event/player1 "Sergio Pellissier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1799934"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Alberto Aquilani"
+:event/subtype "from_behind"
+:event/player1 "Paolo Sammarco"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1799942"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_11442"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Mario Yepes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1799944"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Antonio Nocerino"
+:event/player1 "Cyril Thereau"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1799945"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Perparim Hetemaj"
+:event/player1 "Alberto Aquilani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799946"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799953"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Bostjan Cesar"
+:event/subtype "shirt_pull"
+:event/player1 "Robinho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799964"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Bojan Jokic"
+:event/subtype "from_behind"
+:event/player1 "Mark van Bommel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799965"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11442"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "volley"
+:event/player1 "Perparim Hetemaj"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1799973"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Bojan Jokic"
+:event/subtype "shirt_pull"
+:event/player1 "Urby Emanuelson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799978"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Sergio Pellissier"
+:event/subtype "pushing"
+:event/player1 "Ignazio Abate"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1799997"
+:event/minute 91
+:event/match_id "match_11442"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Kamil Vacek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1800001"
+:event/minute 92
+:event/match_id "match_11442"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "deflected"
+:event/player1 "Sergio Pellissier"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1800002"
+:event/minute 92
+:event/match_id "match_11442"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "short"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1800003"
+:event/minute 92
+:event/match_id "match_11442"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1800005"
+:event/minute 92
+:event/match_id "match_11442"}
+
+
+]
+

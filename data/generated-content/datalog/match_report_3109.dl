@@ -1,0 +1,976 @@
+
+;;# data
+[
+{:match/id "match_3109"
+:match/league "England Premier League"
+:match/hometeam "Aston Villa"
+:match/awayteam "Chelsea"
+:match/score "2:4"
+:match/hometeam_goals "2"
+:match/awayteam_goals "4"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Frank Lampard"
+:event/player1 "Chris Herd"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2022246"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_3109"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "shot"
+:event/player1 "Fernando Torres"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2022279"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_3109"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "shot"
+:event/player1 "Fernando Torres"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2022315"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3109"}
+
+{:event/type "goal"
+:event/elapsed 9
+:event/player2 "Fernando Torres"
+:event/subtype "shot"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_2022312"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Chris Herd"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2022386"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Barry Bannan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2022437"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3109"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "deflected"
+:event/player1 "John Obi Mikel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2022453"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Stephen Ireland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2022464"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Barry Bannan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022483"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_3109"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Barry Bannan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022483"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Barry Bannan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022491"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3109"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Barry Bannan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022491"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3109"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "big chance header"
+:event/player1 "Stephen Ireland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2022492"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3109"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "post"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2022533"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_3109"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "blocked_shot"
+:event/player1 "Fernando Torres"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2022535"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player1 "Gary Gardner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2022548"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player1 "John Obi Mikel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2022559"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player1 "Gary Gardner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2022572"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2022592"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3109"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2022592"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2022647"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Barry Bannan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022655"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_3109"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Barry Bannan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022655"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_3109"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "header"
+:event/player1 "Chris Herd"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2022656"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_3109"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "distance"
+:event/player1 "Fernando Torres"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2022681"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "John Obi Mikel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2022692"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2022699"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Stephen Warnock"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2022708"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2022730"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Ashley Cole"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2022756"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player1 "Frank Lampard"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2022822"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_3109"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "crossbar"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2022831"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Barry Bannan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022837"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3109"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Barry Bannan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022837"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Barry Bannan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022863"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3109"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Barry Bannan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022863"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3109"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "James Collins"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2022865"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player1 "Daniel Sturridge"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2022894"
+:event/minute 46
+:event/match_id "match_3109"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2022896"
+:event/minute 47
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_2023043"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2023061"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3109"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2023061"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3109"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player2 "Juan Mata"
+:event/subtype "shot"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_2023064"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2023137"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player1 "Fernando Torres"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2023158"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "John Terry"
+:event/subtype "serious_foul"
+:event/player1 "Stephen Warnock"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023170"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3109"}
+
+{:event/type "card"
+:event/elapsed 58
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Stephen Warnock"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2023173"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Fernando Torres"
+:event/player1 "James Collins"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023187"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3109"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "direct_freekick"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2023208"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Juan Mata"
+:event/player1 "Eric Lichaj"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023250"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player1 "Eric Lichaj"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023276"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2023282"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3109"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2023282"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Stephen Warnock"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2023341"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3109"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Stephen Ireland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2023364"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Gary Gardner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2023402"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2023427"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_3109"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "header"
+:event/player1 "Fernando Torres"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2023429"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Gary Cahill"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023450"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Daniel Sturridge"
+:event/player1 "Andreas Weimann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023464"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_2023499"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3109"}
+
+{:event/type "goal"
+:event/elapsed 77
+:event/player2 "Eric Lichaj"
+:event/subtype "header"
+:event/player1 "James Collins"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2023500"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2023552"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3109"}
+
+{:event/type "goal"
+:event/elapsed 80
+:event/player2 "Marc Albrighton"
+:event/subtype "tap_in"
+:event/player1 "Eric Lichaj"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2023553"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023595"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_3109"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "deflected"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2023606"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2023610"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3109"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2023610"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3109"}
+
+{:event/type "goal"
+:event/elapsed 83
+:event/player2 "Fernando Torres"
+:event/subtype "header"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_2023613"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3109"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "header"
+:event/player1 "Emile Heskey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2023640"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2023647"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2023650"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2023661"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2023688"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Emile Heskey"
+:event/subtype "shirt_pull"
+:event/player1 "John Obi Mikel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2023716"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_3109"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Barry Bannan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2023725"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_3109"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2023752"
+:event/minute 92
+:event/match_id "match_3109"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2023752"
+:event/minute 92
+:event/match_id "match_3109"}
+
+{:event/type "goal"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Daniel Sturridge"
+:event/subtype "shot"
+:event/player1 "Fernando Torres"
+:event/sortorder 5
+:event/team "away"
+:event/id "event_2023755"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 92
+:event/match_id "match_3109"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player2 "John Obi Mikel"
+:event/player1 "Stephen Ireland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023799"
+:event/minute 95
+:event/match_id "match_3109"}
+
+
+]
+

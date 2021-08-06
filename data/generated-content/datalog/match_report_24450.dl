@@ -1,0 +1,903 @@
+
+;;# data
+[
+{:match/id "match_24450"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Valencia CF"
+:match/awayteam "SD Eibar"
+:match/score "5:0"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "corner"
+:event/elapsed 2
+:event/subtype "cross_left"
+:event/player1 "Javi Fuego"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5519413"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Guilherme Siqueira"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5519641"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Daniel Parejo"
+:event/subtype "penalty"
+:event/player1 "Dani Garcia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5519655"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_24450"}
+
+{:event/type "card"
+:event/elapsed 9
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Dani Garcia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5519755"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_24450"}
+
+{:event/type "goal"
+:event/elapsed 10
+:event/subtype "saved_back_into_play"
+:event/player1 "Francisco Alcacer"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_5519679"
+:event/event_type "goal"
+:event/goal_type "npm"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_24450"}
+
+{:event/type "goal"
+:event/elapsed 10
+:event/subtype "tap_in"
+:event/player1 "Francisco Alcacer"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5519699"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Gonzalo Escalante"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5519720"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_24450"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross_right"
+:event/player1 "Adrian Gonzalez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5519737"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_24450"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross_right"
+:event/player1 "Takashi Inui"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5519775"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Dani Garcia"
+:event/player1 "Andre Gomes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5519841"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Andre Gomes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5519865"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_24450"}
+
+{:event/type "corner"
+:event/elapsed 15
+:event/subtype "cross_left"
+:event/player1 "Daniel Parejo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5519877"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Ivan Ramis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5519938"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Ivan Ramis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5520022"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Andre Gomes"
+:event/player1 "David Junca"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5520079"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Jose Gaya"
+:event/subtype "pushing"
+:event/player1 "Keko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5520098"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Keko"
+:event/subtype "trip"
+:event/player1 "Jose Gaya"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5520167"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_24450"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross_right"
+:event/player1 "Daniel Parejo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5520221"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_24450"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "distance"
+:event/player1 "Takashi Inui"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5520296"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_24450"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Adrian Gonzalez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5520407"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Joao Cancelo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5520464"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_24450"}
+
+{:event/type "goal"
+:event/elapsed 28
+:event/player2 "Joao Cancelo"
+:event/subtype "shot"
+:event/player1 "Francisco Alcacer"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5520504"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_24450"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "big chance shot"
+:event/player1 "Rodrigo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5520582"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Joao Cancelo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5520794"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_24450"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "blocked_shot"
+:event/player1 "Francisco Alcacer"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5520807"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_24450"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "short_right"
+:event/player1 "Gonzalo Escalante"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5520991"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Dani Garcia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5520994"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Adrian Gonzalez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5521010"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Andre Gomes"
+:event/subtype "pull"
+:event/player1 "Gonzalo Escalante"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5521049"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_24450"}
+
+{:event/type "goal"
+:event/elapsed 41
+:event/player2 "Rodrigo"
+:event/subtype "header"
+:event/player1 "Francisco Alcacer"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_5521081"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Dani Garcia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5521180"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_24450"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "big chance shot"
+:event/player1 "Takashi Inui"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5521189"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Santi Mina"
+:event/subtype "pushing"
+:event/player1 "Ander Capa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5521248"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5521289"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Takashi Inui"
+:event/subtype "pushing"
+:event/player1 "Joao Cancelo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5521709"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Daniel Parejo"
+:event/player1 "Dani Garcia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5521716"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Keko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5521735"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_24450"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "blocked_shot"
+:event/player1 "Rodrigo"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5521759"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Daniel Parejo"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5521761"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_24450"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross_right"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5521778"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_24450"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "crossbar"
+:event/player1 "Andre Gomes"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5521813"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Takashi Inui"
+:event/subtype "trip"
+:event/player1 "Andre Gomes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5521834"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Gonzalo Escalante"
+:event/subtype "pushing"
+:event/player1 "Aymen Abdennour"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5521971"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_24450"}
+
+{:event/type "goal"
+:event/elapsed 56
+:event/player2 "Rodrigo"
+:event/subtype "lob"
+:event/player1 "Joao Cancelo"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_5522021"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Ion Ansotegi"
+:event/player1 "Aymen Abdennour"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5522117"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Andre Gomes"
+:event/subtype "pull"
+:event/player1 "Gonzalo Escalante"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5522156"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_24450"}
+
+{:event/type "card"
+:event/elapsed 60
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Gonzalo Escalante"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5522162"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_24450"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "direct_freekick"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5522184"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Manuel Lillo Castellano"
+:event/subtype "pushing"
+:event/player1 "Rodrigo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5522292"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Ander Capa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5522314"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_24450"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "big chance shot"
+:event/player1 "Gonzalo Escalante"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5522334"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Keko"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5522448"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24450"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Adrian Gonzalez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5522537"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_24450"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "blocked_shot"
+:event/player1 "Gonzalo Escalante"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5522561"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_24450"}
+
+{:event/type "corner"
+:event/elapsed 69
+:event/subtype "short_left"
+:event/player1 "Daniel Parejo"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5522586"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Enzo Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5522595"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Ander Capa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5522705"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_24450"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "deflected"
+:event/player1 "Daniel Parejo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5522772"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_24450"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross_right"
+:event/player1 "Daniel Parejo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5522784"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Ander Capa"
+:event/subtype "dangerous_play"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5522849"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Keko"
+:event/subtype "trip"
+:event/player1 "Santi Mina"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5522920"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Takashi Inui"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5522941"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_24450"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Keko"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5523049"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Keko"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5523112"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Ion Ansotegi"
+:event/subtype "serious_foul"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5523126"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_24450"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Takashi Inui"
+:event/subtype "serious_foul"
+:event/player1 "Aymen Abdennour"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5523359"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24450"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Aymen Abdennour"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5523367"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Dani Garcia"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5523381"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Ander Capa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5523404"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_24450"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Adrian Gonzalez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5523412"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Manuel Lillo Castellano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5523443"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_24450"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Ander Capa"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5523523"
+:event/minute 92
+:event/match_id "match_24450"}
+
+
+]
+

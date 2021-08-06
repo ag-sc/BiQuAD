@@ -1,0 +1,819 @@
+
+;;# data
+[
+{:match/id "match_7345"
+:match/league "France Ligue 1"
+:match/hometeam "Paris Saint-Germain"
+:match/awayteam "En Avant de Guingamp"
+:match/score "6:0"
+:match/hometeam_goals "6"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Serge Aurier"
+:event/player1 "Sylvain Marveaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450063"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Serge Aurier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4450069"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7345"}
+
+{:event/type "goal"
+:event/elapsed 2
+:event/player2 "Serge Aurier"
+:event/subtype "shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4450072"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Blaise Matuidi"
+:event/player1 "Lionel Mathis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450084"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7345"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Maxwell"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4450086"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Younousse Sankhare"
+:event/player1 "Javier Pastore"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4450098"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Marco Verratti"
+:event/player1 "Younousse Sankhare"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450119"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7345"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "short_left"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4450129"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Christophe Mandanne"
+:event/player1 "Marquinhos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4450138"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7345"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "direct_freekick"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4450143"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7345"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross_left"
+:event/player1 "Thibault Giresse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4450146"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7345"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "header"
+:event/player1 "Jeremy Sorbon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4450147"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Reynald Lemaitre"
+:event/player1 "Serge Aurier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4450154"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7345"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "deflected"
+:event/player1 "Lionel Mathis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4450159"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7345"}
+
+{:event/type "goal"
+:event/elapsed 18
+:event/player2 "Marco Verratti"
+:event/subtype "shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4450178"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/subtype "advantage"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4450205"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Jonas Loessl"
+:event/player1 "Javier Pastore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4450234"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Marco Verratti"
+:event/player1 "Younousse Sankhare"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450250"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7345"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "post"
+:event/player1 "Javier Pastore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4450265"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Edinson Cavani"
+:event/player1 "Lionel Mathis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450269"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Lars Jacobsen"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4450282"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7345"}
+
+{:event/type "card"
+:event/elapsed 30
+:event/card_type "y"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4450283"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Claudio Beauvue"
+:event/subtype "pushing"
+:event/player1 "Thiago Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4450287"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7345"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "direct_freekick"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4450288"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Younousse Sankhare"
+:event/player1 "Marco Verratti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4450309"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Sylvain Marveaux"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4450310"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Sylvain Marveaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4450318"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Younousse Sankhare"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4450358"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7345"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "direct_freekick"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4450360"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Marquinhos"
+:event/player1 "Christophe Mandanne"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450438"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Reynald Lemaitre"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4450441"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7345"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross_left"
+:event/player1 "Thibault Giresse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4450442"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Thibault Giresse"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4450447"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Thibault Giresse"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4450450"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7345"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player2 "Zlatan Ibrahimovic"
+:event/subtype "shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_4450464"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7345"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4450473"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7345"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4450477"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4450480"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Marco Verratti"
+:event/player1 "Younousse Sankhare"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450487"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7345"}
+
+{:event/type "card"
+:event/elapsed 55
+:event/card_type "y"
+:event/player1 "Younousse Sankhare"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4450488"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7345"}
+
+{:event/type "goal"
+:event/elapsed 56
+:event/player2 "Zlatan Ibrahimovic"
+:event/subtype "header"
+:event/player1 "Maxwell"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4450492"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7345"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "short_left"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4450522"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Serge Aurier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4450525"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Reynald Lemaitre"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4450553"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Lars Jacobsen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4450557"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7345"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "short_left"
+:event/player1 "Sylvain Marveaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4450560"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Lars Jacobsen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4450561"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7345"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "header"
+:event/player1 "Mustapha Diallo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4450562"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7345"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4450576"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Lucas Moura"
+:event/player1 "Mustapha Diallo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450585"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7345"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/player2 "Marco Verratti"
+:event/subtype "shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_4450588"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Javier Pastore"
+:event/player1 "Reynald Lemaitre"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450626"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7345"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "direct_freekick"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4450628"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7345"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross_right"
+:event/player1 "Lucas Moura"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4450630"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7345"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "header"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4450634"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Maxwell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4450651"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7345"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "big chance header"
+:event/player1 "Lucas Moura"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4450652"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Adrien Rabiot"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450668"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Jeremy Sorbon"
+:event/subtype "pull"
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4450676"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Maxwell"
+:event/player1 "Yannis Salibur"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450688"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Younousse Sankhare"
+:event/player1 "Marco Verratti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4450700"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Zlatan Ibrahimovic"
+:event/subtype "penalty"
+:event/player1 "Jeremy Sorbon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450717"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7345"}
+
+{:event/type "goal"
+:event/elapsed 90
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4450724"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7345"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Serge Aurier"
+:event/player1 "Reynald Lemaitre"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4450729"
+:event/minute 92
+:event/match_id "match_7345"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Reynald Lemaitre"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4450731"
+:event/minute 92
+:event/match_id "match_7345"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4450736"
+:event/minute 92
+:event/match_id "match_7345"}
+
+
+]
+

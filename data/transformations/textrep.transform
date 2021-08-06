@@ -1,0 +1,1004 @@
+[@target="textrep", @type="Match"]
+    The {@data.league} match between {@data.hometeam} and {@data.awayteam} ended {@data.score}.
+
+[@target="textrep", @type="Match", @condition="data.away_goals > 0 and data.home_goals> 0"]
+    The match between {@data.hometeam} and {@data.awayteam} ended {@data.score}.
+
+[@target="textrep", @type="Match", @condition="data.away_goals > 0"]
+    {@data.awayteam} met {@data.hometeam} for a {@data.league} game, scoring {@data.away_goals} goal. The game ended {@data.score}.
+
+[@target="textrep", @type="Match", @condition="data.away_goals == data.home_goals and data.home_goals > 0"]
+    The match between {@data.hometeam} and {@data.awayteam} ended in a {@data.score} tie.
+
+[@target="textrep", @type="Match", @condition="data.away_goals == data.home_goals and datahome_goals > 0"]
+    The match between {@data.hometeam} and {@data.awayteam} ended tied at {@data.score}.
+
+[@target="textrep", @type="Match", @condition="data.away_goals == data.home_goals and data.home_goals > 0"]
+    {@data.awayteam} visited {@data.hometeam} for the {@data.league}, scoring {@data.away_goals} goals. The game ended in a {@data.score} tie.
+
+[@target="textrep", @type="Match", @condition="data.away_goals == 0 and data.home_goals == 0"]
+    {@data.awayteam} visited {@data.hometeam} for the {@data.league}, scoring {@data.away_goals} goals. The game ended without goals.
+
+[@target="textrep", @type="Match", @condition="data.away_goals == 0 and data.home_goals == 0"]
+    The match between {@data.hometeam} and {@data.awayteam} ended without goals.
+
+[@target="textrep", @type="Match", @condition="data.away_goals == 0 and data.home_goals == 0"]
+    The match between {@data.hometeam} and {@data.awayteam} ended without either team scoring.
+
+[@target="textrep", @condition="data.type=='cross' and data.subtype=='cross' and not data.player1 and not data.player2"]
+    The {@data.team} team takes the ball.
+
+[@target="textrep", @condition="data.type=='cross' and data.subtype=='cross' and not data.player1 and not data.player2"]
+    The {@data.team} team {@data.team|teamfilter} takes the ball.
+
+[@target="textrep", @condition="data.type=='cross' and data.subtype=='cross' and not data.player1 and not data.player2"]
+    {@data.team|teamfilter} takes the ball.
+
+[@target="textrep", @condition="data.type == 'cross' and data.player1 and data.player2 and not data.player2 is None"]
+    {@data.player1|namefilter} passed the ball on to {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type == 'cross' and data.player1 and not hasattr(data, 'player2')"]
+    In minute {@data.minute} {@data.player1|namefilter} takes the ball.
+
+[@target="textrep", @condition="data.type == 'cross' and data.player1 and not hasattr(data, 'player2')"]
+    {@data.player1|namefilter} takes the ball.
+
+[@target="textrep", @condition="data.type == 'cross' and data.player1 and not hasattr(data, 'player2')"]
+    In minute {@data.minute} {@data.player1|namefilter} is on the ball.
+
+[@target="textrep", @condition="data.type == 'cross' and data.player1 and not hasattr(data, 'player2')"]
+    {@data.player1|namefilter} is on the ball.
+
+[@target="textrep", @condition="data.type == 'cross' and data.player1 and not hasattr(data, 'player2')"]
+    {@data.player1|namefilter} on the ball.
+
+[@target="textrep", @condition="data.type == 'cross' and data.player1 and not hasattr(data, 'player2')", @coref="they"]
+    In minute {@data.minute} {@data.player1|namefilter} take over the ball.
+
+[@target="textrep", @condition="data.type == 'cross' and data.player1 and not hasattr(data, 'player2')", @coref="They"]
+    {@data.player1|namefilter} take the ball.
+
+[@target="textrep", @condition="data.type == 'cross' and data.player1 and not hasattr(data, 'player2')"]
+    Ball to {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type == 'cross' and data.player1 and not hasattr(data, 'player2')"]
+    In minute {@data.minute} {@data.player1|namefilter} attempts a cross.
+
+[@target="textrep", @condition="data.type == 'cross' and data.player1 and not hasattr(data, 'player2')"]
+    {@data.player1|namefilter} shoots off.
+
+[@target="textrep", @condition="data.type == 'cross' and data.player1 and not hasattr(data, 'player2')", @coref="They"]
+    {@data.player1|namefilter} cross the ball.
+
+[@target="textrep", @condition="data.type == 'cross' and data.event_type=='throwin' and not data.player1 and not data.player2"]
+    The ball is thrown onto the field.
+
+[@target="textrep", @condition="data.type == 'cross' and data.event_type=='throwin' and not data.player1 and not data.player2"]
+    The ball is thrown in.
+
+[@target="textrep", @condition="data.type == 'cross' and data.event_type=='throwin' and not data.player1 and not data.player2"]
+    Minute {@data.minute}, the ball is thrown back onto the field.
+
+[@target="textrep", @condition="data.type == 'cross' and data.event_type=='throwin' and not data.player1 and not data.player2 and data.team != ''"]
+    The ball is thrown back onto the field by {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type == 'cross' and data.event_type=='throwin' and not data.player1 and not data.player2 and data.team != ''"]
+    Throwin by {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type == 'cross' and data.event_type=='throwin' and not data.player1 and not data.player2 and data.team != ''"]
+    Throwin through {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type == 'cross' and data.event_type=='throwin' and not data.player1 and not data.player2 and data.team != ''"]
+    {@data.team|teamfilter} throws the ball back into the field.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='shot' and data.player1"]
+    {@data.player1|namefilter} shoots on target.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='shot' and data.player1", @coref="They"]
+    {@data.player1|namefilter} shoot on target.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='shot' and data.player1", @coref="They"]
+    {@data.player1|namefilter} shoot towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='shot' and data.get('player1', None) is None"]
+    Shot attempt by {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='shot' and data.get('player1', None) is None"]
+    {@data.team|teamfilter} attempts a shot on target.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='shot' and data.get('player1', None) is None"]
+    {@data.team|teamfilter} attempts a shot towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype!='shot' and data.get('player1', None) is None"]
+    Shot attempt by {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype!='shot' and data.get('player1', None) is None"]
+    {@data.team|teamfilter} attempts a shot on target.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype!='shot' and data.get('player1', None) is None"]
+    {@data.team|teamfilter} attempts a shot towards the goal.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='shot' and data.get('player1', None) is None"]
+    Shot attempt by {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='shot' and data.get('player1', None) is None"]
+    {@data.team|teamfilter} attempts a shot on target.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='shot' and data.get('player1', None) is None"]
+    {@data.team|teamfilter} attempts a shot towards the goal.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype!='shot' and data.get('player1', None) is None"]
+    Shot attempt by {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype!='shot' and data.get('player1', None) is None"]
+    {@data.team|teamfilter} attempts a shot on target.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype!='shot' and data.get('player1', None) is None"]
+    {@data.team|teamfilter} attempts a shot towards the goal.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='direct_freekick' and data.player1"]
+    {@data.player1|namefilter} attempts a direct freekick.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='direct_freekick' and data.player1", @coref="They"]
+    {@data.player1|namefilter} attempt a direct freekick.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='direct_freekick' and data.player1"]
+    Direct freekick by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='direct_freekick' and data.player1", @coref="The player"]
+    {@data.player1|namefilter} performs a direct freekick.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='direct_freekick' and data.player1"]
+    {@data.player1|namefilter} direct kick.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='direct_freekick' and data.player1"]
+    {@data|p1team} player {@data.player1|namefilter} direct freekick misses.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='direct_freekick' and data.player1", @coref="The"]
+    {@data.player1|namefilter} {@data|p1team} player performs a direct freekick.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='direct_freekick' and data.player1"]
+    {@data.player1|namefilter} attempts a direct freekick towards the target.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='direct_freekick' and data.player1"]
+    {@data.player1|namefilter} attempts a direct freekick towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='direct_freekick' and data.player1"]
+    {@data.player1|namefilter} direct freekick towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='direct_freekick' and data.player1"]
+    {@data.player1|namefilter} direct kick towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='direct_freekick' and data.player1"]
+    {@data|p1team} player {@data.player1|namefilter} attempts to direct freekick.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='direct_freekick' and data.player1"]
+    {@data|p1team} player {@data.player1|namefilter} attempts direct freekick towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='direct_freekick' and data.player1"]
+   {@data|p1team} player {@data.player1|namefilter} direct freekick towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='volley' and data.player1"]
+    {@data.player1|namefilter} attempts to volley towards the target.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='volley' and data.player1"]
+    {@data.player1|namefilter} attempts to volley towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='volley' and data.player1", @coref="They"]
+    {@data.player1|namefilter} attempt to volley towards the target.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='volley' and data.player1", @coref="They"]
+    {@data.player1|namefilter} attempt to volley towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='volley' and data.player1"]
+    {@data.player1|namefilter} volleys towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='volley' and data.player1", @coref="They"]
+    {@data.player1|namefilter} volley towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='volley' and data.player1"]
+    {@data|p1team} player {@data.player1|namefilter} attempts to volley towards the target.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='volley' and data.player1"]
+    {@data|p1team} player {@data.player1|namefilter} attempts to volley towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='volley' and data.player1"]
+   {@data|p1team} player {@data.player1|namefilter} volleys towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1"]
+    {@data.player1|namefilter} shoots towards the target and is blocked.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1"]
+    {@data.player1|namefilter} shoots towards the goal but is blocked.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1"]
+    {@data.player1|namefilter} shoots towards the target but is blocked.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1"]
+    {@data.player1|namefilter} shoots towards the goal and is blocked.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1"]
+    {@data.player1|namefilter} is blocked while shooting.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1"]
+    {@data|p1team} player {@data.player1|namefilter} attempts to shoot towards the target, blocked.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1", @coref="Their"]
+    {@data.player1|namefilter} shot attempt on the goal is blocked.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1", @coref="Their"]
+    {@data.player1|namefilter} shot attempt is on target but blocked.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1"]
+    {@data|p1team} player {@data.player1|namefilter} makes an attempt towards the goal but the shot is blocked.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1"]
+   {@data|p1team} player {@data.player1|namefilter} shoots on the goal but the shot is blocked.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1 and not data.player2 is None"]
+   {@data|p1team} player {@data.player1|namefilter} shoots on the goal but the shot is blocked by {@data|p2team}'s {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1 and not data.player2 is None", @coref="Their"]
+    {@data.player1|namefilter} shot on the goal is blocked by {@data|p2team}'s {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='blocked_shot' and data.player1 and not data.player2 is None", @coref="Their"]
+    {@data.player1|namefilter} shot on the goal is blocked by {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='deflected' and data.player1"]
+    {@data.player1|namefilter} shoots and is deflected.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='deflected' and data.player1"]
+    {@data.player1|namefilter} shoots but is deflected.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='deflected' and data.player1"]
+    Shot by {@data.player1|namefilter} is deflected.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='deflected' and data.player1", @coref="Their"]
+    {@data.player1|namefilter} shot is deflected.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='deflected' and data.player1"]
+   {@data|p1team} player {@data.player1|namefilter} shoots but the shot is deflected.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='deflected' and data.player1 and not data.player2 is None"]
+   {@data|p1team} player {@data.player1|namefilter} shoots but the shot is deflected by {@data|p2team}'s {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='deflected' and data.player1"]
+    {@data.player1|namefilter} shoots towards the target and is deflected.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='deflected' and data.player1"]
+    {@data.player1|namefilter} shoots towards the goal but is deflected.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='deflected' and data.player1"]
+    {@data.player1|namefilter} shoots but is deflected.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='deflected' and data.player1"]
+    {@data.player1|namefilter} shoots towards the goal and is deflected.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='deflected' and data.player1", @coref="They"]
+    {@data.player1|namefilter} shoot towards the target and the ball is deflected.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='deflected' and data.player1", @coref="They"]
+    {@data.player1|namefilter} shoot towards the goal but the ball is deflected.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='deflected' and data.player1", @coref="They"]
+    {@data.player1|namefilter} shoot but the shot is deflected.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='deflected' and data.player1", @coref="They"]
+    {@data.player1|namefilter} shoot towards the goal and their shot is deflected.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='deflected' and data.player1"]
+    {@data|p1team} player {@data.player1|namefilter} attempts to shoot towards the target, deflected.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='deflected' and data.player1"]
+    {@data|p1team} player {@data.player1|namefilter} makes an attempt towards the goal but the shot is deflected.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='deflected' and data.player1"]
+   {@data|p1team} player {@data.player1|namefilter} shoots on the goal but the shot is deflected.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='deflected' and data.player1 and not data.player2 is None"]
+   {@data|p1team} player {@data.player1|namefilter} shoots on the goal but the shot is deflected by {@data|p2team}'s {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='header' and data.player1"]
+    {@data.player1|namefilter} shoots towards the target with a header.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='header' and data.player1"]
+    {@data.player1|namefilter} shoots heads the ball towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='header' and data.player1"]
+    {@data.player1|namefilter} moves on target by heading the ball.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='header' and data.player1"]
+    {@data.player1|namefilter} heads the ball for the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='header' and data.player1", @coref="They"]
+    {@data.player1|namefilter} head the ball towards the goal.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='header' and data.player1", @coref="They"]
+    {@data.player1|namefilter} head the ball on target.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='header' and data.player1"]
+    {@data|p1team} player {@data.player1|namefilter} attempts to get the ball towards the target by heading.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='header' and data.player1"]
+    {@data|p1team} player {@data.player1|namefilter} makes an attempt towards the goal by heading.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='header' and data.player1"]
+   {@data|p1team} player {@data.player1|namefilter} heads the ball onto the goal.
+
+[@target="textrep", @condition="data.type=='foulcommit' and not data.subtype and not data.player1 and not data.player2"]
+    Foul by {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype and data.player1 and not data.player2"]
+    Foul by {@data.team|teamfilter} player {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype and data.player1 and not data.player2"]
+    Foul by {@data.team|teamfilter}'s {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype and not data.player1 and not data.player2"]
+    Foul by {@data.team|teamfilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype and not data.player1 and not data.player2"]
+    {@data.subtype|clean} foul by {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='penalty' and not data.player1 is None and not data.player2"]
+    Penalty for {@data.player1|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='penalty' and not data.player1 is None and not data.player2"]
+    Penalty for {@data|p1team} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='penalty' and not data.player1 is None and not data.player2", @coref="them"]
+    A penalty is given to {@data.player1|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='penalty' and not data.player1 is None and not data.player2", @coref="player"]
+    Penalty for the {@data|p1team} {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='penalty' and not data.player1 is None and data.player2"]
+    Penalty for {@data.player1|namefilter} in minute {@data.minute} after incident with {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='penalty' and not data.player1 is None and data.player2"]
+    Penalty for {@data|p1team} player {@data.player1|namefilter} after incident with {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='penalty' and not data.player1 is None and data.player2"]
+    Incident between {@data|p1team} player {@data.player1|namefilter} and {@data.player2|namefilter} results in penalty.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='penalty' and not data.player1 is None and data.player2"]
+    Foul by {@data|p1team} player {@data.player1|namefilter} against {@data.player2|namefilter} results in penalty.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='penalty' and not data.player1 is None and data.player2"]
+    Foul by {@data.player1|namefilter} against {@data.player2|namefilter} results in a penalty.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='penalty' and not data.player1 is None and data.player2"]
+    Foul by {@data.player1|namefilter} against {@data.player2|namefilter} results in penalty.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='trip' and not data.player1 is None and not data.player2"]
+    {@data.player1|namefilter} trip foul in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='trip' and not data.player1 is None and not data.player2"]
+    {@data.player1|namefilter} trips player in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='trip' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} fouls {@data.player2|namefilter} in minute {@data.minute} (tripped).
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='trip' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} trips {@data.player2|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='trip' and not data.player1 is None and not data.player2 is None"]
+    {@data.player2|namefilter} is tripped by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='trip' and not data.player1 is None and not data.player2 is None"]
+    {@data.player2|namefilter} is tripped by {@data|p1team} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='trip' and not data.player1 is None and not data.player2 is None"]
+    {@data|p2team} player {@data.player2|namefilter} is tripped by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='diving' and not data.player1 is None"]
+    Diving foul by {@data|p1team}'s {@data.player1|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='diving' and not data.player1 is None"]
+    Diving by {@data|p1team} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='diving' and not data.player1 is None"]
+    Foul in minute {@data.minute}: Diving by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='diving' and not data.player1 is None"]
+    {@data.player1|namefilter} solo foul, diving.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='diving' and not data.player1 is None"]
+    {@data.player1|namefilter} solo foul, falling to the ground or feigning an injury.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='hands' and not data.player1 is None"]
+    Handball by {@data|p1team}'s {@data.player1|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='hands' and not data.player1 is None"]
+    Deliberate handball by {@data|p1team} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='hands' and not data.player1 is None"]
+    Foul in minute {@data.minute}: Handball by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='hands' and not data.player1 is None"]
+    {@data.player1|namefilter} solo foul, handball.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='cross_left'"]
+    Left corner kick in minute {@data.minute} is shot off by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='serious_foul' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} fouls {@data.player2|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='serious_foul' and not data.player1 is None and not data.player2 is None"]
+    {@data|p1team}'s {@data.player1|namefilter} fouls {@data|p2team} player {@data.player2|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='serious_foul' and not data.player1 is None and not data.player2 is None"]
+    Serious foul by {@data.player1|namefilter} on {@data.player2|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='serious_foul' and not data.player1 is None and not data.player2 is None"]
+    Serious foul by {@data.player1|namefilter} on {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='serious_foul' and not data.player1 is None and not data.player2 is None"]
+    Serious foul by {@data.player1|namefilter} against {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='serious_foul' and not data.player1 is None and not data.player2 is None"]
+    Minute {@data.minute}: Serious foul by {@data.player1|namefilter} on {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='shirt_pull' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} fouls {@data.player2|namefilter} in minute {@data.minute} by pulling their shirt.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='shirt_pull' and not data.player1 is None and not data.player2 is None"]
+    {@data|p1team}'s {@data.player1|namefilter} fouls {@data|p2team} player {@data.player2|namefilter} in minute {@data.minute}, pulling their shirt.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='shirt_pull' and not data.player1 is None and not data.player2 is None"]
+    Shirt pull by {@data.player1|namefilter} on {@data.player2|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='shirt_pull' and not data.player1 is None and not data.player2 is None"]
+    Shirt pulling by {@data.player1|namefilter} on {@data.player2|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='shirt_pull' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} pulls against {@data.player2|namefilter}s shirt.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='shirt_pull' and not data.player1 is None and not data.player2 is None", @coref="They"]
+    {@data.player1|namefilter} pull against {@data.player2|namefilter}s shirt.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='shirt_pull' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} pulls on the shirt of {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='shirt_pull' and not data.player1 is None and not data.player2 is None"]
+    Minute {@data.minute}: Shirt pull on {@data.player2|namefilter} by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='advantage' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} fouls {@data.player2|namefilter} in minute {@data.minute}, advantage given.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='advantage' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} fouls {@data.player2|namefilter} in minute {@data.minute}, advantage.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='obstruction' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} fouls {@data.player2|namefilter} in minute {@data.minute} by obstructing.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='obstruction' and not data.player1 is None and not data.player2 is None"]
+    {@data|p1team}'s {@data.player1|namefilter} fouls {@data|p2team} player {@data.player2|namefilter} in minute {@data.minute}, obstructing them.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='obstruction' and not data.player1 is None and not data.player2 is None"]
+    Obstruction foul by {@data.player1|namefilter} on {@data.player2|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='obstruction' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} obstructs {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='obstruction' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} obstruction against {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='obstruction' and not data.player1 is None and not data.player2 is None"]
+    Obstruction by {@data.player1|namefilter} against {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pull' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} fouls {@data.player2|namefilter} in minute {@data.minute} by pulling.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pull' and not data.player1 is None and not data.player2 is None"]
+    {@data|p1team}'s {@data.player1|namefilter} fouls {@data|p2team} player {@data.player2|namefilter} in minute {@data.minute}, pulling them.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pull' and not data.player1 is None and not data.player2 is None"]
+    Pull by {@data.player1|namefilter} on {@data.player2|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pull' and not data.player1 is None and not data.player2 is None"]
+    Pulling by {@data.player1|namefilter} on {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pull' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} pulls against {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pull' and not data.player1 is None and not data.player2 is None", @coref="They"]
+    {@data.player1|namefilter} pull against {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pull' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} pulls on {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pull' and not data.player1 is None and not data.player2 is None"]
+    Pull by {@data.player1|namefilter} on {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pushing' and not data.player2"]
+    {@data.player1|namefilter} fouls in minute {@data.minute} by pushing.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pushing' and not data.player2"]
+    {@data|p1team}'s {@data.player1|namefilter} fouls {@data|p2team} player in minute {@data.minute}, pushing them.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pushing' and not data.player2"]
+    {@data.player1|namefilter} pushes opponent in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pushing' and not data.player2"]
+    {@data.player1|namefilter} pushes an opponent in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pushing' and not data.player2"]
+    {@data.player1|namefilter} pushes against opponent {@data|p2team} player.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pushing'"]
+    {@data.player1|namefilter} fouls {@data.player2|namefilter} in minute {@data.minute} by pushing.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pushing'"]
+    {@data|p1team}'s {@data.player1|namefilter} fouls {@data|p2team} player {@data.player2|namefilter} in minute {@data.minute}, pushing them.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pushing'"]
+    {@data.player1|namefilter} pushes {@data.player2|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pushing'"]
+    {@data.player2|namefilter} pushed by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pushing'"]
+    {@data.player1|namefilter} pushes against {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='pushing'"]
+    Minute {@data.minute}: Push by {@data.player1|namefilter} on {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    {@data.player1|namefilter} fouls opponent in minute {@data.minute} by tackling from behind.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    {@data|p1team}'s {@data.player1|namefilter} fouls {@data|p2team} opponent player in minute {@data.minute}, tackling them from behind.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    {@data.player1|namefilter} tackles opponent from behind in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    Opponent player is tackled from behind by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    {@data.player1|namefilter} tackles opponent from behind.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    Tackle from behind by {@data.player1|namefilter} on opponent.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    Tackle from behind foul by {@data.player1|namefilter} on opponent.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    {@data.player1|namefilter} fouls {@data.player2|namefilter} in minute {@data.minute} by tackling from behind.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    {@data|p1team}'s {@data.player1|namefilter} fouls {@data|p2team} player {@data.player2|namefilter} in minute {@data.minute}, tackling them from behind.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    {@data.player1|namefilter} tackles {@data.player2|namefilter} from behind in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    {@data.player2|namefilter} is tackled from behind by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    {@data.player1|namefilter} tackles {@data.player2|namefilter} from behind.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    Minute {@data.minute}: Tackle from behind by {@data.player1|namefilter} on {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='from_behind'"]
+    Minute {@data.minute}: Tackle from behind foul by {@data.player1|namefilter} on {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='dangerous_play' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} fouls {@data.player2|namefilter} in minute {@data.minute} through dangerous play.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='dangerous_play' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter} fouls {@data.player2|namefilter} through dangerous play.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='dangerous_play' and not data.player1 is None and not data.player2 is None"]
+    {@data.player1|namefilter}'s plays dangerously, fouls {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='dangerous_play' and not data.player1 is None and not data.player2 is None"]
+    {@data|p1team}'s {@data.player1|namefilter} dangerously fouls {@data|p2team} player {@data.player2|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='dangerous_play' and not data.player1 is None and not data.player2 is None"]
+    Dangerous play foul by {@data.player1|namefilter} on {@data.player2|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='dangerous_play' and not data.player1 is None and not data.player2 is None"]
+    Dangerous foul by {@data.player1|namefilter} on {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='dangerous_play' and not data.player1 is None and not data.player2 is None"]
+    Dangerous foul by {@data.player1|namefilter} against {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='foulcommit' and data.subtype=='dangerous_play' and not data.player1 is None and not data.player2 is None"]
+    Minute {@data.minute}: Dangerous foul by {@data.player1|namefilter} on {@data.player2|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='short_right'"]
+    Short right corner in minute {@data.minute} is shot off by {@data|p1team} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='short_right'"]
+    Short right corner by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='short_right'"]
+    {@data.player1|namefilter} shoots off corner, short right.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='short_left'"]
+    Short left corner in minute {@data.minute} is shot off by {@data|p1team} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='short_left'"]
+    Short left corner by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='short_left'"]
+    {@data.player1|namefilter} shoots off corner, short left.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='short'"]
+    Short corner in minute {@data.minute} is shot off by {@data|p1team} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='short'"]
+    Short corner by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='short'"]
+    {@data.player1|namefilter} shoots off corner, short.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='cross'"]
+    Corner cross in minute {@data.minute} is shot off by {@data|p1team} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='cross'"]
+    Corner cross by {@data.player1|namefilter}.
+
+[@target="textrep", @coref="They", @condition="data.type=='corner' and data.subtype=='cross'"]
+    {@data.player1|namefilter} shoot off a corner cross.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='cross_left'"]
+    Left corner kick in minute {@data.minute} is shot off by {@data|p1team} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='cross_left'"]
+    Corner kick-off by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='cross_left'"]
+    Corner kick-off by {@data.player1|namefilter} on the left.
+
+[@target="textrep", @condition="data.type=='corner' and not data.player1 and not data.player2"]
+    The {@data.team} team {@data.team|teamfilter} executes a corner.
+
+[@target="textrep", @condition="data.type=='corner' and not data.player1 and not data.player2"]
+    Corner by {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='cross_right'"]
+    Right corner kick in minute {@data.minute} is shot off by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='cross_right'"]
+    Right corner kick in minute {@data.minute} is shot off by {@data|p1team} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='cross_right'"]
+    Corner kick-off by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='corner' and data.subtype=='cross_right'"]
+    Corner kick-off by {@data.player1|namefilter} on the right.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='bad shot'"]
+    Bad shot by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='bad shot'"]
+    {@data.player1|namefilter}: bad shot attempt.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='bad shot'"]
+    Bad shot by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='bad shot'"]
+    Ineffective shot by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='crossbar'"]
+    Shot off the crossbar by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='crossbar'"]
+    {@data.player1|namefilter}: Shot off the crossbar.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='crossbar'"]
+    {@data.player1|namefilter} shoots and hits the crossbar.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='crossbar'"]
+    The shot attempt by {@data|p1team}'s {@data.player1|namefilter} hits off the crossbar.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='post'"]
+    Shot off the goalpost by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='post'"]
+    {@data.player1|namefilter}: Shot off the goalpost.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='post'"]
+    {@data.player1|namefilter} shoots and hits the goalpost.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='post'"]
+    The shot attempt by {@data|p1team}'s {@data.player1|namefilter} hits off the goalpost.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='post'"]
+    Shot off the goal post by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='post'"]
+    {@data.player1|namefilter}: Shot off the goal post.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='post'"]
+    {@data.player1|namefilter} shoots and hits the goal post.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='post'"]
+    The shot attempt by {@data|p1team}'s {@data.player1|namefilter} is deflected by the goal post.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='post'"]
+    Shot off the post by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='post'"]
+    {@data.player1|namefilter}: Shot off the post.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='post'"]
+    {@data.player1|namefilter} shoots and hits the post.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='post'"]
+    Shot attempt by {@data|p1team}'s {@data.player1|namefilter} deflected by the post.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='shot'"]
+    Shot attempt by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='shot'"]
+    Shot off target by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='shot'"]
+    {@data|p1team}'s {@data.player1|namefilter} shoots and misses.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='shot'"]
+    {@data.player1|namefilter}: shot attempt missed.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='shot'"]
+    Missed shot by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='shot'"]
+    Shot by {@data|p1team}'s {@data.player1|namefilter} misses.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='distance'"]
+    {@data|p1team}'s {@data.player1|namefilter} shoots the ball towards the goal from a distance.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='distance'"]
+    Distant goal shot through {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='distance'"]
+    Distant shot by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shoton' and data.subtype=='distance'"]
+    The ball is shot onto the goal by {@data|p1team}'s {@data.player1|namefilter} from a distance.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='distance'"]
+    {@data|p1team}'s {@data.player1|namefilter} shoots the ball.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='distance'"]
+    {@data.player1|namefilter} shoots off into the distance.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='distance'"]
+    Distant shotoff by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='distance'"]
+    The ball is shot off by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='big chance shot'"]
+    {@data|p1team}'s {@data.player1|namefilter} shoots the ball, misses a big chance.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='big chance shot'"]
+    {@data|p1team}'s {@data.player1|namefilter} strikes a big chance shot but misses.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='big chance shot'"]
+    Big chance shot by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='big chance shot'"]
+    Big chance shot by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='big chance shot'"]
+    Big chance shot by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='big chance volley'"]
+    {@data|p1team}'s {@data.player1|namefilter} volleys the ball, misses a big chance.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='big chance volley'"]
+    {@data|p1team}'s {@data.player1|namefilter} strikes a big chance volley but misses.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='big chance volley'"]
+    Big chance volley by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='big chance volley'"]
+    Big chance volley shot by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='big chance volley'"]
+    Big chance volley shot by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='volley'"]
+    {@data|p1team}'s {@data.player1|namefilter} volleys the ball.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='volley'"]
+    {@data|p1team}'s {@data.player1|namefilter} strikes a volley.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='volley'"]
+    Volley shot by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='volley'"]
+    Volley shot by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='volley'"]
+    Volley shot by {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='header' and data.player1"]
+    {@data.player1|namefilter} shoots heads the ball.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='header' and data.player1"]
+    {@data.player1|namefilter} heads the ball but misses the goal.
+
+[@target="textrep", @condition="data.type=='shotoff' and data.subtype=='header' and data.player1"]
+    {@data|p1team} player {@data.player1|namefilter} heads the ball.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and not data.subtype"]
+    Yellow card for {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and not data.subtype"]
+    Yellow penalty for {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and not data.subtype"]
+    Yellow card for {@data|p1team} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and not data.subtype"]
+    {@data|p1team}'s {@data.player1|namefilter} is shown the yellow card.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and not data.subtype", @coref="They"]
+    {@data.player1|namefilter} are shown the yellow card.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and not data.subtype"]
+    Yellow card for {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and not data.subtype"]
+    Penalty card (yellow) for {@data.player1|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and not data.subtype"]
+    Red card for {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and not data.subtype"]
+    Red card penalty for {@data|p1team}'s {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and not data.subtype"]
+    Red card for {@data|p1team} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and not data.subtype"]
+    {@data|p1team}'s {@data.player1|namefilter} is shown the red card.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and not data.subtype", @coref="They"]
+    {@data.player1|namefilter} are shown the red card.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and not data.subtype"]
+    Red card for {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and not data.subtype"]
+    Penalty card (red) for {@data.player1|namefilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and data.subtype!=''"]
+    Yellow card for {@data|p1team}'s {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and data.subtype!=''"]
+    Yellow penalty for {@data|p1team}'s {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and data.subtype!=''"]
+    Yellow card for {@data|p1team} player {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and data.subtype!=''"]
+    {@data|p1team}'s {@data.player1|namefilter} is shown the yellow card ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and data.subtype!=''"]
+    Yellow card for {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='y' and data.subtype!=''"]
+    Penalty card (yellow) for {@data.player1|namefilter} in minute {@data.minute} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and data.subtype!=''"]
+    Red card for {@data|p1team}'s {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and data.subtype!=''"]
+    Red card penalty for {@data|p1team}'s {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and data.subtype!=''"]
+    Red card for {@data|p1team} player {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and data.subtype!=''"]
+    {@data|p1team}'s {@data.player1|namefilter} is shown the red card ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and data.subtype!=''"]
+    Red card for {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.card_type=='r' and data.subtype!=''"]
+    Penalty card (red) for {@data.player1|namefilter} in minute {@data.minute} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.get('card_type', None) is None and data.subtype!=''"]
+    Card for {@data|p1team}'s {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.get('card_type', None) is None and data.subtype!=''"]
+    Card penalty for {@data|p1team}'s {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.get('card_type', None) is None and data.subtype!=''"]
+    Card for {@data|p1team} player {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.get('card_type', None) is None and data.subtype!=''"]
+    {@data|p1team}'s {@data.player1|namefilter} is shown a card ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.get('card_type', None) is None and data.subtype!=''"]
+    Penalty for {@data.player1|namefilter} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='card' and data.get('card_type', None) is None and data.subtype!=''"]
+    Penalty card for {@data.player1|namefilter} in minute {@data.minute} ({@data.subtype|clean}).
+
+[@target="textrep", @condition="data.type=='possession'"]
+    Possession stats in minute {@data.minute}: {@data.homepos}% for the home team, {@data.awaypos}% for the away team.
+
+[@target="textrep", @condition="data.type=='possession'"]
+    Ball possession stats in minute {@data.minute}: {@data.homepos}% for the home team, {@data.awaypos}% for the away team.
+
+[@target="textrep", @condition="data.type=='possession'"]
+    Possession stats in minute {@data.minute}: {@data.homepos}% for {@data|hometeam}, {@data.awaypos}% for {@data|awayteam}.
+
+[@target="textrep", @condition="data.type=='possession'"]
+    Ball possession stats in minute {@data.minute}: {@data.homepos}% for {@data|hometeam}, {@data.awaypos}% for their guests.
+
+[@target="textrep", @condition="data.type=='possession'"]
+    Ball possession after {@data.minute} minutes is {@data.homepos}% for {@data|hometeam}, {@data.awaypos}% for their guests.
+
+[@target="textrep", @condition="data.type=='possession'"]
+    Ball possession after {@data.minute} minutes is {@data.homepos}% for {@data|hometeam}, {@data.awaypos}% for {@data|awayteam}.
+
+[@target="textrep", @condition="data.type=='goal' and not data.player1"]
+    The {@data.team} team {@data.team|teamfilter} scores a goal.
+
+[@target="textrep", @condition="data.type=='goal' and not data.player1"]
+    {@data.team|teamfilter} scores a goal.
+
+[@target="textrep", @condition="data.type=='goal' and not data.player1"]
+    {@data.team|teamfilter} scores.
+
+[@target="textrep", @condition="data.type=='goal' and not data.player1 and data.team=='home'"]
+    {@data.team|teamfilter} scores at home.
+
+[@target="textrep", @condition="data.type=='goal' and not data.player1 and data.team=='home'"]
+    {@data.team|teamfilter} scores against their visitors.
+
+[@target="textrep", @condition="data.type=='goal' and not data.player1 and data.team=='away'"]
+    {@data.team|teamfilter} scores against their hosts.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1"]
+    {@data.team|teamfilter} player {@data.player1|namefilter} scores a goal.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1"]
+    Player {@data.player1|namefilter} scores for {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1"]
+    {@data.player1|namefilter} scores for {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1"]
+    Goal by {@data.player1|namefilter} for {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1"]
+    Goal by {@data.team|teamfilter} player {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1"]
+    Goal for the {@data.team} team by {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1", @coref="They"]
+    {@data.player1|namefilter} score a goal for the {@data.team} team.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1"]
+    The {@data.team} team {@data.team|teamfilter} scores through {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1"]
+    The {@data.team} team {@data.team|teamfilter} scores a goal through {@data.player1|namefilter}.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1"]
+    {@data.player1|namefilter} scores a goal for the {@data.team} team {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1", @coref="They"]
+    {@data.player1|namefilter} score for the {@data.team} team {@data.team|teamfilter}.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1"]
+    {@data.player1|namefilter} scores a goal for the {@data.team} team {@data.team|teamfilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1", @coref="They"]
+    {@data.player1|namefilter} score a goal for the {@data.team} team {@data.team|teamfilter} in minute {@data.minute}.
+
+[@target="textrep", @condition="data.type=='goal' and data.player1"]
+    {@data.player1|namefilter} scores a minute {@data.minute} goal for the {@data.team} team {@data.team|teamfilter}.

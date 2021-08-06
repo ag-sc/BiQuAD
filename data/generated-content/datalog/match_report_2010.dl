@@ -1,0 +1,1356 @@
+
+;;# data
+[
+{:match/id "match_2010"
+:match/league "England Premier League"
+:match/hometeam "Sunderland"
+:match/awayteam "Everton"
+:match/score "0:2"
+:match/hometeam_goals "0"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Steed Malbranque"
+:event/player1 "Tim Cahill"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_669210"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_669213"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669217"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2010"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669217"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_669247"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Dan Gosling"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_669253"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2010"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Dan Gosling"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_669253"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2010"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "header"
+:event/player1 "Tim Cahill"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_669254"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Dan Gosling"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_669259"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_669261"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2010"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Kenwyne Jones"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_669267"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2010"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "distance"
+:event/player1 "Tim Cahill"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_669276"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Leighton Baines"
+:event/subtype "shirt_pull"
+:event/player1 "Kenwyne Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669286"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2010"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "shot"
+:event/player1 "Jo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_669317"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Tim Howard"
+:event/player1 "Kieran Richardson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669328"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Leighton Baines"
+:event/subtype "pushing"
+:event/player1 "Djibril Cisse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669342"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Dean Whitehead"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_669368"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669370"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2010"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669370"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2010"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "blocked_shot"
+:event/player1 "Djibril Cisse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_669382"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669384"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2010"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669384"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2010"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "header"
+:event/player1 "Calum Davenport"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_669386"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Tim Cahill"
+:event/player1 "unknown"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669393"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Kenwyne Jones"
+:event/player1 "Tim Cahill"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_669404"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Dean Whitehead"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_669415"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2010"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_669423"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Danny Collins"
+:event/subtype "pushing"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_669425"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_669437"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Steed Malbranque"
+:event/subtype "pushing"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_669448"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Jo"
+:event/subtype "shirt_pull"
+:event/player1 "Calum Davenport"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669455"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2010"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Calum Davenport"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_669456"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2010"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "deflected"
+:event/player1 "Steven Pienaar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_669461"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_669463"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2010"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "deflected"
+:event/player1 "Jo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_669469"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_669477"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2010"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_669477"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Phil Bardsley"
+:event/player1 "Joseph Yobo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_669479"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Steven Pienaar"
+:event/subtype "from_behind"
+:event/player1 "Phil Bardsley"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669498"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Marouane Fellaini"
+:event/player1 "Calum Davenport"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669503"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669515"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2010"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669515"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_669527"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2010"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "blocked_shot"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_669534"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_669535"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Steven Pienaar"
+:event/player1 "Kieran Richardson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669549"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_669554"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Marouane Fellaini"
+:event/subtype "shirt_pull"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669574"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2010"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_669575"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/subtype "hands"
+:event/player1 "Phil Bardsley"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669586"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Kieran Richardson"
+:event/subtype "serious_foul"
+:event/player1 "Dan Gosling"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_669601"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_669619"
+:event/minute 46
+:event/match_id "match_2010"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Jo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_669621"
+:event/minute 46
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/player2 "Kieran Richardson"
+:event/subtype "from_behind"
+:event/player1 "Philip Neville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_669659"
+:event/minute 48
+:event/match_id "match_2010"}
+
+{:event/type "goal"
+:event/elapsed 48
+:event/player2 "Jo"
+:event/subtype "shot"
+:event/player1 "Steven Pienaar"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_669780"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Steed Malbranque"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_669788"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_669790"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669795"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2010"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669795"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2010"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "header"
+:event/player1 "Danny Collins"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_669797"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_669805"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669809"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2010"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669809"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2010"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "distance"
+:event/player1 "Phil Bardsley"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_669812"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/subtype "hands"
+:event/player1 "Jo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_669832"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2010"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "deflected"
+:event/player1 "Djibril Cisse"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_669839"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669843"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2010"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669843"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Steven Pienaar"
+:event/player1 "Steed Malbranque"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669847"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_669855"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2010"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "blocked_shot"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_669861"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Dan Gosling"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_669867"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Danny Collins"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_669871"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Phil Bardsley"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_669873"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_669877"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/subtype "hands"
+:event/player1 "Philip Neville"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_669891"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_2010"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "direct_freekick"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_669894"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_669899"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2010"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "distance"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_669905"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Steven Pienaar"
+:event/player1 "Phil Bardsley"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669909"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Steven Pienaar"
+:event/player1 "Dean Whitehead"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669911"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_669920"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2010"}
+
+{:event/type "goal"
+:event/elapsed 71
+:event/player2 "Steven Pienaar"
+:event/subtype "shot"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_669924"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Dan Gosling"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_669937"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2010"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Dan Gosling"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_669937"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2010"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "header"
+:event/player1 "Tim Cahill"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_669938"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Steed Malbranque"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_669943"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2010"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "distance"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_669945"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Jo"
+:event/player1 "Anton Ferdinand"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669950"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2010"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "distance"
+:event/player1 "Steed Malbranque"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_669962"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669965"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2010"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669965"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Tim Cahill"
+:event/player1 "Danny Collins"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_669966"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Philip Neville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_669970"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2010"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "header"
+:event/player1 "Jo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_669971"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Steed Malbranque"
+:event/subtype "pushing"
+:event/player1 "Tim Cahill"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_669973"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2010"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Tim Cahill"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_669975"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2010"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "blocked_shot"
+:event/player1 "Kenwyne Jones"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_669979"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Steed Malbranque"
+:event/subtype "serious_foul"
+:event/player1 "Steven Pienaar"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_669982"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2010"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Steven Pienaar"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "card"
+:event/id "event_669983"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669993"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2010"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_669993"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Dean Whitehead"
+:event/subtype "from_behind"
+:event/player1 "Dan Gosling"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_670026"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2010"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Dan Gosling"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_670028"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Anton Ferdinand"
+:event/subtype "serious_foul"
+:event/player1 "Louis Saha"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_670030"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2010"}
+
+{:event/type "card"
+:event/elapsed 85
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Louis Saha"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_670031"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_670059"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2010"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Steven Pienaar"
+:event/subtype "serious_foul"
+:event/player1 "Phil Bardsley"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_670085"
+:event/minute 91
+:event/match_id "match_2010"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Phil Bardsley"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_670086"
+:event/minute 92
+:event/match_id "match_2010"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "David Healy"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_670096"
+:event/minute 92
+:event/match_id "match_2010"}
+
+
+]
+

@@ -1,0 +1,928 @@
+
+;;# data
+[
+{:match/id "match_4216"
+:match/league "England Premier League"
+:match/hometeam "Newcastle United"
+:match/awayteam "Manchester United"
+:match/score "0:1"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Mehdi Abeid"
+:event/player1 "Wayne Rooney"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4226595"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4226631"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Moussa Sissoko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4226658"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4216"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross_left"
+:event/player1 "Ryan Taylor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4226663"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Antonio Valencia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4226674"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Angel Di Maria"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4226685"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Ander Herrera"
+:event/player1 "Mehdi Abeid"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4226701"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Marcos Rojo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4226713"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4216"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "bad shot"
+:event/player1 "Emmanuel Riviere"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4226720"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Gabriel Obertan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4226772"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4216"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "blocked_shot"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4226789"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4216"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "distance"
+:event/player1 "Ander Herrera"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4226797"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Gabriel Obertan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4226812"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Mehdi Abeid"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4226823"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4226838"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Moussa Sissoko"
+:event/player1 "Ander Herrera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4226887"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Marouane Fellaini"
+:event/player1 "Mehdi Abeid"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4226919"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4216"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross_right"
+:event/player1 "Ashley Young"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4226933"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4216"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "big chance shot"
+:event/player1 "Wayne Rooney"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4227002"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Angel Di Maria"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227069"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Mike Williamson"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227112"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Daley Blind"
+:event/player1 "Mehdi Abeid"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4227147"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4216"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "bad shot"
+:event/player1 "Papiss Cisse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4227160"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227195"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4216"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "volley"
+:event/player1 "Angel Di Maria"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4227199"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Papiss Cisse"
+:event/player1 "Jonny Evans"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227208"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Gabriel Obertan"
+:event/player1 "Marcos Rojo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227222"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Ryan Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4227231"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4216"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross_left"
+:event/player1 "Ryan Taylor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4227239"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Wayne Rooney"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227261"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4216"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "header"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4227277"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Antonio Valencia"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227300"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Mike Williamson"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227305"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Angel Di Maria"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227422"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4216"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "distance"
+:event/player1 "Marcos Rojo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4227426"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Sammy Ameobi"
+:event/player1 "Daley Blind"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227431"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Ryan Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4227435"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4216"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "big chance shot"
+:event/player1 "Emmanuel Riviere"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4227440"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4216"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross_right"
+:event/player1 "Sammy Ameobi"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4227447"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4216"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross_left"
+:event/player1 "Ryan Taylor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4227456"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Ryan Taylor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4227479"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Jonny Evans"
+:event/player1 "Emmanuel Riviere"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4227497"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Angel Di Maria"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227518"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4216"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "shot"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4227520"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4216"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "big chance shot"
+:event/player1 "Ashley Young"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4227522"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4216"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "distance"
+:event/player1 "Marcos Rojo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4227526"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Gabriel Obertan"
+:event/player1 "Marcos Rojo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227532"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Ryan Taylor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4227539"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Gabriel Obertan"
+:event/subtype "obstruction"
+:event/player1 "Marcos Rojo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227605"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4216"}
+
+{:event/type "card"
+:event/elapsed 60
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Marcos Rojo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4227610"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Adnan Januzaj"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227639"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Adnan Januzaj"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4227748"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4216"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4227750"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227756"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4216"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Papiss Cisse"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4227762"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227797"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Ayoze Perez"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227833"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Adnan Januzaj"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227856"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Marcos Rojo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227871"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4216"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "header"
+:event/player1 "Wayne Rooney"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4227875"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227924"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227939"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Ayoze Perez"
+:event/player1 "Chris Smalling"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227956"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Moussa Sissoko"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4227959"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Papiss Cisse"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4227985"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Yoan Gouffran"
+:event/player1 "Antonio Valencia"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4228006"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4216"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/player1 "Antonio Valencia"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4228008"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Marcos Rojo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4228041"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Mehdi Abeid"
+:event/player1 "Marcos Rojo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4228049"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4216"}
+
+{:event/type "goal"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Ashley Young"
+:event/sortorder 5
+:event/team "away"
+:event/id "event_4228097"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Moussa Sissoko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4228117"
+:event/minute 91
+:event/match_id "match_4216"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Papiss Cisse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4228120"
+:event/minute 91
+:event/match_id "match_4216"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Ashley Young"
+:event/player1 "Daryl Janmaat"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4228125"
+:event/minute 91
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_4228150"
+:event/minute 93
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4228176"
+:event/minute 94
+:event/match_id "match_4216"}
+
+{:event/type "cross"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Daryl Janmaat"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4228178"
+:event/minute 95
+:event/match_id "match_4216"}
+
+
+]
+

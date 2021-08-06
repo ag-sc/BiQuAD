@@ -1,0 +1,934 @@
+
+;;# data
+[
+{:match/id "match_7482"
+:match/league "France Ligue 1"
+:match/hometeam "FC Lorient"
+:match/awayteam "Paris Saint-Germain"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Ibrahim Didier Ndong"
+:event/subtype "pushing"
+:event/player1 "Adrien Rabiot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5038587"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Lamine Gassama"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5038815"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7482"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "distance"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5038885"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7482"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "distance"
+:event/player1 "Benjamin Jeannot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5038920"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7482"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross_left"
+:event/player1 "Maxime Barthelme"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5038931"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7482"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "blocked_header"
+:event/player1 "Lamine Kone"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5038934"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Blaise Matuidi"
+:event/player1 "Vincent Le Goff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5038949"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7482"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross_left"
+:event/player1 "Maxime Barthelme"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5038988"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Blaise Matuidi"
+:event/subtype "trip"
+:event/player1 "Ibrahim Didier Ndong"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039024"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7482"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "blocked_shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5039044"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Vincent Le Goff"
+:event/player1 "Lucas Moura"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039052"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Hervin Ongenda"
+:event/subtype "from_behind"
+:event/player1 "Ibrahim Didier Ndong"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039064"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5039125"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7482"}
+
+{:event/type "goal"
+:event/elapsed 26
+:event/player2 "Gregory van der Wiel"
+:event/subtype "shot"
+:event/player1 "Hervin Ongenda"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5039127"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Lucas Moura"
+:event/subtype "from_behind"
+:event/player1 "Ibrahim Didier Ndong"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039170"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7482"}
+
+{:event/type "card"
+:event/elapsed 29
+:event/card_type "y"
+:event/player1 "Ibrahim Didier Ndong"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5039171"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Lamine Gassama"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039212"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Benjamin Moukandjo"
+:event/subtype "pushing"
+:event/player1 "Maxwell"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039238"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039249"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7482"}
+
+{:event/type "goal"
+:event/elapsed 33
+:event/player2 "Zlatan Ibrahimovic"
+:event/subtype "shot"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_5039264"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Raphael Guerreiro"
+:event/subtype "dangerous_play"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039282"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Lamine Kone"
+:event/subtype "pushing"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039348"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Hervin Ongenda"
+:event/subtype "dangerous_play"
+:event/player1 "Lamine Gassama"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039365"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7482"}
+
+{:event/type "card"
+:event/elapsed 38
+:event/card_type "y"
+:event/player1 "Lamine Gassama"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5039370"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Maxime Barthelme"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039393"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7482"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "shot"
+:event/player1 "Vincent Le Goff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5039394"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Thiago Motta"
+:event/player1 "Francois Bellugou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039418"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Ibrahim Didier Ndong"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039435"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7482"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "short_left"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5039481"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Ibrahim Didier Ndong"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039687"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_7482"}
+
+{:event/type "shoton"
+:event/elapsed 46
+:event/subtype "blocked_shot"
+:event/player1 "Benjamin Jeannot"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5039689"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Thiago Silva"
+:event/player1 "Maxime Barthelme"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039691"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Raphael Guerreiro"
+:event/subtype "pushing"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039700"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Maxime Barthelme"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039704"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Benjamin Moukandjo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039707"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7482"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "distance"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5039711"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5039714"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7482"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross_left"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5039719"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Lamine Gassama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039723"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7482"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "distance"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5039725"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Lucas Moura"
+:event/subtype "trip"
+:event/player1 "Benjamin Jeannot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039730"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Blaise Matuidi"
+:event/subtype "pushing"
+:event/player1 "Lamine Gassama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039732"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Hervin Ongenda"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5039742"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Maxime Barthelme"
+:event/player1 "Adrien Rabiot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039749"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7482"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "blocked_shot"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5039759"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Benjamin Moukandjo"
+:event/player1 "Marquinhos"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039762"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Lamine Gassama"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039764"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Francois Bellugou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039789"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Vincent Le Goff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039804"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Hervin Ongenda"
+:event/subtype "trip"
+:event/player1 "Francois Bellugou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039809"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Benjamin Moukandjo"
+:event/player1 "Marquinhos"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039820"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Lamine Gassama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039824"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Vincent Le Goff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039841"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7482"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "header"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5039843"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Adrien Rabiot"
+:event/player1 "Ibrahim Didier Ndong"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039847"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Raphael Guerreiro"
+:event/subtype "obstruction"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039872"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7482"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "direct_freekick"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5039888"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Lamine Gassama"
+:event/subtype "serious_foul"
+:event/player1 "Adrien Rabiot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039901"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7482"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/player1 "Adrien Rabiot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5039902"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Lucas Moura"
+:event/player1 "Remi Mulumba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039914"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Lucas Moura"
+:event/player1 "Vincent Le Goff"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039982"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7482"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "distance"
+:event/player1 "Remi Mulumba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5039936"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Romain Philippoteaux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039940"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7482"}
+
+{:event/type "goal"
+:event/elapsed 82
+:event/player2 "Romain Philippoteaux"
+:event/subtype "header"
+:event/player1 "Benjamin Moukandjo"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5039941"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Lucas Moura"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5039974"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7482"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5040011"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Lamine Gassama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5040013"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7482"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross_right"
+:event/player1 "Yann Jouffre"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5040017"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7482"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Remi Mulumba"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5040027"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Romain Philippoteaux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5040049"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Vincent Le Goff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5040061"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Ibrahim Didier Ndong"
+:event/player1 "Thiago Motta"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5040085"
+:event/minute 92
+:event/match_id "match_7482"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Ibrahim Didier Ndong"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5040090"
+:event/minute 92
+:event/match_id "match_7482"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Romain Philippoteaux"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5040094"
+:event/minute 92
+:event/match_id "match_7482"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Zlatan Ibrahimovic"
+:event/player1 "Remi Mulumba"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5040096"
+:event/minute 92
+:event/match_id "match_7482"}
+
+
+]
+

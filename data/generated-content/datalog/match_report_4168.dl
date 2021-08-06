@@ -1,0 +1,985 @@
+
+;;# data
+[
+{:match/id "match_4168"
+:match/league "England Premier League"
+:match/hometeam "West Bromwich Albion"
+:match/awayteam "Tottenham Hotspur"
+:match/score "0:3"
+:match/hometeam_goals "0"
+:match/awayteam_goals "3"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Danny Rose"
+:event/subtype "trip"
+:event/player1 "Callum McManaman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4108399"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Kyle Walker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4108407"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Moussa Dembele"
+:event/player1 "Claudio Yacob"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4108484"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4168"}
+
+{:event/type "goal"
+:event/elapsed 7
+:event/subtype "direct_freekick"
+:event/player1 "Christian Eriksen"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_4108514"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "blocked_shot"
+:event/player1 "Christian Eriksen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4108573"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4108604"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "blocked_shot"
+:event/player1 "Victor Anichebe"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4108700"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Kyle Walker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4108647"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Claudio Yacob"
+:event/player1 "Christian Eriksen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4108658"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Callum McManaman"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4108671"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4168"}
+
+{:event/type "goal"
+:event/elapsed 15
+:event/player2 "Moussa Dembele"
+:event/subtype "shot"
+:event/player1 "Harry Kane"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4108762"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "James Morrison"
+:event/player1 "Danny Rose"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4108811"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "blocked_shot"
+:event/player1 "Erik Lamela"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4108929"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4108966"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "shot"
+:event/player1 "James Morrison"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4108993"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4168"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross_left"
+:event/player1 "James Morrison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4109002"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4168"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "header"
+:event/player1 "Joleon Lescott"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4109006"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Victor Anichebe"
+:event/player1 "Federico Fazio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4109024"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "big chance shot"
+:event/player1 "Claudio Yacob"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4109050"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4168"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross_left"
+:event/player1 "James Morrison"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4109057"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Callum McManaman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4109115"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Saido Berahino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4109144"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4168"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross_right"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4109156"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "James Morrison"
+:event/player1 "Moussa Dembele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4109239"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "James Morrison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4109254"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4168"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "crossbar"
+:event/player1 "Craig Dawson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4109259"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/subtype "hands"
+:event/player1 "Moussa Dembele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4109309"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "distance"
+:event/player1 "Christian Eriksen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4109359"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Callum McManaman"
+:event/subtype "from_behind"
+:event/player1 "Danny Rose"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4109367"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Callum McManaman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4109379"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Erik Lamela"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4109472"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4168"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Saido Berahino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4109492"
+:event/minute 46
+:event/match_id "match_4168"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "bad shot"
+:event/player1 "Harry Kane"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4109548"
+:event/minute 47
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Kyle Walker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4109955"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4168"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Christian Eriksen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4109964"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Danny Rose"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4110071"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4168"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_left"
+:event/player1 "Erik Lamela"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4110085"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Joleon Lescott"
+:event/subtype "pushing"
+:event/player1 "Harry Kane"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4110091"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Danny Rose"
+:event/subtype "pushing"
+:event/player1 "Saido Berahino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4110167"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4168"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Saido Berahino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4110173"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Jan Vertonghen"
+:event/player1 "Victor Anichebe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4110209"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Craig Dawson"
+:event/subtype "from_behind"
+:event/player1 "Moussa Dembele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4110233"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Craig Dawson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4110252"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed 60
+:event/subtype "blocked_shot"
+:event/player1 "Harry Kane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4110304"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Kyle Walker"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4110311"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Victor Anichebe"
+:event/player1 "Paulinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4110422"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/subtype "penalty"
+:event/player1 "Joleon Lescott"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4110438"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4168"}
+
+{:event/type "goal"
+:event/elapsed 64
+:event/player1 "Harry Kane"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_4110452"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4110468"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4168"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross_left"
+:event/player1 "James Morrison"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4110474"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Brown Ideye"
+:event/subtype "trip"
+:event/player1 "Federico Fazio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4110496"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "James Morrison"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4110500"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4168"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "deflected"
+:event/player1 "Claudio Yacob"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4110508"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4168"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross_left"
+:event/player1 "James Morrison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4110517"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4168"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "header"
+:event/player1 "Victor Anichebe"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4110519"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4168"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Saido Berahino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4110533"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4110552"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4110561"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4168"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "shot"
+:event/player1 "Paulinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4110568"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Craig Gardner"
+:event/player1 "Nacer Chadli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4110618"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "big chance shot"
+:event/player1 "Saido Berahino"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4110634"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4168"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "short_left"
+:event/player1 "Erik Lamela"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4110685"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Christian Eriksen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4110686"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4168"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "header"
+:event/player1 "Jan Vertonghen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4110687"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4168"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Erik Lamela"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4110698"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Paulinho"
+:event/player1 "Claudio Yacob"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4110743"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4168"}
+
+{:event/type "card"
+:event/elapsed 80
+:event/card_type "y"
+:event/player1 "Claudio Yacob"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4110745"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "direct_freekick"
+:event/player1 "Harry Kane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4110773"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4168"}
+
+{:event/type "corner"
+:event/elapsed 82
+:event/subtype "short_left"
+:event/player1 "Erik Lamela"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4110780"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4168"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "bad shot"
+:event/player1 "Paulinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4110799"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4110862"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/subtype "hands"
+:event/player1 "Craig Gardner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4110866"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "James Morrison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4110882"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4168"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross_left"
+:event/player1 "Chris Brunt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4110889"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "big chance shot"
+:event/player1 "Saido Berahino"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4110904"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Victor Anichebe"
+:event/player1 "Paulinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4110971"
+:event/minute 91
+:event/match_id "match_4168"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Victor Anichebe"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4110986"
+:event/minute 91
+:event/match_id "match_4168"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Claudio Yacob"
+:event/subtype "from_behind"
+:event/player1 "Erik Lamela"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4111005"
+:event/minute 92
+:event/match_id "match_4168"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Erik Lamela"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4111006"
+:event/minute 92
+:event/match_id "match_4168"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Erik Lamela"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4111031"
+:event/minute 94
+:event/match_id "match_4168"}
+
+
+]
+

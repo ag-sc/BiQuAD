@@ -1,0 +1,978 @@
+
+;;# data
+[
+{:match/id "match_24113"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "SD Eibar"
+:match/awayteam "Córdoba CF"
+:match/score "3:0"
+:match/hometeam_goals "3"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_4504552"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Saul Berjon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4504573"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Florin Andone"
+:event/player1 "Borja Fernandez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4504581"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Abel Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4504586"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_24113"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross_right"
+:event/player1 "Borja Garcia"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4504595"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Adrian Gunino"
+:event/player1 "Didac Vila"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4504607"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Fidel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4504610"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_24113"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "deflected"
+:event/player1 "Abel Gomez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4504615"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_24113"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "cross_left"
+:event/player1 "Abel Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4504622"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_24113"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "miss_kick"
+:event/player1 "Fran Serrano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4504625"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_24113"}
+
+{:event/type "goal"
+:event/elapsed 6
+:event/player2 "Ander Capa"
+:event/subtype "header"
+:event/player1 "Mikel Arruabarrena"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4504640"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Didac Vila"
+:event/player1 "Fidel"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4504697"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Javi Lara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4504710"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_24113"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Eneko Boveda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4504716"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_24113"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross_right"
+:event/player1 "Javi Lara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4504723"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_24113"}
+
+{:event/type "goal"
+:event/elapsed 11
+:event/player2 "Javi Lara"
+:event/subtype "header"
+:event/player1 "Raul Navas"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4504724"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_24113"}
+
+{:event/type "shotoff"
+:event/elapsed 13
+:event/subtype "bad shot"
+:event/player1 "Javi Lara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4504754"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_24113"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "shot"
+:event/player1 "Edimar Fraga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4504768"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Fede Vico"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4504812"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Fidel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4504858"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_24113"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "header"
+:event/player1 "Florin Andone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4504861"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Saul Berjon"
+:event/player1 "Luso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4504901"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Eneko Boveda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4504913"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Florin Andone"
+:event/player1 "Eneko Boveda"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4504919"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Borja Fernandez"
+:event/player1 "Florin Andone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4504948"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Ander Capa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4504953"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player1 "Borja Fernandez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4504963"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Edimar Fraga"
+:event/subtype "pull"
+:event/player1 "Ander Capa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4504965"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_24113"}
+
+{:event/type "card"
+:event/elapsed 26
+:event/card_type "y"
+:event/player1 "Ander Capa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4504968"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Adrian Gunino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4505024"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Luso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4505030"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Fidel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4505037"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_24113"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "distance"
+:event/player1 "Edimar Fraga"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4505045"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Ander Capa"
+:event/player1 "Fede Vico"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4505067"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_24113"}
+
+{:event/type "goal"
+:event/elapsed 34
+:event/player2 "Saul Berjon"
+:event/subtype "distance"
+:event/player1 "Ander Capa"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4505110"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Edimar Fraga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4505160"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_24113"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "distance"
+:event/player1 "Luso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4505167"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_24113"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross_left"
+:event/player1 "Fede Vico"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4505172"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_24113"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "header"
+:event/player1 "Deivid"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4505176"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/subtype "hands"
+:event/player1 "Adrian Gunino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4505210"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Javi Lara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4505215"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Javi Lara"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4505227"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Luso"
+:event/player1 "Mikel Arruabarrena"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4505321"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_24113"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Edimar Fraga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4505358"
+:event/minute 46
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player1 "Luso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4505506"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Eneko Boveda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4505551"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Adrian Gunino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4505568"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Saul Berjon"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4505574"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4505586"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Luso"
+:event/player1 "Saul Berjon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4505611"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Adrian Gunino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4505619"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Edimar Fraga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4505664"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_24113"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "short_right"
+:event/player1 "Javi Lara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4505688"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Eneko Boveda"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4505698"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/subtype "hands"
+:event/player1 "Didac Vila"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4505705"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24113"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Borja Garcia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4505723"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Adrian Gunino"
+:event/player1 "Javi Lara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4505724"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Borja Garcia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4505764"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Florin Andone"
+:event/player1 "Manuel Lillo Castellano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4505803"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_24113"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "Borja Garcia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4505856"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Heldon"
+:event/player1 "Didac Vila"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4505865"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Heldon"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4505876"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24113"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "distance"
+:event/player1 "Javi Lara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4505908"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Jon Errasti"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4505927"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Luso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4505948"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_24113"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "header"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4505950"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Ander Capa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4505971"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_24113"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "blocked_shot"
+:event/player1 "Edimar Fraga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4506011"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_24113"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Ander Capa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4506073"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_24113"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross_left"
+:event/player1 "Javi Lara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4506078"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Adrian Gunino"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4506097"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_24113"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "distance"
+:event/player1 "Jon Errasti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4506132"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_24113"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Luso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4506157"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Adrian Gunino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4506191"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_24113"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "short_left"
+:event/player1 "Borja Garcia"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4506387"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_24113"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Borja Garcia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4506225"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Manuel Lillo Castellano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4506240"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_24113"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4506247"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_24113"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Javi Lara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4506269"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_24113"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "unknown"
+:event/player1 "Didac Vila"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4506312"
+:event/minute 92
+:event/match_id "match_24113"}
+
+
+]
+

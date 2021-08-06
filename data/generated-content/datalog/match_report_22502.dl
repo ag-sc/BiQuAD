@@ -1,0 +1,1237 @@
+
+;;# data
+[
+{:match/id "match_22502"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Málaga CF"
+:match/awayteam "Sevilla FC"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178558"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_22502"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "direct_freekick"
+:event/player1 "Eliseu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1178455"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22502"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "distance"
+:event/player1 "Luca Cigarini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1178458"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Didier Zokora"
+:event/subtype "serious_foul"
+:event/player1 "Fernando"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1178476"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Eliseu"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1178482"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Quincy Owusu-Abeyie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1178485"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22502"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Quincy Owusu-Abeyie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1178485"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22502"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "header"
+:event/player1 "Kris Stadsgaard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1178488"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22502"}
+
+{:event/type "goal"
+:event/elapsed 14
+:event/subtype "shot"
+:event/player1 "Jose Salomon Rondon"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1178486"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Alejandro Alfaro"
+:event/sortorder -1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1178492"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player1 "Diego Perotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178491"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22502"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "deflected"
+:event/player1 "Diego Perotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1178497"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22502"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "distance"
+:event/player1 "Alejandro Alfaro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1178498"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Fernando Navarro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1178504"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder -1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1178511"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_22502"}
+
+{:event/type "goal"
+:event/elapsed 20
+:event/player2 "Diego Perotti"
+:event/subtype "header"
+:event/player1 "Alejandro Alfaro"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1178507"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1178515"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22502"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "shot"
+:event/player1 "Luca Cigarini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1178518"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178519"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22502"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178519"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Luca Cigarini"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1178521"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22502"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "header"
+:event/player1 "Martin Caceres"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1178522"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Quincy Owusu-Abeyie"
+:event/player1 "Fernando Navarro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178525"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player1 "Didier Zokora"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178530"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Eliseu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1178533"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1178537"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22502"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1178537"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Luca Cigarini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1178543"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22502"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "deflected"
+:event/player1 "Antonio Apono"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1178545"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Didier Zokora"
+:event/subtype "from_behind"
+:event/player1 "Juanmi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1178551"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Eliseu"
+:event/subtype "serious_foul"
+:event/player1 "Luca Cigarini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178555"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22502"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Luca Cigarini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1178556"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Jesus Gamez"
+:event/subtype "serious_foul"
+:event/player1 "Diego Perotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178569"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22502"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "distance"
+:event/player1 "Antonio Apono"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1178576"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Jesus Gamez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1178581"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22502"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Juanmi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1178582"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Andres Palop"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1178584"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22502"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "shot"
+:event/player1 "Tiberio Guarente"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1178585"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178586"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22502"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178586"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22502"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "blocked_shot"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1178587"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Fernando Navarro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1178588"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178591"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22502"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178591"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1178595"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_22502"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "short"
+:event/player1 "Diego Perotti"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178597"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Antonio Apono"
+:event/subtype "obstruction"
+:event/player1 "Tiberio Guarente"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178599"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/subtype "hands"
+:event/player1 "Jose Salomon Rondon"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1178601"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Alejandro Alfaro"
+:event/player1 "Fernando"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1178603"
+:event/minute 46
+:event/match_id "match_22502"}
+
+{:event/type "shotoff"
+:event/elapsed 46
+:event/subtype "distance"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1178638"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_22502"}
+
+{:event/type "goal"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Tiberio Guarente"
+:event/subtype "header"
+:event/player1 "Martin Caceres"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1178605"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 46
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1178643"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Jose Salomon Rondon"
+:event/subtype "serious_foul"
+:event/player1 "Julien Escude"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178647"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22502"}
+
+{:event/type "card"
+:event/elapsed 48
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Julien Escude"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1178649"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22502"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "direct_freekick"
+:event/player1 "Antonio Apono"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1178650"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22502"}
+
+{:event/type "card"
+:event/elapsed 51
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Jesus Gamez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1178659"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/subtype "hands"
+:event/player1 "Fernando Navarro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178676"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Quincy Owusu-Abeyie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1178678"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/subtype "pushing"
+:event/player1 "Jose Salomon Rondon"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1178679"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1178680"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22502"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "distance"
+:event/player1 "Mouhamadou Dabo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1178683"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Tiberio Guarente"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178684"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22502"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Tiberio Guarente"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178684"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178688"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_22502"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178688"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Eliseu"
+:event/subtype "serious_foul"
+:event/player1 "Mouhamadou Dabo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178694"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22502"}
+
+{:event/type "card"
+:event/elapsed 59
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Mouhamadou Dabo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1178695"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Fernando"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1178706"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Alberto Luque,21"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1178712"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22502"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Alberto Luque,21"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1178712"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Alberto Luque,21"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1178714"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22502"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "big chance post"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1178716"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_22502"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "Didier Zokora"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1178717"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Alberto Luque,21"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1178723"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player1 "Eliseu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1178724"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Quincy Owusu-Abeyie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1178728"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Fernando"
+:event/subtype "shirt_pull"
+:event/player1 "Diego Perotti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178732"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22502"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Diego Perotti"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1178733"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Fernando Navarro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1178744"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Eliseu"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1178746"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22502"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "distance"
+:event/player1 "Diego Perotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1178749"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Jesus Gamez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1178751"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Tiberio Guarente"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178755"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_22502"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Tiberio Guarente"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178755"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Eliseu"
+:event/subtype "from_behind"
+:event/player1 "Luca Cigarini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178759"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22502"}
+
+{:event/type "card"
+:event/elapsed 76
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Eliseu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1178761"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Eliseu"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1178765"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22502"}
+
+{:event/type "card"
+:event/elapsed 77
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Lautaro Acosta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1178768"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_22502"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "deflected"
+:event/player1 "Diego Perotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1178771"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22502"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Tiberio Guarente"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178773"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22502"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Tiberio Guarente"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1178773"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22502"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "distance"
+:event/player1 "Tiberio Guarente"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1178776"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Weligton"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178780"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Alvaro Negredo"
+:event/subtype "shirt_pull"
+:event/player1 "Patrick Mtiliga"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1178782"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Romaric"
+:event/subtype "serious_foul"
+:event/player1 "Edinho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1178791"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/subtype "hands"
+:event/player1 "Quincy Owusu-Abeyie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1178794"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Weligton"
+:event/subtype "pushing"
+:event/player1 "Romaric"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178795"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22502"}
+
+{:event/type "card"
+:event/elapsed 86
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Romaric"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1178796"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Eliseu"
+:event/subtype "serious_foul"
+:event/player1 "Didier Zokora"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1178797"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Lautaro Acosta"
+:event/subtype "obstruction"
+:event/player1 "Sandro Laurindo da Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1178798"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_22502"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Lautaro Acosta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1178808"
+:event/minute 93
+:event/match_id "match_22502"}
+
+
+]
+

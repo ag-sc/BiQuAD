@@ -1,0 +1,1222 @@
+
+;;# data
+[
+{:match/id "match_2248"
+:match/league "England Premier League"
+:match/hometeam "Arsenal"
+:match/awayteam "Everton"
+:match/score "1:3"
+:match/hometeam_goals "2"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901450"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player1 "Marouane Fellaini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901454"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2248"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "short"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901460"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901461"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2248"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "big chance shot"
+:event/player1 "Louis Saha"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_901463"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2248"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "deflected"
+:event/player1 "Louis Saha"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_901468"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Landon Donovan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901469"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2248"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Landon Donovan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901469"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2248"}
+
+{:event/type "goal"
+:event/elapsed 12
+:event/player2 "Landon Donovan"
+:event/subtype "header"
+:event/player1 "Leon Osman"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_901470"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901471"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901472"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901475"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_901477"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Armand Traore"
+:event/subtype "from_behind"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901478"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Samir Nasri"
+:event/subtype "from_behind"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901480"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901481"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Abou Diaby"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901483"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2248"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "shot"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_901484"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901494"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901497"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2248"}
+
+{:event/type "goal"
+:event/elapsed 28
+:event/player1 "Leon Osman"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_901499"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901501"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Tim Cahill"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901503"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901507"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901509"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Leighton Baines"
+:event/subtype "from_behind"
+:event/player1 "Samir Nasri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901510"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Philip Neville"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901516"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2248"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "header"
+:event/player1 "Landon Donovan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_901517"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901520"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901522"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Philip Neville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901525"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901527"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901530"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901533"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Lucas Neill"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901535"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Philip Neville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901542"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901544"
+:event/minute 46
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901551"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901554"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901556"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "William Gallas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901558"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Eduardo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901560"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901562"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2248"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901562"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Landon Donovan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901566"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901568"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Steven Pienaar"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901570"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901572"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901574"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901575"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player1 "William Gallas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901578"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Marouane Fellaini"
+:event/subtype "from_behind"
+:event/player1 "Abou Diaby"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901579"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2248"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "deflected"
+:event/player1 "Louis Saha"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_901581"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Landon Donovan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901582"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2248"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Landon Donovan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901582"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901583"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "William Gallas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901585"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901587"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Armand Traore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901592"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901593"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2248"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901593"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2248"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "deflected"
+:event/player1 "Denilson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_901594"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2248"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_901595"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901596"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901599"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Tim Howard"
+:event/subtype "serious_foul"
+:event/player1 "Eduardo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901600"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901603"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901605"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2248"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901605"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901607"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2248"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "deflected"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_901611"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901612"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2248"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_901612"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Carlos Vela"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901614"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2248"}
+
+{:event/type "goal"
+:event/elapsed 81
+:event/player2 "Tim Cahill"
+:event/subtype "shot"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_901616"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2248"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "James Vaughan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_901617"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2248"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "deflected"
+:event/player1 "James Vaughan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_901622"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Diniyar Bilyaletdinov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901623"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2248"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Diniyar Bilyaletdinov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901623"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2248"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_901624"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Steven Pienaar"
+:event/subtype "serious_foul"
+:event/player1 "Bacary Sagna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_901627"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2248"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Bacary Sagna"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_901628"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_901631"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Diniyar Bilyaletdinov"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901634"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2248"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Diniyar Bilyaletdinov"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901634"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Diniyar Bilyaletdinov"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901636"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2248"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Diniyar Bilyaletdinov"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901636"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901638"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2248"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_901638"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player1 "James Vaughan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901639"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2248"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player1 "Steven Pienaar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_901641"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2248"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_901642"
+:event/minute 91
+:event/match_id "match_2248"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_901643"
+:event/minute 91
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Tomas Rosicky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901644"
+:event/minute 92
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901647"
+:event/minute 92
+:event/match_id "match_2248"}
+
+{:event/type "goal"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Abou Diaby"
+:event/subtype "shot"
+:event/player1 "Tomas Rosicky"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_901649"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 92
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Abou Diaby"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901652"
+:event/minute 94
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901654"
+:event/minute 94
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Abou Diaby"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901656"
+:event/minute 94
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901658"
+:event/minute 95
+:event/match_id "match_2248"}
+
+{:event/type "cross"
+:event/elapsed_plus 7
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Tomas Rosicky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_901663"
+:event/minute 97
+:event/match_id "match_2248"}
+
+
+]
+

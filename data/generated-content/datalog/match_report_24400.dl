@@ -1,0 +1,924 @@
+
+;;# data
+[
+{:match/id "match_24400"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Atlético Madrid"
+:match/awayteam "FC Barcelona"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4762657"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_24400"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "volley"
+:event/player1 "Fernando Torres"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4762658"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Rafinha"
+:event/subtype "trip"
+:event/player1 "Filipe Luis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4762671"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4762684"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_24400"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross_left"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4762749"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Neymar"
+:event/subtype "from_behind"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4762760"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_24400"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "blocked_shot"
+:event/player1 "Fernando Torres"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4762797"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Jordi Alba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4762825"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Luis Suarez"
+:event/player1 "Gabi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4762863"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_24400"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "big chance shot"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4762884"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_24400"}
+
+{:event/type "corner"
+:event/elapsed 15
+:event/subtype "cross_right"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4762893"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Luis Suarez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4762910"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Fernando Torres"
+:event/subtype "pushing"
+:event/player1 "Thomas Vermaelen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4762929"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_24400"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "shot"
+:event/player1 "Fernando Torres"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4762945"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Neymar"
+:event/subtype "serious_foul"
+:event/player1 "Oliver Torres"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4762955"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_24400"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/player1 "Oliver Torres"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4762959"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Andres Iniesta"
+:event/subtype "pull"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4763009"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Neymar"
+:event/subtype "from_behind"
+:event/player1 "Gabi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4763027"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_24400"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross_left"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4763045"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_24400"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "crossbar"
+:event/player1 "Luis Suarez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4763049"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4763090"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_24400"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "distance"
+:event/player1 "Filipe Luis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4763095"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Rafinha"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4763111"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Sergi Roberto"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4763118"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Andres Iniesta"
+:event/player1 "Gabi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4763136"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Jose Gimenez"
+:event/subtype "pushing"
+:event/player1 "Luis Suarez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4763205"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_24400"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "blocked_shot"
+:event/player1 "Neymar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4763244"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_24400"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross_left"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4763260"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_24400"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross_right"
+:event/player1 "Ivan Rakitic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4763281"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_24400"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "blocked_shot"
+:event/player1 "Sergi Roberto"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4763283"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_24400"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "shot"
+:event/player1 "Neymar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4763285"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Jordi Alba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4763330"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_24400"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross_right"
+:event/player1 "Gabi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4763378"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Jordi Alba"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4763400"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Rafinha"
+:event/player1 "Filipe Luis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4763429"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_24400"}
+
+{:event/type "card"
+:event/elapsed 43
+:event/card_type "y"
+:event/player1 "Filipe Luis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4763431"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Gabi"
+:event/subtype "trip"
+:event/player1 "Andres Iniesta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4763456"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_24400"}
+
+{:event/type "card"
+:event/elapsed 44
+:event/card_type "y"
+:event/player1 "Andres Iniesta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4763461"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Koke"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4763480"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_24400"}
+
+{:event/type "shotoff"
+:event/elapsed 46
+:event/subtype "shot"
+:event/player1 "Oliver Torres"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4763814"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Ivan Rakitic"
+:event/subtype "trip"
+:event/player1 "Koke"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4763829"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_24400"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "blocked_shot"
+:event/player1 "Fernando Torres"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4763872"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Andres Iniesta"
+:event/subtype "trip"
+:event/player1 "Koke"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4763880"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_24400"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player2 "Tiago"
+:event/subtype "shot"
+:event/player1 "Fernando Torres"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_4763910"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Neymar"
+:event/subtype "trip"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4763956"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_24400"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/subtype "direct_freekick"
+:event/player1 "Neymar"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_4763968"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Lionel Messi"
+:event/subtype "trip"
+:event/player1 "Filipe Luis"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4764030"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Sergi Roberto"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4764041"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_24400"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "short_right"
+:event/player1 "Lionel Messi"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4764048"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_24400"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "bad shot"
+:event/player1 "Luis Suarez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4764106"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Jeremy Mathieu"
+:event/subtype "serious_foul"
+:event/player1 "Jackson Martinez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4764112"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24400"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "short_left"
+:event/player1 "Neymar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4764126"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_24400"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Neymar"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4764130"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_24400"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross_left"
+:event/player1 "Neymar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4764133"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_24400"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "distance"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4764139"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Jordi Alba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4764167"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_24400"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "distance"
+:event/player1 "Tiago"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4764189"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_24400"}
+
+{:event/type "goal"
+:event/elapsed 77
+:event/player2 "Luis Suarez"
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4764208"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_24400"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Luis Suarez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4764230"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_24400"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross_left"
+:event/player1 "Neymar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4764232"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Tiago"
+:event/subtype "serious_foul"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4764241"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4764271"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_24400"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "volley"
+:event/player1 "Jackson Martinez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4764272"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Javier Mascherano"
+:event/subtype "trip"
+:event/player1 "Jackson Martinez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4764279"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_24400"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4764306"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Sergi Roberto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4764314"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_24400"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross_right"
+:event/player1 "Neymar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4764320"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Lionel Messi"
+:event/subtype "pull"
+:event/player1 "Jose Gimenez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4764332"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_24400"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/player1 "Jose Gimenez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4764335"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_24400"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4764348"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/subtype "hands"
+:event/player1 "Filipe Luis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4764353"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Diego Godin"
+:event/subtype "trip"
+:event/player1 "Lionel Messi"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4764366"
+:event/minute 91
+:event/match_id "match_24400"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4764368"
+:event/minute 92
+:event/match_id "match_24400"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Luis Suarez"
+:event/player1 "Diego Godin"
+:event/sortorder 11
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4764438"
+:event/minute 92
+:event/match_id "match_24400"}
+
+
+]
+

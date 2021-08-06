@@ -1,0 +1,973 @@
+
+;;# data
+[
+{:match/id "match_4243"
+:match/league "England Premier League"
+:match/hometeam "Newcastle United"
+:match/awayteam "Arsenal"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "shoton"
+:event/elapsed 2
+:event/subtype "blocked_shot"
+:event/player1 "Ayoze Perez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4280573"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Ryan Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4280576"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Yoan Gouffran"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4280666"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Alexis Sanchez"
+:event/subtype "dangerous_play"
+:event/player1 "Sammy Ameobi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4280834"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Santi Cazorla"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4280845"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4243"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "shot"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4280852"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross_left"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4280856"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Francis Coquelin"
+:event/subtype "trip"
+:event/player1 "Remy Cabella"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4280869"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Santi Cazorla"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4280886"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross_left"
+:event/player1 "Ryan Taylor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4280950"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4243"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "header"
+:event/player1 "Moussa Sissoko"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4280956"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4280974"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Alexis Sanchez"
+:event/subtype "trip"
+:event/player1 "Yoan Gouffran"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4281015"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Santi Cazorla"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4281020"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4243"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "shot"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4281041"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Olivier Giroud"
+:event/subtype "trip"
+:event/player1 "Jack Colback"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4281055"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Santi Cazorla"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4281064"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4243"}
+
+{:event/type "goal"
+:event/elapsed 24
+:event/player2 "Danny Welbeck"
+:event/subtype "shot"
+:event/player1 "Olivier Giroud"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_4281069"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4243"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "volley"
+:event/player1 "Danny Welbeck"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4281099"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross_right"
+:event/player1 "Santi Cazorla"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4281120"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4243"}
+
+{:event/type "goal"
+:event/elapsed 28
+:event/player2 "Santi Cazorla"
+:event/subtype "header"
+:event/player1 "Olivier Giroud"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4281122"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross_left"
+:event/player1 "Ryan Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4281148"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4243"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Vurnon Anita"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4281153"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Ayoze Perez"
+:event/subtype "trip"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4281160"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4243"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "blocked_shot"
+:event/player1 "Ryan Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4281168"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross_right"
+:event/player1 "Ryan Taylor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4281169"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Nacho Monreal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4281267"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/subtype "hands"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4281271"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Gabriel Paulista"
+:event/subtype "pushing"
+:event/player1 "Ayoze Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4281309"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4243"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "blocked_shot"
+:event/player1 "Sammy Ameobi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4281347"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4243"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "blocked_shot"
+:event/player1 "Moussa Sissoko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4281357"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4243"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "blocked_shot"
+:event/player1 "Remy Cabella"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4281365"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Ryan Taylor"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4281371"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Nacho Monreal"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4281429"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Calum Chambers"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4281479"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Aaron Ramsey"
+:event/subtype "trip"
+:event/player1 "Remy Cabella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4281486"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Santi Cazorla"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4281510"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Santi Cazorla"
+:event/subtype "trip"
+:event/player1 "Yoan Gouffran"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4281556"
+:event/minute 46
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Sammy Ameobi"
+:event/subtype "pull"
+:event/player1 "Calum Chambers"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4281832"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Ryan Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4281846"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Danny Welbeck"
+:event/subtype "trip"
+:event/player1 "Remy Cabella"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4281862"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4281589"
+:event/minute 47
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Yoan Gouffran"
+:event/subtype "pushing"
+:event/player1 "Olivier Giroud"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4281878"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Remy Cabella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4281898"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4243"}
+
+{:event/type "goal"
+:event/elapsed 49
+:event/player2 "Remy Cabella"
+:event/subtype "shot"
+:event/player1 "Moussa Sissoko"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4281902"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4243"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Ayoze Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4281932"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4243"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "shot"
+:event/player1 "Ayoze Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4281962"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4281986"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Alexis Sanchez"
+:event/subtype "trip"
+:event/player1 "Jack Colback"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4282007"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Ayoze Perez"
+:event/subtype "trip"
+:event/player1 "Nacho Monreal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4282035"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4243"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "blocked_shot"
+:event/player1 "Olivier Giroud"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4282100"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross_left"
+:event/player1 "Santi Cazorla"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4282120"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Moussa Sissoko"
+:event/subtype "pull"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4282163"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Remy Cabella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4282222"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross_left"
+:event/player1 "Ryan Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4282302"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Ayoze Perez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4282313"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4243"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "Yoan Gouffran"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4282324"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Ryan Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4282432"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4243"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "header"
+:event/player1 "Mike Williamson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4282437"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4243"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "distance"
+:event/player1 "Daryl Janmaat"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4282466"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Calum Chambers"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4282482"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4243"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "deflected"
+:event/player1 "Ayoze Perez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4282618"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross_left"
+:event/player1 "Ryan Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4282628"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Ayoze Perez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4282631"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4243"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "deflected"
+:event/player1 "Remy Cabella"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4282664"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Danny Welbeck"
+:event/subtype "trip"
+:event/player1 "Moussa Sissoko"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4282676"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4243"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Danny Welbeck"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4282741"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross_left"
+:event/player1 "Tomas Rosicky"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4282765"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Sammy Ameobi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4282801"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Calum Chambers"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4282823"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross_right"
+:event/player1 "Ryan Taylor"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4282892"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Remy Cabella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4282899"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4243"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Ayoze Perez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4282906"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross_left"
+:event/player1 "Ryan Taylor"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4282914"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4243"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross_left"
+:event/player1 "Ryan Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4282922"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4243"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Remy Cabella"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4282976"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Olivier Giroud"
+:event/subtype "trip"
+:event/player1 "Jack Colback"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4283032"
+:event/minute 93
+:event/match_id "match_4243"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Jonas Gutierrez"
+:event/subtype "pushing"
+:event/player1 "Tomas Rosicky"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4283045"
+:event/minute 94
+:event/match_id "match_4243"}
+
+
+]
+

@@ -1,0 +1,821 @@
+
+;;# data
+[
+{:match/id "match_4024"
+:match/league "England Premier League"
+:match/hometeam "Hull City"
+:match/awayteam "Southampton"
+:match/score "0:1"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "goal"
+:event/elapsed 3
+:event/subtype "distance"
+:event/player1 "Victor Wanyama"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_3894212"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/subtype "hands"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3894246"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3894260"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3894308"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3894351"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4024"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "blocked_shot"
+:event/player1 "Mohamed Diame"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3894366"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Mohamed Diame"
+:event/player1 "Victor Wanyama"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3894409"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3894424"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3894444"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Curtis Davies"
+:event/player1 "Graziano Pelle"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3894473"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4024"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross_left"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3894511"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Graziano Pelle"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3894527"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3894593"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3894690"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4024"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross_left"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3894700"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4024"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "header"
+:event/player1 "James Chester"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3894704"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4024"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "header"
+:event/player1 "Shane Long"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3894724"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4024"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross_right"
+:event/player1 "Dusan Tadic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3894792"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "James Chester"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3894849"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Fraser Forster"
+:event/player1 "Abel Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3894876"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3894886"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4024"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "blocked_shot"
+:event/player1 "Mohamed Diame"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3894897"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3894992"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4024"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "blocked_shot"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3895034"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3895042"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4024"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross_right"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3895063"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Mohamed Diame"
+:event/player1 "Victor Wanyama"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3895211"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Steven Davis"
+:event/subtype "dangerous_play"
+:event/player1 "Jake Livermore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3895236"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Jake Livermore"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3895635"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Nathaniel Clyne"
+:event/player1 "Abel Hernandez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3895333"
+:event/minute 46
+:event/match_id "match_4024"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "bad shot"
+:event/player1 "Shane Long"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3895780"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Dusan Tadic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3895861"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4024"}
+
+{:event/type "corner"
+:event/elapsed 54
+:event/subtype "cross_right"
+:event/player1 "Steven Davis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3895874"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4024"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "deflected"
+:event/player1 "Morgan Schneiderlin"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3895881"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4024"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "short_right"
+:event/player1 "Steven Davis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3895889"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3895926"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4024"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "bicycle_kick"
+:event/player1 "Graziano Pelle"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3895946"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4024"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Steven Davis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3895954"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4024"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross_left"
+:event/player1 "Dusan Tadic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3895956"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4024"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "deflected"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3895999"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4024"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "short_right"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3896019"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3896021"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Sone Aluko"
+:event/player1 "Victor Wanyama"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3896207"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3896260"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4024"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "big chance shot"
+:event/player1 "Sadio Mane"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3896333"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3896363"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4024"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "blocked_shot"
+:event/player1 "Mohamed Diame"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3896380"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Sadio Mane"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3896459"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3896483"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4024"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross_left"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3896495"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Dusan Tadic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3896538"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Mohamed Diame"
+:event/player1 "Dusan Tadic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3896577"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3896586"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Ahmed El Mohamady"
+:event/player1 "Victor Wanyama"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3896627"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3896632"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4024"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Morgan Schneiderlin"
+:event/player1 "Mohamed Diame"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3896681"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4024"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "bicycle_kick"
+:event/player1 "Abel Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3896697"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Stephen Quinn"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3896717"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4024"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross_left"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3896727"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4024"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "header"
+:event/player1 "Stephen Quinn"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3896731"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Sadio Mane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3896814"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4024"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Graziano Pelle"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3896818"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4024"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Mohamed Diame"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3896835"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4024"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3896885"
+:event/minute 93
+:event/match_id "match_4024"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3896895"
+:event/minute 93
+:event/match_id "match_4024"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "bad shot"
+:event/player1 "Andrew Robertson"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3896899"
+:event/minute 93
+:event/match_id "match_4024"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Steven Davis"
+:event/sortorder 12
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3896923"
+:event/minute 95
+:event/match_id "match_4024"}
+
+
+]
+

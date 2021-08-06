@@ -1,0 +1,996 @@
+
+;;# data
+[
+{:match/id "match_9827"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Borussia Mönchengladbach"
+:match/awayteam "Borussia Dortmund"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "shoton"
+:event/elapsed 1
+:event/subtype "shot"
+:event/player1 "Fabian Johnson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4338155"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_9827"}
+
+{:event/type "goal"
+:event/elapsed 1
+:event/subtype "shot"
+:event/player1 "Oscar Wendt"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_4338157"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_9827"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "cross_right"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4338199"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9827"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "header"
+:event/player1 "Mats Hummels"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4338201"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4338215"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Sokratis Papastathopoulos"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4338246"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_9827"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "blocked_shot"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4338250"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4338258"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Henrik Mkhitaryan"
+:event/subtype "trip"
+:event/player1 "Roel Brouwers"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4338287"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_9827"}
+
+{:event/type "card"
+:event/elapsed 12
+:event/card_type "y"
+:event/player1 "Roel Brouwers"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4338293"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4338301"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Marcel Schmelzer"
+:event/subtype "trip"
+:event/player1 "Tony Jantschke"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4338322"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_9827"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "distance"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4338329"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Tony Jantschke"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4338335"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_9827"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "blocked_shot"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4338358"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Ilkay Guendogan"
+:event/subtype "dangerous_play"
+:event/player1 "Haavard Nordtveit"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4338376"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Henrik Mkhitaryan"
+:event/player1 "Granit Xhaka"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4338380"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Shinji Kagawa"
+:event/player1 "Granit Xhaka"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4338392"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4338403"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4338462"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4338507"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_9827"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "blocked_shot"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4338547"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_9827"}
+
+{:event/type "goal"
+:event/elapsed 32
+:event/player2 "Patrick Herrmann"
+:event/subtype "shot"
+:event/player1 "Raffael"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_4338558"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Tony Jantschke"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4338631"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Shinji Kagawa"
+:event/player1 "Granit Xhaka"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4338660"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4338663"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_9827"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross_right"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4338670"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Neven Subotic"
+:event/player1 "Patrick Herrmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4338703"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_9827"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "distance"
+:event/player1 "Neven Subotic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4338716"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Henrik Mkhitaryan"
+:event/player1 "Granit Xhaka"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4338796"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4338810"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_9827"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "header"
+:event/player1 "Mats Hummels"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4338816"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_9827"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "distance"
+:event/player1 "Patrick Herrmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4338830"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_9827"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "short_left"
+:event/player1 "Max Kruse"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4338874"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9827"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Patrick Herrmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4339275"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_9827"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "short_right"
+:event/player1 "Max Kruse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4339281"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_9827"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "miss_kick"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4339295"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Neven Subotic"
+:event/player1 "Max Kruse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4339409"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4339362"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_9827"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_right"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4339368"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9827"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "blocked_shot"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4339373"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9827"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_left"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4339380"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9827"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "blocked_shot"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4339387"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Shinji Kagawa"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4339397"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9827"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Max Kruse"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4339492"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4339519"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4339526"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Raffael"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4339536"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Patrick Herrmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4339558"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_9827"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "short_left"
+:event/player1 "Max Kruse"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4339568"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Max Kruse"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4339575"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Tony Jantschke"
+:event/player1 "Pierre-Emerick Aubameyang"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4339611"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_9827"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Oscar Wendt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4339641"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Adrian Ramos"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4339672"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4339689"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_9827"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "miss_kick"
+:event/player1 "Adrian Ramos"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4339698"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_9827"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross_right"
+:event/player1 "Max Kruse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4339705"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9827"}
+
+{:event/type "goal"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Haavard Nordtveit"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4339713"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4339733"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4339743"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Granit Xhaka"
+:event/player1 "Neven Subotic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4339750"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_9827"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "short_left"
+:event/player1 "Max Kruse"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4339771"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9827"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "distance"
+:event/player1 "Granit Xhaka"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4339774"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9827"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "distance"
+:event/player1 "Mats Hummels"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4339798"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4339835"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_9827"}
+
+{:event/type "goal"
+:event/elapsed 77
+:event/player2 "unknown"
+:event/subtype "shot"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4339866"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_9827"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "distance"
+:event/player1 "Ilkay Guendogan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4339950"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9827"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "distance"
+:event/player1 "Granit Xhaka"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4339989"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_9827"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "distance"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4340038"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_9827"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4340051"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_9827"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Granit Xhaka"
+:event/subtype "trip"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4340068"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_9827"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "distance"
+:event/player1 "Ciro Immobile"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4340133"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Adrian Ramos"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4340173"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Mats Hummels"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4340228"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Andre Hahn"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4340288"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9827"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "short_right"
+:event/player1 "Max Kruse"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4340293"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Haavard Nordtveit"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4340322"
+:event/minute 91
+:event/match_id "match_9827"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4340337"
+:event/minute 92
+:event/match_id "match_9827"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "deflected"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 10
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4340379"
+:event/minute 93
+:event/match_id "match_9827"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 13
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4340399"
+:event/minute 94
+:event/match_id "match_9827"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "Henrik Mkhitaryan"
+:event/sortorder 15
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4340413"
+:event/minute 94
+:event/match_id "match_9827"}
+
+
+]
+

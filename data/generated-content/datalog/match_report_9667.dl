@@ -1,0 +1,1221 @@
+
+;;# data
+[
+{:match/id "match_9667"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "TSG 1899 Hoffenheim"
+:match/awayteam "1. FC Köln"
+:match/score "3:4"
+:match/hometeam_goals "3"
+:match/awayteam_goals "4"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Tarik Elyounoussi"
+:event/subtype "trip"
+:event/player1 "Adam Matuschyk"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3922056"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Tobias Strobl"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3922097"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9667"}
+
+{:event/type "goal"
+:event/elapsed 3
+:event/player2 "Tobias Strobl"
+:event/subtype "shot"
+:event/player1 "Adam Szalai"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_3922078"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Miso Brecko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3922113"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9667"}
+
+{:event/type "goal"
+:event/elapsed 5
+:event/subtype "distance"
+:event/player1 "Pawel Olkowski"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_3922102"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9667"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "distance"
+:event/player1 "Kevin Vogt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3922140"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Miso Brecko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3922146"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_9667"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross_right"
+:event/player1 "Miso Brecko"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3922152"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Kevin Volland"
+:event/subtype "from_behind"
+:event/player1 "Jonas Hector"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3922161"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Kevin Volland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3922165"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_9667"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross_right"
+:event/player1 "Tobias Strobl"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3922172"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_9667"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Kevin Volland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3922192"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Pawel Olkowski"
+:event/subtype "trip"
+:event/player1 "Andreas Beck"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3922205"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_9667"}
+
+{:event/type "goal"
+:event/elapsed 12
+:event/subtype "direct_freekick"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_3922210"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Pirmin Schwegler"
+:event/subtype "trip"
+:event/player1 "Mergim Mavraj"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3922266"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Kevin Wimmer"
+:event/subtype "trip"
+:event/player1 "Tarik Elyounoussi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3922226"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Pawel Olkowski"
+:event/subtype "trip"
+:event/player1 "Andreas Beck"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3922876"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Kevin Volland"
+:event/subtype "from_behind"
+:event/player1 "Jonas Hector"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3922261"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Roberto Firmino"
+:event/subtype "trip"
+:event/player1 "Adam Matuschyk"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3922882"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Kevin Vogt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3922301"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_9667"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross_right"
+:event/player1 "Dusan Svento"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3922310"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Pawel Olkowski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3922327"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_9667"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "distance"
+:event/player1 "Anthony Ujah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3922328"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Eugen Polanski"
+:event/subtype "trip"
+:event/player1 "Kevin Vogt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3922345"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Andreas Beck"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3922350"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Jonas Hector"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3922376"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Adam Matuschyk"
+:event/subtype "trip"
+:event/player1 "Roberto Firmino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3922394"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Matthias Lehmann"
+:event/subtype "trip"
+:event/player1 "Tarik Elyounoussi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3922400"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9667"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Kevin Volland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3922429"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_9667"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "short_right"
+:event/player1 "Pirmin Schwegler"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3922434"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_9667"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Andreas Beck"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3922437"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_9667"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "shot"
+:event/player1 "Tarik Elyounoussi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3922451"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Pirmin Schwegler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3922466"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_9667"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross_right"
+:event/player1 "Pirmin Schwegler"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3922474"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Kevin Volland"
+:event/subtype "trip"
+:event/player1 "Pawel Olkowski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3922496"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Andreas Beck"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3922506"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_9667"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "header"
+:event/player1 "Adam Szalai"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3922508"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_9667"}
+
+{:event/type "goal"
+:event/elapsed 35
+:event/player2 "Pawel Olkowski"
+:event/subtype "shot"
+:event/player1 "Anthony Ujah"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_3922523"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Andreas Beck"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3922569"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_9667"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross_left"
+:event/player1 "Eugen Polanski"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3922580"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Jonas Hector"
+:event/subtype "trip"
+:event/player1 "Tobias Strobl"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3922609"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_9667"}
+
+{:event/type "goal"
+:event/elapsed 39
+:event/player2 "Tarik Elyounoussi"
+:event/subtype "shot"
+:event/player1 "Roberto Firmino"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_3922629"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Adam Matuschyk"
+:event/subtype "trip"
+:event/player1 "Pirmin Schwegler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3922718"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Tarik Elyounoussi"
+:event/subtype "pushing"
+:event/player1 "Miso Brecko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3922703"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_9667"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "distance"
+:event/player1 "Pirmin Schwegler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3922733"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Pawel Olkowski"
+:event/subtype "trip"
+:event/player1 "Tarik Elyounoussi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3922744"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Miso Brecko"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3922755"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_9667"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "header"
+:event/player1 "Anthony Ujah"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3922761"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_9667"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "cross_right"
+:event/player1 "Jonas Hector"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3922775"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9667"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Kevin Vogt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3922782"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9667"}
+
+{:event/type "goal"
+:event/elapsed 45
+:event/player2 "Kevin Volland"
+:event/subtype "header"
+:event/player1 "Roberto Firmino"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_3922783"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Niklas Suele"
+:event/subtype "trip"
+:event/player1 "Anthony Ujah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3923107"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Kevin Wimmer"
+:event/subtype "pushing"
+:event/player1 "Roberto Firmino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3923138"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Adam Szalai"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3923158"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_9667"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "header"
+:event/player1 "Kevin Volland"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3923161"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Andreas Beck"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3923253"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Eugen Polanski"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3923264"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Ermin Bicakcic"
+:event/subtype "serious_foul"
+:event/player1 "Anthony Ujah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3923320"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_9667"}
+
+{:event/type "card"
+:event/elapsed 57
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Anthony Ujah"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3923339"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Roberto Firmino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3923369"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/subtype "hands"
+:event/player1 "Pirmin Schwegler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3923385"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Tobias Strobl"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3923428"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Yannick Gerhardt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3923448"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Anthony Ujah"
+:event/subtype "serious_foul"
+:event/player1 "Andreas Beck"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3923455"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_9667"}
+
+{:event/type "card"
+:event/elapsed 62
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Andreas Beck"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3923459"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3923473"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Pawel Olkowski"
+:event/subtype "pull"
+:event/player1 "Roberto Firmino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3923486"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Ermin Bicakcic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3923508"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Roberto Firmino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3923579"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Dusan Svento"
+:event/subtype "trip"
+:event/player1 "Sebastian Rudy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3923589"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Dusan Svento"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3923604"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_9667"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "short_left"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3923612"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Yannick Gerhardt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3923615"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Roberto Firmino"
+:event/subtype "trip"
+:event/player1 "Miso Brecko"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3923622"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Roberto Firmino"
+:event/subtype "from_behind"
+:event/player1 "Kevin Vogt"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3923634"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_9667"}
+
+{:event/type "card"
+:event/elapsed 75
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Kevin Vogt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3923640"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Andreas Beck"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3923649"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Adam Szalai"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3923672"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/subtype "diving"
+:event/player1 "Eugen Polanski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3923684"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Pirmin Schwegler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3923751"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_9667"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Adam Szalai"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3923757"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9667"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Tarik Elyounoussi"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3923775"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9667"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross_right"
+:event/player1 "Andreas Beck"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3923786"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Miso Brecko"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3923795"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_9667"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "distance"
+:event/player1 "Miso Brecko"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3923811"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_9667"}
+
+{:event/type "goal"
+:event/elapsed 83
+:event/player2 "Miso Brecko"
+:event/subtype "distance"
+:event/player1 "Pawel Olkowski"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_3923903"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Kevin Volland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3923939"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_9667"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "header"
+:event/player1 "Roberto Firmino"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3923944"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_9667"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross_left"
+:event/player1 "Sebastian Rudy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3923971"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Timo Horn"
+:event/subtype "pushing"
+:event/player1 "Niklas Suele"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3923979"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_9667"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "short_right"
+:event/player1 "Sebastian Rudy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3924030"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Sebastian Rudy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3924039"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Steven Zuber"
+:event/subtype "trip"
+:event/player1 "Kevin Vogt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3924086"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Andreas Beck"
+:event/subtype "pushing"
+:event/player1 "Pawel Olkowski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3924119"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9667"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Sebastian Rudy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3924129"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9667"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Steven Zuber"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3924138"
+:event/minute 91
+:event/match_id "match_9667"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Anthony Ujah"
+:event/subtype "from_behind"
+:event/player1 "Niklas Suele"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3924215"
+:event/minute 93
+:event/match_id "match_9667"}
+
+
+]
+

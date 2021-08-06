@@ -1,0 +1,941 @@
+
+;;# data
+[
+{:match/id "match_4160"
+:match/league "England Premier League"
+:match/hometeam "Chelsea"
+:match/awayteam "Manchester City"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "shoton"
+:event/elapsed 1
+:event/subtype "shot"
+:event/player1 "Jesus Navas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4111452"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Fernando"
+:event/subtype "trip"
+:event/player1 "Ramires"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4111479"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Gael Clichy"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4111519"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4160"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "deflected"
+:event/player1 "Fernandinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4111531"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4160"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross_left"
+:event/player1 "Jesus Navas"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4111537"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Oscar"
+:event/subtype "trip"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4111606"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4160"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross_right"
+:event/player1 "Willian"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4111619"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4160"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "header"
+:event/player1 "John Terry"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4111621"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4111633"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4160"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross_left"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4111677"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Oscar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4111690"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Nemanja Matic"
+:event/subtype "pull"
+:event/player1 "Fernandinho"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4111697"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Oscar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4111702"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Loic Remy"
+:event/subtype "pull"
+:event/player1 "Vincent Kompany"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4111719"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4160"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4111723"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Eden Hazard"
+:event/player1 "Jesus Navas"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4111737"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Vincent Kompany"
+:event/subtype "pull"
+:event/player1 "Loic Remy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4111741"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4160"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "short_left"
+:event/player1 "James Milner"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4111750"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4111752"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4111755"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4160"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross_left"
+:event/player1 "James Milner"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4111756"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Cesar Azpilicueta"
+:event/player1 "Sergio Aguero"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4111760"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Ramires"
+:event/subtype "pushing"
+:event/player1 "Fernandinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4111764"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Willian"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4111769"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4160"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "shot"
+:event/player1 "Oscar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4111777"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Fernandinho"
+:event/player1 "Nemanja Matic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4111781"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4160"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "big chance shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4111790"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Ramires"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4111798"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Jesus Navas"
+:event/subtype "trip"
+:event/player1 "Ramires"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4111822"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Sergio Aguero"
+:event/player1 "Willian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4111840"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4160"}
+
+{:event/type "goal"
+:event/elapsed 41
+:event/player2 "Eden Hazard"
+:event/subtype "shot"
+:event/player1 "Loic Remy"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4111885"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4111927"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4160"}
+
+{:event/type "goal"
+:event/elapsed 45
+:event/player2 "Sergio Aguero"
+:event/subtype "shot"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_4111931"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4111959"
+:event/minute 47
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Eden Hazard"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4112153"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4112181"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "James Milner"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4112193"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Nemanja Matic"
+:event/subtype "from_behind"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4112204"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4160"}
+
+{:event/type "card"
+:event/elapsed 52
+:event/card_type "y"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4112208"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4160"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross_left"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4112246"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4160"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "header"
+:event/player1 "Bacary Sagna"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4112249"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4112261"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4160"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "header"
+:event/player1 "Fernandinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4112263"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4160"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_right"
+:event/player1 "James Milner"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4112265"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Jesus Navas"
+:event/player1 "Ramires"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4112271"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4112285"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "David Silva"
+:event/subtype "from_behind"
+:event/player1 "Nemanja Matic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4112296"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4112308"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Ramires"
+:event/subtype "pushing"
+:event/player1 "Fernando"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4112350"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Willian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4112363"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4112378"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4160"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "header"
+:event/player1 "James Milner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4112380"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Fernando"
+:event/player1 "Willian"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4112387"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Fernando"
+:event/player1 "Loic Remy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4112403"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4112415"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4160"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "distance"
+:event/player1 "Fernandinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4112434"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "David Silva"
+:event/player1 "Nemanja Matic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4112457"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Eden Hazard"
+:event/subtype "trip"
+:event/player1 "Fernando"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4112484"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4160"}
+
+{:event/type "card"
+:event/elapsed 74
+:event/card_type "y"
+:event/player1 "Fernando"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4112487"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Willian"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4112496"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_4112531"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Nemanja Matic"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4112586"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Didier Drogba"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4112628"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Didier Drogba"
+:event/subtype "pull"
+:event/player1 "Martin Demichelis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4112637"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Oscar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4112648"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Loic Remy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4112659"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Gael Clichy"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4112722"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4160"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Fernandinho"
+:event/player1 "Loic Remy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4112746"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4160"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "James Milner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4112779"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4112826"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4112841"
+:event/minute 91
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4112848"
+:event/minute 91
+:event/match_id "match_4160"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Jesus Navas"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4112852"
+:event/minute 91
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 14
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4112892"
+:event/minute 93
+:event/match_id "match_4160"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "short_right"
+:event/player1 "Jesus Navas"
+:event/sortorder 15
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4112897"
+:event/minute 94
+:event/match_id "match_4160"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 16
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4112900"
+:event/minute 94
+:event/match_id "match_4160"}
+
+
+]
+

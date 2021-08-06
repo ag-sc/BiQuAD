@@ -1,0 +1,878 @@
+
+;;# data
+[
+{:match/id "match_10699"
+:match/league "Italy Serie A"
+:match/hometeam "Genoa"
+:match/awayteam "Parma"
+:match/score "3:2"
+:match/hometeam_goals "2"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Davide Lanzafame"
+:event/subtype "from_behind"
+:event/player1 "Domenico Criscito"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868329"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player1 "Giuseppe Sculli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868340"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Omar Milanetto"
+:event/player1 "Blerim Dzemaili"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868343"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player1 "Blerim Dzemaili"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868349"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Cristian Zaccardo"
+:event/player1 "Domenico Criscito"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868358"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Blerim Dzemaili"
+:event/subtype "shirt_pull"
+:event/player1 "Salvatore Bocchetti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868366"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10699"}
+
+{:event/type "card"
+:event/elapsed 8
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Salvatore Bocchetti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_868524"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Giuseppe Sculli"
+:event/player1 "Massimo Paci"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868374"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Giandomenico Mesto"
+:event/player1 "Daniele Galloppa"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868380"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10699"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Rodrigo Palacio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_868381"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10699"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Rodrigo Palacio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_868381"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/subtype "hands"
+:event/player1 "Stefano Morrone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868390"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10699"}
+
+{:event/type "goal"
+:event/elapsed 14
+:event/player2 "Giuseppe Sculli"
+:event/subtype "shot"
+:event/player1 "Rodrigo Palacio"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_868396"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868400"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/subtype "hands"
+:event/player1 "Davide Lanzafame"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868405"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_10699"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "shot"
+:event/player1 "Stefano Morrone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_868416"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Stefano Morrone"
+:event/subtype "pushing"
+:event/player1 "Raffaele Palladino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868420"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Davide Lanzafame"
+:event/subtype "pushing"
+:event/player1 "Giandomenico Mesto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868433"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10699"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "direct_freekick"
+:event/player1 "Blerim Dzemaili"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_868440"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Christian Panucci"
+:event/player1 "Giuseppe Sculli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868444"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10699"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Giandomenico Mesto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_868449"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Salvatore Bocchetti"
+:event/player1 "Jonathan Biabiany"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868474"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Daniele Galloppa"
+:event/player1 "Giandomenico Mesto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868478"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10699"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "shot"
+:event/player1 "Raffaele Palladino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_868491"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/subtype "pushing"
+:event/player1 "Davide Lanzafame"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868497"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Davide Lanzafame"
+:event/subtype "from_behind"
+:event/player1 "Salvatore Bocchetti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868505"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10699"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "blocked_shot"
+:event/player1 "Christian Panucci"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_868509"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_10699"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Daniele Galloppa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_868514"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10699"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Daniele Galloppa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_868514"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10699"}
+
+{:event/type "card"
+:event/elapsed 32
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Daniele Galloppa"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_868518"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Blerim Dzemaili"
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868532"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10699"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Daniele Galloppa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_868537"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10699"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Raffaele Palladino"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_868540"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10699"}
+
+{:event/type "goal"
+:event/elapsed 37
+:event/player2 "Daniele Galloppa"
+:event/subtype "shot"
+:event/player1 "Jonathan Biabiany"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_868546"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Davide Lanzafame"
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868562"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Blerim Dzemaili"
+:event/subtype "shirt_pull"
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868578"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868580"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Omar Milanetto"
+:event/subtype "pushing"
+:event/player1 "Blerim Dzemaili"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868591"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Sergio Floccari"
+:event/player1 "Massimo Paci"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868642"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10699"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_868649"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10699"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_868653"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10699"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_868653"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10699"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_868690"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10699"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_868690"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Sergio Floccari"
+:event/subtype "pushing"
+:event/player1 "Massimo Paci"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868699"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10699"}
+
+{:event/type "card"
+:event/elapsed 53
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Massimo Paci"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_868700"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868709"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10699"}
+
+{:event/type "card"
+:event/elapsed 55
+:event/card_type "y"
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_868786"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10699"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_868751"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10699"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_868751"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10699"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Raffaele Palladino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_868759"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10699"}
+
+{:event/type "goal"
+:event/elapsed 59
+:event/player2 "Davide Lanzafame"
+:event/subtype "shot"
+:event/player1 "Jonathan Biabiany"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_868764"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/subtype "shirt_pull"
+:event/player1 "Luca Antonelli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868799"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10699"}
+
+{:event/type "card"
+:event/elapsed 63
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Luca Antonelli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_868801"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/subtype "pushing"
+:event/player1 "Nicola Amoruso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868835"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10699"}
+
+{:event/type "goal"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Raffaele Palladino"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_868842"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/subtype "hands"
+:event/player1 "Davide Lanzafame"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868849"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_10699"}
+
+{:event/type "card"
+:event/elapsed 68
+:event/card_type "y"
+:event/subtype "hands"
+:event/player1 "Davide Lanzafame"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_868850"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Sergio Floccari"
+:event/subtype "pushing"
+:event/player1 "Cristian Zaccardo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868858"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10699"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/sortorder 1
+:event/team "home"
+:event/id "event_868870"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Massimo Paci"
+:event/subtype "pushing"
+:event/player1 "Sergio Floccari"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868898"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10699"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "shot"
+:event/player1 "Giuseppe Sculli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_868916"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player1 "Raffaele Palladino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_868939"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10699"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "big chance shot"
+:event/player1 "Giuseppe Sculli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_868984"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Ivan Juric"
+:event/player1 "Blerim Dzemaili"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_868992"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_10699"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_869029"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10699"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Ivan Juric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_869029"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10699"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Paolo Castellini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_869076"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10699"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "big chance header"
+:event/player1 "Cristian Zaccardo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_869079"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/subtype "pushing"
+:event/player1 "Stefano Morrone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_869111"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10699"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "hands"
+:event/player1 "Hernan Crespo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_869152"
+:event/minute 93
+:event/match_id "match_10699"}
+
+
+]
+

@@ -1,0 +1,1313 @@
+
+;;# data
+[
+{:match/id "match_1930"
+:match/league "England Premier League"
+:match/hometeam "West Bromwich Albion"
+:match/awayteam "Arsenal"
+:match/score "1:3"
+:match/hometeam_goals "1"
+:match/awayteam_goals "3"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Emmanuel Eboue"
+:event/player1 "Paul Robinson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599230"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_599240"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_599243"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_1930"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_599243"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_1930"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/player2 "Denilson"
+:event/subtype "shot"
+:event/player1 "Nicklas Bendtner"
+:event/sortorder 5
+:event/team "away"
+:event/id "event_599246"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Luke Moore"
+:event/player1 "Johan Djourou"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_599259"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_1930"}
+
+{:event/type "goal"
+:event/elapsed 7
+:event/subtype "direct_freekick"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_599263"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 13
+:event/subtype "shot"
+:event/player1 "Nicklas Bendtner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_599293"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "James Morrison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599302"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_1930"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "shot"
+:event/player1 "Luke Moore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_599304"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_599306"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_599312"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Gael Clichy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_599322"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "shot"
+:event/player1 "Emmanuel Eboue"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_599328"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Marc-Antoine Fortune"
+:event/player1 "Johan Djourou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_599344"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "shot"
+:event/player1 "Gianni Zuiverloon"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_599349"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Denilson"
+:event/player1 "Luke Moore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599367"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Kolo Toure"
+:event/player1 "Luke Moore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599371"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Marc-Antoine Fortune"
+:event/player1 "Johan Djourou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_599400"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_599406"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Samir Nasri"
+:event/player1 "Robert Koren"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599413"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "distance"
+:event/player1 "James Morrison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_599439"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Gianni Zuiverloon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599478"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Nicklas Bendtner"
+:event/subtype "shirt_pull"
+:event/player1 "Robert Koren"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599487"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1930"}
+
+{:event/type "card"
+:event/elapsed 35
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Robert Koren"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_599489"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_599500"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_1930"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_599500"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "header"
+:event/player1 "Luke Moore"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_599505"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Gael Clichy"
+:event/player1 "James Morrison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599514"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_1930"}
+
+{:event/type "goal"
+:event/elapsed 38
+:event/player2 "Andrey Arshavin"
+:event/subtype "header"
+:event/player1 "Kolo Toure"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_599520"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Denilson"
+:event/player1 "Gianni Zuiverloon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599537"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_599538"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Paul Robinson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599542"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1930"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "short"
+:event/player1 "Chris Brunt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_599559"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1930"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "blocked_shot"
+:event/player1 "Chris Brunt"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_599561"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_599568"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Denilson"
+:event/subtype "serious_foul"
+:event/player1 "Chris Brunt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599572"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1930"}
+
+{:event/type "card"
+:event/elapsed 43
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Chris Brunt"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_599574"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Kolo Toure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_599578"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1930"}
+
+{:event/type "goal"
+:event/elapsed 44
+:event/player2 "Kolo Toure"
+:event/subtype "shot"
+:event/player1 "Nicklas Bendtner"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_599582"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Denilson"
+:event/player1 "Jonathan Greening"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599591"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Robert Koren"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_599606"
+:event/minute 46
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_599680"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Paul Robinson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599614"
+:event/minute 47
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Andrey Arshavin"
+:event/player1 "Ryan Donk"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599683"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Ryan Donk"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599691"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Robert Koren"
+:event/player1 "Abou Diaby"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_599696"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_1930"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "shot"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_599714"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Emmanuel Eboue"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_599717"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_1930"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "shot"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_599721"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_599722"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_1930"}
+
+{:event/type "corner"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_599722"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Denilson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_599726"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "header"
+:event/player1 "Nicklas Bendtner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_599727"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "deflected"
+:event/player1 "Abou Diaby"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_599731"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_599733"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1930"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_599733"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Abou Diaby"
+:event/player1 "Robert Koren"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599740"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "post"
+:event/player1 "Nicklas Bendtner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_599743"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_599747"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1930"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_599747"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Paul Robinson"
+:event/player1 "Bacary Sagna"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_599750"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Denilson"
+:event/player1 "Marc-Antoine Fortune"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599769"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Jonathan Greening"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599778"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Gianni Zuiverloon"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599783"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1930"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "distance"
+:event/player1 "Emmanuel Eboue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_599789"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Paul Robinson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599795"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_1930"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "header"
+:event/player1 "Marc-Antoine Fortune"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_599798"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Gianni Zuiverloon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599812"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Bacary Sagna"
+:event/player1 "Marc-Antoine Fortune"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599815"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Abou Diaby"
+:event/subtype "serious_foul"
+:event/player1 "Abdoulaye Meite"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599822"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_1930"}
+
+{:event/type "card"
+:event/elapsed 66
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Abdoulaye Meite"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_599825"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "distance"
+:event/player1 "Denilson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_599828"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "James Morrison"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_599843"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Luke Moore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599851"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Marc-Antoine Fortune"
+:event/player1 "Denilson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_599863"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_1930"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Robert Koren"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_599868"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Chris Brunt"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_599875"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Paul Robinson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599879"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Aaron Ramsey"
+:event/player1 "Paul Robinson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599886"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Gianni Zuiverloon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599920"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Marc-Antoine Fortune"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_599921"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Gianni Zuiverloon"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_599925"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Manuel Almunia"
+:event/player1 "Luke Moore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599930"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "distance"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_599955"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Juan Carlos Menseguez"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_599961"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1930"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "blocked_shot"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_599966"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Marc-Antoine Fortune"
+:event/player1 "Gael Clichy"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_599975"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Paul Robinson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_599979"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Abou Diaby"
+:event/subtype "serious_foul"
+:event/player1 "Ryan Donk"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_599981"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1930"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Ryan Donk"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_599984"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Gael Clichy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_600000"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "distance"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_600008"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "unknown"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_600015"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Gianni Zuiverloon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_600025"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_600027"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1930"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_600027"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1930"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "header"
+:event/player1 "Marc-Antoine Fortune"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_600029"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Robert Koren"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_600031"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Bacary Sagna"
+:event/player1 "Luke Moore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_600033"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Denilson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_600046"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1930"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Nicklas Bendtner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_600049"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Nicklas Bendtner"
+:event/player1 "Ryan Donk"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_600054"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1930"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Nicklas Bendtner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_600064"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_1930"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_600067"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Alex Song"
+:event/player1 "Luke Moore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_600075"
+:event/minute 91
+:event/match_id "match_1930"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Marc-Antoine Fortune"
+:event/player1 "Abou Diaby"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_600077"
+:event/minute 92
+:event/match_id "match_1930"}
+
+
+]
+

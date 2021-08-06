@@ -1,0 +1,991 @@
+
+;;# data
+[
+{:match/id "match_7330"
+:match/league "France Ligue 1"
+:match/hometeam "En Avant de Guingamp"
+:match/awayteam "Stade de Reims"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Reynald Lemaitre"
+:event/player1 "Odair Fortes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4430700"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Reynald Lemaitre"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4430728"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Reynald Lemaitre"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4430733"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Sylvain Marveaux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4430746"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7330"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "blocked_shot"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4430764"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Sylvain Marveaux"
+:event/subtype "trip"
+:event/player1 "Gaetan Charbonnier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4430801"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Sylvain Marveaux"
+:event/subtype "from_behind"
+:event/player1 "Mads Albaek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4430835"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/subtype "hands"
+:event/player1 "David Ngog"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4430866"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4430846"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7330"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "blocked_shot"
+:event/player1 "Jeremy Pied"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4430881"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Reynald Lemaitre"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4430921"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Diego"
+:event/subtype "trip"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4430932"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Prince Oniangue"
+:event/subtype "serious_foul"
+:event/player1 "Jeremy Pied"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4431041"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7330"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross_right"
+:event/player1 "Sylvain Marveaux"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4431064"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7330"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "blocked_shot"
+:event/player1 "Christophe Mandanne"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4431068"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/subtype "hands"
+:event/player1 "Jeremy Pied"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4431070"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7330"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross_left"
+:event/player1 "Diego"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4431106"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4431113"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Mohamed Fofana"
+:event/subtype "dangerous_play"
+:event/player1 "Christophe Mandanne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4431141"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Mustapha Diallo"
+:event/subtype "serious_foul"
+:event/player1 "David Ngog"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4431145"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Younousse Sankhare"
+:event/subtype "pushing"
+:event/player1 "Anthony Weber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4431149"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Sylvain Marveaux"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4431160"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7330"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross_left"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4431171"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7330"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "distance"
+:event/player1 "Prince Oniangue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4431295"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Mustapha Diallo"
+:event/subtype "trip"
+:event/player1 "Gaetan Charbonnier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4431318"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Sylvain Marveaux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4431332"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Christophe Mandanne"
+:event/subtype "trip"
+:event/player1 "Aissa Mandi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4431356"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7330"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "bad shot"
+:event/player1 "Mustapha Diallo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4431361"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Mads Albaek"
+:event/subtype "trip"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4431377"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Aissa Mandi"
+:event/subtype "dangerous_play"
+:event/player1 "Jeremy Pied"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4431385"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Odair Fortes"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4431403"
+:event/minute 46
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Gaetan Charbonnier"
+:event/subtype "pushing"
+:event/player1 "Maxime Baca"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4431493"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_7330"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Diego"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4431406"
+:event/minute 46
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Mohamed Fofana"
+:event/player1 "Christophe Mandanne"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4431414"
+:event/minute 46
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Gaetan Charbonnier"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4431502"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Younousse Sankhare"
+:event/subtype "pushing"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4431518"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Sylvain Marveaux"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4431524"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Gaetan Charbonnier"
+:event/subtype "obstruction"
+:event/player1 "Jeremy Pied"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4431541"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Jeremy Pied"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4431564"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Sylvain Marveaux"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4431591"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "David Ngog"
+:event/subtype "trip"
+:event/player1 "Mustapha Diallo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4431598"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Christophe Mandanne"
+:event/subtype "pushing"
+:event/player1 "Anthony Weber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4431627"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4431673"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7330"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross_right"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4431683"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7330"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "distance"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4431710"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Claudio Beauvue"
+:event/subtype "serious_foul"
+:event/player1 "Aissa Mandi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4431740"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Sylvain Marveaux"
+:event/subtype "penalty"
+:event/player1 "Johny Placide"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4431764"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7330"}
+
+{:event/type "card"
+:event/elapsed 61
+:event/card_type "y"
+:event/player1 "Johny Placide"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4431766"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7330"}
+
+{:event/type "goal"
+:event/elapsed 62
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_4431779"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "David Ngog"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4431805"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Anthony Weber"
+:event/subtype "pushing"
+:event/player1 "Christophe Mandanne"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4431860"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Mustapha Diallo"
+:event/subtype "pushing"
+:event/player1 "David Ngog"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4431863"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Prince Oniangue"
+:event/subtype "trip"
+:event/player1 "Mustapha Diallo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4431882"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Odair Fortes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4431900"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7330"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "header"
+:event/player1 "David Ngog"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4431904"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7330"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross_left"
+:event/player1 "Jeremy Pied"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4431960"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Benjamin Moukandjo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4432057"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Odair Fortes"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4432092"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7330"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross_left"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4432098"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7330"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "header"
+:event/player1 "Prince Oniangue"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4432103"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Diego"
+:event/subtype "trip"
+:event/player1 "Maxime Baca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4432119"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4432131"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7330"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "volley"
+:event/player1 "Lionel Mathis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4432134"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Prince Oniangue"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4432143"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7330"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Claudio Beauvue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4432150"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7330"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "blocked_shot"
+:event/player1 "Odair Fortes"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4432159"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Diego"
+:event/subtype "from_behind"
+:event/player1 "Maxime Baca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4432169"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Odair Fortes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4432180"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Reynald Lemaitre"
+:event/subtype "pull"
+:event/player1 "Mohamed Fofana"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4432184"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Benjamin Moukandjo"
+:event/player1 "Mustapha Diallo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4432204"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7330"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "bad shot"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4432209"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "unknown"
+:event/subtype "from_behind"
+:event/player1 "Julien Cardy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4432216"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7330"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/player1 "Julien Cardy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4432217"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7330"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "cross_right"
+:event/player1 "Benjamin Moukandjo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4432250"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7330"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "cross_left"
+:event/player1 "Odair Fortes"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4432259"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Jonas Loessl"
+:event/subtype "obstruction"
+:event/player1 "Prince Oniangue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4432260"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7330"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Valentin Roberge"
+:event/subtype "from_behind"
+:event/player1 "Lionel Mathis"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4432331"
+:event/minute 93
+:event/match_id "match_7330"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Younousse Sankhare"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4432346"
+:event/minute 94
+:event/match_id "match_7330"}
+
+{:event/type "goal"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Younousse Sankhare"
+:event/subtype "lob"
+:event/player1 "Christophe Mandanne"
+:event/sortorder 11
+:event/team "home"
+:event/id "event_4432348"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 94
+:event/match_id "match_7330"}
+
+
+]
+

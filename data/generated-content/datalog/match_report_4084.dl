@@ -1,0 +1,991 @@
+
+;;# data
+[
+{:match/id "match_4084"
+:match/league "England Premier League"
+:match/hometeam "Leicester City"
+:match/awayteam "Manchester City"
+:match/score "0:1"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Vincent Kompany"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4007033"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Pozo"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4007075"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4007078"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Fernando"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4007085"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Jamie Vardy"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4007092"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4084"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross_left"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4007183"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Danny Simpson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4007204"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4007231"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4084"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "distance"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4007240"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4084"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "deflected"
+:event/player1 "Jamie Vardy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4007268"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4084"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross_right"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4007282"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Gael Clichy"
+:event/subtype "dangerous_play"
+:event/player1 "Andy King"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4007289"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Samir Nasri"
+:event/subtype "trip"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4007307"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Pozo"
+:event/player1 "Marcin Wasilewski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4007364"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4007375"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4084"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Yaya Toure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4007378"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Andy King"
+:event/subtype "from_behind"
+:event/player1 "Yaya Toure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4007402"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "David Silva"
+:event/subtype "trip"
+:event/player1 "Danny Simpson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4007435"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4084"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "blocked_shot"
+:event/player1 "Pozo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4008319"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Jeffrey Schlupp"
+:event/subtype "pushing"
+:event/player1 "Yaya Toure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4007472"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4007477"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Danny Drinkwater"
+:event/subtype "dangerous_play"
+:event/player1 "Yaya Toure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4007483"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4084"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "direct_freekick"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4007488"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Riyad Mahrez"
+:event/subtype "trip"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4007533"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4007539"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Danny Simpson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4007574"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Frank Lampard"
+:event/subtype "from_behind"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4007579"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4007590"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4084"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Gael Clichy"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4007598"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4007619"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4084"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "shot"
+:event/player1 "Yaya Toure"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4007620"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Fernando"
+:event/subtype "trip"
+:event/player1 "Danny Drinkwater"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4007656"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Marcin Wasilewski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4007690"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Pozo"
+:event/subtype "trip"
+:event/player1 "Marcin Wasilewski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4007728"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/subtype "hands"
+:event/player1 "Pozo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4007769"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4084"}
+
+{:event/type "goal"
+:event/elapsed 40
+:event/player2 "Samir Nasri"
+:event/subtype "shot"
+:event/player1 "Frank Lampard"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_4007817"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4084"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross_left"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4007882"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4084"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "cross_right"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4007951"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4084"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4007956"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Riyad Mahrez"
+:event/subtype "trip"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4008237"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4008254"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Danny Simpson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4008273"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4008283"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Vincent Kompany"
+:event/player1 "Andy King"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4008332"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Paul Konchesky"
+:event/subtype "pushing"
+:event/player1 "Yaya Toure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4008410"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Danny Simpson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4008477"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4084"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4008523"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Jeffrey Schlupp"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4008562"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Jeffrey Schlupp"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4008650"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Vincent Kompany"
+:event/subtype "dangerous_play"
+:event/player1 "Jose Leonardo Ulloa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4008760"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_4008791"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Marcin Wasilewski"
+:event/player1 "Samir Nasri"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4008810"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4008827"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4084"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross_left"
+:event/player1 "Samir Nasri"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4008834"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Wes Morgan"
+:event/player1 "Samir Nasri"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4008891"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4084"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Samir Nasri"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4008873"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4084"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross_left"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4008901"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Vincent Kompany"
+:event/player1 "Jose Leonardo Ulloa"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4008925"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Jesus Navas"
+:event/subtype "from_behind"
+:event/player1 "Paul Konchesky"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4008943"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Gael Clichy"
+:event/player1 "Jose Leonardo Ulloa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4009006"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4084"}
+
+{:event/type "card"
+:event/elapsed 78
+:event/card_type "y"
+:event/subtype "stall_time"
+:event/player1 "Joe Hart"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4009008"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4084"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "deflected"
+:event/player1 "Jose Leonardo Ulloa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4009047"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4084"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross_left"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4009051"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4084"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_left"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4009068"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4084"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross_right"
+:event/player1 "Samir Nasri"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4009087"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4084"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "shot"
+:event/player1 "Yaya Toure"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4009107"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Anthony Knockaert"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4009120"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4009122"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Anthony Knockaert"
+:event/subtype "trip"
+:event/player1 "Fernando"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4009130"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4084"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "direct_freekick"
+:event/player1 "Anthony Knockaert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4009141"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4009146"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4084"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "volley"
+:event/player1 "Jesus Navas"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4009150"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4084"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Samir Nasri"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4009213"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Jose Leonardo Ulloa"
+:event/player1 "Gael Clichy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4009230"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4009235"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4084"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "Jose Leonardo Ulloa"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4009251"
+:event/minute 91
+:event/match_id "match_4084"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Fernando"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4009289"
+:event/minute 93
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_4009302"
+:event/minute 94
+:event/match_id "match_4084"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "volley"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4009303"
+:event/minute 94
+:event/match_id "match_4084"}
+
+{:event/type "cross"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 11
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4009319"
+:event/minute 95
+:event/match_id "match_4084"}
+
+
+]
+

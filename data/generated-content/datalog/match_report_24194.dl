@@ -1,0 +1,918 @@
+
+;;# data
+[
+{:match/id "match_24194"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "RC Deportivo de La Coruña"
+:match/awayteam "Atlético Madrid"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Koke"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4968784"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_24194"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross_right"
+:event/player1 "Koke"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4968800"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_24194"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "header"
+:event/player1 "Jose Gimenez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4968801"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "German Dario Lux"
+:event/subtype "pushing"
+:event/player1 "Diego Godin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4968804"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Tiago"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4968824"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_24194"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "blocked_shot"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4968826"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4968832"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_24194"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "blocked_shot"
+:event/player1 "Jackson Martinez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4968862"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Juanfran"
+:event/subtype "serious_foul"
+:event/player1 "Faycal Fajr"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4968882"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_24194"}
+
+{:event/type "card"
+:event/elapsed 15
+:event/card_type "y"
+:event/player1 "Faycal Fajr"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4968884"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_24194"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross_left"
+:event/player1 "Gabi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4968904"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4968909"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Gabi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4968935"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Faycal Fajr"
+:event/subtype "trip"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4968939"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_24194"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Jackson Martinez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4968946"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Sidnei"
+:event/subtype "dangerous_play"
+:event/player1 "Jackson Martinez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4968952"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Celso Borges"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4968956"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4968961"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Koke"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4968992"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Koke"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969003"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Gabi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969006"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969018"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969022"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_24194"}
+
+{:event/type "goal"
+:event/elapsed 34
+:event/subtype "volley"
+:event/player1 "Tiago"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_4969024"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4969042"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969062"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_24194"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross_left"
+:event/player1 "Koke"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4969068"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24194"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "post"
+:event/player1 "Diego Godin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4969069"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24194"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "shot"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4969072"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Federico Nicolas Cartabia"
+:event/subtype "pushing"
+:event/player1 "Jose Gimenez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4969074"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Antoine Griezmann"
+:event/subtype "trip"
+:event/player1 "Sidnei"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4969083"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Gabi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969090"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Faycal Fajr"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4969101"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Alberto Lopo"
+:event/subtype "dangerous_play"
+:event/player1 "Jackson Martinez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4969106"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Federico Nicolas Cartabia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4969109"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969127"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969141"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Tiago"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969146"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969151"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_24194"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4969153"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_24194"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "short_left"
+:event/player1 "Koke"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4969156"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Koke"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969157"
+:event/minute 46
+:event/match_id "match_24194"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "big chance header"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4969158"
+:event/minute 46
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4969264"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4969268"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_24194"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Lucas Perez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4969269"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_24194"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "shot"
+:event/player1 "Federico Nicolas Cartabia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4969278"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Fernando Navarro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4969295"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Diego Godin"
+:event/subtype "trip"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4969306"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Antoine Griezmann"
+:event/subtype "pushing"
+:event/player1 "Sidnei"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4969344"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4969362"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24194"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Federico Nicolas Cartabia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4969364"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24194"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Federico Nicolas Cartabia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4969382"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Sidnei"
+:event/subtype "trip"
+:event/player1 "Jackson Martinez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4969384"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Laure"
+:event/subtype "pushing"
+:event/player1 "Yannick Ferreira-Carrasco"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4969396"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_24194"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross_left"
+:event/player1 "Federico Nicolas Cartabia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4969419"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_24194"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "volley"
+:event/player1 "Fernando Navarro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4969428"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Faycal Fajr"
+:event/subtype "pushing"
+:event/player1 "Tiago"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4969451"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Faycal Fajr"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4969457"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4969461"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Lucas Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4969497"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_24194"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Luis Alberto"
+:event/subtype "trip"
+:event/player1 "Gabi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4969512"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_24194"}
+
+{:event/type "goal"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Lucas Perez"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4969519"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969535"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_24194"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "header"
+:event/player1 "Koke"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4969537"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Fernando Navarro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4969542"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_24194"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "blocked_shot"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4969569"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_24194"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross_left"
+:event/player1 "Koke"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4969571"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_24194"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "crossbar"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4969585"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Faycal Fajr"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4969586"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969598"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_24194"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Federico Nicolas Cartabia"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4969620"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969609"
+:event/minute 91
+:event/match_id "match_24194"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Gabi"
+:event/sortorder 10
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4969625"
+:event/minute 93
+:event/match_id "match_24194"}
+
+
+]
+

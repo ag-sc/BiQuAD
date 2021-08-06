@@ -1,0 +1,994 @@
+
+;;# data
+[
+{:match/id "match_1970"
+:match/league "England Premier League"
+:match/hometeam "Arsenal"
+:match/awayteam "Manchester City"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Denilson"
+:event/player1 "Richard Dunne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_629286"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "William Gallas"
+:event/player1 "Vincent Kompany"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_629296"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_1970"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "distance"
+:event/player1 "Nigel de Jong"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_629316"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Bacary Sagna"
+:event/player1 "Robinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_629367"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1970"}
+
+{:event/type "goal"
+:event/elapsed 8
+:event/player2 "Cesc Fabregas"
+:event/subtype "header"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_629381"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1970"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "short"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_629475"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_629442"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_629460"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Bacary Sagna"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_629511"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Denilson"
+:event/subtype "from_behind"
+:event/player1 "Richard Dunne"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_629519"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_1970"}
+
+{:event/type "card"
+:event/elapsed 21
+:event/card_type "y"
+:event/player1 "Richard Dunne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_629523"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_629536"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_1970"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_629536"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_1970"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "shot"
+:event/player1 "Kolo Toure"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_629540"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Nigel de Jong"
+:event/player1 "Denilson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_629558"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Vincent Kompany"
+:event/player1 "Alex Song"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_629602"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1970"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "shot"
+:event/player1 "Micah Richards"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_629615"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_629647"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "post"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_629679"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Andrey Arshavin"
+:event/player1 "Micah Richards"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_629703"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Pablo Zabaleta"
+:event/player1 "Theo Walcott"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_629737"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Robinho"
+:event/subtype "serious_foul"
+:event/player1 "Kolo Toure"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_629764"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1970"}
+
+{:event/type "card"
+:event/elapsed 36
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Kolo Toure"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_629769"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "volley"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_629787"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Elano"
+:event/player1 "Alex Song"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_629824"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "distance"
+:event/player1 "Robinho"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_629836"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_629852"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_1970"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_629852"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Nedum Onuoha"
+:event/player1 "Denilson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_629856"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "distance"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_629869"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Theo Walcott"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_629887"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "shot"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_629896"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player1 "Robinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_629905"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Theo Walcott"
+:event/subtype "serious_foul"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_629912"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1970"}
+
+{:event/type "card"
+:event/elapsed 44
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_629914"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1970"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_629935"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1970"}
+
+{:event/type "card"
+:event/elapsed 46
+:event/card_type "y"
+:event/player1 "Nigel de Jong"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_630590"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1970"}
+
+{:event/type "shoton"
+:event/elapsed 46
+:event/subtype "distance"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_630125"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_630134"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Emmanuel Adebayor"
+:event/player1 "Robinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_629965"
+:event/minute 47
+:event/match_id "match_1970"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "blocked_shot"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_630177"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_1970"}
+
+{:event/type "goal"
+:event/elapsed 49
+:event/player2 "Cesc Fabregas"
+:event/subtype "shot"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_630185"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Theo Walcott"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_630209"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_630231"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1970"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_630231"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "header"
+:event/player1 "Alex Song"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_630234"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_1970"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "shot"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_630251"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Elano"
+:event/player1 "Denilson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_630265"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_630278"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "distance"
+:event/player1 "Theo Walcott"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_630284"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "distance"
+:event/player1 "Theo Walcott"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_630298"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Elano"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_630332"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "deflected"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_630345"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_630359"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1970"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_630359"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Elano"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_630372"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1970"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Elano"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_630372"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1970"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "distance"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_630377"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Alex Song"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_630400"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_630446"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Theo Walcott"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_630479"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "shot"
+:event/player1 "William Gallas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_630483"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Elano"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_630506"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_1970"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Theo Walcott"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_630550"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_1970"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "distance"
+:event/player1 "Theo Walcott"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_630562"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "shot"
+:event/player1 "Emmanuel Eboue"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_630637"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_630705"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1970"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_630705"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "deflected"
+:event/player1 "Alex Song"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_630715"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_630726"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1970"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_630726"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_630739"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1970"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_630739"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Denilson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_630740"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "shot"
+:event/player1 "Nicklas Bendtner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_630754"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "shot"
+:event/player1 "Denilson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_630777"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_630818"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1970"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_630823"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1970"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_630863"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1970"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Nedum Onuoha"
+:event/player1 "Nicklas Bendtner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_630891"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_1970"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_630910"
+:event/minute 91
+:event/match_id "match_1970"}
+
+
+]
+

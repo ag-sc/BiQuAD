@@ -1,0 +1,938 @@
+
+;;# data
+[
+{:match/id "match_4530"
+:match/league "England Premier League"
+:match/hometeam "Bournemouth"
+:match/awayteam "Norwich City"
+:match/score "3:0"
+:match/hometeam_goals "3"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5181461"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4530"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "distance"
+:event/player1 "Benik Afobe"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5181466"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5181481"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Junior Stanislas"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5181490"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Marc Pugh"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5181568"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Marc Pugh"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5181541"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4530"}
+
+{:event/type "goal"
+:event/elapsed 10
+:event/player2 "Marc Pugh"
+:event/subtype "header"
+:event/player1 "Dan Gosling"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5181545"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "blocked_shot"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5181564"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Robert Brady"
+:event/subtype "pushing"
+:event/player1 "Junior Stanislas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5181627"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Alexander Tettey"
+:event/subtype "from_behind"
+:event/player1 "Harry Arter"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5181646"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4530"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "distance"
+:event/player1 "Dan Gosling"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5181700"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Benik Afobe"
+:event/player1 "Sebastien Bassong"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5181741"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Junior Stanislas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5181747"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5181763"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4530"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross_left"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5181768"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Adam Smith"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5181806"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Vadis Odjidja-Ofoe"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5181820"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Charlie Daniels"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5181836"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4530"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross_left"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5181855"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "shot"
+:event/player1 "Matt Jarvis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5181919"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4530"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "distance"
+:event/player1 "Harry Arter"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5181946"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Dieumerci Mbokani"
+:event/player1 "Simon Francis"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5181974"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "direct_freekick"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5181980"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4530"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "distance"
+:event/player1 "Alexander Tettey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5182011"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Junior Stanislas"
+:event/player1 "Jonathan Howson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182005"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Robert Brady"
+:event/subtype "trip"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5182031"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5182033"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Vadis Odjidja-Ofoe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5182054"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5182065"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Benik Afobe"
+:event/subtype "serious_foul"
+:event/player1 "Declan Rudd"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182096"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4530"}
+
+{:event/type "card"
+:event/elapsed 43
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Declan Rudd"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5182104"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4530"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "direct_freekick"
+:event/player1 "Junior Stanislas"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5182169"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 46
+:event/subtype "shot"
+:event/player1 "Marc Pugh"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5182277"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Adam Smith"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182284"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/subtype "diving"
+:event/player1 "Harry Arter"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5182341"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4530"}
+
+{:event/type "card"
+:event/elapsed 48
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Harry Arter"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5182310"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Dieumerci Mbokani"
+:event/player1 "Dan Gosling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5182320"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Dan Gosling"
+:event/player1 "Jonathan Howson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182353"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "header"
+:event/player1 "Marc Pugh"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5183001"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4530"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_right"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5182372"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Marc Pugh"
+:event/subtype "penalty"
+:event/player1 "Vadis Odjidja-Ofoe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182374"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4530"}
+
+{:event/type "goal"
+:event/elapsed 54
+:event/player1 "Charlie Daniels"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5182381"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4530"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "distance"
+:event/player1 "Harry Arter"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5182444"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Junior Stanislas"
+:event/player1 "Alexander Tettey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182467"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5182476"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4530"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "distance"
+:event/player1 "Junior Stanislas"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5182544"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5182557"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "header"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5183003"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "blocked_shot"
+:event/player1 "Cameron Jerome"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5182871"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4530"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_left"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5182572"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Steve Cook"
+:event/subtype "pushing"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182585"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Junior Stanislas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5182599"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "header"
+:event/player1 "Steve Cook"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5183022"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4530"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross_right"
+:event/player1 "Junior Stanislas"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5182786"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4530"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross_right"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5182607"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "blocked_shot"
+:event/player1 "Benik Afobe"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5183028"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Wesley Hoolahan"
+:event/player1 "Adam Smith"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5182608"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Marc Pugh"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5182626"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Dan Gosling"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5182635"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Marc Pugh"
+:event/player1 "Nathan Redmond"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182642"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4530"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "lob"
+:event/player1 "Dieumerci Mbokani"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5182665"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Dieumerci Mbokani"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5182686"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4530"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "shot"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5183042"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Marc Pugh"
+:event/player1 "Russell Martin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182721"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Marc Pugh"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5182703"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Charlie Daniels"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5182704"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4530"}
+
+{:event/type "goal"
+:event/elapsed 75
+:event/player2 "Charlie Daniels"
+:event/subtype "shot"
+:event/player1 "Benik Afobe"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5182707"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Nathan Redmond"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5182843"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4530"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "blocked_shot"
+:event/player1 "Robert Brady"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5183057"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4530"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross_left"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5182853"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4530"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross_left"
+:event/player1 "Cameron Jerome"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5182855"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Eunan O'Kane"
+:event/player1 "Alexander Tettey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182885"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4530"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Cameron Jerome"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5182920"
+:event/minute 91
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Glenn Murray"
+:event/player1 "Alexander Tettey"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182957"
+:event/minute 92
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Marc Pugh"
+:event/player1 "Cameron Jerome"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182961"
+:event/minute 93
+:event/match_id "match_4530"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Ryan Bennett"
+:event/player1 "Glenn Murray"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5182995"
+:event/minute 94
+:event/match_id "match_4530"}
+
+
+]
+

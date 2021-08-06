@@ -1,0 +1,705 @@
+
+;;# data
+[
+{:match/id "match_11525"
+:match/league "Italy Serie A"
+:match/hometeam "Fiorentina"
+:match/awayteam "Siena"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1903776"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_11525"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Stevan Jovetic"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1903780"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Roberto Vitiello"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1903807"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Riccardo Montolivo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1903812"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1903833"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11525"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Amauri"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1903846"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_11525"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/subtype "hands"
+:event/player1 "Amauri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1903851"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1903861"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11525"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "distance"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1903864"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11525"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1903866"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Emanuele Pesoli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1903877"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11525"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Amauri"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1903885"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1903888"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Roberto Vitiello"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1903907"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1903913"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11525"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1903913"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1903938"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Mattia Cassani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1903950"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_11525"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "big chance header"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1903956"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11525"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "bicycle_kick"
+:event/player1 "Amauri"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1903960"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Riccardo Montolivo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1903961"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11525"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Riccardo Montolivo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1903961"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11525"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "blocked_shot"
+:event/player1 "Riccardo Montolivo"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1903964"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11525"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "shot"
+:event/player1 "Amauri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1903968"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11525"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player1 "Luca Rossettini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1903969"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11525"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Mattia Destro"
+:event/player1 "Alessandro Gamberini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1903975"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_11525"}
+
+{:event/type "card"
+:event/elapsed 48
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Franco Brienza"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1904040"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1904046"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11525"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player1 "Amauri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1904047"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Cristiano Del Grosso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1904064"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_11525"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "header"
+:event/player1 "Emanuele Calaio"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1904066"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1904069"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_11525"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "blocked_shot"
+:event/player1 "Stevan Jovetic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1904074"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1904079"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_11525"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "big chance header"
+:event/player1 "Amauri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1904081"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Mattia Cassani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1904091"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Riccardo Montolivo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1904094"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11525"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Riccardo Montolivo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1904094"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Valon Behrami"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1904100"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11525"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1904107"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Stevan Jovetic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1904110"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11525"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Mattia Cassani"
+:event/player1 "Cristiano Del Grosso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1904122"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_11525"}
+
+{:event/type "card"
+:event/elapsed 62
+:event/card_type "y"
+:event/player1 "Cristiano Del Grosso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1904124"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_11525"}
+
+{:event/type "goal"
+:event/elapsed 63
+:event/player2 "Riccardo Montolivo"
+:event/subtype "header"
+:event/player1 "Cesare Natali"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1904126"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Mattia Cassani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1904146"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_11525"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "bad shot"
+:event/player1 "Andrea Lazzari"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1904148"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_11525"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Cristiano Del Grosso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1904150"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11525"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "short"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1904151"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11525"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Matija Nastasic"
+:event/player1 "Emanuele Calaio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1904157"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_11525"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Valon Behrami"
+:event/subtype "shirt_pull"
+:event/player1 "Cristiano Del Grosso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1904171"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11525"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Cristiano Del Grosso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1904174"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11525"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "big chance shot"
+:event/player1 "Amauri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1904178"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11525"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "shot"
+:event/player1 "Mattia Destro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1904188"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11525"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/player1 "Matija Nastasic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1904214"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11525"}
+
+{:event/type "goal"
+:event/elapsed 89
+:event/player1 "Emanuele Calaio"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1904199"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_11525"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1904204"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11525"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1904209"
+:event/minute 92
+:event/match_id "match_11525"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player1 "Emanuele Calaio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1904213"
+:event/minute 93
+:event/match_id "match_11525"}
+
+
+]
+

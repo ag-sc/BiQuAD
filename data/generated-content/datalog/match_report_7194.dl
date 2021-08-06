@@ -1,0 +1,944 @@
+
+;;# data
+[
+{:match/id "match_7194"
+:match/league "France Ligue 1"
+:match/hometeam "Montpellier Hérault SC"
+:match/awayteam "FC Nantes"
+:match/score "4:0"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_4094153"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/subtype "trip"
+:event/player1 "Daniel Congre"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4094168"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7194"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "distance"
+:event/player1 "Jordan Veretout"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4094189"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7194"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "shot"
+:event/player1 "Kevin Berigaud"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4094194"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Jonas Martin"
+:event/subtype "trip"
+:event/player1 "Johan Audel"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094201"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7194"}
+
+{:event/type "goal"
+:event/elapsed 8
+:event/player2 "Kevin Berigaud"
+:event/subtype "distance"
+:event/player1 "Paul Bastien Lasne"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4094205"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "blocked_shot"
+:event/player1 "Yacine Bammou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4094218"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Anthony Mounier"
+:event/subtype "trip"
+:event/player1 "Issa Cissokho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094220"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Olivier Veigneau"
+:event/subtype "pushing"
+:event/player1 "Paul Bastien Lasne"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4094223"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Jonas Martin"
+:event/subtype "trip"
+:event/player1 "Lucas Deaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094242"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7194"}
+
+{:event/type "corner"
+:event/elapsed 15
+:event/subtype "cross_left"
+:event/player1 "Jordan Veretout"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4094258"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Abdelhamid El Kaoutari"
+:event/subtype "trip"
+:event/player1 "Johan Audel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094268"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Daniel Congre"
+:event/subtype "pushing"
+:event/player1 "Johan Audel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094276"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "distance"
+:event/player1 "Jonas Martin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4094282"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7194"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross_right"
+:event/player1 "Morgan Sanson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4094285"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Kevin Berigaud"
+:event/subtype "trip"
+:event/player1 "Vincent Bessat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094295"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Yacine Bammou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4094314"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Johan Audel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4094335"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "shot"
+:event/player1 "Yacine Bammou"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4094329"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Vincent Bessat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4094340"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Jordan Veretout"
+:event/subtype "from_behind"
+:event/player1 "Morgan Sanson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4094353"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "direct_freekick"
+:event/player1 "Vincent Bessat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4094362"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7194"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross_right"
+:event/player1 "Vincent Bessat"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4094370"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/subtype "trip"
+:event/player1 "Morgan Sanson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4094390"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Paul Bastien Lasne"
+:event/subtype "pushing"
+:event/player1 "Olivier Veigneau"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094393"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "blocked_shot"
+:event/player1 "Johan Audel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4094408"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Bryan Dabo"
+:event/subtype "trip"
+:event/player1 "Yacine Bammou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094421"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Johan Audel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4094433"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Paul Bastien Lasne"
+:event/subtype "serious_foul"
+:event/player1 "Olivier Veigneau"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094437"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4094446"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "distance"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4094450"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Lucas Deaux"
+:event/subtype "trip"
+:event/player1 "Kevin Berigaud"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4094458"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Kevin Berigaud"
+:event/subtype "trip"
+:event/player1 "Lucas Deaux"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094461"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7194"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Anthony Mounier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4094469"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Jordan Veretout"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4094535"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Anthony Mounier"
+:event/subtype "pull"
+:event/player1 "Koffi Djidji"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094551"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7194"}
+
+{:event/type "card"
+:event/elapsed 48
+:event/card_type "y"
+:event/player1 "Koffi Djidji"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4094549"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "blocked_shot"
+:event/player1 "Morgan Sanson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4094563"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Johan Audel"
+:event/subtype "pull"
+:event/player1 "Jonas Martin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4094583"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Vincent Bessat"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4094587"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "shot"
+:event/player1 "Johan Audel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4094590"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7194"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "distance"
+:event/player1 "Johan Audel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4094597"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Johan Audel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4094609"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "shot"
+:event/player1 "Jordan Veretout"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4094615"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Johan Audel"
+:event/subtype "trip"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4094642"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7194"}
+
+{:event/type "goal"
+:event/elapsed 57
+:event/player2 "Lucas Barrios"
+:event/subtype "tap_in"
+:event/player1 "Kevin Berigaud"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4094654"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Lucas Deaux"
+:event/subtype "trip"
+:event/player1 "Kevin Berigaud"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4094672"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Lucas Barrios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4094678"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7194"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "short_left"
+:event/player1 "Anthony Mounier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4094690"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Anthony Mounier"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4094691"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Issa Cissokho"
+:event/subtype "trip"
+:event/player1 "Hilton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4094695"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Olivier Veigneau"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4094714"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Olivier Veigneau"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4094717"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "distance"
+:event/player1 "Vincent Bessat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4094735"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Olivier Veigneau"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4094740"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4094756"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7194"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "post"
+:event/player1 "Johan Audel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4094770"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Lucas Barrios"
+:event/subtype "trip"
+:event/player1 "Koffi Djidji"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094787"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Morgan Sanson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4094797"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/subtype "hands"
+:event/player1 "Morgan Sanson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4094829"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Mathieu Deplagne"
+:event/subtype "trip"
+:event/player1 "Georges N'Koudou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094833"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/subtype "trip"
+:event/player1 "Bryan Dabo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4094843"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7194"}
+
+{:event/type "goal"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Anthony Mounier"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4094854"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_7194"}
+
+{:event/type "goal"
+:event/elapsed 82
+:event/player2 "Morgan Sanson"
+:event/subtype "distance"
+:event/player1 "Lucas Barrios"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4094890"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Bryan Dabo"
+:event/subtype "trip"
+:event/player1 "Chaker Alhadhur"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094899"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Johan Audel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4094909"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "distance"
+:event/player1 "Lucas Deaux"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4094917"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "blocked_shot"
+:event/player1 "Morgan Sanson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4094929"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Lucas Deaux"
+:event/subtype "trip"
+:event/player1 "Daniel Congre"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4094936"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7194"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Johan Audel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4094954"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7194"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Georges N'Koudou"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4094976"
+:event/minute 91
+:event/match_id "match_7194"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Serge Gakpe"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4094982"
+:event/minute 91
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Morgan Sanson"
+:event/subtype "serious_foul"
+:event/player1 "Jordan Veretout"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4094994"
+:event/minute 93
+:event/match_id "match_7194"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Bryan Dabo"
+:event/subtype "from_behind"
+:event/player1 "Jordan Veretout"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4095004"
+:event/minute 93
+:event/match_id "match_7194"}
+
+{:event/type "card"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Jordan Veretout"
+:event/sortorder 10
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4094997"
+:event/minute 93
+:event/match_id "match_7194"}
+
+
+]
+

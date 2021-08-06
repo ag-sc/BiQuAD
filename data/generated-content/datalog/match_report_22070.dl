@@ -1,0 +1,956 @@
+
+;;# data
+[
+{:match/id "match_22070"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "RC Deportivo de La Coruña"
+:match/awayteam "CD Tenerife"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_981057"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981058"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_981061"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981065"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22070"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "header"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_981066"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981077"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981093"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981108"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Laure"
+:event/subtype "pushing"
+:event/player1 "Alejandro Alfaro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981120"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_981172"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22070"}
+
+{:event/type "corner"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_981172"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Alejandro Alfaro"
+:event/subtype "serious_foul"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_981179"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22070"}
+
+{:event/type "card"
+:event/elapsed 15
+:event/card_type "y"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_981183"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22070"}
+
+{:event/type "goal"
+:event/elapsed 18
+:event/player2 "Pablo Sicilia"
+:event/subtype "shot"
+:event/player1 "Juanlu"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_981203"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_981231"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_22070"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_981231"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_22070"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "distance"
+:event/player1 "Pablo Alvarez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_981232"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981238"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Juanlu"
+:event/player1 "Laure"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_981253"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981259"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_981271"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Manuel Pablo"
+:event/subtype "from_behind"
+:event/player1 "Alejandro Alfaro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981291"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22070"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/card_type "y"
+:event/player1 "Alejandro Alfaro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_981293"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Andres Guardado"
+:event/player1 "Perez Richi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981300"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981315"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_981321"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22070"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_981321"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Nino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981332"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Perez Richi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_981337"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22070"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Perez Richi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_981337"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Adrian Lopez"
+:event/player1 "unknown"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981348"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_981354"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22070"}
+
+{:event/type "goal"
+:event/elapsed 33
+:event/player2 "Andres Guardado"
+:event/subtype "header"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_981355"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Adrian Lopez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_981396"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_981411"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981418"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Pablo Alvarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_981431"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player1 "Pablo Sicilia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981440"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_981451"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22070"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_981451"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22070"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "big chance shot"
+:event/player1 "Nino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_981467"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_981471"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22070"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_981471"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player1 "Alberto Lopo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_981527"
+:event/minute 46
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981629"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_22070"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Nino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_981652"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Nino"
+:event/subtype "pushing"
+:event/player1 "Diego Daniel Colotto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_981664"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_981671"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981678"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player1 "Alejandro Alfaro"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981690"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Pablo Alvarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_981696"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_22070"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/player2 "Adrian Lopez"
+:event/subtype "shot"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_981710"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981727"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Manuel Pablo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_981743"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981749"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_22070"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "big chance header"
+:event/player1 "Alejandro Alfaro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_981750"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_22070"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "volley"
+:event/player1 "Perez Richi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_981771"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Daniel Kome"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981811"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22070"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_shot"
+:event/player1 "Andres Guardado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_981821"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_981822"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22070"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_981822"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22070"}
+
+{:event/type "goal"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Diego Daniel Colotto"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_981823"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Alejandro Alfaro"
+:event/subtype "from_behind"
+:event/player1 "Alberto Lopo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_981847"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Daniel Kome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981856"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_981867"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Andres Guardado"
+:event/player1 "Juanlu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981878"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Alejandro Alfaro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981888"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981896"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Daniel Kome"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981897"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22070"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Daniel Kome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_981914"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Juanlu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981942"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_981965"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player1 "Angel Rodriguez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981970"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981979"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22070"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Antonio Tomas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_981986"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_981990"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Juan Dominguez Lamas"
+:event/subtype "from_behind"
+:event/player1 "Manuel Lara Martinez,26"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_981995"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Julian Ramos Omar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_982030"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_22070"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Angel Rodriguez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_982041"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22070"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "header"
+:event/player1 "Perez Richi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_982042"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22070"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_982051"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_22070"}
+
+
+]
+

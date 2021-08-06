@@ -1,0 +1,841 @@
+
+;;# data
+[
+{:match/id "match_7568"
+:match/league "France Ligue 1"
+:match/hometeam "Toulouse FC"
+:match/awayteam "Paris Saint-Germain"
+:match/score "0:1"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "distance"
+:event/player1 "Oscar Trejo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5182240"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_7568"}
+
+{:event/type "shotoff"
+:event/elapsed 2
+:event/subtype "bad shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5182243"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Javier Pastore"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5182263"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Lucas Moura"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5182307"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7568"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross_left"
+:event/player1 "Lucas Moura"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5182312"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Javier Pastore"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5182344"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7568"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "volley"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5182350"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7568"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross_right"
+:event/player1 "Lucas Moura"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5182356"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "William Matheus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5182361"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "William Matheus"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5182385"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7568"}
+
+{:event/type "shotoff"
+:event/elapsed 13
+:event/subtype "header"
+:event/player1 "Wissam Ben Yedder"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5182387"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Javier Pastore"
+:event/player1 "Somalia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5182422"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Jean-Daniel Akpa-Akpro"
+:event/player1 "Serge Aurier"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182446"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "William Matheus"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5182551"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Zlatan Ibrahimovic"
+:event/player1 "Jean-Daniel Akpa-Akpro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5182647"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7568"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "direct_freekick"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5182653"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "William Matheus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5182671"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7568"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "header"
+:event/player1 "Wissam Ben Yedder"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5182674"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7568"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "blocked_shot"
+:event/player1 "Martin Braithwaite"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5182702"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Serge Aurier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5182717"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "William Matheus"
+:event/subtype "pushing"
+:event/player1 "Serge Aurier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182720"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7568"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5182732"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7568"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "crossbar"
+:event/player1 "Oscar Trejo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5182742"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5182773"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Tongo Hamed Doumbia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5182782"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Lucas Moura"
+:event/subtype "trip"
+:event/player1 "Tongo Hamed Doumbia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5182788"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Tongo Hamed Doumbia"
+:event/subtype "trip"
+:event/player1 "Marquinhos"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182808"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7568"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "deflected"
+:event/player1 "Wissam Ben Yedder"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5182833"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Lucas Moura"
+:event/player1 "Somalia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5182849"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "William Matheus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5182872"
+:event/minute 46
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "David Luiz"
+:event/player1 "Oscar Trejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5183020"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Tongo Hamed Doumbia"
+:event/subtype "trip"
+:event/player1 "Thiago Motta"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5182890"
+:event/minute 47
+:event/match_id "match_7568"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross_left"
+:event/player1 "Lucas Moura"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5183037"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7568"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "header"
+:event/player1 "Thiago Motta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5183038"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Somalia"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5183041"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7568"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "distance"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5183052"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Jean-Daniel Akpa-Akpro"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5183066"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7568"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross_left"
+:event/player1 "Oscar Trejo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5183072"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7568"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "header"
+:event/player1 "Martin Braithwaite"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5183073"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Lucas Moura"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5183077"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7568"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "header"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5183078"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Wissam Ben Yedder"
+:event/subtype "trip"
+:event/player1 "Marquinhos"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5183082"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Oscar Trejo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5183086"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Serge Aurier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5183097"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Somalia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5183133"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7568"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "shot"
+:event/player1 "Lucas Moura"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5183147"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Maxwell"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5183183"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "William Matheus"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5183197"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Gregory van der Wiel"
+:event/subtype "pull"
+:event/player1 "Tongo Hamed Doumbia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5183201"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Lucas Moura"
+:event/subtype "pull"
+:event/player1 "Jean-Daniel Akpa-Akpro"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5183210"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7568"}
+
+{:event/type "card"
+:event/elapsed 72
+:event/card_type "y"
+:event/player1 "Jean-Daniel Akpa-Akpro"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5183211"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7568"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross_right"
+:event/player1 "Lucas Moura"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5183215"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7568"}
+
+{:event/type "goal"
+:event/elapsed 73
+:event/player2 "David Luiz"
+:event/subtype "header"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5183220"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7568"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross_left"
+:event/player1 "Lucas Moura"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5183250"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5183256"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7568"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross_left"
+:event/player1 "Lucas Moura"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5183259"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Gregory van der Wiel"
+:event/player1 "Oscar Trejo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5183286"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Maxwell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5183308"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7568"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "distance"
+:event/player1 "Jean-Daniel Akpa-Akpro"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5183324"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Uros Spajic"
+:event/subtype "dangerous_play"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5183339"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Aleksandar Pesic"
+:event/subtype "trip"
+:event/player1 "Marco Verratti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5183341"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Adrien Regattin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5183348"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7568"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Francois Moubandje"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5183408"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7568"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "Adrien Regattin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5183414"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7568"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Tongo Hamed Doumbia"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5183427"
+:event/minute 91
+:event/match_id "match_7568"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Blaise Matuidi"
+:event/player1 "Issa Diop"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5183434"
+:event/minute 92
+:event/match_id "match_7568"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5183443"
+:event/minute 92
+:event/match_id "match_7568"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "short_left"
+:event/player1 "Lucas Moura"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5183446"
+:event/minute 93
+:event/match_id "match_7568"}
+
+
+]
+

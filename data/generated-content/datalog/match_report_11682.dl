@@ -1,0 +1,1415 @@
+
+;;# data
+[
+{:match/id "match_11682"
+:match/league "Italy Serie A"
+:match/hometeam "Inter"
+:match/awayteam "Milan"
+:match/score "5:2"
+:match/hometeam_goals "4"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Wesley Sneijder"
+:event/subtype "serious_foul"
+:event/player1 "Sulley Ali Muntari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124389"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Zlatan Ibrahimovic"
+:event/subtype "dangerous_play"
+:event/player1 "Fredy Guarin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2124399"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Mark van Bommel"
+:event/subtype "pushing"
+:event/player1 "Javier Zanetti"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2124409"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "distance"
+:event/player1 "Sulley Ali Muntari"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2124413"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_11682"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Yuto Nagatomo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2124417"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_11682"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "blocked_shot"
+:event/player1 "Kevin-Prince Boateng"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2124422"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Robinho"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124423"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "big chance shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2124424"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Wesley Sneijder"
+:event/subtype "from_behind"
+:event/player1 "Daniele Bonera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124426"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_11682"}
+
+{:event/type "goal"
+:event/elapsed 14
+:event/player2 "Walter Samuel"
+:event/subtype "shot"
+:event/player1 "Diego Milito"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2124429"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "distance"
+:event/player1 "Fredy Guarin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2124431"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2124436"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player1 "Robinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124443"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Fredy Guarin"
+:event/subtype "pushing"
+:event/player1 "Kevin-Prince Boateng"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124445"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_11682"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "direct_freekick"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2124447"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11682"}
+
+{:event/type "goal"
+:event/elapsed 20
+:event/subtype "shot"
+:event/player1 "Lucio"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_2124450"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "short"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124454"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Ricardo Alvarez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2124455"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Diego Milito"
+:event/subtype "serious_foul"
+:event/player1 "Kevin-Prince Boateng"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124461"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Zlatan Ibrahimovic"
+:event/player1 "Walter Samuel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2124465"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Sulley Ali Muntari"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124468"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "short"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124481"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Ricardo Alvarez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2124482"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Sulley Ali Muntari"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124486"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Robinho"
+:event/subtype "pushing"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2124490"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Mattia De Sciglio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124491"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11682"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Mark van Bommel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2124497"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Fredy Guarin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2124505"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Ricardo Alvarez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124508"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Ricardo Alvarez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124508"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11682"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "big chance header"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2124509"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Yuto Nagatomo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2124511"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "big chance shot"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2124513"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Sulley Ali Muntari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124518"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_11682"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2124519"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_11682"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "blocked_shot"
+:event/player1 "Sulley Ali Muntari"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2124536"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Robinho"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124537"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Ignazio Abate"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124538"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "short"
+:event/player1 "Robinho"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2124540"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Ricardo Alvarez"
+:event/subtype "from_behind"
+:event/player1 "Mark van Bommel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124545"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Kevin-Prince Boateng"
+:event/subtype "penalty"
+:event/player1 "Julio Cesar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2124549"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11682"}
+
+{:event/type "card"
+:event/elapsed 43
+:event/card_type "y"
+:event/player1 "Julio Cesar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2124552"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11682"}
+
+{:event/type "goal"
+:event/elapsed 44
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_2124554"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Zlatan Ibrahimovic"
+:event/subtype "serious_foul"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2124556"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Ignazio Abate"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124564"
+:event/minute 46
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Sulley Ali Muntari"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124565"
+:event/minute 46
+:event/match_id "match_11682"}
+
+{:event/type "goal"
+:event/elapsed 46
+:event/player2 "Kevin-Prince Boateng"
+:event/subtype "shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_2124582"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Yuto Nagatomo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2124567"
+:event/minute 47
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Robinho"
+:event/subtype "serious_foul"
+:event/player1 "Walter Samuel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2124576"
+:event/minute 47
+:event/match_id "match_11682"}
+
+{:event/type "card"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Javier Zanetti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2124572"
+:event/minute 48
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Antonio Nocerino"
+:event/subtype "serious_foul"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2124586"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11682"}
+
+{:event/type "card"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Antonio Nocerino"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2124573"
+:event/minute 48
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124588"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Robinho"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2124591"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "post"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2124595"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Ricardo Alvarez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124598"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Ricardo Alvarez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124598"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2124601"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Wesley Sneijder"
+:event/player1 "Mark van Bommel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124602"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Diego Milito"
+:event/subtype "penalty"
+:event/player1 "Ignazio Abate"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124603"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_11682"}
+
+{:event/type "card"
+:event/elapsed 52
+:event/card_type "y"
+:event/player1 "Ignazio Abate"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2124604"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_11682"}
+
+{:event/type "goal"
+:event/elapsed 52
+:event/player1 "Diego Milito"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_2124606"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Robinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2124614"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Robinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2124614"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_11682"}
+
+{:event/type "card"
+:event/elapsed 55
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Ricardo Alvarez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2124616"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Javier Zanetti"
+:event/subtype "serious_foul"
+:event/player1 "Mattia De Sciglio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124619"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Antonio Nocerino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124621"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Antonio Nocerino"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2124625"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124633"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124633"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "deflected"
+:event/player1 "Fredy Guarin"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2124634"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "short"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124635"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Ricardo Alvarez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2124636"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "distance"
+:event/player1 "Maicon"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2124637"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player1 "Antonio Nocerino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124639"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2124641"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_11682"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "Robinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2124642"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Robinho"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124643"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "short"
+:event/player1 "Robinho"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2124651"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Kevin-Prince Boateng"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124652"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "header"
+:event/player1 "Mario Yepes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2124653"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124656"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124656"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "deflected"
+:event/player1 "Diego Milito"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2124660"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124661"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124661"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Ignazio Abate"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124669"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "shot"
+:event/player1 "Sulley Ali Muntari"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2124670"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Robinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2124674"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_11682"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Ignazio Abate"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2124682"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Robinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2124683"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Robinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2124683"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11682"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "shot"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2124691"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Joel Chukwuma Obi"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124695"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11682"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "distance"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2124699"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Joel Chukwuma Obi"
+:event/subtype "serious_foul"
+:event/player1 "Mark van Bommel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124706"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_11682"}
+
+{:event/type "card"
+:event/elapsed 76
+:event/card_type "y"
+:event/player1 "Mark van Bommel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2124707"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2124711"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/subtype "penalty"
+:event/player1 "Alessandro Nesta"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124712"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11682"}
+
+{:event/type "goal"
+:event/elapsed 80
+:event/player1 "Diego Milito"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_2124714"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124717"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Ignazio Abate"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124721"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124725"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124725"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Antonio Nocerino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124729"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Ivan Cordoba"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124734"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Ignazio Abate"
+:event/subtype "pushing"
+:event/player1 "Giampaolo Pazzini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2124736"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11682"}
+
+{:event/type "goal"
+:event/elapsed 87
+:event/player2 "Javier Zanetti"
+:event/subtype "distance"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_2124740"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11682"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2124742"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player1 "Antonio Nocerino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124743"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_11682"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player1 "Alessandro Nesta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2124751"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "deflected"
+:event/player1 "Lucio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2124753"
+:event/minute 91
+:event/match_id "match_11682"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Joel Chukwuma Obi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2124757"
+:event/minute 91
+:event/match_id "match_11682"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2124760"
+:event/minute 92
+:event/match_id "match_11682"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Kevin-Prince Boateng"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2124764"
+:event/minute 93
+:event/match_id "match_11682"}
+
+
+]
+

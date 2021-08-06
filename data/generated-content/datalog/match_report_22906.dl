@@ -1,0 +1,865 @@
+
+;;# data
+[
+{:match/id "match_22906"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "CA Osasuna"
+:match/awayteam "Real Madrid CF"
+:match/score "1:5"
+:match/hometeam_goals "1"
+:match/awayteam_goals "5"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Cristiano Ronaldo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2024724"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player1 "Esteban Granero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2024730"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Cristiano Ronaldo"
+:event/player1 "Sergio Fernandez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2024737"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22906"}
+
+{:event/type "card"
+:event/elapsed 4
+:event/card_type "y"
+:event/player1 "Sergio Fernandez"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2024736"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Marcelo"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2024743"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2024745"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22906"}
+
+{:event/type "goal"
+:event/elapsed 7
+:event/player2 "Cristiano Ronaldo"
+:event/subtype "volley"
+:event/player1 "Karim Benzema"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_2024746"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_2024751"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22906"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "distance"
+:event/player1 "Javad Nekounam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2024752"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22906"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "distance"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2024763"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2024772"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_22906"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "shot"
+:event/player1 "Nino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2024775"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Esteban Granero"
+:event/player1 "Raoul Loe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2024780"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22906"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "distance"
+:event/player1 "Raoul Loe"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2024788"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player1 "Alvaro Arbeloa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2024800"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player1 "Sergio Ramos"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2024805"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_22906"}
+
+{:event/type "card"
+:event/elapsed 21
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Sergio Ramos"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2024806"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player1 "Esteban Granero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2024815"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22906"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "header"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2024822"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2024827"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22906"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2024827"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22906"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "distance"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2024829"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2024831"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22906"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "shot"
+:event/player1 "Mesut Oezil"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2024832"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Karim Benzema"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2024836"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Mesut Oezil"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2024843"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22906"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Mesut Oezil"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2024843"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22906"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "deflected"
+:event/player1 "Esteban Granero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2024844"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22906"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Mesut Oezil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2024846"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22906"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "blocked_shot"
+:event/player1 "Nino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2024848"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_22906"}
+
+{:event/type "goal"
+:event/elapsed 37
+:event/player2 "Xabi Alonso"
+:event/subtype "distance"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_2024850"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_22906"}
+
+{:event/type "goal"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Gonzalo Higuain"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_2024858"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Marcelo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2024866"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Alvaro Cejudo"
+:event/player1 "Marcelo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2024868"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player1 "Sergio Ramos"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2024871"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Alvaro Arbeloa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2024913"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Marcelo"
+:event/player1 "Patxi Martinez Punal"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2024915"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Roversio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2024919"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22906"}
+
+{:event/type "goal"
+:event/elapsed 48
+:event/player2 "Roversio"
+:event/subtype "header"
+:event/player1 "Nino"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_2024916"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22906"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "shot"
+:event/player1 "Javad Nekounam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2024945"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2024946"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22906"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2024946"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Nino"
+:event/player1 "Alvaro Arbeloa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2024963"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2024966"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22906"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "header"
+:event/player1 "Miguel Flano"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2024969"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Mesut Oezil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2024976"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22906"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Mesut Oezil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2024976"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2024981"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2024983"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22906"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2024983"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player1 "Raul Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2025001"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22906"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "blocked_shot"
+:event/player1 "Karim Benzema"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2025006"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Cristiano Ronaldo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2025007"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_22906"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/subtype "direct_freekick"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_2025008"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22906"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/player1 "Andres Fernandez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2025010"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2025011"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player1 "Gonzalo Higuain"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2025013"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Roland Lamah"
+:event/player1 "Esteban Granero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2025017"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player1 "Marcelo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2025031"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Patxi Martinez Punal"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2025032"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2025034"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_22906"}
+
+{:event/type "goal"
+:event/elapsed 77
+:event/player2 "Cristiano Ronaldo"
+:event/subtype "header"
+:event/player1 "Gonzalo Higuain"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_2025035"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Mesut Oezil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2025050"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22906"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Mesut Oezil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2025050"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22906"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player1 "Javad Nekounam"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2025043"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22906"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "shot"
+:event/player1 "Dejan Lekic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2025054"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22906"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Fabio Coentrao"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2025064"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_22906"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Roland Lamah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2025067"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_22906"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Roland Lamah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2025068"
+:event/minute 91
+:event/match_id "match_22906"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Xabi Alonso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2025072"
+:event/minute 93
+:event/match_id "match_22906"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Xabi Alonso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2025072"
+:event/minute 93
+:event/match_id "match_22906"}
+
+
+]
+

@@ -1,0 +1,1359 @@
+
+;;# data
+[
+{:match/id "match_7601"
+:match/league "France Ligue 1"
+:match/hometeam "Girondins de Bordeaux"
+:match/awayteam "AS Saint-Étienne"
+:match/score "1:5"
+:match/hometeam_goals "1"
+:match/awayteam_goals "4"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Diego Rolan"
+:event/subtype "pushing"
+:event/player1 "Jeremy Clement"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266067"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Benjamin Corgnet"
+:event/subtype "trip"
+:event/player1 "Mauro Arambarri"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5266075"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7601"}
+
+{:event/type "card"
+:event/elapsed 2
+:event/card_type "y"
+:event/player1 "Mauro Arambarri"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5266076"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7601"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "direct_freekick"
+:event/player1 "Oussama Tannane"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5266084"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7601"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross_left"
+:event/player1 "Renaud Cohade"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5266097"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7601"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/subtype "header"
+:event/player1 "Vincent Pajot"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5266101"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Jaroslav Plasil"
+:event/subtype "trip"
+:event/player1 "Benjamin Corgnet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266120"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Malcom"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266127"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7601"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "blocked_shot"
+:event/player1 "Diego Contento"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5266135"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7601"}
+
+{:event/type "goal"
+:event/elapsed 7
+:event/player2 "Benjamin Corgnet"
+:event/subtype "shot"
+:event/player1 "Oussama Tannane"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_5266143"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7601"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross_left"
+:event/player1 "Mauro Arambarri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5266171"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7601"}
+
+{:event/type "goal"
+:event/elapsed 10
+:event/player2 "Jaroslav Plasil"
+:event/subtype "header"
+:event/player1 "Cedric Yambere"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_5266180"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Diego Contento"
+:event/player1 "Oussama Tannane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266191"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Malcom"
+:event/subtype "pushing"
+:event/player1 "Franck Tabanou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266201"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Oussama Tannane"
+:event/subtype "serious_foul"
+:event/player1 "Clement Chantome"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5266239"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Renaud Cohade"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5266242"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Benjamin Corgnet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5266257"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7601"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "header"
+:event/player1 "Vincent Pajot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5266258"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Diego Contento"
+:event/subtype "serious_foul"
+:event/player1 "Renaud Cohade"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266268"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7601"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/player1 "Renaud Cohade"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5266272"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Oussama Tannane"
+:event/subtype "trip"
+:event/player1 "Diego Contento"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5266281"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Oussama Tannane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5266288"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7601"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "big chance shot"
+:event/player1 "Benjamin Corgnet"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5266292"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Mathieu Debuchy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266299"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Oussama Tannane"
+:event/subtype "serious_foul"
+:event/player1 "Enzo Crivelli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5266316"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7601"}
+
+{:event/type "card"
+:event/elapsed 22
+:event/card_type "y"
+:event/player1 "Enzo Crivelli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5266321"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7601"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "big chance shot"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5266351"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Renaud Cohade"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5266355"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Oussama Tannane"
+:event/subtype "trip"
+:event/player1 "Diego Rolan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5266371"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7601"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "deflected"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5266379"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7601"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross_right"
+:event/player1 "Renaud Cohade"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5266381"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Jaroslav Plasil"
+:event/subtype "pushing"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266389"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7601"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "Diego Rolan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5266393"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Jaroslav Plasil"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266396"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7601"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "crossbar"
+:event/player1 "Malcom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5266402"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Kevin Theophile-Catherine"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5266411"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Kevin Theophile-Catherine"
+:event/subtype "trip"
+:event/player1 "Mauro Arambarri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5266416"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Renaud Cohade"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5266427"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Enzo Crivelli"
+:event/subtype "pushing"
+:event/player1 "Kevin Theophile-Catherine"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266452"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Mathieu Debuchy"
+:event/subtype "trip"
+:event/player1 "Franck Tabanou"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266459"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Diego Contento"
+:event/player1 "Benjamin Corgnet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266466"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Vincent Pajot"
+:event/player1 "Clement Chantome"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5266484"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Jaroslav Plasil"
+:event/player1 "Vincent Pajot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266492"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Diego Rolan"
+:event/subtype "pushing"
+:event/player1 "Kevin Theophile-Catherine"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266505"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Diego Contento"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266506"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7601"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "blocked_shot"
+:event/player1 "Mathieu Debuchy"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5266511"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/subtype "hands"
+:event/player1 "Vincent Pajot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266517"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Diego Rolan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266520"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Malcom"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266524"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Frederic Guilbert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266543"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Diego Contento"
+:event/subtype "pushing"
+:event/player1 "Oussama Tannane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266550"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Frederic Guilbert"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266556"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Diego Rolan"
+:event/subtype "pushing"
+:event/player1 "Vincent Pajot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266561"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Diego Contento"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266568"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Mathieu Debuchy"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266575"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Vincent Pajot"
+:event/subtype "penalty"
+:event/player1 "Clement Chantome"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5266590"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7601"}
+
+{:event/type "goal"
+:event/elapsed 45
+:event/subtype "saved_back_into_play"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_5266597"
+:event/event_type "goal"
+:event/goal_type "npm"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7601"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "deflected"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5266602"
+:event/minute 46
+:event/match_id "match_7601"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross_right"
+:event/player1 "Oussama Tannane"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5266606"
+:event/minute 46
+:event/match_id "match_7601"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Renaud Cohade"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5266617"
+:event/minute 46
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Mathieu Debuchy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266749"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Mathieu Debuchy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266759"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Franck Tabanou"
+:event/subtype "trip"
+:event/player1 "Clement Chantome"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5266772"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Vincent Pajot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5266778"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Clement Chantome"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266791"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7601"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "distance"
+:event/player1 "Jaroslav Plasil"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5266794"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Clement Chantome"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266809"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7601"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "header"
+:event/player1 "Enzo Crivelli"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5266813"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Vincent Pajot"
+:event/player1 "Malcom"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5266824"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Clement Chantome"
+:event/player1 "Oussama Tannane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266858"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Diego Contento"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266861"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Jonathan Brison"
+:event/subtype "pushing"
+:event/player1 "Malcom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5266870"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7601"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross_right"
+:event/player1 "Malcom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5266881"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7601"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "header"
+:event/player1 "Jaroslav Plasil"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5266884"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7601"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "blocked_shot"
+:event/player1 "Enzo Crivelli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5266920"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Malcom"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266921"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Valentin Vada"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266926"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7601"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross_left"
+:event/player1 "Clement Chantome"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5266939"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7601"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "header"
+:event/player1 "Jaroslav Plasil"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5266942"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Diego Rolan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266958"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7601"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "distance"
+:event/player1 "Nolan Roux"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5266964"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/subtype "hands"
+:event/player1 "Nolan Roux"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5266985"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Malcom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266990"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Cedric Yambere"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5266994"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Diego Rolan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5267045"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Oussama Tannane"
+:event/subtype "trip"
+:event/player1 "Valentin Vada"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5267057"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Cedric Yambere"
+:event/subtype "pushing"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5267064"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Nolan Roux"
+:event/player1 "Mathieu Debuchy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5267074"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "unknown"
+:event/subtype "pushing"
+:event/player1 "Clement Chantome"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5267079"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Oussama Tannane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5267083"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7601"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/player2 "Oussama Tannane"
+:event/subtype "header"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5267094"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Jaroslav Plasil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5267119"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7601"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "shot"
+:event/player1 "Mathieu Debuchy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5267124"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Enzo Crivelli"
+:event/subtype "trip"
+:event/player1 "Vincent Pajot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5267130"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Thomas Toure"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5267139"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7601"}
+
+{:event/type "goal"
+:event/elapsed 75
+:event/player2 "unknown"
+:event/subtype "shot"
+:event/player1 "Nolan Roux"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_5267170"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Mathieu Debuchy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5267226"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Thomas Toure"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5267228"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_7601"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "big chance header"
+:event/player1 "Diego Rolan"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5267230"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Diego Contento"
+:event/player1 "unknown"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5267236"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_7601"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "blocked_shot"
+:event/player1 "Valentin Vada"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5267258"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "unknown"
+:event/player1 "Enzo Crivelli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5267279"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Renaud Cohade"
+:event/subtype "pull"
+:event/player1 "Cedric Yambere"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5267323"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7601"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/player1 "Cedric Yambere"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5267326"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7601"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Renaud Cohade"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5267332"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "unknown"
+:event/subtype "pull"
+:event/player1 "Cedric Yambere"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5267356"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7601"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Mustapha Bayal Sall"
+:event/player1 "Cheick Diabate"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5267430"
+:event/minute 91
+:event/match_id "match_7601"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "r"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Cheick Diabate"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5267437"
+:event/minute 92
+:event/match_id "match_7601"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Diego Contento"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5267442"
+:event/minute 92
+:event/match_id "match_7601"}
+
+
+]
+

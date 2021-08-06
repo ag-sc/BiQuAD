@@ -1,0 +1,943 @@
+
+;;# data
+[
+{:match/id "match_22979"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Atlético Madrid"
+:match/awayteam "Racing Santander"
+:match/score "4:0"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Diego"
+:event/subtype "pushing"
+:event/player1 "Jesus Perez Francis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1661425"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Alexandros Tziolis"
+:event/subtype "pushing"
+:event/player1 "Mario Suarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1661435"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Arda Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1661460"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Arda Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1661469"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1661473"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22979"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1661473"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1661477"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22979"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "header"
+:event/player1 "Miranda"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1661478"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22979"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "short"
+:event/player1 "Diego"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1661480"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22979"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "distance"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1661481"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1661500"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22979"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "shot"
+:event/player1 "Arda Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1661520"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22979"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Mario Suarez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1661529"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Julian Luque"
+:event/subtype "from_behind"
+:event/player1 "Luis Perea"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1661570"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Lautaro Acosta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1661575"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22979"}
+
+{:event/type "corner"
+:event/elapsed 15
+:event/subtype "short"
+:event/player1 "Manuel Arana"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1661577"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Manuel Arana"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1661582"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22979"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Manuel Arana"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1661582"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22979"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "blocked_shot"
+:event/player1 "Manuel Arana"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1661584"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Arda Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1661593"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22979"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "distance"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1661602"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Alexandros Tziolis"
+:event/subtype "from_behind"
+:event/player1 "Tiago"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1661612"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_22979"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "distance"
+:event/player1 "Alexandros Tziolis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1661614"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1661621"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Arda Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1661624"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Jesus Perez Francis"
+:event/subtype "pushing"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1661631"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1661638"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22979"}
+
+{:event/type "goal"
+:event/elapsed 23
+:event/player2 "Jose Antonio Reyes"
+:event/subtype "shot"
+:event/player1 "Radamel Falcao"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_1661643"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Radamel Falcao"
+:event/subtype "pushing"
+:event/player1 "Alvaro Gonzalez Soberon"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1661662"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22979"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "shot"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1661670"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Manuel Arana"
+:event/subtype "from_behind"
+:event/player1 "Miranda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1661674"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1661683"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Lautaro Acosta"
+:event/subtype "from_behind"
+:event/player1 "Mario Suarez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1661697"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_22979"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Mario Suarez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1661698"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_22979"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "shot"
+:event/player1 "Radamel Falcao"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1661713"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Diego"
+:event/subtype "penalty"
+:event/player1 "Osmar Barba"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1661722"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22979"}
+
+{:event/type "goal"
+:event/elapsed 36
+:event/player1 "Radamel Falcao"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1661732"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1661743"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Mario Suarez"
+:event/subtype "pushing"
+:event/player1 "Manuel Arana"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1661753"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22979"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "shot"
+:event/player1 "Radamel Falcao"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1661760"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Jesus Perez Francis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1661783"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/subtype "hands"
+:event/player1 "Diego"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1661793"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Arda Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1661812"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_22979"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "volley"
+:event/player1 "Arda Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1661913"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Jesus Perez Francis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1661919"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Oscar Serrano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1661939"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22979"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Oscar Serrano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1661939"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Miranda"
+:event/subtype "from_behind"
+:event/player1 "Adrian Gonzalez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1661947"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22979"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/player2 "Arda Turan"
+:event/subtype "shot"
+:event/player1 "Radamel Falcao"
+:event/sortorder 11
+:event/team "home"
+:event/id "event_1661976"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1661993"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_22979"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "short"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1661995"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1662000"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_22979"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "short"
+:event/player1 "Arda Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1662007"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1662008"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Adrian Gonzalez"
+:event/subtype "from_behind"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1662026"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22979"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "blocked_shot"
+:event/player1 "Arda Turan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1662035"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1662038"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22979"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Jose Antonio Reyes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1662038"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Luis Perea"
+:event/subtype "from_behind"
+:event/player1 "Oscar Serrano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1662071"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22979"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Adrian Lopez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1662088"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Oscar Serrano"
+:event/subtype "from_behind"
+:event/player1 "Tiago"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1662091"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Oscar Serrano"
+:event/subtype "from_behind"
+:event/player1 "Luis Perea"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1662103"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22979"}
+
+{:event/type "card"
+:event/elapsed 72
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Luis Perea"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1662104"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Tiago"
+:event/subtype "serious_foul"
+:event/player1 "Lautaro Acosta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1662124"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22979"}
+
+{:event/type "card"
+:event/elapsed 75
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Lautaro Acosta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1662125"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Arda Turan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1662149"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22979"}
+
+{:event/type "goal"
+:event/elapsed 78
+:event/player2 "Arda Turan"
+:event/subtype "header"
+:event/player1 "Adrian Lopez"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1662150"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Luis Perea"
+:event/subtype "from_behind"
+:event/player1 "Osmar Barba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1662175"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22979"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Osmar Barba"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1662176"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22979"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Juanfran"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1662188"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22979"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Tiago"
+:event/subtype "pushing"
+:event/player1 "Alexandros Tziolis"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1662191"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22979"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Adrian Lopez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1662196"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Oscar Serrano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1662199"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_22979"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Edu Bedia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1662205"
+:event/minute 92
+:event/match_id "match_22979"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Edu Bedia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1662205"
+:event/minute 92
+:event/match_id "match_22979"}
+
+
+]
+

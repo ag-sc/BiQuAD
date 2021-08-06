@@ -1,0 +1,973 @@
+
+;;# data
+[
+{:match/id "match_4748"
+:match/league "England Premier League"
+:match/hometeam "West Ham United"
+:match/awayteam "Norwich City"
+:match/score "2:2"
+:match/hometeam_goals "2"
+:match/awayteam_goals "2"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Jonathan Howson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4831860"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "header"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4831864"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "blocked_shot"
+:event/player1 "Diafra Sakho"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4831872"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4748"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross_right"
+:event/player1 "Dimitri Payet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4831895"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Victor Moses"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4831909"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4748"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "cross_left"
+:event/player1 "Dimitri Payet"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4831924"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Diafra Sakho"
+:event/player1 "Sebastien Bassong"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4831946"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Dimitri Payet"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4831952"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "header"
+:event/player1 "Diafra Sakho"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4831961"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "James Tomkins"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4831994"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Diafra Sakho"
+:event/player1 "Alexander Tettey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832012"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4748"}
+
+{:event/type "goal"
+:event/elapsed 9
+:event/subtype "shot"
+:event/player1 "Robert Brady"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_4832060"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4748"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross_right"
+:event/player1 "Dimitri Payet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4832109"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "blocked_shot"
+:event/player1 "Steven Whittaker"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4832253"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4748"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross_right"
+:event/player1 "Alexander Tettey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4832260"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4832316"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4748"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "big chance shot"
+:event/player1 "Jonathan Howson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4832322"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Martin Olsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4832328"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4748"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "distance"
+:event/player1 "James Tomkins"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4832351"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4748"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Cameron Jerome"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4832424"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Dimitri Payet"
+:event/player1 "Steven Whittaker"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832446"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Aaron Cresswell"
+:event/player1 "Jonathan Howson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832473"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Diafra Sakho"
+:event/subtype "pull"
+:event/player1 "Steven Whittaker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832506"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4748"}
+
+{:event/type "shotoff"
+:event/elapsed 31
+:event/subtype "distance"
+:event/player1 "Manuel Lanzini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4832522"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Sebastien Bassong"
+:event/subtype "trip"
+:event/player1 "Diafra Sakho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4832548"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4748"}
+
+{:event/type "goal"
+:event/elapsed 33
+:event/player2 "Dimitri Payet"
+:event/subtype "shot"
+:event/player1 "Diafra Sakho"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4832581"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Dimitri Payet"
+:event/player1 "Alexander Tettey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832638"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4748"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "direct_freekick"
+:event/player1 "Manuel Lanzini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4832685"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Victor Moses"
+:event/player1 "Graham Dorrans"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832703"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "blocked_shot"
+:event/player1 "Manuel Lanzini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4832730"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4748"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross_left"
+:event/player1 "Dimitri Payet"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4832740"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4748"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross_left"
+:event/player1 "Dimitri Payet"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4832754"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Dimitri Payet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4832762"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4748"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Diafra Sakho"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4832779"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Aaron Cresswell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4832802"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4748"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross_left"
+:event/player1 "Dimitri Payet"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4832815"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "header"
+:event/player1 "Winston Reid"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4832821"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Winston Reid"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4832832"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Jonathan Howson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4832866"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "distance"
+:event/player1 "Jonathan Howson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4833315"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Jonathan Howson"
+:event/subtype "trip"
+:event/player1 "Aaron Cresswell"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4833015"
+:event/minute 47
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Steven Whittaker"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4833350"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4748"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross_right"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4833478"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Cheikhou Kouyate"
+:event/player1 "Sebastien Bassong"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4833435"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "James Tomkins"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4833498"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "header"
+:event/player1 "Diafra Sakho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4833510"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Victor Moses"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4833556"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "big chance header"
+:event/player1 "Diafra Sakho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4833571"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Winston Reid"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4833624"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4748"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "cross_right"
+:event/player1 "Dimitri Payet"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4833829"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/subtype "hands"
+:event/player1 "Dimitri Payet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4833772"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "Dimitri Payet"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4833674"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "big chance shot"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4833712"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Steven Whittaker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4833719"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Winston Reid"
+:event/player1 "Dieumerci Mbokani"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4833789"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Dimitri Payet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4833817"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4748"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "distance"
+:event/player1 "Diafra Sakho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4833872"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "blocked_shot"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4833893"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4748"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "short_right"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4833910"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Nathan Redmond"
+:event/player1 "Winston Reid"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4833922"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4833933"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Diafra Sakho"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4833979"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4834003"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4748"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross_left"
+:event/player1 "Nathan Redmond"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4834014"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4748"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "header"
+:event/player1 "Russell Martin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4834036"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Sebastien Bassong"
+:event/player1 "Diafra Sakho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4834046"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Wesley Hoolahan"
+:event/subtype "trip"
+:event/player1 "Pedro Mba Obiang"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4834095"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "direct_freekick"
+:event/player1 "Robert Brady"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4834120"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4748"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross_left"
+:event/player1 "Nathan Redmond"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4834131"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4748"}
+
+{:event/type "goal"
+:event/elapsed 83
+:event/player2 "Wesley Hoolahan"
+:event/subtype "shot"
+:event/player1 "Nathan Redmond"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4834116"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "distance"
+:event/player1 "Gary O'Neil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4834215"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Diafra Sakho"
+:event/player1 "Martin Olsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4834245"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Mauro Zarate"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4834252"
+:event/minute 91
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Dimitri Payet"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4834266"
+:event/minute 91
+:event/match_id "match_4748"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Andy Carroll"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4834277"
+:event/minute 92
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Winston Reid"
+:event/player1 "Dieumerci Mbokani"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4834306"
+:event/minute 93
+:event/match_id "match_4748"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Winston Reid"
+:event/player1 "Gary O'Neil"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4834316"
+:event/minute 93
+:event/match_id "match_4748"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Dimitri Payet"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4834327"
+:event/minute 93
+:event/match_id "match_4748"}
+
+{:event/type "goal"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Andy Carroll"
+:event/subtype "shot"
+:event/player1 "Cheikhou Kouyate"
+:event/sortorder 10
+:event/team "home"
+:event/id "event_4834335"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 93
+:event/match_id "match_4748"}
+
+
+]
+

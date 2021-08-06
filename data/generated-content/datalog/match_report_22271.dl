@@ -1,0 +1,957 @@
+
+;;# data
+[
+{:match/id "match_22271"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "RC Deportivo de La Coruña"
+:match/awayteam "Real Sporting de Gijón"
+:match/score "2:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player1 "Sergio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_826322"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22271"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "shot"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_826336"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Sergio"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826337"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Sergio"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826337"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "David Barral"
+:event/subtype "pushing"
+:event/player1 "Sergio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_826339"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22271"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "shot"
+:event/player1 "Lassad Nouioui"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_826341"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/subtype "hands"
+:event/player1 "Ivan Sanchez Riki"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_826343"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_22271"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "distance"
+:event/player1 "Miguel Angel de las Cuevas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_826344"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_826348"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Luis Moran"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_826349"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "short"
+:event/player1 "Diego Castro"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_826351"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "David Barral"
+:event/player1 "Alberto Lopo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_826352"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_22271"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "blocked_shot"
+:event/player1 "Miguel Angel de las Cuevas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_826353"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_22271"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "crossbar"
+:event/player1 "Ivan Sanchez Riki"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_826354"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_22271"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "deflected"
+:event/player1 "Miguel Angel de las Cuevas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_826362"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_22271"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "David Barral"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_826370"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_22271"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Antonio Tomas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_826371"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Sergio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826372"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Sergio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826372"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826374"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826374"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Luis Moran"
+:event/subtype "serious_foul"
+:event/player1 "Alberto Lopo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_826376"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_22271"}
+
+{:event/type "card"
+:event/elapsed 37
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Alberto Lopo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_826377"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_22271"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "blocked_shot"
+:event/player1 "Lassad Nouioui"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_826380"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Sergio"
+:event/player1 "David Barral"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_826383"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22271"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "crossbar"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_826385"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22271"}
+
+{:event/type "goal"
+:event/elapsed 42
+:event/subtype "loose_ball"
+:event/player1 "Lassad Nouioui"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_826386"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Filipe Luis"
+:event/subtype "pushing"
+:event/player1 "Luis Moran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_826387"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Gregory Arnolin"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_826388"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Diego Daniel Colotto"
+:event/player1 "David Barral"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_826394"
+:event/minute 47
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Sergio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826401"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Sergio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826401"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Antonio Tomas"
+:event/player1 "Luis Moran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_826402"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_826403"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Manuel Pablo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_826405"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22271"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Ivan Sanchez Riki"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_826406"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_826419"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826423"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826423"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22271"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Diego Castro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_826425"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Alberto Rivera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_826428"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22271"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "header"
+:event/player1 "David Barral"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_826429"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22271"}
+
+{:event/type "shoton"
+:event/elapsed 60
+:event/subtype "distance"
+:event/player1 "Ivan Sanchez Riki"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_826430"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Diego Castro"
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_826432"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "short"
+:event/player1 "Diego Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_826433"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22271"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "distance"
+:event/player1 "Miguel Angel de las Cuevas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_826434"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Filipe Luis"
+:event/subtype "serious_foul"
+:event/player1 "Sergio Matabuena"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_826436"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22271"}
+
+{:event/type "card"
+:event/elapsed 64
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Sergio Matabuena"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_826437"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826441"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826441"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Ivan Sanchez Riki"
+:event/player1 "Gregory Arnolin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_826443"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22271"}
+
+{:event/type "goal"
+:event/elapsed 69
+:event/player2 "Miguel Angel de las Cuevas"
+:event/subtype "shot"
+:event/player1 "Diego Castro"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_826447"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Sergio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826448"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Sergio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826448"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Sergio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826450"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Sergio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826450"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "short"
+:event/player1 "Sergio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826451"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22271"}
+
+{:event/type "goal"
+:event/elapsed 72
+:event/subtype "loose_ball"
+:event/player1 "Lassad Nouioui"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_826452"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22271"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "distance"
+:event/player1 "Diego Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_826454"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Lassad Nouioui"
+:event/player1 "Gregory Arnolin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_826456"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826460"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_826460"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Juan Pablo"
+:event/player1 "Diego Daniel Colotto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_826461"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_826463"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22271"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "header"
+:event/player1 "Lassad Nouioui"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_826464"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Roberto Canella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_826468"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Diego Castro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_826470"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22271"}
+
+{:event/type "corner"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Diego Castro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_826470"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player1 "Mate Bilic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_826471"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22271"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "blocked_shot"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_826473"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22271"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Manuel Pablo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_826474"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_22271"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "header"
+:event/player1 "Pablo Alvarez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_826475"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player1 "Gregory Arnolin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_826479"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Mate Bilic"
+:event/player1 "Alberto Lopo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_826481"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player1 "Alberto Lopo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_826490"
+:event/minute 92
+:event/match_id "match_22271"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Lassad Nouioui"
+:event/subtype "shirt_pull"
+:event/player1 "Roberto Canella"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_826491"
+:event/minute 92
+:event/match_id "match_22271"}
+
+{:event/type "card"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Roberto Canella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_826492"
+:event/minute 93
+:event/match_id "match_22271"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Sergio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_826493"
+:event/minute 93
+:event/match_id "match_22271"}
+
+
+]
+

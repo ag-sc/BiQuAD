@@ -1,0 +1,933 @@
+
+;;# data
+[
+{:match/id "match_12741"
+:match/league "Italy Serie A"
+:match/hometeam "Roma"
+:match/awayteam "Cagliari"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Seydou Keita"
+:event/subtype "pushing"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3753002"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Ashley Cole"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3753009"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_12741"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Mattia Destro"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3753037"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Joao Pedro Galvao"
+:event/subtype "pushing"
+:event/player1 "Seydou Keita"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3753057"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Albin Ekdal"
+:event/player1 "Radja Nainggolan"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3753100"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Alessandro Florenzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3753109"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Radja Nainggolan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3753134"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_12741"}
+
+{:event/type "goal"
+:event/elapsed 10
+:event/player2 "Alessandro Florenzi"
+:event/subtype "tap_in"
+:event/player1 "Mattia Destro"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_3753162"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Danilo Fernando Avelar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3753190"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_12741"}
+
+{:event/type "goal"
+:event/elapsed 13
+:event/player2 "Gervinho"
+:event/subtype "shot"
+:event/player1 "Alessandro Florenzi"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_3753226"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_12741"}
+
+{:event/type "card"
+:event/elapsed 14
+:event/card_type "y"
+:event/player1 "Alessandro Florenzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3753302"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_12741"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross_left"
+:event/player1 "Diego Farias"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3753280"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Danilo Fernando Avelar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3753291"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Victor Ibarbo"
+:event/player1 "Daniele De Rossi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3753328"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Daniele Conti"
+:event/subtype "trip"
+:event/player1 "Mattia Destro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3753382"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Diego Farias"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3753396"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_12741"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "header"
+:event/player1 "Luca Ceppitelli"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3753401"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Victor Ibarbo"
+:event/subtype "pushing"
+:event/player1 "Seydou Keita"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3753444"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3753454"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Maicon"
+:event/subtype "pushing"
+:event/player1 "Victor Ibarbo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3753460"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Seydou Keita"
+:event/player1 "Albin Ekdal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3753486"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Alessio Cragno"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3753975"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Marco Sau"
+:event/subtype "pushing"
+:event/player1 "Mapou Yanga-Mbiwa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3753522"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Alessandro Florenzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3753698"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Ashley Cole"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3753709"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_12741"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "volley"
+:event/player1 "Radja Nainggolan"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3753713"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Francesco Pisano"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3753740"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Danilo Fernando Avelar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3753756"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_12741"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "big chance header"
+:event/player1 "Victor Ibarbo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3753761"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Diego Farias"
+:event/subtype "trip"
+:event/player1 "Ashley Cole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3753792"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_12741"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Diego Farias"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3753807"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_12741"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "cross_right"
+:event/player1 "Diego Farias"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3753812"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Radja Nainggolan"
+:event/player1 "Luca Ceppitelli"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3753821"
+:event/minute 46
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Konstantinos Manolas"
+:event/subtype "trip"
+:event/player1 "Victor Ibarbo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3754048"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3754061"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Daniele De Rossi"
+:event/player1 "Victor Ibarbo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3754064"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Seydou Keita"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3754075"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Mapou Yanga-Mbiwa"
+:event/player1 "Victor Ibarbo"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3754092"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3754102"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Luca Ceppitelli"
+:event/player1 "Mattia Destro"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3754138"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Albin Ekdal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3754148"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_12741"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "header"
+:event/player1 "Danilo Fernando Avelar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3754167"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Daniele Conti"
+:event/player1 "Seydou Keita"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3754176"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Daniele Conti"
+:event/player1 "Seydou Keita"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3754195"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Radja Nainggolan"
+:event/player1 "Albin Ekdal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3754207"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Mattia Destro"
+:event/subtype "trip"
+:event/player1 "Luca Rossettini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3754240"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_12741"}
+
+{:event/type "card"
+:event/elapsed 60
+:event/card_type "y"
+:event/player1 "Luca Rossettini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3754242"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Joao Pedro Galvao"
+:event/subtype "trip"
+:event/player1 "Konstantinos Manolas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3754288"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_12741"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "distance"
+:event/player1 "Maicon"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3754292"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Samuele Longo"
+:event/player1 "Konstantinos Manolas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3754309"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3754314"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_12741"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "deflected"
+:event/player1 "Samuele Longo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3754317"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_12741"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross_right"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3754322"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3754334"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_12741"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "bad shot"
+:event/player1 "Mattia Destro"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3754336"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Antonio Balzano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3754354"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Antonio Balzano"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3754357"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_12741"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "shot"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3754360"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Miralem Pjanic"
+:event/subtype "pushing"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3754386"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_12741"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "distance"
+:event/player1 "Radja Nainggolan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3754450"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_12741"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Samuele Longo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3754465"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_12741"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross_left"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3754474"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Morgan De Sanctis"
+:event/player1 "Victor Ibarbo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3754479"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Victor Ibarbo"
+:event/subtype "trip"
+:event/player1 "Miralem Pjanic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3754513"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Victor Ibarbo"
+:event/subtype "trip"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3754542"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Daniele Conti"
+:event/player1 "Gervinho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3754546"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_12741"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross_left"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3754554"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_12741"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "header"
+:event/player1 "Luca Rossettini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3754557"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Adem Ljajic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3754580"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_12741"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "blocked_shot"
+:event/player1 "Gervinho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3754582"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Miralem Pjanic"
+:event/subtype "trip"
+:event/player1 "Marco Sau"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3754623"
+:event/minute 91
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Miralem Pjanic"
+:event/player1 "Samuele Longo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3754632"
+:event/minute 92
+:event/match_id "match_12741"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Marco Sau"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3754646"
+:event/minute 93
+:event/match_id "match_12741"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Daniele Dessena"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3754654"
+:event/minute 93
+:event/match_id "match_12741"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Radja Nainggolan"
+:event/subtype "pushing"
+:event/player1 "Daniele Conti"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3754660"
+:event/minute 94
+:event/match_id "match_12741"}
+
+
+]
+

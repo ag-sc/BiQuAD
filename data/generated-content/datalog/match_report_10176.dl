@@ -1,0 +1,977 @@
+
+;;# data
+[
+{:match/id "match_10176"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "FC Bayern Munich"
+:match/awayteam "Borussia Mönchengladbach"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Kingsley Coman"
+:event/subtype "trip"
+:event/player1 "Granit Xhaka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5553045"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10176"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross_left"
+:event/player1 "Mario Goetze"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5553082"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10176"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "blocked_shot"
+:event/player1 "Thomas Mueller"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5553117"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10176"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross_left"
+:event/player1 "Joshua Kimmich"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5553122"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10176"}
+
+{:event/type "goal"
+:event/elapsed 6
+:event/player2 "Joshua Kimmich"
+:event/subtype "header"
+:event/player1 "Thomas Mueller"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5553124"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Joshua Kimmich"
+:event/subtype "obstruction"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5553143"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10176"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross_right"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5553250"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Raffael"
+:event/subtype "from_behind"
+:event/player1 "Rafinha"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5553268"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Mahmoud Dahoud"
+:event/subtype "dangerous_play"
+:event/player1 "Mario Goetze"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5553273"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Raffael"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5553350"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10176"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "header"
+:event/player1 "Andre Hahn"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5553359"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10176"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross_right"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5553363"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10176"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "bad shot"
+:event/player1 "Mahmoud Dahoud"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5553370"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Ibrahima Traore"
+:event/subtype "serious_foul"
+:event/player1 "Serdar Tasci"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5553396"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10176"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/player1 "Serdar Tasci"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5553399"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Andre Hahn"
+:event/subtype "trip"
+:event/player1 "Mehdi Benatia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5553445"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5553453"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Oscar Wendt"
+:event/subtype "serious_foul"
+:event/player1 "Sebastian Rode"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5553464"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10176"}
+
+{:event/type "card"
+:event/elapsed 22
+:event/card_type "y"
+:event/player1 "Sebastian Rode"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5553466"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Rafinha"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5553480"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Joshua Kimmich"
+:event/subtype "trip"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5553523"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Juan Bernat"
+:event/subtype "trip"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5553540"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Sebastian Rode"
+:event/subtype "pushing"
+:event/player1 "Mahmoud Dahoud"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5553609"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Joshua Kimmich"
+:event/subtype "from_behind"
+:event/player1 "Raffael"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5553667"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10176"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "shot"
+:event/player1 "Thomas Mueller"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5553704"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Andre Hahn"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5553766"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10176"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "short_right"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5553773"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5553780"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10176"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross_right"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5553787"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10176"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "distance"
+:event/player1 "Andre Hahn"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5553889"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Thomas Mueller"
+:event/subtype "trip"
+:event/player1 "Haavard Nordtveit"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5553900"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Joshua Kimmich"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5553919"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Sebastian Rode"
+:event/subtype "from_behind"
+:event/player1 "Mahmoud Dahoud"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5553973"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Kingsley Coman"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5553996"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10176"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross_right"
+:event/player1 "Mario Goetze"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5554020"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Mehdi Benatia"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5554035"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5554062"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Juan Bernat"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5554112"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10176"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Thomas Mueller"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5554131"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5554604"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 11
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5554189"
+:event/minute 46
+:event/match_id "match_10176"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross_right"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 13
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5554200"
+:event/minute 47
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Kingsley Coman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5554761"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Kingsley Coman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5554908"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10176"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_left"
+:event/player1 "Mario Goetze"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5554922"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10176"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "shot"
+:event/player1 "Granit Xhaka"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5554950"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10176"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "blocked_shot"
+:event/player1 "Ibrahima Traore"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5555006"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Nico Elvedi"
+:event/subtype "trip"
+:event/player1 "Juan Bernat"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5555122"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Mahmoud Dahoud"
+:event/subtype "pull"
+:event/player1 "Joshua Kimmich"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5555149"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10176"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_left"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5555217"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Raffael"
+:event/subtype "trip"
+:event/player1 "Sebastian Rode"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5555244"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Raffael"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5555252"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Patrick Herrmann"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5555287"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10176"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "miss_kick"
+:event/player1 "Andre Hahn"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5555289"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Juan Bernat"
+:event/subtype "trip"
+:event/player1 "Mahmoud Dahoud"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5555309"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10176"}
+
+{:event/type "goal"
+:event/elapsed 72
+:event/player2 "Lars Stindl"
+:event/subtype "shot"
+:event/player1 "Andre Hahn"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5555343"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10176"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross_right"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5555380"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10176"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Juan Bernat"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5555402"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10176"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross_left"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5555424"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5555441"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10176"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "bad shot"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5555453"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Kingsley Coman"
+:event/subtype "pull"
+:event/player1 "Nico Elvedi"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5555477"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10176"}
+
+{:event/type "card"
+:event/elapsed 77
+:event/card_type "y"
+:event/player1 "Nico Elvedi"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5555479"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5555486"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5555499"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10176"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "distance"
+:event/player1 "Douglas Costa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5555585"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Sebastian Rode"
+:event/subtype "trip"
+:event/player1 "Nico Elvedi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5555630"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_10176"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "distance"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5555697"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Andre Hahn"
+:event/subtype "from_behind"
+:event/player1 "Mehdi Benatia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5555719"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Juan Bernat"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5555806"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Thiago Alcantara"
+:event/subtype "from_behind"
+:event/player1 "Granit Xhaka"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5555836"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Douglas Costa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5555896"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Douglas Costa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5555902"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Patrick Herrmann"
+:event/subtype "pull"
+:event/player1 "Juan Bernat"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5555943"
+:event/minute 91
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Juan Bernat"
+:event/sortorder 11
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5555993"
+:event/minute 93
+:event/match_id "match_10176"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Kingsley Coman"
+:event/subtype "trip"
+:event/player1 "Granit Xhaka"
+:event/sortorder 15
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5556019"
+:event/minute 93
+:event/match_id "match_10176"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 16
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5556024"
+:event/minute 94
+:event/match_id "match_10176"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Lars Stindl"
+:event/sortorder 18
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5556042"
+:event/minute 94
+:event/match_id "match_10176"}
+
+
+]
+

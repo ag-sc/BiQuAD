@@ -1,0 +1,863 @@
+
+;;# data
+[
+{:match/id "match_8496"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "VfB Stuttgart"
+:match/awayteam "FC Bayern Munich"
+:match/score "3:5"
+:match/hometeam_goals "3"
+:match/awayteam_goals "5"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1338471"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1338462"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1338466"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8496"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "header"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1338467"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player1 "Mario Gomez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1338470"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1338474"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_8496"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "distance"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1338490"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1338491"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8496"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1338491"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1338503"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8496"}
+
+{:event/type "card"
+:event/elapsed 13
+:event/card_type "y"
+:event/player1 "Christian Traesch"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1338525"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_8496"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "deflected"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1338514"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1338533"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player1 "Anatoli Tymoschuk"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1338539"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8496"}
+
+{:event/type "card"
+:event/elapsed 17
+:event/card_type "y"
+:event/player1 "Anatoli Tymoschuk"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1338540"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player1 "Timo Gebhart"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1338545"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1338546"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1338549"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8496"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "volley"
+:event/player1 "Cacau"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1338550"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1338553"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8496"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Philipp Lahm"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1338555"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player1 "Franck Ribery"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1338559"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Diego Contento"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1338562"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1338568"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8496"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1338568"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8496"}
+
+{:event/type "goal"
+:event/elapsed 31
+:event/player2 "Thomas Mueller"
+:event/subtype "shot"
+:event/player1 "Mario Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1338578"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_8496"}
+
+{:event/type "goal"
+:event/elapsed 37
+:event/player2 "Mario Gomez"
+:event/subtype "volley"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1338612"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1338620"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1338624"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8496"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1338624"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Mark van Bommel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1338636"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player1 "Mario Gomez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1338638"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1338643"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1338644"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8496"}
+
+{:event/type "goal"
+:event/elapsed 44
+:event/subtype "distance"
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1338661"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1338824"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8496"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1338824"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8496"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "header"
+:event/player1 "Cacau"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1338826"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1338843"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_8496"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "short"
+:event/player1 "Franck Ribery"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1338847"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Franck Ribery"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1338849"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_8496"}
+
+{:event/type "goal"
+:event/elapsed 50
+:event/player2 "Pavel Pogrebnyak"
+:event/subtype "shot"
+:event/player1 "Martin Harnik"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1338852"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8496"}
+
+{:event/type "goal"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Mario Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1338884"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8496"}
+
+{:event/type "goal"
+:event/elapsed 54
+:event/subtype "shot"
+:event/player1 "Mario Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1338905"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8496"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "crossbar"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1338926"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8496"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "header"
+:event/player1 "Cacau"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1338927"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8496"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1338936"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1338937"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8496"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1338937"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player1 "Diego Contento"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1338966"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8496"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "shot"
+:event/player1 "Zdravko Kuzmanovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1338973"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8496"}
+
+{:event/type "goal"
+:event/elapsed 65
+:event/player2 "Cacau"
+:event/subtype "shot"
+:event/player1 "Martin Harnik"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1338976"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Mario Gomez"
+:event/subtype "serious_foul"
+:event/player1 "Serdar Tasci"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1338981"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_8496"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/player1 "Serdar Tasci"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1338982"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1338986"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_8496"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Christian Gentner"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1338988"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1338994"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1339001"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player1 "Mark van Bommel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1339009"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1339015"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1339022"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1339028"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1339033"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8496"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1339034"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Franck Ribery"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1339046"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_8496"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Miroslav Klose"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1339053"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8496"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "volley"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1339059"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1339070"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "David Alaba"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1339084"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player1 "Serdar Tasci"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1339091"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Martin Harnik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1339093"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8496"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1339102"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_8496"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1339102"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_8496"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Hans-Joerg Butt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1339104"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_8496"}
+
+
+]
+

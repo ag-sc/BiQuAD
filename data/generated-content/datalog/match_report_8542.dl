@@ -1,0 +1,1167 @@
+
+;;# data
+[
+{:match/id "match_8542"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Borussia Mönchengladbach"
+:match/awayteam "VfB Stuttgart"
+:match/score "2:3"
+:match/hometeam_goals "2"
+:match/awayteam_goals "3"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Georg Niedermaier"
+:event/subtype "pushing"
+:event/player1 "Igor de Camargo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1397595"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Filip Daems"
+:event/subtype "pushing"
+:event/player1 "Martin Harnik"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1397603"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8542"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "blocked_shot"
+:event/player1 "Christian Traesch"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1397618"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Christian Gentner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1397624"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Timo Gebhart"
+:event/subtype "pushing"
+:event/player1 "Mohamadou Idrissou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1397631"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/subtype "hands"
+:event/player1 "Igor de Camargo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1397657"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Marco Reus"
+:event/subtype "from_behind"
+:event/player1 "Timo Gebhart"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1397686"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_8542"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "direct_freekick"
+:event/player1 "Filip Daems"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1397692"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1397695"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8542"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1397695"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Serdar Tasci"
+:event/subtype "pushing"
+:event/player1 "Igor de Camargo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1397702"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Christopher Heimeroth"
+:event/subtype "pushing"
+:event/player1 "Martin Harnik"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1397710"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/subtype "diving"
+:event/player1 "Timo Gebhart"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1397731"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_8542"}
+
+{:event/type "card"
+:event/elapsed 14
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Timo Gebhart"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1397732"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Cristian Molinaro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1397766"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Christian Gentner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1397770"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8542"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Christian Gentner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1397770"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Christian Traesch"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1397772"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1397784"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8542"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "short"
+:event/player1 "Marco Reus"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1397789"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8542"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "distance"
+:event/player1 "Marco Reus"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1397791"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Arthur Boka"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1397798"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8542"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Arthur Boka"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1397798"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8542"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "distance"
+:event/player1 "Christian Gentner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1397801"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Mohamadou Idrissou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1397809"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Cristian Molinaro"
+:event/subtype "pushing"
+:event/player1 "Karim Matmour"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1397810"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1397822"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Karim Matmour"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1397826"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Sven Ulreich"
+:event/subtype "pushing"
+:event/player1 "Mohamadou Idrissou"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1397828"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Christian Traesch"
+:event/subtype "from_behind"
+:event/player1 "Marco Reus"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1397830"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Tobias Levels"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1397842"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8542"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "shot"
+:event/player1 "Igor de Camargo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1397846"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Martin Stranzl"
+:event/subtype "pushing"
+:event/player1 "Arthur Boka"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1397850"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8542"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "blocked_shot"
+:event/player1 "Marco Reus"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1397862"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1397864"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8542"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "big chance shot"
+:event/player1 "Marco Reus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1397869"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1397870"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8542"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1397870"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8542"}
+
+{:event/type "goal"
+:event/elapsed 29
+:event/player2 "Marco Reus"
+:event/subtype "header"
+:event/player1 "Dante"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_1397871"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Karim Matmour"
+:event/subtype "pushing"
+:event/player1 "Georg Niedermaier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1397875"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8542"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "shot"
+:event/player1 "Marco Reus"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1397879"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8542"}
+
+{:event/type "goal"
+:event/elapsed 32
+:event/player2 "Marco Reus"
+:event/subtype "shot"
+:event/player1 "Igor de Camargo"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1397906"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Martin Stranzl"
+:event/subtype "pushing"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1397927"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Christian Gentner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1397956"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Cristian Molinaro"
+:event/subtype "from_behind"
+:event/player1 "Marco Reus"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1397961"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Serdar Tasci"
+:event/subtype "pushing"
+:event/player1 "Dante"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1397977"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Timo Gebhart"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1398257"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Martin Harnik"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1398305"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8542"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player2 "Martin Harnik"
+:event/subtype "shot"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1398314"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Tamas Hajnal"
+:event/subtype "pushing"
+:event/player1 "Dante"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1398325"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Christian Gentner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1398326"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8542"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "blocked_shot"
+:event/player1 "Tamas Hajnal"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1398328"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Tobias Levels"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1398332"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1398339"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8542"}
+
+{:event/type "goal"
+:event/elapsed 56
+:event/player2 "Arthur Boka"
+:event/subtype "shot"
+:event/player1 "Martin Harnik"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1398389"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Haavard Nordtveit"
+:event/subtype "pushing"
+:event/player1 "Georg Niedermaier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1398406"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/subtype "hands"
+:event/player1 "Roman Neustaedter"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1398440"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Roman Neustaedter"
+:event/subtype "pushing"
+:event/player1 "Timo Gebhart"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1398453"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Serdar Tasci"
+:event/subtype "pushing"
+:event/player1 "Mohamadou Idrissou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1398455"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Pavel Pogrebnyak"
+:event/subtype "pushing"
+:event/player1 "Martin Stranzl"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1398477"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Filip Daems"
+:event/subtype "pushing"
+:event/player1 "Timo Gebhart"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1398502"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Pavel Pogrebnyak"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1398509"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Arthur Boka"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1398519"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Zdravko Kuzmanovic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1398523"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8542"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Zdravko Kuzmanovic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1398523"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Arthur Boka"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1398526"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Filip Daems"
+:event/subtype "pushing"
+:event/player1 "Martin Harnik"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1398529"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8542"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "bad shot"
+:event/player1 "Timo Gebhart"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1398534"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Martin Stranzl"
+:event/subtype "serious_foul"
+:event/player1 "Georg Niedermaier"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1398553"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_8542"}
+
+{:event/type "card"
+:event/elapsed 69
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Georg Niedermaier"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1398554"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Roman Neustaedter"
+:event/subtype "pushing"
+:event/player1 "Tamas Hajnal"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1398556"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_8542"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "direct_freekick"
+:event/player1 "Haavard Nordtveit"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1398557"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_8542"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "blocked_shot"
+:event/player1 "Martin Harnik"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1398563"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Haavard Nordtveit"
+:event/subtype "pushing"
+:event/player1 "Georg Niedermaier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1398579"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1398585"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8542"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1398585"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8542"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "deflected"
+:event/player1 "Mohamadou Idrissou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1398588"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1398589"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8542"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Marco Reus"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1398589"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Sven Ulreich"
+:event/subtype "pushing"
+:event/player1 "Dante"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1398590"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Arthur Boka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1398596"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Martin Harnik"
+:event/subtype "serious_foul"
+:event/player1 "Dante"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1398622"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8542"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Dante"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1398623"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Christian Traesch"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1398637"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Pavel Pogrebnyak"
+:event/subtype "penalty"
+:event/player1 "Dante"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1398688"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_8542"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Dante"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1398691"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8542"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Marco Reus"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1399438"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8542"}
+
+{:event/type "goal"
+:event/elapsed 87
+:event/player1 "Timo Gebhart"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1398696"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Christian Gentner"
+:event/subtype "pushing"
+:event/player1 "Martin Stranzl"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1398709"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8542"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Tamas Hajnal"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1398714"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_8542"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Pavel Pogrebnyak"
+:event/subtype "pushing"
+:event/player1 "Filip Daems"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1398727"
+:event/minute 92
+:event/match_id "match_8542"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Sven Schipplock"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1398738"
+:event/minute 92
+:event/match_id "match_8542"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1398743"
+:event/minute 93
+:event/match_id "match_8542"}
+
+
+]
+

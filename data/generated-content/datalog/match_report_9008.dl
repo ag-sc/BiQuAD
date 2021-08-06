@@ -1,0 +1,1518 @@
+
+;;# data
+[
+{:match/id "match_9008"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "SV Werder Bremen"
+:match/awayteam "Hertha BSC Berlin"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Raffael"
+:event/subtype "from_behind"
+:event/player1 "Philipp Bargfrede"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1677497"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1677530"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9008"}
+
+{:event/type "goal"
+:event/elapsed 3
+:event/player1 "Adrian Ramos"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1677523"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Mehmet Ekici"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677540"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Lukas Schmitz"
+:event/subtype "pushing"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1677557"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Clemens Fritz"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677572"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_9008"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "header"
+:event/player1 "Marko Arnautovic"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1677573"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Marko Arnautovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677598"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1677604"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Sebastian Proedl"
+:event/subtype "serious_foul"
+:event/player1 "Adrian Ramos"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1677609"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_9008"}
+
+{:event/type "card"
+:event/elapsed 10
+:event/card_type "y"
+:event/subtype "violence"
+:event/player1 "Adrian Ramos"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1677610"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "blocked_shot"
+:event/player1 "Raffael"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1677618"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Levan Kobiashvili"
+:event/player1 "Aleksandar Ignjovski"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1677625"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Aaron Hunt"
+:event/subtype "pushing"
+:event/player1 "Christian Lell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1677627"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_9008"}
+
+{:event/type "card"
+:event/elapsed 12
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Christian Lell"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1677633"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677641"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Lukas Schmitz"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677644"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Christian Lell"
+:event/subtype "shirt_pull"
+:event/player1 "Marko Arnautovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1677678"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1677687"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1677688"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "shot"
+:event/player1 "Raffael"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1677712"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Levan Kobiashvili"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1677737"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_9008"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "header"
+:event/player1 "Tunay Torun"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1677740"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1677750"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677754"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Aaron Hunt"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677758"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Lukas Schmitz"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677761"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Clemens Fritz"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677767"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Mehmet Ekici"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1677771"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_9008"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Mehmet Ekici"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1677771"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Clemens Fritz"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677793"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_9008"}
+
+{:event/type "goal"
+:event/elapsed 23
+:event/player2 "Clemens Fritz"
+:event/subtype "header"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_1677794"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677812"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "blocked_shot"
+:event/player1 "Clemens Fritz"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1677818"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "blocked_shot"
+:event/player1 "Aleksandar Ignjovski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1677820"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Mehmet Ekici"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677824"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Patrick Ebert"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1677830"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_9008"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Patrick Ebert"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1677830"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Tunay Torun"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1677832"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Clemens Fritz"
+:event/subtype "from_behind"
+:event/player1 "Andreas Ottl"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1677839"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Mehmet Ekici"
+:event/subtype "dangerous_play"
+:event/player1 "Tunay Torun"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1677851"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "direct_freekick"
+:event/player1 "Aaron Hunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1677855"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_9008"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "post"
+:event/player1 "Aaron Hunt"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1677861"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1677868"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "distance"
+:event/player1 "Patrick Ebert"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1677872"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "volley"
+:event/player1 "Raffael"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1677886"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Patrick Ebert"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1677889"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_9008"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Patrick Ebert"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1677889"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_9008"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "header"
+:event/player1 "Roman Hubnik"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1677894"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Adrian Ramos"
+:event/subtype "pushing"
+:event/player1 "Andreas Wolf"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1677908"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Clemens Fritz"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677915"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Peter Niemeyer"
+:event/subtype "dangerous_play"
+:event/player1 "Mehmet Ekici"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1677921"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_9008"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "shot"
+:event/player1 "Marko Arnautovic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1677928"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Adrian Ramos"
+:event/subtype "pushing"
+:event/player1 "Philipp Bargfrede"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1677948"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_9008"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Marko Arnautovic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1677973"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Aaron Hunt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678087"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Peter Niemeyer"
+:event/subtype "pushing"
+:event/player1 "Mehmet Ekici"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678101"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678109"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Claudio Pizarro"
+:event/subtype "pushing"
+:event/player1 "Peter Niemeyer"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678126"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "blocked_shot"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678140"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_9008"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/sortorder 6
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678141"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Clemens Fritz"
+:event/subtype "pushing"
+:event/player1 "Christian Lell"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678146"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_9008"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "deflected"
+:event/player1 "Andreas Wolf"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1678149"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678160"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Aaron Hunt"
+:event/subtype "pushing"
+:event/player1 "Peter Niemeyer"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678170"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "direct_freekick"
+:event/player1 "Marko Arnautovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678175"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Lukas Schmitz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678177"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Mehmet Ekici"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678178"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_9008"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Mehmet Ekici"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678178"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Thomas Kraft"
+:event/subtype "pushing"
+:event/player1 "Sebastian Proedl"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678181"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Levan Kobiashvili"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678186"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player1 "Christian Lell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678193"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_9008"}
+
+{:event/type "card"
+:event/elapsed 57
+:event/card_type "r"
+:event/subtype "serious_fouls"
+:event/player1 "Christian Lell"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1678196"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/subtype "pushing"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678207"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/subtype "from_behind"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678225"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Raffael"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678234"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Aleksandar Ignjovski"
+:event/subtype "pushing"
+:event/player1 "Anis Ben-Hatira"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678241"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Philipp Bargfrede"
+:event/subtype "pushing"
+:event/player1 "Adrian Ramos"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678256"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_9008"}
+
+{:event/type "card"
+:event/elapsed 63
+:event/card_type "y"
+:event/player1 "Adrian Ramos"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1678257"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Aaron Hunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678274"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_9008"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Aaron Hunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678274"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Thomas Kraft"
+:event/subtype "pushing"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678276"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Raffael"
+:event/subtype "shirt_pull"
+:event/player1 "Clemens Fritz"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678289"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9008"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Clemens Fritz"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1678290"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Raffael"
+:event/subtype "from_behind"
+:event/player1 "Philipp Bargfrede"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678299"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "blocked_shot"
+:event/player1 "Marko Arnautovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678303"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_9008"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678304"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/subtype "pushing"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678306"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "blocked_shot"
+:event/player1 "Clemens Fritz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678311"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Aaron Hunt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678312"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_9008"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Aaron Hunt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678312"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678315"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_9008"}
+
+{:event/type "card"
+:event/elapsed 74
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Christoph Janker"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1678326"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678328"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/subtype "from_behind"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678333"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_9008"}
+
+{:event/type "card"
+:event/elapsed 76
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1678334"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Andreas Ottl"
+:event/subtype "pushing"
+:event/player1 "Aleksandar Ignjovski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678337"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Levan Kobiashvili"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678364"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "blocked_shot"
+:event/player1 "Raffael"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678366"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9008"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1678367"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9008"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "bad shot"
+:event/player1 "Raffael"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1678369"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678379"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "blocked_shot"
+:event/player1 "Philipp Bargfrede"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678383"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Clemens Fritz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678388"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Clemens Fritz"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678409"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_9008"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "shot"
+:event/player1 "Marko Arnautovic"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1678411"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_9008"}
+
+{:event/type "card"
+:event/elapsed 85
+:event/card_type "y"
+:event/subtype "stall_time"
+:event/player1 "Thomas Kraft"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1678416"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678424"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_9008"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "header"
+:event/player1 "Markus Rosenberg"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1678426"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/subtype "dangerous_play"
+:event/player1 "Naldo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678429"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "blocked_shot"
+:event/player1 "Markus Rosenberg"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678445"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9008"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678447"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Sebastian Proedl"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678451"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Aaron Hunt"
+:event/subtype "from_behind"
+:event/player1 "Andre Mijatovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678455"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_9008"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Andre Mijatovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1678456"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_9008"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Levan Kobiashvili"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1678467"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "indirect freekick"
+:event/player1 "Naldo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678469"
+:event/minute 91
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Aaron Hunt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678474"
+:event/minute 91
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Aleksandar Ignjovski"
+:event/subtype "pushing"
+:event/player1 "Raffael"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678476"
+:event/minute 91
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Marko Arnautovic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678483"
+:event/minute 92
+:event/match_id "match_9008"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678491"
+:event/minute 93
+:event/match_id "match_9008"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Marko Marin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678492"
+:event/minute 93
+:event/match_id "match_9008"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Marko Marin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678492"
+:event/minute 93
+:event/match_id "match_9008"}
+
+{:event/type "goal"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Markus Rosenberg"
+:event/subtype "header"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_1678493"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 93
+:event/match_id "match_9008"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player2 "Clemens Fritz"
+:event/subtype "pushing"
+:event/player1 "Peter Niemeyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678505"
+:event/minute 95
+:event/match_id "match_9008"}
+
+
+]
+

@@ -1,0 +1,987 @@
+
+;;# data
+[
+{:match/id "match_3304"
+:match/league "England Premier League"
+:match/hometeam "Swansea City"
+:match/awayteam "West Bromwich Albion"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "shotoff"
+:event/elapsed 2
+:event/subtype "post"
+:event/player1 "Michu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2501060"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Nathan Dyer"
+:event/player1 "Liam Ridgewell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2501072"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Youssuf Mulumbu"
+:event/player1 "Wayne Routledge"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2501082"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Angel Rangel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2501102"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2501147"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3304"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "bad shot"
+:event/player1 "Ben Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2501158"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Nathan Dyer"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2501180"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3304"}
+
+{:event/type "goal"
+:event/elapsed 9
+:event/player2 "Pablo Hernandez"
+:event/subtype "shot"
+:event/player1 "Michu"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_2501184"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3304"}
+
+{:event/type "goal"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Wayne Routledge"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_2501226"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player1 "Gareth McAuley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2501239"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3304"}
+
+{:event/type "card"
+:event/elapsed 13
+:event/card_type "y"
+:event/player1 "Gareth McAuley"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2501240"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Angel Rangel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2501249"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2501261"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2501322"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Ben Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2501327"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Claudio Yacob"
+:event/player1 "Michu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2501332"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Wayne Routledge"
+:event/player1 "Chris Brunt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2501348"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2501366"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_3304"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "distance"
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2501380"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Leon Britton"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2501389"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Wayne Routledge"
+:event/player1 "Youssuf Mulumbu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2501472"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "James Morrison"
+:event/subtype "pushing"
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2501546"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3304"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "distance"
+:event/player1 "Peter Odemwingie"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2501561"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Ben Davies"
+:event/player1 "Peter Odemwingie"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2501570"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3304"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "blocked_shot"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2501674"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2501683"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3304"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2501683"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3304"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "deflected"
+:event/player1 "Chico"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2501684"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2501688"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3304"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2501688"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2501729"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3304"}
+
+{:event/type "goal"
+:event/elapsed 39
+:event/player2 "Ben Davies"
+:event/subtype "shot"
+:event/player1 "Wayne Routledge"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2501748"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2501784"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2501841"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Nathan Dyer"
+:event/player1 "Chris Brunt"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2501866"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3304"}
+
+{:event/type "card"
+:event/elapsed 45
+:event/card_type "y"
+:event/player1 "Chris Brunt"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2501867"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2502042"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Nathan Dyer"
+:event/subtype "pushing"
+:event/player1 "Gareth McAuley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2502053"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2501909"
+:event/minute 48
+:event/match_id "match_3304"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2501909"
+:event/minute 48
+:event/match_id "match_3304"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2502068"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_3304"}
+
+{:event/type "goal"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "volley"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_2501913"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 48
+:event/match_id "match_3304"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "bad shot"
+:event/player1 "Chris Brunt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2502101"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Michu"
+:event/player1 "Jonas Olsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2502107"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2502133"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3304"}
+
+{:event/type "card"
+:event/elapsed 52
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Jonas Olsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2502135"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3304"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "blocked_shot"
+:event/player1 "Wayne Routledge"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2502174"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2502212"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3304"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2502212"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3304"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "header"
+:event/player1 "Jonas Olsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2502214"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2502238"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Liam Ridgewell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2502262"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Angel Rangel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2502297"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2502306"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3304"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2502306"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/subtype "hands"
+:event/player1 "Ashley Williams"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2502309"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player1 "Michu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2502326"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Youssuf Mulumbu"
+:event/player1 "Michu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2502369"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3304"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "shot"
+:event/player1 "Peter Odemwingie"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2502387"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Angel Rangel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2502407"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Michu"
+:event/player1 "Claudio Yacob"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2502425"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2502457"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2502468"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3304"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2502468"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2502481"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3304"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2502481"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2502489"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3304"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "header"
+:event/player1 "Michu"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2502492"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Jonas Olsson"
+:event/player1 "Luke Moore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2502505"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_3304"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "distance"
+:event/player1 "Michu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2502542"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Leon Britton"
+:event/player1 "Chris Brunt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2502550"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3304"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "direct_freekick"
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2502571"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3304"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Billy Jones"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2502588"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Youssuf Mulumbu"
+:event/player1 "Leon Britton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2502606"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player1 "Wayne Routledge"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2502675"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Luke Moore"
+:event/player1 "Claudio Yacob"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2502727"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Michu"
+:event/player1 "Claudio Yacob"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2502760"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_3304"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "direct_freekick"
+:event/player1 "Chico"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2502781"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3304"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "blocked_shot"
+:event/player1 "Luke Moore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2502807"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3304"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Wayne Routledge"
+:event/player1 "Billy Jones"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2502916"
+:event/minute 93
+:event/match_id "match_3304"}
+
+{:event/type "card"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Billy Jones"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2502917"
+:event/minute 93
+:event/match_id "match_3304"}
+
+
+]
+

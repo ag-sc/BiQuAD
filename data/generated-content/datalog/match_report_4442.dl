@@ -1,0 +1,934 @@
+
+;;# data
+[
+{:match/id "match_4442"
+:match/league "England Premier League"
+:match/hometeam "Leicester City"
+:match/awayteam "Manchester United"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Patrick McNair"
+:event/player1 "Shinji Okazaki"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5063820"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5063830"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5063852"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5063856"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4442"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross_right"
+:event/player1 "Daley Blind"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5063877"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4442"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "blocked_shot"
+:event/player1 "Juan Mata"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5063897"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4442"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "shot"
+:event/player1 "Wayne Rooney"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5063883"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4442"}
+
+{:event/type "shotoff"
+:event/elapsed 13
+:event/subtype "deflected"
+:event/player1 "N'Golo Kante"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5063926"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4442"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "cross_left"
+:event/player1 "Marc Albrighton"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5063930"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4442"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Riyad Mahrez"
+:event/subtype "pull"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5063934"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4442"}
+
+{:event/type "card"
+:event/elapsed 14
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Ashley Young"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5063935"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5063964"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4442"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "distance"
+:event/player1 "Wayne Rooney"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5063972"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5063984"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4442"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Riyad Mahrez"
+:event/subtype "obstruction"
+:event/player1 "Daley Blind"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5063991"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Danny Drinkwater"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5063999"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Anthony Martial"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064019"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4442"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "blocked_shot"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5064020"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064022"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4442"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross_left"
+:event/player1 "Daley Blind"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5064027"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4442"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross_right"
+:event/player1 "Daley Blind"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5064037"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4442"}
+
+{:event/type "goal"
+:event/elapsed 24
+:event/player2 "Christian Fuchs"
+:event/subtype "shot"
+:event/player1 "Jamie Vardy"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_5064044"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Matteo Darmian"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064066"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4442"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5064069"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Christian Fuchs"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5064082"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4442"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Michael Carrick"
+:event/player1 "Jamie Vardy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5064116"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5064095"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4442"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "shot"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5064107"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Christian Fuchs"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5064109"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4442"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Wes Morgan"
+:event/subtype "pull"
+:event/player1 "Anthony Martial"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5064122"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Anthony Martial"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064136"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4442"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross_left"
+:event/player1 "Daley Blind"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5064152"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4442"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "header"
+:event/player1 "Wayne Rooney"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5064154"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Daley Blind"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064170"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4442"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Riyad Mahrez"
+:event/subtype "pushing"
+:event/player1 "Wayne Rooney"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5064184"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064190"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064193"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4442"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross_right"
+:event/player1 "Daley Blind"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5064197"
+:event/minute 46
+:event/match_id "match_4442"}
+
+{:event/type "goal"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Daley Blind"
+:event/subtype "header"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 5
+:event/team "away"
+:event/id "event_5064198"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 46
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Riyad Mahrez"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5064205"
+:event/minute 47
+:event/match_id "match_4442"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Anthony Martial"
+:event/subtype "trip"
+:event/player1 "Christian Fuchs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5064313"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064322"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4442"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "big chance header"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5064323"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "N'Golo Kante"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5064342"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Matteo Darmian"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064348"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Wayne Rooney"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064352"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Matteo Darmian"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064356"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4442"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_right"
+:event/player1 "Daley Blind"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5064362"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064403"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4442"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Juan Mata"
+:event/subtype "trip"
+:event/player1 "Robert Huth"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5064408"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064420"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4442"}
+
+{:event/type "shoton"
+:event/elapsed 66
+:event/subtype "big chance shot"
+:event/player1 "Jose Leonardo Ulloa"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5064494"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Wayne Rooney"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064495"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4442"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "blocked_shot"
+:event/player1 "Marc Albrighton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5064528"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5064530"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4442"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/subtype "hands"
+:event/player1 "Memphis Depay"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5064556"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4442"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "distance"
+:event/player1 "Jose Leonardo Ulloa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5064576"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5064616"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Matteo Darmian"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064672"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4442"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross_left"
+:event/player1 "Daley Blind"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5064682"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Memphis Depay"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064702"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4442"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "blocked_shot"
+:event/player1 "Juan Mata"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5064705"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4442"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "short_right"
+:event/player1 "Juan Mata"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5064711"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4442"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Christian Fuchs"
+:event/player1 "Memphis Depay"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5064743"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Matteo Darmian"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064753"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064769"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Matteo Darmian"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064775"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4442"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "big chance shot"
+:event/player1 "Memphis Depay"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5064783"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4442"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Ashley Young"
+:event/subtype "dangerous_play"
+:event/player1 "Jose Leonardo Ulloa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5064816"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4442"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Riyad Mahrez"
+:event/player1 "Juan Mata"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5064842"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Danny Drinkwater"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5064853"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5064866"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4442"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "distance"
+:event/player1 "Danny Drinkwater"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5064871"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064895"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4442"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5064927"
+:event/minute 91
+:event/match_id "match_4442"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Matteo Darmian"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5064933"
+:event/minute 91
+:event/match_id "match_4442"}
+
+
+]
+

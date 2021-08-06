@@ -1,0 +1,861 @@
+
+;;# data
+[
+{:match/id "match_22299"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Valencia CF"
+:match/awayteam "Getafe CF"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1280628"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "big chance shot"
+:event/player1 "Manu del Moral"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1280629"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1280633"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22299"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1280633"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22299"}
+
+{:event/type "goal"
+:event/elapsed 8
+:event/player2 "Juan Mata"
+:event/subtype "shot"
+:event/player1 "Tino Costa"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1280642"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Aritz Aduriz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1280647"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1280661"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22299"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1280661"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22299"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "shot"
+:event/player1 "David Navarro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1280662"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1280664"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22299"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1280664"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "distance"
+:event/player1 "Tino Costa"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1280665"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player1 "David Albelda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280668"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Jordi Codina"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1280670"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "bad shot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1280671"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "shot"
+:event/player1 "Aritz Aduriz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1280677"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "shot"
+:event/player1 "Roberto Soldado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1280682"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player1 "David Albelda"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280686"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1280699"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280707"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1280708"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280719"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22299"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "short"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1280724"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Adrian Colunga"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280725"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "big chance shot"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1280726"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Adrian Colunga"
+:event/player1 "Ricardo Costa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280728"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "Roberto Soldado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1280729"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player1 "Aritz Aduriz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280730"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22299"}
+
+{:event/type "card"
+:event/elapsed 40
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Aritz Aduriz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1280731"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1280732"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Aritz Aduriz"
+:event/player1 "Rafa Lopez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1280736"
+:event/minute 46
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280774"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Jordi Codina"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1280776"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Roberto Soldado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1280783"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1280794"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "shot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1280795"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1280805"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_22299"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1280805"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Daniel Parejo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280807"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "direct_freekick"
+:event/player1 "Mane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1280811"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1280815"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_22299"}
+
+{:event/type "card"
+:event/elapsed 60
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Mane"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1280816"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1280818"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Joaquin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1280820"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Aritz Aduriz"
+:event/player1 "Pablo Pintos"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1280823"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1280824"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22299"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "header"
+:event/player1 "David Navarro"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1280826"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22299"}
+
+{:event/type "goal"
+:event/elapsed 63
+:event/subtype "shot"
+:event/player1 "David Navarro"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_1280825"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22299"}
+
+{:event/type "shoton"
+:event/elapsed 66
+:event/subtype "shot"
+:event/player1 "Manu del Moral"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1280833"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "bad shot"
+:event/player1 "Daniel Parejo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1280836"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/subtype "serious_foul"
+:event/player1 "Jordi Alba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280857"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22299"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/player1 "Jordi Alba"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1280858"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1280862"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22299"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1280862"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22299"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Roberto Soldado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1280868"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "deflected"
+:event/player1 "Isco"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1280870"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280877"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1280879"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_22299"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Isco"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1280881"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "big chance post"
+:event/player1 "Joaquin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1280883"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1280888"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22299"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1280888"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Tino Costa"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1280891"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22299"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Tino Costa"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1280891"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22299"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/player1 "David Albelda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1280910"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Vicente"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1280903"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1280904"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22299"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1280904"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280906"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_22299"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Vicente"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1280907"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22299"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1280911"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_22299"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Juan Albin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1280912"
+:event/minute 91
+:event/match_id "match_22299"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Rafa Lopez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1280915"
+:event/minute 92
+:event/match_id "match_22299"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Cata Diaz"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1280919"
+:event/minute 92
+:event/match_id "match_22299"}
+
+
+]
+

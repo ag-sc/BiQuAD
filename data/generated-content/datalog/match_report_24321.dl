@@ -1,0 +1,993 @@
+
+;;# data
+[
+{:match/id "match_24321"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "SD Eibar"
+:match/awayteam "Málaga CF"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Roberto Rosales"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5229055"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Jose Recio"
+:event/subtype "trip"
+:event/player1 "Sergi Enrich"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5229063"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Ignacio Camacho"
+:event/subtype "trip"
+:event/player1 "Sergi Enrich"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5229096"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Miguel Torres"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5229098"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Takashi Inui"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229119"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Ander Capa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229138"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_24321"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "David Junca"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5229140"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5229144"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Keko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229220"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Dani Garcia"
+:event/subtype "trip"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229232"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Gonzalo Escalante"
+:event/subtype "pull"
+:event/player1 "Jose Recio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229241"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Takashi Inui"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229249"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Charles"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5229284"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_24321"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "shot"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5229275"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Takashi Inui"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229296"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Keko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229303"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "David Junca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229318"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Duje Cop"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5229328"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Keko"
+:event/subtype "pushing"
+:event/player1 "Miguel Torres"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229338"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Dani Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229414"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_24321"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "distance"
+:event/player1 "Takashi Inui"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5229423"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5229435"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Miguel Torres"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5229504"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/subtype "hands"
+:event/player1 "Charles"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229516"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "David Junca"
+:event/subtype "pushing"
+:event/player1 "Duje Cop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229521"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Gonzalo Escalante"
+:event/subtype "trip"
+:event/player1 "Jose Recio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229542"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Dani Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229547"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5229563"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_24321"}
+
+{:event/type "goal"
+:event/elapsed 45
+:event/player2 "Gonzalo Castro"
+:event/subtype "shot"
+:event/player1 "Juanpi,20"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_5229553"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "David Junca"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229699"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_24321"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "cross_left"
+:event/player1 "Dani Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5229705"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Dani Garcia"
+:event/subtype "trip"
+:event/player1 "Ignacio Camacho"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229577"
+:event/minute 47
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "David Junca"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229581"
+:event/minute 48
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Sergi Enrich"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229738"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Jose Recio"
+:event/subtype "trip"
+:event/player1 "Keko"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5229745"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Keko"
+:event/subtype "trip"
+:event/player1 "Charles"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229750"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_24321"}
+
+{:event/type "card"
+:event/elapsed 52
+:event/card_type "y"
+:event/player1 "Charles"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5229751"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_24321"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "distance"
+:event/player1 "Dani Garcia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5229760"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_24321"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "distance"
+:event/player1 "Duje Cop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5229765"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_24321"}
+
+{:event/type "corner"
+:event/elapsed 54
+:event/subtype "cross_right"
+:event/player1 "Jose Recio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5229769"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5229771"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Roberto Rosales"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5229778"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_24321"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_left"
+:event/player1 "Jose Recio"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5229783"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Gonzalo Castro"
+:event/subtype "trip"
+:event/player1 "David Junca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5229788"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24321"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "direct_freekick"
+:event/player1 "Jose Recio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5229794"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Keko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229798"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Juanpi,20"
+:event/subtype "serious_foul"
+:event/player1 "Dani Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5229806"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24321"}
+
+{:event/type "card"
+:event/elapsed 59
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Dani Garcia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5229807"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5229811"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Duje Cop"
+:event/subtype "trip"
+:event/player1 "Borja Ekiza"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5229822"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Keko"
+:event/subtype "pushing"
+:event/player1 "Miguel Torres"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229832"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Jota"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229835"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Mauro Dos Santos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229838"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_24321"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "distance"
+:event/player1 "Ander Capa"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5229854"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_24321"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "header"
+:event/player1 "Gonzalo Escalante"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5229855"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Sergi Enrich"
+:event/subtype "pull"
+:event/player1 "Raul Albentosa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229874"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24321"}
+
+{:event/type "card"
+:event/elapsed 66
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Raul Albentosa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5229875"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Jota"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229879"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Ander Capa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229892"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Ander Capa"
+:event/subtype "trip"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229904"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Jota"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229908"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_24321"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "header"
+:event/player1 "Borja Baston"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5229913"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "David Junca"
+:event/subtype "trip"
+:event/player1 "Roberto Rosales"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229945"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Mauro Dos Santos"
+:event/subtype "pushing"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5229984"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Keko"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5229996"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_24321"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "header"
+:event/player1 "Sergi Enrich"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5229999"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Raul Albentosa"
+:event/subtype "trip"
+:event/player1 "Sergi Enrich"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5230019"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Keko"
+:event/subtype "trip"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5230059"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Jota"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5230065"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Borja Baston"
+:event/subtype "pushing"
+:event/player1 "Roberto Rosales"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5230131"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Ander Capa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5230186"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Egor Filipenko"
+:event/subtype "pushing"
+:event/player1 "Sergi Enrich"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5230226"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24321"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Miguel Torres"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5230232"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24321"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Juanpi,20"
+:event/subtype "pushing"
+:event/player1 "Mauro Dos Santos"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5230245"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Juanpi,20"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5230247"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_24321"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Juanpi,20"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5230307"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_24321"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Keko"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5230329"
+:event/minute 91
+:event/match_id "match_24321"}
+
+{:event/type "goal"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Roberto Rosales"
+:event/subtype "shot"
+:event/player1 "Roque Santa Cruz"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_5230340"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 91
+:event/match_id "match_24321"}
+
+{:event/type "goal"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "David Junca"
+:event/subtype "shot"
+:event/player1 "Borja Baston"
+:event/sortorder 7
+:event/team "home"
+:event/id "event_5230418"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 94
+:event/match_id "match_24321"}
+
+
+]
+

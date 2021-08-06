@@ -1,0 +1,944 @@
+
+;;# data
+[
+{:match/id "match_21876"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "UD Almería"
+:match/awayteam "Sevilla FC"
+:match/score "0:1"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "distance"
+:event/player1 "Adriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_452221"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_21876"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Lautaro Acosta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_452230"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Aldo Pedro Duscher"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_452231"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_21876"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Aldo Pedro Duscher"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_452231"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_21876"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "header"
+:event/player1 "David Prieto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_452232"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "David Prieto"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452239"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_452247"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_21876"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "shot"
+:event/player1 "Adriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_452251"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_21876"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "blocked_shot"
+:event/player1 "Romaric"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_452256"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_21876"}
+
+{:event/type "corner"
+:event/elapsed 15
+:event/subtype "short"
+:event/player1 "Fernando Navarro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_452262"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Enzo Maresca"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_452263"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_21876"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Enzo Maresca"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_452263"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_452265"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Lautaro Acosta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_452267"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Juanma Ortiz"
+:event/player1 "Fernando Navarro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452270"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Fernando Soriano"
+:event/player1 "Romaric"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452271"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Bruno Saltor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_452272"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Adriano"
+:event/subtype "shirt_pull"
+:event/player1 "Juanito"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452274"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Adriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_452276"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Mane"
+:event/player1 "Abdoulay Konko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452278"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Lautaro Acosta"
+:event/subtype "from_behind"
+:event/player1 "Juanito"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452282"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Enzo Maresca"
+:event/player1 "Juanma Ortiz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452285"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player1 "Lautaro Acosta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452289"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Bruno Saltor"
+:event/player1 "Adriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452303"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Mane"
+:event/player1 "Adriano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452305"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_452316"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_452326"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_21876"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "volley"
+:event/player1 "Aldo Pedro Duscher"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_452327"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Romaric"
+:event/player1 "Juanito"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452330"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_452338"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Bruno Saltor"
+:event/subtype "shirt_pull"
+:event/player1 "Enzo Maresca"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452350"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player1 "Bruno Saltor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452357"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_21876"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "direct_freekick"
+:event/player1 "Enzo Maresca"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_452360"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_21876"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "shot"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_452362"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Fernando Navarro"
+:event/player1 "Juanma Ortiz"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452429"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Fernando Soriano"
+:event/player1 "Aldo Pedro Duscher"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452431"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_21876"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "shot"
+:event/player1 "Adriano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_452434"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Corona"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_452437"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Enzo Maresca"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_452439"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_21876"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Juanito"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_452443"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Corona"
+:event/subtype "shirt_pull"
+:event/player1 "Abdoulay Konko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452445"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Enzo Maresca"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_452451"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21876"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Enzo Maresca"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_452451"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21876"}
+
+{:event/type "goal"
+:event/elapsed 52
+:event/subtype "deflected"
+:event/player1 "Adriano"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_452454"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Lautaro Acosta"
+:event/player1 "Mane"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452459"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/subtype "hands"
+:event/player1 "Julio Alvarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452462"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Mane"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452470"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452480"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Adriano"
+:event/player1 "Bruno Saltor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452489"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_21876"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "shot"
+:event/player1 "Juanma Ortiz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_452493"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Mane"
+:event/subtype "serious_foul"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452494"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_21876"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Jesus Navas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_452495"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Mane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_452498"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_21876"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "header"
+:event/player1 "Kalu Uche"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_452499"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Kalu Uche"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_452510"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_21876"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "shot"
+:event/player1 "Corona"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_452511"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_452513"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_21876"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "blocked_shot"
+:event/player1 "Mane"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_452514"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_21876"}
+
+{:event/type "card"
+:event/elapsed 74
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_452515"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Julien Escude"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452516"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Corona"
+:event/player1 "Federico Fazio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452520"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Corona"
+:event/subtype "serious_foul"
+:event/player1 "Romaric"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452521"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_21876"}
+
+{:event/type "card"
+:event/elapsed 78
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Romaric"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_452522"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_21876"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "direct_freekick"
+:event/player1 "Julio Alvarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_452523"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Julio Alvarez"
+:event/player1 "Romaric"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452525"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Lautaro Acosta"
+:event/player1 "Kalu Uche"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452526"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Alvaro Negredo"
+:event/player1 "Federico Fazio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452527"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Corona"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452529"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Romaric"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_452540"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_21876"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "header"
+:event/player1 "Emiliano Daniel Armenteros"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_452541"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Jesus Navas"
+:event/subtype "pushing"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452544"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Julio Alvarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_452550"
+:event/minute 92
+:event/match_id "match_21876"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Chico"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_452551"
+:event/minute 92
+:event/match_id "match_21876"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Bruno Saltor"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_452552"
+:event/minute 92
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Federico Fazio"
+:event/player1 "Esteban Solari"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_452554"
+:event/minute 93
+:event/match_id "match_21876"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Esteban Solari"
+:event/player1 "Federico Fazio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_452557"
+:event/minute 94
+:event/match_id "match_21876"}
+
+{:event/type "card"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "stall_time"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_452558"
+:event/minute 95
+:event/match_id "match_21876"}
+
+
+]
+

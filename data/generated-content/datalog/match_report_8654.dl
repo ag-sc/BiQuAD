@@ -1,0 +1,969 @@
+
+;;# data
+[
+{:match/id "match_8654"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "1. FC Kaiserslautern"
+:match/awayteam "FC St. Pauli"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player1 "Adam Hlousek"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1528184"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1528185"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Matthias Lehmann"
+:event/subtype "shirt_pull"
+:event/player1 "Pierre de Wit"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1528189"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Srdjan Lakic"
+:event/subtype "shirt_pull"
+:event/player1 "Marcel Eger"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1528199"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Christian Tiffert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1528201"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Charles Takyi"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1528203"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Erwin Hoffer"
+:event/subtype "from_behind"
+:event/player1 "Markus Thorandt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1528208"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_8654"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "blocked_shot"
+:event/player1 "Adam Hlousek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1528214"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Max Kruse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1528219"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8654"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Max Kruse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1528219"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Christian Tiffert"
+:event/subtype "serious_foul"
+:event/player1 "Marcel Eger"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1528223"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1528230"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_8654"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1528230"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Christian Tiffert"
+:event/subtype "serious_foul"
+:event/player1 "Markus Thorandt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1528239"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_8654"}
+
+{:event/type "card"
+:event/elapsed 16
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Markus Thorandt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1528240"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8654"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "blocked_shot"
+:event/player1 "Adam Hlousek"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1528242"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8654"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "shot"
+:event/player1 "Srdjan Lakic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1528243"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player1 "Erwin Hoffer"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1528244"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Christian Tiffert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1528246"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_8654"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "deflected"
+:event/player1 "Srdjan Lakic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1528247"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Christian Tiffert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1528248"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_8654"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Christian Tiffert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1528248"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_8654"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "volley"
+:event/player1 "Gerald Asamoah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1528255"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Max Kruse"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1528258"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8654"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Max Kruse"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1528258"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Gerald Asamoah"
+:event/subtype "pushing"
+:event/player1 "Athanasios Petsos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1528262"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1528266"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_8654"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "distance"
+:event/player1 "Adam Hlousek"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1528268"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Pierre de Wit"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1528273"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Marcel Eger"
+:event/subtype "pushing"
+:event/player1 "Srdjan Lakic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1528276"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8654"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "big chance shot"
+:event/player1 "Max Kruse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1528279"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Leon Jessen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1528283"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8654"}
+
+{:event/type "goal"
+:event/elapsed 29
+:event/player2 "Leon Jessen"
+:event/subtype "header"
+:event/player1 "Christian Tiffert"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1528282"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Ralph Gunesch"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1528296"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_8654"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "distance"
+:event/player1 "Florian Lechner"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1528299"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_8654"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "distance"
+:event/player1 "Pierre de Wit"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1528301"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player1 "Dennis Daube"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1528308"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_8654"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "header"
+:event/player1 "Rodnei"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1528310"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8654"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "blocked_shot"
+:event/player1 "Srdjan Lakic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1528314"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Adam Hlousek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1528317"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8654"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Adam Hlousek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1528317"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8654"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "big chance volley"
+:event/player1 "Max Kruse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1528337"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1528338"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1528343"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8654"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "distance"
+:event/player1 "Adam Hlousek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1528358"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Gerald Asamoah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1528364"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player1 "Erwin Hoffer"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1528369"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Max Kruse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1528377"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1528386"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1528389"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8654"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "distance"
+:event/player1 "Dennis Daube"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1528391"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Florian Lechner"
+:event/subtype "pushing"
+:event/player1 "Srdjan Lakic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1528393"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1528396"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Athanasios Petsos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1528405"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8654"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "header"
+:event/player1 "Srdjan Lakic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1528406"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Gerald Asamoah"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1528416"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_8654"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "bad shot"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1528417"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_8654"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "big chance shot"
+:event/player1 "Christian Tiffert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1528421"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Gerald Asamoah"
+:event/subtype "serious_foul"
+:event/player1 "Leon Jessen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1528435"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8654"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "header"
+:event/player1 "Ralph Gunesch"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1528442"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Adam Hlousek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1528445"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8654"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "big chance shot"
+:event/player1 "Christian Tiffert"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1528448"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Christian Tiffert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1528451"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8654"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Christian Tiffert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1528451"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8654"}
+
+{:event/type "goal"
+:event/elapsed 68
+:event/subtype "header"
+:event/player1 "Matthias Abel"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_1528452"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Gerald Asamoah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1528457"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1528467"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1528484"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Leon Jessen"
+:event/subtype "from_behind"
+:event/player1 "Gerald Asamoah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1528488"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Max Kruse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1528493"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8654"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Max Kruse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1528493"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8654"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "distance"
+:event/player1 "Florian Lechner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1528496"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Max Kruse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1528500"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_8654"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "bad shot"
+:event/player1 "Marius Ebbers"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1528503"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1528507"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Leon Jessen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1528510"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8654"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Alexander Bugera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1528536"
+:event/minute 92
+:event/match_id "match_8654"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Alexander Bugera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1528536"
+:event/minute 92
+:event/match_id "match_8654"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Jan Moravek"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1528540"
+:event/minute 92
+:event/match_id "match_8654"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Rodnei"
+:event/subtype "pushing"
+:event/player1 "Marius Ebbers"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1528541"
+:event/minute 92
+:event/match_id "match_8654"}
+
+
+]
+

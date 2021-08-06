@@ -1,0 +1,1460 @@
+
+;;# data
+[
+{:match/id "match_23002"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Granada CF"
+:match/awayteam "CA Osasuna"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1677837"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/subtype "hands"
+:event/player1 "Nino"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1677850"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Guilherme Siqueira"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677853"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Roland Lamah"
+:event/player1 "Carlos Martins"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1677856"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player1 "Roberto Fernandez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1677860"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Roland Lamah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1677863"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Roland Lamah"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1677865"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_23002"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Roland Lamah"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1677865"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Carlos Martins"
+:event/player1 "Abella Perez Damia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1677873"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Roland Lamah"
+:event/player1 "Dani Benitez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1677882"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_23002"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "distance"
+:event/player1 "Patxi Martinez Punal"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1677891"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_23002"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "distance"
+:event/player1 "Carlos Martins"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1677902"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Dani Benitez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677909"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Dani Benitez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1677924"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_23002"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Dani Benitez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1677924"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Dani Benitez"
+:event/player1 "Ruben"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1677940"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Franco Daniel Jara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1677946"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1677964"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Abella Perez Damia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1677982"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Abella Perez Damia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1677984"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Raul Garcia"
+:event/player1 "Franco Daniel Jara"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1677986"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Kike Sola"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1677988"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_23002"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "distance"
+:event/player1 "Raul Garcia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1677995"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Allan Nyom"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678002"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Franco Daniel Jara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678007"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Dani Benitez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678009"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_23002"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Dani Benitez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678009"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "blocked_shot"
+:event/player1 "Carlos Martins"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678012"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player1 "Allan Nyom"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678015"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Dani Benitez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678029"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_23002"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Dani Benitez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678029"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "blocked_shot"
+:event/player1 "Carlos Martins"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678034"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Dani Benitez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678035"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "blocked_shot"
+:event/player1 "Hassan Yebda"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678036"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Carlos Martins"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678037"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_23002"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Carlos Martins"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1678037"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "big chance shot"
+:event/player1 "Kike Sola"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678039"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Dani Benitez"
+:event/player1 "Ruben"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678048"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_23002"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Ruben"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1678050"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Roland Lamah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678065"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_23002"}
+
+{:event/type "goal"
+:event/elapsed 29
+:event/subtype "shot"
+:event/player1 "Raul Garcia"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1678067"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "blocked_shot"
+:event/player1 "Raul Garcia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678078"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player1 "Hassan Yebda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678108"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Franco Daniel Jara"
+:event/player1 "Abella Perez Damia"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678119"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_23002"}
+
+{:event/type "card"
+:event/elapsed 36
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Abella Perez Damia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1678120"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player1 "Hassan Yebda"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678137"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Kike Sola"
+:event/player1 "Hurtado Perez Moises"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678142"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "blocked_shot"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678147"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Roland Lamah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1678152"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_23002"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Roland Lamah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1678152"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "distance"
+:event/player1 "Patxi Martinez Punal"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678158"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1678173"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Nino"
+:event/player1 "Hassan Yebda"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678180"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_23002"}
+
+{:event/type "card"
+:event/elapsed 42
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Hassan Yebda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1678182"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "blocked_shot"
+:event/player1 "Roland Lamah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678185"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Roland Lamah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1678192"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_23002"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Roland Lamah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1678192"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Alexandre Geijo"
+:event/player1 "Roland Lamah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678198"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Allan Nyom"
+:event/subtype "pushing"
+:event/player1 "Roland Lamah"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678206"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Alvaro Cejudo"
+:event/player1 "Hurtado Perez Moises"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678213"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678348"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Marc Bertran"
+:event/player1 "Alexandre Geijo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678351"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Kike Sola"
+:event/player1 "Hurtado Perez Moises"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678239"
+:event/minute 47
+:event/match_id "match_23002"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Hurtado Perez Moises"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1678240"
+:event/minute 47
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1678361"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/subtype "hands"
+:event/player1 "Franco Daniel Jara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678368"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Kike Sola"
+:event/player1 "Fran Rico"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678381"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678382"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1678386"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_23002"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Raul Garcia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1678390"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Roland Lamah"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678392"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "blocked_shot"
+:event/player1 "Nino"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678393"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_23002"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "distance"
+:event/player1 "Roland Lamah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1678397"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/subtype "advantage"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678408"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "distance"
+:event/player1 "Roland Lamah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678423"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1678428"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_23002"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1678428"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Allan Nyom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678439"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player1 "Franco Daniel Jara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678441"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "distance"
+:event/player1 "Raul Garcia"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678448"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Roberto Fernandez"
+:event/player1 "Kike Sola"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678452"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_23002"}
+
+{:event/type "card"
+:event/elapsed 57
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Kike Sola"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1678453"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Allan Nyom"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678460"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "blocked_shot"
+:event/player1 "Franco Daniel Jara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678461"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_23002"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "volley"
+:event/player1 "Dani Benitez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1678462"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "blocked_shot"
+:event/player1 "Franco Daniel Jara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678468"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1678494"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_23002"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1678494"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678497"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678500"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "blocked_shot"
+:event/player1 "Roland Lamah"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678503"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "blocked_shot"
+:event/player1 "Jaime"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678511"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Franco Daniel Jara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678512"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_23002"}
+
+{:event/type "goal"
+:event/elapsed 64
+:event/player2 "Franco Daniel Jara"
+:event/subtype "volley"
+:event/player1 "Fran Rico"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1678513"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678520"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_23002"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "header"
+:event/player1 "Roland Lamah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1678521"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "blocked_shot"
+:event/player1 "Alvaro Cejudo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678524"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Roland Lamah"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1678528"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_23002"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Roland Lamah"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1678528"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player1 "Franco Daniel Jara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678531"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678543"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_23002"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Fran Rico"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1678544"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Alexandre Geijo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678550"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Alexandre Geijo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678557"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Dani Benitez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678563"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Alexandre Geijo"
+:event/subtype "pushing"
+:event/player1 "Miguel Flano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678568"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Marc Bertran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678581"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "distance"
+:event/player1 "Raul Garcia"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678583"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Allan Nyom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1678591"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player1 "Miguel Flano"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1678597"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "blocked_shot"
+:event/player1 "Dani Benitez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1678600"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_23002"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "header"
+:event/player1 "Pape Diakhate"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1678601"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Ruben"
+:event/player1 "Alexandre Geijo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678606"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Marc Bertran"
+:event/player1 "Dani Benitez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678627"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Patxi Martinez Punal"
+:event/subtype "shirt_pull"
+:event/player1 "Alexandre Geijo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678632"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Javier Calleja"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678634"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Patxi Martinez Punal"
+:event/player1 "Dani Benitez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678639"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_23002"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "volley"
+:event/player1 "Ibrahima Balde"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1678641"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_23002"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Marc Bertran"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1678649"
+:event/minute 92
+:event/match_id "match_23002"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1678650"
+:event/minute 92
+:event/match_id "match_23002"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Nino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1678654"
+:event/minute 94
+:event/match_id "match_23002"}
+
+
+]
+

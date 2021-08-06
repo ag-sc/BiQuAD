@@ -1,0 +1,996 @@
+
+;;# data
+[
+{:match/id "match_2523"
+:match/league "England Premier League"
+:match/hometeam "Wigan Athletic"
+:match/awayteam "Liverpool"
+:match/score "1:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "shoton"
+:event/elapsed 2
+:event/subtype "distance"
+:event/player1 "Lucas Leiva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1268128"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1268134"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2523"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1268134"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player1 "Martin Kelly"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1268206"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2523"}
+
+{:event/type "goal"
+:event/elapsed 7
+:event/player2 "Steven Gerrard"
+:event/subtype "shot"
+:event/player1 "Fernando Torres"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1268218"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2523"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "blocked_shot"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1268322"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2523"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "distance"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1268325"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Fernando Torres"
+:event/subtype "serious_foul"
+:event/player1 "Hendry Thomas"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1268331"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Mohamed Diame"
+:event/subtype "serious_foul"
+:event/player1 "Lucas Leiva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1268343"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2523"}
+
+{:event/type "card"
+:event/elapsed 14
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Lucas Leiva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1268347"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Tom Cleverley"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1268363"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2523"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "shot"
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1268402"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Tom Cleverley"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1268433"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Antolin Alcaraz"
+:event/player1 "Fernando Torres"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1268440"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Steven Gerrard"
+:event/subtype "serious_foul"
+:event/player1 "Tom Cleverley"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1268453"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1268480"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Raul Meireles"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1268489"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2523"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Raul Meireles"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1268489"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2523"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "shot"
+:event/player1 "Martin Skrtel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1268493"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Charles N'Zogbia"
+:event/subtype "serious_foul"
+:event/player1 "Lucas Leiva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1268539"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Jordi Gomez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1268550"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/subtype "hands"
+:event/player1 "Steven Gerrard"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1268568"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1268584"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2523"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "blocked_shot"
+:event/player1 "Mohamed Diame"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1268632"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Jordi Gomez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1268646"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2523"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Jordi Gomez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1268646"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2523"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "header"
+:event/player1 "Gary Caldwell"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1268656"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1268694"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Martin Skrtel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1268702"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2523"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "short"
+:event/player1 "Jordi Gomez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1268797"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Jordi Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1268801"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2523"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Jordi Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1268801"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1268821"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Martin Kelly"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1268885"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player1 "Dirk Kuyt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1268897"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2523"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "deflected"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1268913"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player1 "Hugo Rodallega"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1268935"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Lucas Leiva"
+:event/player1 "Jordi Gomez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1268953"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Ronnie Stam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1268984"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1269021"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Jordi Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1269083"
+:event/minute 46
+:event/match_id "match_2523"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Jordi Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1269083"
+:event/minute 46
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1269088"
+:event/minute 46
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Martin Skrtel"
+:event/subtype "pushing"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1269234"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1269247"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Ronnie Stam"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1269253"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Mohamed Diame"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1269257"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Tom Cleverley"
+:event/subtype "from_behind"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1269291"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Ronnie Stam"
+:event/sortorder -2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1269343"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2523"}
+
+{:event/type "goal"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1269319"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Ronnie Stam"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1269420"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Hugo Rodallega"
+:event/subtype "serious_foul"
+:event/player1 "Jamie Carragher"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1269444"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2523"}
+
+{:event/type "card"
+:event/elapsed 58
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Jamie Carragher"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1269446"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2523"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "blocked_shot"
+:event/player1 "Jordi Gomez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1269461"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Lucas Leiva"
+:event/player1 "Mohamed Diame"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1269535"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2523"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "Mohamed Diame"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1269576"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2523"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "distance"
+:event/player1 "Maynor Figueroa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1269613"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1269667"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Maynor Figueroa"
+:event/player1 "Martin Skrtel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1269717"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/subtype "hands"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1269732"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Martin Kelly"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1269756"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1269759"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2523"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1269759"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2523"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player1 "Hugo Rodallega"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1269788"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1269795"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1269813"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Tom Cleverley"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1269854"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Victor Moses"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1269881"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2523"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "crossbar"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1269940"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1270051"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2523"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "header"
+:event/player1 "Hugo Rodallega"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1270054"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2523"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Mohamed Diame"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1270082"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1270128"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2523"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1270128"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2523"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "distance"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1270134"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2523"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "distance"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1270163"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Victor Moses"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1270231"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2523"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "volley"
+:event/player1 "Fernando Torres"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1270262"
+:event/minute 91
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1270301"
+:event/minute 93
+:event/match_id "match_2523"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1270311"
+:event/minute 93
+:event/match_id "match_2523"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1270311"
+:event/minute 93
+:event/match_id "match_2523"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1270316"
+:event/minute 93
+:event/match_id "match_2523"}
+
+
+]
+

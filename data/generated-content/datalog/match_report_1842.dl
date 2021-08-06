@@ -1,0 +1,954 @@
+
+;;# data
+[
+{:match/id "match_1842"
+:match/league "England Premier League"
+:match/hometeam "Manchester City"
+:match/awayteam "West Ham United"
+:match/score "3:0"
+:match/hometeam_goals "3"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Calum Davenport"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384465"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Micah Richards"
+:event/player1 "Valon Behrami"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384469"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384476"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Tal Ben Haim"
+:event/player1 "Carlton Cole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384502"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384503"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_1842"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384503"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384505"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_1842"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384505"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_1842"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "shot"
+:event/player1 "Stephen Ireland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_384507"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_1842"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "shot"
+:event/player1 "Tal Ben Haim"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_384509"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Lucas Neill"
+:event/subtype "pushing"
+:event/player1 "Stephen Ireland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384519"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player1 "Dean Ashton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384527"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Lucas Neill"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384532"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Dean Ashton"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384536"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Elano"
+:event/player1 "Scott Parker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384539"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_1842"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "post"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_384543"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Martin Petrov"
+:event/subtype "serious_foul"
+:event/player1 "Valon Behrami"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384548"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1842"}
+
+{:event/type "card"
+:event/elapsed 24
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Valon Behrami"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_384550"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_1842"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_384558"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384563"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384568"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Vincent Kompany"
+:event/player1 "Scott Parker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384571"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384574"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1842"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "short"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384577"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player1 "Carlton Cole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384581"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_1842"}
+
+{:event/type "card"
+:event/elapsed 34
+:event/card_type "y"
+:event/subtype "hands"
+:event/player1 "Mark Noble"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_384613"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Valon Behrami"
+:event/player1 "Martin Petrov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384615"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1842"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "distance"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_384623"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Elano"
+:event/player1 "Calum Davenport"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384625"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "unknown"
+:event/subtype "from_behind"
+:event/player1 "Mark Noble"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384632"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_1842"}
+
+{:event/type "card"
+:event/elapsed 38
+:event/card_type "y"
+:event/player1 "Mark Noble"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_384633"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_1842"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "blocked_shot"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_384647"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384651"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384655"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1842"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384655"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Freddie Sears"
+:event/subtype "pushing"
+:event/player1 "Stephen Ireland"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384659"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384671"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Valon Behrami"
+:event/subtype "shirt_pull"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384685"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Julien Faubert"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384690"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1842"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_384696"
+:event/minute 46
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384698"
+:event/minute 46
+:event/match_id "match_1842"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384698"
+:event/minute 46
+:event/match_id "match_1842"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Stephen Ireland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_384699"
+:event/minute 47
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Vincent Kompany"
+:event/player1 "Dean Ashton"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384704"
+:event/minute 47
+:event/match_id "match_1842"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Vincent Kompany"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_384708"
+:event/minute 48
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Valon Behrami"
+:event/player1 "Martin Petrov"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384832"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Vedran Corluka"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384838"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Stephen Ireland"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384841"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Michael Ball"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384845"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1842"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_384849"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Dean Ashton"
+:event/player1 "Tal Ben Haim"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384852"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Vedran Corluka"
+:event/player1 "Dean Ashton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384859"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384861"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_1842"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "short"
+:event/player1 "Martin Petrov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_384864"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "unknown"
+:event/player1 "Valon Behrami"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_384868"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Julien Faubert"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_384872"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Julien Faubert"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384874"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1842"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Julien Faubert"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384874"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384880"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_1842"}
+
+{:event/type "goal"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_384884"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384888"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Matthew Etherington"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384893"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1842"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Matthew Etherington"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_384893"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_384902"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_1842"}
+
+{:event/type "goal"
+:event/elapsed 71
+:event/player2 "Stephen Ireland"
+:event/subtype "shot"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_384913"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1842"}
+
+{:event/type "goal"
+:event/elapsed 76
+:event/player2 "Stephen Ireland"
+:event/subtype "shot"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_384941"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Robert Green"
+:event/player1 "Ched Evans"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_384980"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player1 "Daniel Sturridge"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_385027"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_385032"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1842"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_385032"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1842"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Hayden Mullins"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_385034"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1842"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Stephen Ireland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_385046"
+:event/minute 92
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player1 "Julien Faubert"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_385050"
+:event/minute 92
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_385057"
+:event/minute 94
+:event/match_id "match_1842"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Dean Ashton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_385060"
+:event/minute 95
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 8
+:event/elapsed 90
+:event/player2 "unknown"
+:event/player1 "Hayden Mullins"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_385070"
+:event/minute 98
+:event/match_id "match_1842"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 10
+:event/elapsed 90
+:event/player2 "Luis Boa Morte"
+:event/player1 "Vedran Corluka"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_385078"
+:event/minute 100
+:event/match_id "match_1842"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 10
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_385080"
+:event/minute 100
+:event/match_id "match_1842"}
+
+
+]
+

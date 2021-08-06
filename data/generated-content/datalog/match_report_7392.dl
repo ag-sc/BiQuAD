@@ -1,0 +1,973 @@
+
+;;# data
+[
+{:match/id "match_7392"
+:match/league "France Ligue 1"
+:match/hometeam "FC Lorient"
+:match/awayteam "Stade de Reims"
+:match/score "0:1"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Odair Fortes"
+:event/player1 "Bryan Pele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3748559"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Lamine Gassama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3748591"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Benjamin Moukandjo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3748616"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Bryan Pele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3748671"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7392"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "distance"
+:event/player1 "Mads Albaek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3748692"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Benjamin Jeannot"
+:event/subtype "trip"
+:event/player1 "Antoine Conte"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3748727"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Mathieu Coutadeur"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3748739"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Benjamin Jeannot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3748759"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7392"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross_left"
+:event/player1 "Mathieu Coutadeur"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3748767"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Chris Mavinga"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3748811"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7392"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "header"
+:event/player1 "Gaetan Courtet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3748814"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7392"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "shot"
+:event/player1 "Jordan Ayew"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3748835"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Diego"
+:event/subtype "pushing"
+:event/player1 "Lamine Gassama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3748870"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3748883"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Gilles Sunu"
+:event/subtype "trip"
+:event/player1 "Mads Albaek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3748893"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_7392"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "blocked_shot"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3748906"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Lamine Kone"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3748933"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Gaetan Courtet"
+:event/subtype "pull"
+:event/player1 "Mathieu Coutadeur"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3748942"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Gilles Sunu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3748962"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7392"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross_right"
+:event/player1 "Mathieu Coutadeur"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3748995"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7392"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "deflected"
+:event/player1 "Gilles Sunu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3749004"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7392"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross_left"
+:event/player1 "Rafidine Abdullah"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3749006"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Gilles Sunu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749041"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Bryan Pele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749091"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Bryan Pele"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749103"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7392"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Gilles Sunu"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3749120"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Diego"
+:event/subtype "pushing"
+:event/player1 "Gilles Sunu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3749142"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7392"}
+
+{:event/type "card"
+:event/elapsed 37
+:event/card_type "y"
+:event/player1 "Gilles Sunu"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3749146"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7392"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "blocked_shot"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3749162"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Lamine Gassama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749185"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Benjamin Jeannot"
+:event/subtype "pushing"
+:event/player1 "Chris Mavinga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3749199"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Odair Fortes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3749212"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Mathieu Coutadeur"
+:event/subtype "trip"
+:event/player1 "Aissa Mandi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3749264"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Benjamin Moukandjo"
+:event/subtype "pushing"
+:event/player1 "Lamine Kone"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3749372"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_7392"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Mathieu Coutadeur"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3749277"
+:event/minute 46
+:event/match_id "match_7392"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "blocked_shot"
+:event/player1 "Gaetan Courtet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3749399"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Odair Fortes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3749414"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Gilles Sunu"
+:event/subtype "pushing"
+:event/player1 "Diego"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3749422"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Mathieu Coutadeur"
+:event/subtype "obstruction"
+:event/player1 "Mads Albaek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3749426"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Lamine Kone"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749436"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7392"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "miss_kick"
+:event/player1 "Bryan Pele"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3749438"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/subtype "hands"
+:event/player1 "Lamine Gassama"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3749490"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3749469"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Benjamin Lecomte"
+:event/subtype "pushing"
+:event/player1 "Gaetan Courtet"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3749480"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Odair Fortes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3749501"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7392"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "deflected"
+:event/player1 "Mads Albaek"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3749507"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7392"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_right"
+:event/player1 "Mads Albaek"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3749512"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Bryan Pele"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749518"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Gilles Sunu"
+:event/subtype "pushing"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3749542"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/subtype "hands"
+:event/player1 "Antoine Devaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3749687"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Lamine Gassama"
+:event/subtype "pull"
+:event/player1 "Benjamin Moukandjo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3749702"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Alain Traore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749733"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Odair Fortes"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3749758"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7392"}
+
+{:event/type "goal"
+:event/elapsed 72
+:event/player2 "Odair Fortes"
+:event/subtype "volley"
+:event/player1 "Benjamin Moukandjo"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_3749741"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Gilles Sunu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749784"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Lamine Gassama"
+:event/subtype "trip"
+:event/player1 "Chris Mavinga"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3749791"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Mathieu Coutadeur"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749803"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Raphael Guerreiro"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749810"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Antoine Devaux"
+:event/subtype "trip"
+:event/player1 "Mathieu Coutadeur"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3749842"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Raphael Guerreiro"
+:event/subtype "from_behind"
+:event/player1 "Christopher Glombard"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3749852"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Benjamin Moukandjo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3749884"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Lamine Gassama"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749889"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7392"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "bad shot"
+:event/player1 "Alain Traore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3749899"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7392"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "shot"
+:event/player1 "Gaetan Courtet"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3749930"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Vincent Le Goff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749934"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Valentin Lavigne"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749941"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7392"}
+
+{:event/type "card"
+:event/elapsed 86
+:event/card_type "y"
+:event/subtype "stall_time"
+:event/player1 "Johny Placide"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3749957"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Gilles Sunu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3749976"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Wesley Lautoa"
+:event/player1 "Gaetan Courtet"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3749997"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Christopher Glombard"
+:event/subtype "dangerous_play"
+:event/player1 "Gilles Sunu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3749987"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Lamine Gassama"
+:event/subtype "trip"
+:event/player1 "Antoine Devaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3750003"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Alain Traore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3750010"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Lamine Gassama"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3750034"
+:event/minute 92
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Lamine Gassama"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3750041"
+:event/minute 92
+:event/match_id "match_7392"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Alain Traore"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3750048"
+:event/minute 92
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Valentin Lavigne"
+:event/subtype "trip"
+:event/player1 "Gaetan Courtet"
+:event/sortorder 12
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3750055"
+:event/minute 93
+:event/match_id "match_7392"}
+
+{:event/type "card"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Gaetan Courtet"
+:event/sortorder 13
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3750053"
+:event/minute 93
+:event/match_id "match_7392"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Nicolas De Preville"
+:event/subtype "trip"
+:event/player1 "Alain Traore"
+:event/sortorder 15
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3750067"
+:event/minute 94
+:event/match_id "match_7392"}
+
+
+]
+

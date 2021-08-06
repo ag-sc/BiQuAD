@@ -1,0 +1,1386 @@
+
+;;# data
+[
+{:match/id "match_3511"
+:match/league "England Premier League"
+:match/hometeam "Chelsea"
+:match/awayteam "Tottenham Hotspur"
+:match/score "2:2"
+:match/hometeam_goals "2"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Gary Cahill"
+:event/player1 "Jan Vertonghen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757193"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757207"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Oscar"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757215"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "volley"
+:event/player1 "Juan Mata"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2757218"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3511"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "distance"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2757228"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Eden Hazard"
+:event/subtype "obstruction"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757240"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757241"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "header"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2757242"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2757243"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3511"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2757243"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3511"}
+
+{:event/type "goal"
+:event/elapsed 10
+:event/player2 "Gary Cahill"
+:event/subtype "header"
+:event/player1 "Oscar"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_2757244"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Ramires"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757251"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Aaron Lennon"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757259"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Fernando Torres"
+:event/player1 "Michael Dawson"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757261"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "distance"
+:event/player1 "Lewis Holtby"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2757265"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Fernando Torres"
+:event/subtype "from_behind"
+:event/player1 "Michael Dawson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757271"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Cesar Azpilicueta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757272"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "shot"
+:event/player1 "Juan Mata"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2757273"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757299"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/subtype "hands"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757303"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3511"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "blocked_shot"
+:event/player1 "David Luiz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2757307"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Ramires"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757308"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3511"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "blocked_shot"
+:event/player1 "Eden Hazard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2757320"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2757321"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3511"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2757321"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3511"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "blocked_shot"
+:event/player1 "Eden Hazard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2757326"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Scott Parker"
+:event/subtype "advantage"
+:event/player1 "Eden Hazard"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2757331"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3511"}
+
+{:event/type "goal"
+:event/elapsed 26
+:event/player2 "Lewis Holtby"
+:event/subtype "distance"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_2757332"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Ramires"
+:event/player1 "Lewis Holtby"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757341"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "David Luiz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757350"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2757361"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3511"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2757361"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "header"
+:event/player1 "Cesar Azpilicueta"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2757363"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3511"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "blocked_shot"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2757367"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "miss_kick"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2757375"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Oscar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757376"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Ashley Cole"
+:event/player1 "Aaron Lennon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757381"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "distance"
+:event/player1 "Ramires"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2757382"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3511"}
+
+{:event/type "goal"
+:event/elapsed 39
+:event/player2 "Fernando Torres"
+:event/subtype "shot"
+:event/player1 "Ramires"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2757387"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Eden Hazard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757396"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "big chance shot"
+:event/player1 "Kyle Walker"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2757409"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3511"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Oscar"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2757418"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Oscar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757486"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2757488"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3511"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2757488"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "bad shot"
+:event/player1 "Scott Parker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2757422"
+:event/minute 48
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2757494"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_3511"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2757494"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Cesar Azpilicueta"
+:event/player1 "Gareth Bale"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757509"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2757513"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3511"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2757513"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "David Luiz"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757515"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "David Luiz"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757517"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3511"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Fernando Torres"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2757518"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "header"
+:event/player1 "Fernando Torres"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2757523"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Oscar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2757526"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3511"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Oscar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2757526"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "distance"
+:event/player1 "Cesar Azpilicueta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2757535"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "shot"
+:event/player1 "Eden Hazard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2757549"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player1 "Kyle Walker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757558"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Kyle Walker"
+:event/player1 "Eden Hazard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2757567"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757572"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Gareth Bale"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757576"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2757578"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3511"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2757578"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Benoit Assou-Ekotto"
+:event/player1 "Oscar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2757598"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757601"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/player1 "Jan Vertonghen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2757602"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Eden Hazard"
+:event/player1 "Lewis Holtby"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757620"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757626"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Gary Cahill"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757627"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "David Luiz"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757629"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Juan Mata"
+:event/player1 "Lewis Holtby"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757638"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757647"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Branislav Ivanovic"
+:event/subtype "pushing"
+:event/player1 "Clint Dempsey"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757659"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757675"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "deflected"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2757680"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2757696"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3511"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2757696"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757698"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Gareth Bale"
+:event/subtype "pushing"
+:event/player1 "Victor Moses"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2757703"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2757704"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3511"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2757704"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2757707"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3511"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2757707"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Victor Moses"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757711"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Oscar"
+:event/subtype "trip"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757715"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Fernando Torres"
+:event/subtype "from_behind"
+:event/player1 "Jan Vertonghen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757716"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3511"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/player1 "Jan Vertonghen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2757718"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3511"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "direct_freekick"
+:event/player1 "David Luiz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2757719"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757732"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3511"}
+
+{:event/type "goal"
+:event/elapsed 80
+:event/player2 "Emmanuel Adebayor"
+:event/subtype "shot"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_2757734"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Victor Moses"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757736"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Oscar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757737"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757745"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3511"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "blocked_shot"
+:event/player1 "Gareth Bale"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2757746"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Ashley Cole"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757748"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Gylfi Sigurdsson"
+:event/subtype "obstruction"
+:event/player1 "Ramires"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2757751"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3511"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "distance"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2757752"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Benoit Assou-Ekotto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757769"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Ramires"
+:event/player1 "Gareth Bale"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757772"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3511"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Gareth Bale"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2757773"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Juan Mata"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2757779"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Scott Parker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757781"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Benoit Assou-Ekotto"
+:event/player1 "Yossi Benayoun"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2757791"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Emmanuel Adebayor"
+:event/player1 "Yossi Benayoun"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2757797"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Tom Huddlestone"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757799"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3511"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Scott Parker"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2757803"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_3511"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2757812"
+:event/minute 91
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Gareth Bale"
+:event/player1 "Ramires"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2757816"
+:event/minute 92
+:event/match_id "match_3511"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Ramires"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2757817"
+:event/minute 92
+:event/match_id "match_3511"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2757819"
+:event/minute 93
+:event/match_id "match_3511"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Cesar Azpilicueta"
+:event/subtype "pushing"
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2757837"
+:event/minute 94
+:event/match_id "match_3511"}
+
+
+]
+

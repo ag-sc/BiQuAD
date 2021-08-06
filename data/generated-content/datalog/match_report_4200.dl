@@ -1,0 +1,989 @@
+
+;;# data
+[
+{:match/id "match_4200"
+:match/league "England Premier League"
+:match/hometeam "Burnley"
+:match/awayteam "Swansea City"
+:match/score "1:0"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Wayne Routledge"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4210265"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4200"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "blocked_shot"
+:event/player1 "Ashley Barnes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4210278"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4200"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "George Boyd"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4210283"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "George Boyd"
+:event/subtype "pushing"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4210292"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Michael Kightly"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4210301"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "George Boyd"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4210433"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4200"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross_right"
+:event/player1 "Kieran Trippier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4210440"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Jack Cork"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4210467"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4200"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "cross_right"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4210484"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4200"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "distance"
+:event/player1 "Wayne Routledge"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4210508"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Ashley Barnes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4210534"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Neil Taylor"
+:event/subtype "trip"
+:event/player1 "George Boyd"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4210542"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Sung-Yueng Ki"
+:event/subtype "trip"
+:event/player1 "David Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4210578"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4200"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross_left"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4210648"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4210656"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4200"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross_right"
+:event/player1 "Kieran Trippier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4210679"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Kyle Naughton"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4210685"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4210693"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4200"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "blocked_shot"
+:event/player1 "Danny Ings"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4210703"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Jack Cork"
+:event/subtype "trip"
+:event/player1 "Ben Mee"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4210751"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4200"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Wayne Routledge"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4210725"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "George Boyd"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4210737"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4200"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross_right"
+:event/player1 "Kieran Trippier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4210742"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Jack Cork"
+:event/subtype "pushing"
+:event/player1 "Ashley Barnes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4210764"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4210776"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4210811"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4200"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "blocked_shot"
+:event/player1 "Danny Ings"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4210819"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4200"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross_right"
+:event/player1 "Kieran Trippier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4210825"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Jonjo Shelvey"
+:event/subtype "pull"
+:event/player1 "Danny Ings"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4210831"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Kyle Naughton"
+:event/subtype "trip"
+:event/player1 "Ashley Barnes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4210978"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4200"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "distance"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4211025"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Danny Ings"
+:event/subtype "pushing"
+:event/player1 "Kyle Naughton"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4211068"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4200"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "shot"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4211086"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Ashley Barnes"
+:event/subtype "pushing"
+:event/player1 "Neil Taylor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4211097"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4211109"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Bafetimbi Gomis"
+:event/player1 "Jason Shackell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4211124"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4211129"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Jonjo Shelvey"
+:event/subtype "pushing"
+:event/player1 "Scott Arfield"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4211156"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Danny Ings"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4211479"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4200"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4211207"
+:event/minute 47
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Danny Ings"
+:event/subtype "pushing"
+:event/player1 "Ashley Williams"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4211595"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4211611"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4200"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "distance"
+:event/player1 "Scott Arfield"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4211644"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Kieran Trippier"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4211664"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4200"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "deflected"
+:event/player1 "Michael Kightly"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4211686"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Neil Taylor"
+:event/subtype "pushing"
+:event/player1 "Ashley Barnes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4211778"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4211811"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Michael Kightly"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4211900"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4211935"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4200"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "volley"
+:event/player1 "Ashley Barnes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4211947"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Neil Taylor"
+:event/subtype "pushing"
+:event/player1 "George Boyd"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4212000"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_4212026"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Kyle Naughton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4212044"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4200"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4212053"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4200"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "deflected"
+:event/player1 "Jack Cork"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4212124"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4200"}
+
+{:event/type "goal"
+:event/elapsed 65
+:event/player1 "Kieran Trippier"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_4212059"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "George Boyd"
+:event/player1 "Jefferson Montero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4212144"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Scott Arfield"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4212188"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Jack Cork"
+:event/subtype "trip"
+:event/player1 "Ashley Barnes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4212243"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Bafetimbi Gomis"
+:event/subtype "pull"
+:event/player1 "Michael Keane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4212288"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_4212319"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4212348"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4200"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross_right"
+:event/player1 "Kieran Trippier"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4212352"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Kieran Trippier"
+:event/subtype "pushing"
+:event/player1 "Jefferson Montero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4212363"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4212371"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4200"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Jason Shackell"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4212378"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Scott Arfield"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4212402"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Kieran Trippier"
+:event/subtype "trip"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4212441"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4200"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Ashley Barnes"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4212459"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Scott Arfield"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4212476"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "George Boyd"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4212500"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4200"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "shot"
+:event/player1 "Ashley Barnes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4212503"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4200"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross_right"
+:event/player1 "Kieran Trippier"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4212508"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4200"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "distance"
+:event/player1 "Jefferson Montero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4212520"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Wayne Routledge"
+:event/player1 "Ben Mee"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4212575"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4212580"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4200"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "short_left"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 11
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4212632"
+:event/minute 92
+:event/match_id "match_4200"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Neil Taylor"
+:event/sortorder 12
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4212633"
+:event/minute 93
+:event/match_id "match_4200"}
+
+{:event/type "shoton"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Nelson Oliveira"
+:event/sortorder 19
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4212664"
+:event/minute 95
+:event/match_id "match_4200"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player2 "Jack Cork"
+:event/player1 "George Boyd"
+:event/sortorder 20
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4212668"
+:event/minute 95
+:event/match_id "match_4200"}
+
+
+]
+

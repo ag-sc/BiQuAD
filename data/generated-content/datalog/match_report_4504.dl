@@ -1,0 +1,926 @@
+
+;;# data
+[
+{:match/id "match_4504"
+:match/league "England Premier League"
+:match/hometeam "Sunderland"
+:match/awayteam "Norwich City"
+:match/score "1:3"
+:match/hometeam_goals "1"
+:match/awayteam_goals "3"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Alexander Tettey"
+:event/subtype "trip"
+:event/player1 "Steven Fletcher"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4673238"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Yann M'Vila"
+:event/subtype "pull"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4673281"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Jeremain Lens"
+:event/player1 "Sebastien Bassong"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4673399"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4504"}
+
+{:event/type "card"
+:event/elapsed 7
+:event/card_type "y"
+:event/player1 "Sebastien Bassong"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4673400"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4504"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "blocked_shot"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4673469"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4504"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross_right"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4673607"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Wesley Hoolahan"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4673486"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4504"}
+
+{:event/type "card"
+:event/elapsed 9
+:event/card_type "y"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4673492"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4504"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross_right"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4673617"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4504"}
+
+{:event/type "shotoff"
+:event/elapsed 13
+:event/subtype "distance"
+:event/player1 "Robert Brady"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4673512"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Steven Whittaker"
+:event/subtype "from_behind"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4673557"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4504"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross_right"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4673629"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4673661"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4504"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "blocked_shot"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4673705"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4504"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross_right"
+:event/player1 "Jonathan Howson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4673677"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Cameron Jerome"
+:event/subtype "dangerous_play"
+:event/player1 "Younes Kaboul"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4673688"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Alexander Tettey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4673709"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4504"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Jonathan Howson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4673712"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Jeremain Lens"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4673718"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4673775"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4504"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Jonathan Howson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4673786"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4504"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "short_right"
+:event/player1 "Robert Brady"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4673789"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4504"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Robert Brady"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4673791"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4504"}
+
+{:event/type "goal"
+:event/elapsed 26
+:event/subtype "loose_ball"
+:event/player1 "Russell Martin"
+:event/sortorder 6
+:event/team "away"
+:event/id "event_4673792"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4504"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "distance"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4673822"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Jonathan Howson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4673858"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Sebastian Larsson"
+:event/player1 "Jonathan Howson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4673875"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Nathan Redmond"
+:event/subtype "trip"
+:event/player1 "Sebastian Coates"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4673956"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4504"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "blocked_shot"
+:event/player1 "Nathan Redmond"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4673987"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Sebastien Bassong"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4673994"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Nathan Redmond"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4674037"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4504"}
+
+{:event/type "goal"
+:event/elapsed 38
+:event/player2 "Wesley Hoolahan"
+:event/subtype "shot"
+:event/player1 "Steven Whittaker"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4674043"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4674103"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4504"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Cameron Jerome"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4674116"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4674134"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4674163"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4504"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "header"
+:event/player1 "Steven Fletcher"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4674172"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Costel Pantilimon"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4674263"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4504"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "distance"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4674663"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Jermain Defoe"
+:event/subtype "dangerous_play"
+:event/player1 "Alexander Tettey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4674669"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4504"}
+
+{:event/type "card"
+:event/elapsed 48
+:event/card_type "y"
+:event/player1 "Alexander Tettey"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4674676"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Alexander Tettey"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4674345"
+:event/minute 48
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Jonathan Howson"
+:event/sortorder 10
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4674352"
+:event/minute 48
+:event/match_id "match_4504"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Graham Dorrans"
+:event/sortorder 13
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4674362"
+:event/minute 49
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Graham Dorrans"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4674738"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Steven Whittaker"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4674747"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Nathan Redmond"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4674776"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Steven Fletcher"
+:event/player1 "Sebastien Bassong"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4674913"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4504"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_right"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4674854"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4504"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "header"
+:event/player1 "Younes Kaboul"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4674870"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4504"}
+
+{:event/type "goal"
+:event/elapsed 58
+:event/player2 "Wesley Hoolahan"
+:event/subtype "shot"
+:event/player1 "Nathan Redmond"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_4674964"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Cameron Jerome"
+:event/player1 "Sebastian Coates"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4675093"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4504"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "blocked_shot"
+:event/player1 "Nathan Redmond"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4675071"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Bradley Johnson"
+:event/player1 "Steven Fletcher"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4675232"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4504"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "distance"
+:event/player1 "Cameron Jerome"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4675263"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Duncan Watmore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4675298"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Daniel Graham"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4675333"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4504"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross_right"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4675338"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Duncan Watmore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4675380"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4504"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross_left"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4675389"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4504"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "blocked_shot"
+:event/player1 "Lewis Grabban"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4675409"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4504"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross_right"
+:event/player1 "Robert Brady"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4675446"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Yann M'Vila"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4675458"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Lewis Grabban"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4675474"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4504"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross_right"
+:event/player1 "Robert Brady"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4675487"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4504"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "blocked_shot"
+:event/player1 "Bradley Johnson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4675547"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Duncan Watmore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4675585"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4504"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross_left"
+:event/player1 "Jeremain Lens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4675638"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4504"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/subtype "hands"
+:event/player1 "Steven Whittaker"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4675675"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Jeremain Lens"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4675679"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4504"}
+
+{:event/type "goal"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Duncan Watmore"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_4675686"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Lewis Grabban"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4675740"
+:event/minute 91
+:event/match_id "match_4504"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "short_right"
+:event/player1 "Gary O'Neil"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4675749"
+:event/minute 91
+:event/match_id "match_4504"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Lewis Grabban"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4675761"
+:event/minute 92
+:event/match_id "match_4504"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "blocked_header"
+:event/player1 "Bradley Johnson"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4675762"
+:event/minute 92
+:event/match_id "match_4504"}
+
+
+]
+

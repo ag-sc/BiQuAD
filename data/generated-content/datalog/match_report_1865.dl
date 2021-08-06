@@ -1,0 +1,1342 @@
+
+;;# data
+[
+{:match/id "match_1865"
+:match/league "England Premier League"
+:match/hometeam "Fulham"
+:match/awayteam "Blackburn Rovers"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "goal"
+:event/elapsed 2
+:event/player2 "Danny Murphy"
+:event/subtype "shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_609028"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "blocked_shot"
+:event/player1 "Simon Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_609058"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609062"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609062"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_609073"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "header"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_609074"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_609098"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Gael Givet"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_609102"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "blocked_shot"
+:event/player1 "Andrew Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_609109"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "distance"
+:event/player1 "Keith Andrews"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_609119"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_609132"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_609138"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_609138"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "shot"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_609144"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "John Pantsil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_609158"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Gael Givet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_609182"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "post"
+:event/player1 "Stephen Warnock"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_609206"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_609224"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "shot"
+:event/player1 "Zoltan Gera"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_609230"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "header"
+:event/player1 "Zoltan Gera"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_609233"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/subtype "hands"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_609269"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "direct_freekick"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_609279"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Morten Gamst Pedersen"
+:event/player1 "Zoltan Gera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_609285"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "blocked_shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_609313"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Clint Dempsey"
+:event/player1 "Gael Givet"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_609331"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_609356"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_609364"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_609366"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_609366"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_609368"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_609368"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_609370"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_609372"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_609375"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "distance"
+:event/player1 "Jason Roberts"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_609381"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_609386"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_609386"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "header"
+:event/player1 "Jason Roberts"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_609389"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_609390"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "El Hadji Diouf"
+:event/subtype "serious_foul"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_609393"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_609396"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Andrew Johnson"
+:event/subtype "shirt_pull"
+:event/player1 "Stephen Warnock"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_609398"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Brede Hangeland"
+:event/subtype "pushing"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_609402"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_609576"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 46
+:event/subtype "header"
+:event/player1 "Jason Roberts"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_609577"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1865"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/card_type "y"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_609478"
+:event/minute 47
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_609602"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609633"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609633"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "deflected"
+:event/player1 "Brede Hangeland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_609635"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609642"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609642"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609648"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609648"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Tugay Kerimoglou"
+:event/subtype "shirt_pull"
+:event/player1 "Danny Murphy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_609652"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_1865"}
+
+{:event/type "card"
+:event/elapsed 52
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Danny Murphy"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_609653"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "header"
+:event/player1 "Christopher Samba"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_609662"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_609677"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "blocked_shot"
+:event/player1 "Andrew Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_609678"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609705"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609705"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "deflected"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_609708"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609710"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609710"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "El Hadji Diouf"
+:event/subtype "pushing"
+:event/player1 "John Pantsil"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_609716"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "distance"
+:event/player1 "Stephen Warnock"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_609724"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_609729"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_609729"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Jason Roberts"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_609734"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_609737"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_609737"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "volley"
+:event/player1 "Ryan Nelsen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_609740"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_609754"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Clint Dempsey"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_609761"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Clint Dempsey"
+:event/player1 "Stephen Warnock"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_609777"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609785"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_609785"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Jason Roberts"
+:event/subtype "from_behind"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_609810"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "direct_freekick"
+:event/player1 "Bennedict McCarthy,27"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_609823"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Stephen Warnock"
+:event/player1 "Zoltan Gera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_609860"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player1 "Zoltan Gera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_609874"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_609882"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_1865"}
+
+{:event/type "goal"
+:event/elapsed 69
+:event/player2 "Christopher Samba"
+:event/subtype "shot"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_609896"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Gael Givet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_609901"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "distance"
+:event/player1 "Stephen Warnock"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_609904"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_609907"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Bennedict McCarthy,27"
+:event/player1 "Dickson Etuhu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_609940"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "distance"
+:event/player1 "Andre Ooijer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_609947"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "distance"
+:event/player1 "Stephen Warnock"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_609969"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Morten Gamst Pedersen"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_610004"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_610006"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_610006"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_1865"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "header"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_610007"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_610010"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Ryan Nelsen"
+:event/player1 "Simon Davies"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_610012"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_1865"}
+
+{:event/type "goal"
+:event/elapsed 85
+:event/player2 "Morten Gamst Pedersen"
+:event/subtype "shot"
+:event/player1 "Jason Roberts"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_610021"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "short"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_610025"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player1 "Stephen Warnock"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_610026"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Paul Konchesky"
+:event/subtype "pushing"
+:event/player1 "Jason Roberts"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_610028"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_610029"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "El Hadji Diouf"
+:event/subtype "from_behind"
+:event/player1 "Diomansy Kamara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_610032"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Simon Davies"
+:event/player1 "Stephen Warnock"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_610035"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Paul Konchesky"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_610037"
+:event/minute 91
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_610039"
+:event/minute 91
+:event/match_id "match_1865"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_610042"
+:event/minute 92
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_610042"
+:event/minute 92
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Paul Robinson"
+:event/player1 "Toni Kallio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_610044"
+:event/minute 92
+:event/match_id "match_1865"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "El Hadji Diouf"
+:event/subtype "shirt_pull"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_610050"
+:event/minute 93
+:event/match_id "match_1865"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "El Hadji Diouf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_610055"
+:event/minute 93
+:event/match_id "match_1865"}
+
+{:event/type "shoton"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Erik Nevland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_610064"
+:event/minute 95
+:event/match_id "match_1865"}
+
+
+]
+

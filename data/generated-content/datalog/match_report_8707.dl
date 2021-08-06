@@ -1,0 +1,792 @@
+
+;;# data
+[
+{:match/id "match_8707"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Hannover 96"
+:match/awayteam "FC St. Pauli"
+:match/score "0:1"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Sergio Pinto"
+:event/player1 "Max Kruse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1199924"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8707"}
+
+{:event/type "goal"
+:event/elapsed 6
+:event/player2 "Bastian Oczipka"
+:event/subtype "header"
+:event/player1 "Marius Ebbers"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1199936"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8707"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Lars Stindl"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1199939"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_8707"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Marius Ebbers"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1199941"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Fabian Boll"
+:event/player1 "Mohammed Abdellaoue"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1199953"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8707"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Christian Schulz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1199959"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Manuel Schmiedebach"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1199972"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_8707"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/player1 "Sergio Pinto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1199980"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Matthias Lehmann"
+:event/player1 "Christian Schulz"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1199982"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Konstantin Rausch"
+:event/subtype "serious_foul"
+:event/player1 "Florian Lechner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1199983"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Fabian Boll"
+:event/player1 "Sergio Pinto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1199985"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8707"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "shot"
+:event/player1 "Marius Ebbers"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1199989"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8707"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Sergio Pinto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1199991"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8707"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "header"
+:event/player1 "Mohammed Abdellaoue"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1199992"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/subtype "shirt_pull"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1199993"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_8707"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1199994"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8707"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1199994"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8707"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Sergio Pinto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1199995"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8707"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "blocked_shot"
+:event/player1 "Marius Ebbers"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1199996"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8707"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Fin Bartels"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1199997"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8707"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Fin Bartels"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1199997"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8707"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Max Kruse"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1199999"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200000"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Matthias Lehmann"
+:event/subtype "pushing"
+:event/player1 "Manuel Schmiedebach"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200003"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8707"}
+
+{:event/type "card"
+:event/elapsed 38
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Manuel Schmiedebach"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1200004"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8707"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "indirect freekick"
+:event/player1 "Fin Bartels"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1200005"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Sergio Pinto"
+:event/player1 "Fabian Boll"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200006"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Florian Lechner"
+:event/subtype "pushing"
+:event/player1 "Christian Schulz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200010"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8707"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Rouwen Hennings"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1200011"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_8707"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Rouwen Hennings"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1200011"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Manuel Schmiedebach"
+:event/subtype "serious_foul"
+:event/player1 "Max Kruse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200013"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8707"}
+
+{:event/type "card"
+:event/elapsed 44
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Max Kruse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1200014"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Manuel Schmiedebach"
+:event/subtype "pushing"
+:event/player1 "Fabian Boll"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200016"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Marius Ebbers"
+:event/player1 "Lars Stindl"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200019"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_8707"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1200020"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Florian Lechner"
+:event/player1 "Mohammed Abdellaoue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200022"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/subtype "hands"
+:event/player1 "Rouwen Hennings"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200024"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Sergio Pinto"
+:event/player1 "Fabian Boll"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200028"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8707"}
+
+{:event/type "card"
+:event/elapsed 54
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Fabian Boll"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1200029"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8707"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200031"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8707"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "deflected"
+:event/player1 "Moritz Stoppelkamp"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1200032"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_8707"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1200034"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8707"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1200034"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8707"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "shot"
+:event/player1 "Rouwen Hennings"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1200037"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8707"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Rouwen Hennings"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1200040"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8707"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Sergio Pinto"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200043"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8707"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "header"
+:event/player1 "Mohammed Abdellaoue"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1200044"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Carlos Zambrano"
+:event/subtype "pushing"
+:event/player1 "Mohammed Abdellaoue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200047"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200048"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Gerald Asamoah"
+:event/subtype "serious_foul"
+:event/player1 "Sergio Pinto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200049"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_8707"}
+
+{:event/type "card"
+:event/elapsed 69
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Sergio Pinto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1200050"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player1 "Matthias Lehmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200051"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Gerald Asamoah"
+:event/subtype "pushing"
+:event/player1 "Sergio Pinto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200056"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200057"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_8707"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "direct_freekick"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1200058"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player1 "Karim Haggui"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200063"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8707"}
+
+{:event/type "card"
+:event/elapsed 80
+:event/card_type "r"
+:event/subtype "emergency_brake"
+:event/player1 "Karim Haggui"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1200064"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8707"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "blocked_shot"
+:event/player1 "Bastian Oczipka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1200065"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200067"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8707"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "blocked_shot"
+:event/player1 "Deniz Naki"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1200070"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_8707"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/player1 "Charles Takyi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1200071"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_8707"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1200075"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Matthias Lehmann"
+:event/subtype "pushing"
+:event/player1 "Sergio Pinto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1200076"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200078"
+:event/minute 92
+:event/match_id "match_8707"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "pushing"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1200081"
+:event/minute 93
+:event/match_id "match_8707"}
+
+
+]
+

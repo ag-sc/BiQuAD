@@ -1,0 +1,998 @@
+
+;;# data
+[
+{:match/id "match_7304"
+:match/league "France Ligue 1"
+:match/hometeam "Paris Saint-Germain"
+:match/awayteam "FC Metz"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Bouna Sarr"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4412507"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4412513"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Lucas Digne"
+:event/player1 "Ferjani Sassi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4412568"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4412573"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7304"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "header"
+:event/player1 "Edinson Cavani"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4412575"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Marco Verratti"
+:event/player1 "Ahmed Kashi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4412588"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "short_left"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4412599"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Marco Verratti"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4412602"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross_left"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4412607"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross_right"
+:event/player1 "Bouna Sarr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4412633"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross_left"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4412675"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4412683"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "David Luiz"
+:event/player1 "Modibo Maiga"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4412690"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7304"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "distance"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4412700"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Ezequiel Lavezzi"
+:event/player1 "Romain Metannire"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4412705"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4412711"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Lucas Digne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4412727"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Lucas Digne"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4412732"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Kevin Lejeune"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4412742"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7304"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "distance"
+:event/player1 "Ferjani Sassi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4412748"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Thiago Motta"
+:event/player1 "Modibo Maiga"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4412770"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_7304"}
+
+{:event/type "goal"
+:event/elapsed 25
+:event/player2 "Javier Pastore"
+:event/subtype "shot"
+:event/player1 "Marco Verratti"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4412797"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7304"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "Ahmed Kashi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4412823"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Blaise Matuidi"
+:event/player1 "Bouna Sarr"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4412830"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Modibo Maiga"
+:event/player1 "David Luiz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4412855"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Marco Verratti"
+:event/player1 "Ferjani Sassi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4412892"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/subtype "hands"
+:event/player1 "Modibo Maiga"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4412895"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross_left"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4412900"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Lucas Digne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4412907"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "short_left"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4412908"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7304"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "distance"
+:event/player1 "Javier Pastore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4412909"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4412920"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7304"}
+
+{:event/type "card"
+:event/elapsed 40
+:event/card_type "y"
+:event/subtype "advantage"
+:event/player1 "Ferjani Sassi"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4412924"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Modibo Maiga"
+:event/player1 "Blaise Matuidi"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4412926"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7304"}
+
+{:event/type "goal"
+:event/elapsed 42
+:event/player2 "Javier Pastore"
+:event/subtype "shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4412931"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Ezequiel Lavezzi"
+:event/player1 "Romain Metannire"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4412942"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Lucas Digne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4412944"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7304"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "distance"
+:event/player1 "Bouna Sarr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4413047"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Edinson Cavani"
+:event/player1 "Kevin Lejeune"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4413059"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Edinson Cavani"
+:event/player1 "Kevin Lejeune"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4413077"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7304"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "direct_freekick"
+:event/player1 "David Luiz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4413095"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Bouna Sarr"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4413116"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7304"}
+
+{:event/type "goal"
+:event/elapsed 53
+:event/player2 "Bouna Sarr"
+:event/subtype "header"
+:event/player1 "Modibo Maiga"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_4413120"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4413168"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "cross_right"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4413173"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4413177"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7304"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4413182"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross_right"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4413191"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Jose Luis Palomino"
+:event/subtype "pull"
+:event/player1 "David Luiz"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4413192"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7304"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "shot"
+:event/player1 "Florent Malouda"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4413235"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Lucas Digne"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4413244"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Bouna Sarr"
+:event/player1 "Marco Verratti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4413246"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7304"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/player1 "Marco Verratti"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4413249"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7304"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_shot"
+:event/player1 "Javier Pastore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4413274"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Kevin Lejeune"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4413293"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Javier Pastore"
+:event/player1 "Kevin Lejeune"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4413295"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Blaise Matuidi"
+:event/subtype "pull"
+:event/player1 "Ferjani Sassi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4413305"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Fakhreddine Ben Youssef"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4413319"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Bouna Sarr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4413325"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross_left"
+:event/player1 "Bouna Sarr"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4413339"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Modibo Maiga"
+:event/player1 "Javier Pastore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4413365"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Bouna Sarr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4413371"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7304"}
+
+{:event/type "goal"
+:event/elapsed 77
+:event/player2 "Javier Pastore"
+:event/subtype "shot"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4413399"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7304"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Lucas Digne"
+:event/subtype "pushing"
+:event/player1 "Bouna Sarr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4413432"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Lucas Moura"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4413438"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7304"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "blocked_header"
+:event/player1 "Edinson Cavani"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4413439"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_left"
+:event/player1 "Lucas Moura"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4413448"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7304"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "blocked_header"
+:event/player1 "Edinson Cavani"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4413450"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_left"
+:event/player1 "Lucas Moura"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4413452"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "short_left"
+:event/player1 "Lucas Moura"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4413458"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Lucas Digne"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4413467"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed 82
+:event/subtype "short_left"
+:event/player1 "Lucas Moura"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4413471"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Javier Pastore"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4413472"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Romain Metannire"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4413481"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7304"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "blocked_shot"
+:event/player1 "Florent Malouda"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4413486"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7304"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "shot"
+:event/player1 "Javier Pastore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4413500"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4413504"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7304"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4413511"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Marco Verratti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4413528"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7304"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Modibo Maiga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4413531"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7304"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "Bouna Sarr"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4413551"
+:event/minute 94
+:event/match_id "match_7304"}
+
+
+]
+

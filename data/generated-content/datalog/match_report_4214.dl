@@ -1,0 +1,916 @@
+
+;;# data
+[
+{:match/id "match_4214"
+:match/league "England Premier League"
+:match/hometeam "Liverpool"
+:match/awayteam "Burnley"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "shoton"
+:event/elapsed 1
+:event/subtype "big chance shot"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4226813"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4214"}
+
+{:event/type "corner"
+:event/elapsed 1
+:event/subtype "cross_right"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4226817"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4214"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross_left"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4226878"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4214"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "header"
+:event/player1 "Jordan Henderson"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4226881"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4214"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4226895"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4214"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "cross_right"
+:event/player1 "Kieran Trippier"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4226898"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Philippe Coutinho"
+:event/subtype "trip"
+:event/player1 "George Boyd"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4226985"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4214"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4226988"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4214"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "distance"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4226991"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Adam Lallana"
+:event/subtype "trip"
+:event/player1 "Michael Kightly"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227021"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4214"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4227024"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4214"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "short_left"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4227030"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Michael Keane"
+:event/subtype "pushing"
+:event/player1 "Emre Can"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4227041"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Ashley Barnes"
+:event/subtype "trip"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4227052"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Raheem Sterling"
+:event/subtype "pushing"
+:event/player1 "Michael Kightly"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227062"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Adam Lallana"
+:event/subtype "pull"
+:event/player1 "Michael Kightly"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227071"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "blocked_shot"
+:event/player1 "Ashley Barnes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4227106"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4214"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross_left"
+:event/player1 "Michael Kightly"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4227114"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4214"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "header"
+:event/player1 "Ben Mee"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4227117"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4214"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "shot"
+:event/player1 "Scott Arfield"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4227135"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Ben Mee"
+:event/subtype "trip"
+:event/player1 "Raheem Sterling"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4227185"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Jordan Henderson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4227205"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4214"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross_right"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4227209"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Martin Skrtel"
+:event/subtype "dangerous_play"
+:event/player1 "Ashley Barnes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227233"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Philippe Coutinho"
+:event/subtype "trip"
+:event/player1 "David Jones"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227243"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4214"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Raheem Sterling"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4227246"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "blocked_shot"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4227270"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4214"}
+
+{:event/type "goal"
+:event/elapsed 29
+:event/subtype "shot"
+:event/player1 "Jordan Henderson"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_4227272"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "blocked_shot"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4227323"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4214"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "big chance shot"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4227330"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Adam Lallana"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4227362"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4214"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227395"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Jordan Henderson"
+:event/subtype "pull"
+:event/player1 "Ashley Barnes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227397"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Ben Mee"
+:event/subtype "pull"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4227401"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "blocked_shot"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4227408"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Daniel Sturridge"
+:event/subtype "pushing"
+:event/player1 "Jason Shackell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227409"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4214"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Joe Allen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4227412"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Danny Ings"
+:event/subtype "pull"
+:event/player1 "Raheem Sterling"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4227415"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4214"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227416"
+:event/minute 46
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "big chance header"
+:event/player1 "Kieran Trippier"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4227417"
+:event/minute 46
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Emre Can"
+:event/subtype "pushing"
+:event/player1 "Danny Ings"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227648"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4227669"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Kieran Trippier"
+:event/subtype "pushing"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4227707"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4214"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Kieran Trippier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227713"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4214"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player2 "Jordan Henderson"
+:event/subtype "header"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_4227732"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4214"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "short_left"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4227769"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "shot"
+:event/player1 "Adam Lallana"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4227788"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "blocked_shot"
+:event/player1 "Danny Ings"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4227853"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4214"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Ben Mee"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227872"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4214"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "shot"
+:event/player1 "Ashley Barnes"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4227874"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Jordan Henderson"
+:event/subtype "trip"
+:event/player1 "Ashley Barnes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4227885"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4214"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Raheem Sterling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4227895"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4214"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "bad shot"
+:event/player1 "Alberto Moreno"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4227896"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "David Jones"
+:event/subtype "pushing"
+:event/player1 "Alberto Moreno"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4227911"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4214"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Ross Wallace"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4227919"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4214"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "distance"
+:event/player1 "Daniel Sturridge"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4227946"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4214"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross_right"
+:event/player1 "Kieran Trippier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4227990"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "deflected"
+:event/player1 "Adam Lallana"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4228007"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Raheem Sterling"
+:event/subtype "trip"
+:event/player1 "Ben Mee"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4228011"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4214"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4228027"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Joe Allen"
+:event/subtype "pull"
+:event/player1 "Scott Arfield"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4228062"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Raheem Sterling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4228138"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Raheem Sterling"
+:event/subtype "pushing"
+:event/player1 "Jason Shackell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4228159"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Emre Can"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4228183"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4214"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross_left"
+:event/player1 "Philippe Coutinho"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4228190"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4214"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Danny Ings"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4228205"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4214"}
+
+{:event/type "corner"
+:event/elapsed 82
+:event/subtype "cross_right"
+:event/player1 "Ross Wallace"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4228213"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4214"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "blocked_shot"
+:event/player1 "David Jones"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4228218"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Emre Can"
+:event/subtype "dangerous_play"
+:event/player1 "Ben Mee"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4228245"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4214"}
+
+{:event/type "card"
+:event/elapsed 85
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Ben Mee"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4228249"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4214"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Ross Wallace"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4228265"
+:event/minute 92
+:event/match_id "match_4214"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Scott Arfield"
+:event/subtype "dangerous_play"
+:event/player1 "Joe Allen"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4228268"
+:event/minute 94
+:event/match_id "match_4214"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Ross Wallace"
+:event/sortorder 11
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4228269"
+:event/minute 94
+:event/match_id "match_4214"}
+
+
+]
+

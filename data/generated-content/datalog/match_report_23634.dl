@@ -1,0 +1,1415 @@
+
+;;# data
+[
+{:match/id "match_23634"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Real Madrid CF"
+:match/awayteam "FC Barcelona"
+:match/score "3:4"
+:match/hometeam_goals "3"
+:match/awayteam_goals "4"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342342"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Sergio Busquets"
+:event/subtype "trip"
+:event/player1 "Angel Di Maria"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342345"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Neymar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3342357"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_23634"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Karim Benzema"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3342359"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_23634"}
+
+{:event/type "goal"
+:event/elapsed 7
+:event/player2 "Lionel Messi"
+:event/subtype "shot"
+:event/player1 "Andres Iniesta"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_3342368"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "distance"
+:event/player1 "Karim Benzema"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3342389"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_23634"}
+
+{:event/type "shotoff"
+:event/elapsed 13
+:event/subtype "big chance shot"
+:event/player1 "Karim Benzema"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3342391"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Andres Iniesta"
+:event/subtype "trip"
+:event/player1 "Daniel Carvajal"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342394"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_23634"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "big chance shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3342403"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Daniel Alves"
+:event/subtype "trip"
+:event/player1 "Xabi Alonso"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342409"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "distance"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3342418"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "blocked_shot"
+:event/player1 "Neymar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3342421"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Marcelo"
+:event/subtype "trip"
+:event/player1 "Neymar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342422"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Angel Di Maria"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342423"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_23634"}
+
+{:event/type "goal"
+:event/elapsed 20
+:event/player2 "Angel Di Maria"
+:event/subtype "header"
+:event/player1 "Karim Benzema"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_3342424"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Sergio Busquets"
+:event/subtype "trip"
+:event/player1 "Karim Benzema"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342434"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Angel Di Maria"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342441"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_23634"}
+
+{:event/type "goal"
+:event/elapsed 24
+:event/player2 "Angel Di Maria"
+:event/subtype "volley"
+:event/player1 "Karim Benzema"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_3342442"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Cesc Fabregas"
+:event/subtype "trip"
+:event/player1 "Luka Modric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342446"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Lionel Messi"
+:event/subtype "serious_foul"
+:event/player1 "Sergio Ramos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342447"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "blocked_shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3342450"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Angel Di Maria"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342454"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "big chance shot"
+:event/player1 "Karim Benzema"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3342455"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Angel Di Maria"
+:event/subtype "trip"
+:event/player1 "Javier Mascherano"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342457"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "blocked_shot"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3342458"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_23634"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "volley"
+:event/player1 "Luka Modric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3342459"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Neymar"
+:event/subtype "dangerous_play"
+:event/player1 "Angel Di Maria"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342463"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Xavi Hernandez"
+:event/subtype "trip"
+:event/player1 "Xabi Alonso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342465"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/subtype "hands"
+:event/player1 "Angel Di Maria"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342469"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "blocked_shot"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3342475"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Neymar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3342479"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Neymar"
+:event/subtype "from_behind"
+:event/player1 "Angel Di Maria"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342498"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_23634"}
+
+{:event/type "card"
+:event/elapsed 35
+:event/card_type "y"
+:event/player1 "Angel Di Maria"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3342499"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Gerard Pique"
+:event/subtype "trip"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342512"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3342516"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3342520"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_23634"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3342520"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "blocked_shot"
+:event/player1 "Gerard Pique"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3342521"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Angel Di Maria"
+:event/subtype "pull"
+:event/player1 "Neymar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342524"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_23634"}
+
+{:event/type "goal"
+:event/elapsed 42
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_3342527"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_23634"}
+
+{:event/type "card"
+:event/elapsed 43
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3342530"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_23634"}
+
+{:event/type "card"
+:event/elapsed 43
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Pepe"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3342531"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Angel Di Maria"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342541"
+:event/minute 46
+:event/match_id "match_23634"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "miss_kick"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3342542"
+:event/minute 46
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Daniel Carvajal"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342544"
+:event/minute 46
+:event/match_id "match_23634"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "big chance header"
+:event/player1 "Karim Benzema"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3342545"
+:event/minute 46
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3342590"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_23634"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "miss_kick"
+:event/player1 "Andres Iniesta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3342591"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3342594"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3342596"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_23634"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3342596"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Pepe"
+:event/subtype "pushing"
+:event/player1 "Gerard Pique"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342600"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Sergio Busquets"
+:event/subtype "trip"
+:event/player1 "Luka Modric"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342603"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "big chance shot"
+:event/player1 "Karim Benzema"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3342616"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342617"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Gerard Pique"
+:event/subtype "pushing"
+:event/player1 "Gareth Bale"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342618"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Cristiano Ronaldo"
+:event/subtype "penalty"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342621"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_23634"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_3342623"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Lionel Messi"
+:event/subtype "trip"
+:event/player1 "Xabi Alonso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342629"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Angel Di Maria"
+:event/subtype "trip"
+:event/player1 "Javier Mascherano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342632"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342633"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "big chance header"
+:event/player1 "Gareth Bale"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3342636"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Luka Modric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3342637"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_23634"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Luka Modric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3342637"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3342642"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3342644"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_23634"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3342644"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_23634"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "deflected"
+:event/player1 "Andres Iniesta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3342646"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3342647"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_23634"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3342647"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "distance"
+:event/player1 "Neymar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3342651"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Neymar"
+:event/subtype "penalty"
+:event/player1 "Sergio Ramos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342658"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_23634"}
+
+{:event/type "card"
+:event/elapsed 63
+:event/card_type "r"
+:event/player1 "Sergio Ramos"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3342659"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_23634"}
+
+{:event/type "goal"
+:event/elapsed 65
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_3342662"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Daniel Carvajal"
+:event/subtype "obstruction"
+:event/player1 "Sergio Busquets"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342669"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_23634"}
+
+{:event/type "card"
+:event/elapsed 66
+:event/card_type "y"
+:event/player1 "Sergio Busquets"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3342670"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Luka Modric"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342672"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "blocked_shot"
+:event/player1 "Andres Iniesta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3342676"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Luka Modric"
+:event/subtype "trip"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342678"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Jordi Alba"
+:event/subtype "pushing"
+:event/player1 "Gareth Bale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342680"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3342685"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Pepe"
+:event/subtype "pushing"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342691"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Jordi Alba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3342694"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3342698"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_23634"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3342698"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_23634"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "header"
+:event/player1 "Sergio Busquets"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3342699"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Angel Di Maria"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342704"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3342706"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "blocked_shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3342708"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_23634"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "post"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3342710"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Cristiano Ronaldo"
+:event/subtype "pull"
+:event/player1 "Javier Mascherano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342721"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Daniel Carvajal"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342722"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3342725"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3342728"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Cristiano Ronaldo"
+:event/subtype "pushing"
+:event/player1 "Javier Mascherano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342736"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Angel Di Maria"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342739"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Jordi Alba"
+:event/subtype "trip"
+:event/player1 "Luka Modric"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342743"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_23634"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "distance"
+:event/player1 "Javier Mascherano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3342744"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Andres Iniesta"
+:event/subtype "penalty"
+:event/player1 "Xabi Alonso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342751"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_23634"}
+
+{:event/type "goal"
+:event/elapsed 84
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_3342753"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_23634"}
+
+{:event/type "card"
+:event/elapsed 85
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Xabi Alonso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3342756"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Javier Mascherano"
+:event/subtype "pushing"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342760"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_23634"}
+
+{:event/type "card"
+:event/elapsed 86
+:event/card_type "y"
+:event/player1 "Cristiano Ronaldo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3342761"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Andres Iniesta"
+:event/subtype "trip"
+:event/player1 "Isco"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342769"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Lionel Messi"
+:event/subtype "trip"
+:event/player1 "Luka Modric"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342772"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_23634"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/player1 "Luka Modric"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3342773"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Daniel Carvajal"
+:event/subtype "pull"
+:event/player1 "Pedro Rodriguez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342777"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Xabi Alonso"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3342781"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_23634"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3342785"
+:event/minute 91
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Xavi Hernandez"
+:event/subtype "trip"
+:event/player1 "Xabi Alonso"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342787"
+:event/minute 91
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Sergio Busquets"
+:event/subtype "trip"
+:event/player1 "Gareth Bale"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3342789"
+:event/minute 92
+:event/match_id "match_23634"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 11
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3342792"
+:event/minute 93
+:event/match_id "match_23634"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Raphael Varane"
+:event/subtype "dangerous_play"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 12
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3342793"
+:event/minute 93
+:event/match_id "match_23634"}
+
+
+]
+

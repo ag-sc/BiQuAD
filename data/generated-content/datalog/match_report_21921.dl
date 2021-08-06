@@ -1,0 +1,811 @@
+
+;;# data
+[
+{:match/id "match_21921"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "RCD Espanyol"
+:match/awayteam "Getafe CF"
+:match/score "0:2"
+:match/hometeam_goals "0"
+:match/awayteam_goals "2"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_847885"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_847944"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_21921"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_847944"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_21921"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "crossbar"
+:event/player1 "Ivan Alonso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_847945"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Francisco Chica"
+:event/player1 "Jaime Gavilan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_847952"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Jose Maria Callejon"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_848006"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_848055"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Jose Maria Callejon"
+:event/subtype "serious_foul"
+:event/player1 "David Cortes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_848083"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_21921"}
+
+{:event/type "card"
+:event/elapsed 21
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "David Cortes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_848085"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player1 "Nicolas Pareja"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_848094"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Roberto Soldado"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_848128"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Pedro Leon"
+:event/player1 "David Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_848152"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_848159"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_21921"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_848159"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_21921"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_848175"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_21921"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "shot"
+:event/player1 "Raul Tamudo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_848191"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Pedro Leon"
+:event/player1 "Nicolas Pareja"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_848203"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_21921"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "blocked_shot"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_848210"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Luis Garcia"
+:event/player1 "Cata Diaz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_848236"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_21921"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "shot"
+:event/player1 "Jaime Gavilan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_848250"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_848277"
+:event/minute 46
+:event/match_id "match_21921"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_848277"
+:event/minute 46
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_848283"
+:event/minute 46
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_848393"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_21921"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_848393"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player1 "David Cortes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_848407"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_848419"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_848424"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21921"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_848424"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21921"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "deflected"
+:event/player1 "Ivan Alonso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_848433"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_848435"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21921"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_848435"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Jaime Gavilan"
+:event/subtype "pushing"
+:event/player1 "Francisco Chica"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_848444"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_21921"}
+
+{:event/type "card"
+:event/elapsed 53
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Francisco Chica"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_848448"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_21921"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "blocked_shot"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_848453"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Mane"
+:event/subtype "pushing"
+:event/player1 "Raul Tamudo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_848479"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_848499"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_21921"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_848499"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_848531"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_21921"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_848531"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Jose Maria Callejon"
+:event/subtype "pushing"
+:event/player1 "David Cortes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_848546"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_848578"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_21921"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_848578"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player1 "Ferran Corominas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_848585"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Jose Maria Callejon"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_848594"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Ferran Corominas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_848602"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_21921"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "header"
+:event/player1 "Ivan Alonso"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_848603"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Roberto Soldado"
+:event/player1 "Juan Forlin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_848612"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player1 "Adrian Gonzalez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_848615"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_21921"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Roberto Soldado"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_848624"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_21921"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "shot"
+:event/player1 "Ben Sahar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_848633"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_21921"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Ferran Corominas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_848644"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player1 "Mane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_848649"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Ferran Corominas"
+:event/subtype "serious_foul"
+:event/player1 "Roberto Soldado"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_848651"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_21921"}
+
+{:event/type "card"
+:event/elapsed 77
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Roberto Soldado"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_848652"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_21921"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Roberto Soldado"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_848666"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_21921"}
+
+{:event/type "goal"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Francisco Javier Casquero"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_848667"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_21921"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/player1 "Pedro Leon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_848686"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_848691"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_21921"}
+
+{:event/type "corner"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_848691"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_21921"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "shot"
+:event/player1 "Manu del Moral"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_848701"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_21921"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "David Cortes"
+:event/subtype "serious_foul"
+:event/player1 "Juan Forlin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_848728"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_21921"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Juan Forlin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_848729"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_21921"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Joan Verdu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_848739"
+:event/minute 92
+:event/match_id "match_21921"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Manu del Moral"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_848746"
+:event/minute 93
+:event/match_id "match_21921"}
+
+{:event/type "goal"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Manu del Moral"
+:event/subtype "header"
+:event/player1 "Pedro Rios"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_848747"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 93
+:event/match_id "match_21921"}
+
+
+]
+

@@ -1,0 +1,1255 @@
+
+;;# data
+[
+{:match/id "match_10101"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "TSG 1899 Hoffenheim"
+:match/awayteam "FC Augsburg"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "shoton"
+:event/elapsed 1
+:event/subtype "shot"
+:event/player1 "Philipp Ochs"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5350844"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed 2
+:event/subtype "cross_right"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5350859"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Ja-Cheol Koo"
+:event/subtype "trip"
+:event/player1 "Pirmin Schwegler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5350872"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Marwin Hitz"
+:event/subtype "dangerous_play"
+:event/player1 "Pavel Kaderabek"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5350925"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Paul Verhaegh"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5350934"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10101"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "shot"
+:event/player1 "Konstantinos Stafylidis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5350936"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Pirmin Schwegler"
+:event/subtype "pushing"
+:event/player1 "Ja-Cheol Koo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5350970"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5350976"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Kevin Volland"
+:event/subtype "from_behind"
+:event/player1 "Paul Verhaegh"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351019"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351025"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "header"
+:event/player1 "Niklas Suele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5351031"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Eduardo Vargas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351070"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Konstantinos Stafylidis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351092"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10101"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "header"
+:event/player1 "Alfred Finnbogason"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5351117"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Alfred Finnbogason"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351123"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed 15
+:event/subtype "cross_left"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5351141"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed 15
+:event/subtype "cross_left"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5351148"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Caiuby"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351188"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Kevin Volland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351199"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Dominik Kohr"
+:event/subtype "trip"
+:event/player1 "Kevin Volland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5351221"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Alexander Esswein"
+:event/subtype "trip"
+:event/player1 "Pavel Kaderabek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5351242"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Halil Altintop"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351250"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Alexander Esswein"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351263"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "shot"
+:event/player1 "Caiuby"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5351266"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Dominik Kohr"
+:event/subtype "trip"
+:event/player1 "Kevin Volland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5351293"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Alexander Esswein"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351313"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Mark Uth"
+:event/subtype "pull"
+:event/player1 "Caiuby"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351337"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10101"}
+
+{:event/type "card"
+:event/elapsed 23
+:event/card_type "y"
+:event/player1 "Caiuby"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5351339"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Ja-Cheol Koo"
+:event/subtype "pull"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5351354"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Eduardo Vargas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351365"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Eugen Polanski"
+:event/subtype "pull"
+:event/player1 "Halil Altintop"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351380"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "post"
+:event/player1 "Eduardo Vargas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5351386"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_10101"}
+
+{:event/type "goal"
+:event/elapsed 25
+:event/player2 "Philipp Ochs"
+:event/subtype "shot"
+:event/player1 "Kevin Volland"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_5351394"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "Ja-Cheol Koo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5351391"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Nadiem Amiri"
+:event/subtype "trip"
+:event/player1 "Dominik Kohr"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351498"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Paul Verhaegh"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351517"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Pavel Kaderabek"
+:event/subtype "pushing"
+:event/player1 "Caiuby"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351540"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross_left"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5351558"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Mark Uth"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351571"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Konstantinos Stafylidis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351577"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross_left"
+:event/player1 "Halil Altintop"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5351584"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Kevin Volland"
+:event/subtype "serious_foul"
+:event/player1 "Paul Verhaegh"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351608"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10101"}
+
+{:event/type "card"
+:event/elapsed 34
+:event/card_type "y"
+:event/player1 "Paul Verhaegh"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5351611"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Alfred Finnbogason"
+:event/subtype "pull"
+:event/player1 "Eduardo Vargas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5351642"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Alexander Esswein"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351696"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross_right"
+:event/player1 "Ja-Cheol Koo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5351706"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/subtype "penalty"
+:event/player1 "Niklas Suele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5351722"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10101"}
+
+{:event/type "card"
+:event/elapsed 39
+:event/card_type "y"
+:event/player1 "Niklas Suele"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5351728"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10101"}
+
+{:event/type "goal"
+:event/elapsed 40
+:event/player1 "Paul Verhaegh"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_5351735"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Alexander Esswein"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351825"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Alexander Esswein"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351844"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Konstantinos Stafylidis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5351877"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Konstantinos Stafylidis"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351938"
+:event/minute 46
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "distance"
+:event/player1 "Eduardo Vargas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5352175"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Kevin Volland"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351958"
+:event/minute 47
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Halil Altintop"
+:event/subtype "pushing"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5352196"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Konstantinos Stafylidis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5352206"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10101"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5352221"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "shot"
+:event/player1 "Alexander Esswein"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5352234"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Kevin Volland"
+:event/subtype "trip"
+:event/player1 "Jeffrey Gouweleeuw"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5352267"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Eugen Polanski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5352281"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Caiuby"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5352326"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Fabian Schaer"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5352400"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_left"
+:event/player1 "Konstantinos Stafylidis"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5352428"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Kevin Volland"
+:event/subtype "pushing"
+:event/player1 "Alexander Esswein"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5352470"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5352492"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10101"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "header"
+:event/player1 "Eduardo Vargas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5352502"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Nadiem Amiri"
+:event/subtype "trip"
+:event/player1 "Alexander Esswein"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5352519"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Pavel Kaderabek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5352545"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Pavel Kaderabek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5352614"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5352625"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Eugen Polanski"
+:event/subtype "pushing"
+:event/player1 "Ja-Cheol Koo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5352717"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross_right"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5352747"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "post"
+:event/player1 "Mark Uth"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5352760"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10101"}
+
+{:event/type "card"
+:event/elapsed 63
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Kevin Volland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5352823"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10101"}
+
+{:event/type "card"
+:event/elapsed 63
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Marwin Hitz"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5352821"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Raul Marcelo Bobadilla"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5352883"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10101"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "distance"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5352938"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross_right"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5352948"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Paul Verhaegh"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5352991"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Raul Marcelo Bobadilla"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5353052"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10101"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "big chance header"
+:event/player1 "Pavel Kaderabek"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5353277"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross_left"
+:event/player1 "Nadiem Amiri"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5353285"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "distance"
+:event/player1 "Konstantinos Stafylidis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5353341"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Kevin Volland"
+:event/subtype "pull"
+:event/player1 "Jeffrey Gouweleeuw"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5353380"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10101"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "blocked_shot"
+:event/player1 "Fabian Schaer"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5353417"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Pavel Kaderabek"
+:event/subtype "trip"
+:event/player1 "Konstantinos Stafylidis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5353429"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Kevin Volland"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5353431"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Andrej Kramaric"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5353463"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10101"}
+
+{:event/type "goal"
+:event/elapsed 81
+:event/player2 "Andrej Kramaric"
+:event/subtype "shot"
+:event/player1 "Mark Uth"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5353470"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "shot"
+:event/player1 "Caiuby"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5353511"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Nadiem Amiri"
+:event/subtype "trip"
+:event/player1 "Raul Marcelo Bobadilla"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5353592"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Tobias Werner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5353641"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Paul Verhaegh"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5353665"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Alexander Esswein"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5353685"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross_right"
+:event/player1 "Tobias Werner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5353702"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10101"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Dominik Kohr"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5353854"
+:event/minute 91
+:event/match_id "match_10101"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Tobias Werner"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5353867"
+:event/minute 92
+:event/match_id "match_10101"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Raul Marcelo Bobadilla"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5353870"
+:event/minute 92
+:event/match_id "match_10101"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Nadiem Amiri"
+:event/subtype "obstruction"
+:event/player1 "Ragnar Klavan"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5353882"
+:event/minute 93
+:event/match_id "match_10101"}
+
+{:event/type "card"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Ragnar Klavan"
+:event/sortorder 10
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5353887"
+:event/minute 93
+:event/match_id "match_10101"}
+
+
+]
+

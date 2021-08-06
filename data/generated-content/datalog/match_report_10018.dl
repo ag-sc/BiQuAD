@@ -1,0 +1,1341 @@
+
+;;# data
+[
+{:match/id "match_10018"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "FC Augsburg"
+:match/awayteam "FC Schalke 04"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Dominik Kohr"
+:event/subtype "pull"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5108278"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Leon Goretzka"
+:event/subtype "serious_foul"
+:event/player1 "Dominik Kohr"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5108285"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10018"}
+
+{:event/type "card"
+:event/elapsed 3
+:event/card_type "y"
+:event/player1 "Dominik Kohr"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5108289"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5108301"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Benedikt Hoewedes"
+:event/subtype "pushing"
+:event/player1 "Raul Marcelo Bobadilla"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5108351"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_10018"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross_left"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5108378"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Alexander Esswein"
+:event/subtype "trip"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5108393"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Daniel Baier"
+:event/subtype "trip"
+:event/player1 "Max Meyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5108428"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Daniel Baier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5108437"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "blocked_shot"
+:event/player1 "Caiuby"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5108457"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "distance"
+:event/player1 "Ja-Cheol Koo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5108466"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Leroy Sane"
+:event/subtype "dangerous_play"
+:event/player1 "Alexander Esswein"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5108471"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "bad shot"
+:event/player1 "Caiuby"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5108510"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "distance"
+:event/player1 "Dominik Kohr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5108532"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Eric Maxim Choupo-Moting"
+:event/subtype "trip"
+:event/player1 "Jeong-Ho Hong"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5108571"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "direct_freekick"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5108580"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "blocked_shot"
+:event/player1 "Raul Marcelo Bobadilla"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5108597"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Philipp Max"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5108615"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10018"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross_right"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5108636"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Leroy Sane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5108639"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Johannes Geis"
+:event/subtype "serious_foul"
+:event/player1 "Ja-Cheol Koo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5108663"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10018"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/card_type "y"
+:event/player1 "Ja-Cheol Koo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5108665"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Philipp Max"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5108671"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5108686"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "blocked_shot"
+:event/player1 "Max Meyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5108691"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5108700"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "bad shot"
+:event/player1 "Leroy Sane"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5108707"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Alexander Esswein"
+:event/subtype "from_behind"
+:event/player1 "Sead Kolasinac"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5108726"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10018"}
+
+{:event/type "card"
+:event/elapsed 32
+:event/card_type "y"
+:event/player1 "Sead Kolasinac"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5108727"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Ja-Cheol Koo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5108737"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Philipp Max"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5108741"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Markus Feulner"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5108746"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10018"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross_right"
+:event/player1 "Daniel Baier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5108753"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "blocked_header"
+:event/player1 "Ragnar Klavan"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5108756"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Dominik Kohr"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5108775"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10018"}
+
+{:event/type "goal"
+:event/elapsed 34
+:event/player2 "Dominik Kohr"
+:event/subtype "shot"
+:event/player1 "Jeong-Ho Hong"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_5108760"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "volley"
+:event/player1 "Leroy Sane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5108783"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Sead Kolasinac"
+:event/subtype "trip"
+:event/player1 "Raul Marcelo Bobadilla"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5109027"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "shot"
+:event/player1 "Leroy Sane"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5108795"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5108806"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Daniel Baier"
+:event/player1 "Joel Matip"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5109011"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "distance"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5108836"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_10018"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross_left"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5108844"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "header"
+:event/player1 "Leon Goretzka"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5108852"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Leroy Sane"
+:event/player1 "Philipp Max"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5108860"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5108868"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "blocked_shot"
+:event/player1 "Max Meyer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5108890"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "distance"
+:event/player1 "Caiuby"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5108892"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "distance"
+:event/player1 "Ja-Cheol Koo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5108906"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Joel Matip"
+:event/subtype "pushing"
+:event/player1 "Raul Marcelo Bobadilla"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5108927"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5108931"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Raul Marcelo Bobadilla"
+:event/subtype "trip"
+:event/player1 "Sead Kolasinac"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5109219"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Sead Kolasinac"
+:event/subtype "pushing"
+:event/player1 "Raul Marcelo Bobadilla"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5108982"
+:event/minute 46
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "direct_freekick"
+:event/player1 "Philipp Max"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5109222"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Markus Feulner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5109231"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Ja-Cheol Koo"
+:event/subtype "from_behind"
+:event/player1 "Joel Matip"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5109248"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "bad shot"
+:event/player1 "Raul Marcelo Bobadilla"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5109253"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Sascha Riether"
+:event/subtype "pushing"
+:event/player1 "Daniel Baier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5109256"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10018"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross_right"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5109262"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Leroy Sane"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5109268"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Sead Kolasinac"
+:event/subtype "pushing"
+:event/player1 "Alexander Esswein"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5109284"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "direct_freekick"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5109288"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "crossbar"
+:event/player1 "Leon Goretzka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5109299"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Ja-Cheol Koo"
+:event/subtype "dangerous_play"
+:event/player1 "Leon Goretzka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5109310"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10018"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_left"
+:event/player1 "Johannes Geis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5109327"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "distance"
+:event/player1 "Alexander Esswein"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5109351"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Max Meyer"
+:event/subtype "pushing"
+:event/player1 "Caiuby"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5109363"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "distance"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5109372"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Sascha Riether"
+:event/subtype "pull"
+:event/player1 "Raul Marcelo Bobadilla"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5109388"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Max Meyer"
+:event/subtype "pull"
+:event/player1 "Jeong-Ho Hong"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5109392"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5109398"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Sascha Riether"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5109407"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Alexander Esswein"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5109415"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10018"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross_right"
+:event/player1 "Daniel Baier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5109420"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "blocked_header"
+:event/player1 "Ragnar Klavan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5109421"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Markus Feulner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5109432"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "bad shot"
+:event/player1 "Alexander Esswein"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5109434"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Daniel Baier"
+:event/subtype "pushing"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5109437"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Markus Feulner"
+:event/subtype "from_behind"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5109443"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10018"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross_right"
+:event/player1 "Daniel Baier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5109453"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "distance"
+:event/player1 "Alexander Esswein"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5109455"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Eric Maxim Choupo-Moting"
+:event/subtype "dangerous_play"
+:event/player1 "Markus Feulner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5109461"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10018"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/player2 "Eric Maxim Choupo-Moting"
+:event/subtype "shot"
+:event/player1 "Sead Kolasinac"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_5109468"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10018"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross_left"
+:event/player1 "Daniel Baier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5109486"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "bad shot"
+:event/player1 "Alexander Esswein"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5109498"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Sead Kolasinac"
+:event/subtype "trip"
+:event/player1 "Markus Feulner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5109513"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5109528"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "header"
+:event/player1 "Joel Matip"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5109531"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Ja-Cheol Koo"
+:event/subtype "pull"
+:event/player1 "Max Meyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5109553"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Markus Feulner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5109561"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Daniel Baier"
+:event/subtype "pushing"
+:event/player1 "Max Meyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5109571"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Markus Feulner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5109601"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10018"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "blocked_header"
+:event/player1 "Dong-Won Ji"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5109603"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10018"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_right"
+:event/player1 "Daniel Baier"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5109606"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "header"
+:event/player1 "Caiuby"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5109609"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "deflected"
+:event/player1 "Ja-Cheol Koo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5109660"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10018"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross_right"
+:event/player1 "Daniel Baier"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5109671"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "bad shot"
+:event/player1 "Markus Feulner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5109675"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5109685"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10018"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Franco Di Santo"
+:event/player1 "Philipp Max"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5109691"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5109696"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10018"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5109705"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Philipp Max"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5109740"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Raul Marcelo Bobadilla"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5109785"
+:event/minute 92
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Markus Feulner"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5109788"
+:event/minute 92
+:event/match_id "match_10018"}
+
+{:event/type "goal"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "volley"
+:event/player1 "Caiuby"
+:event/sortorder 8
+:event/team "home"
+:event/id "event_5109794"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 92
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 10
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5109805"
+:event/minute 93
+:event/match_id "match_10018"}
+
+{:event/type "cross"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 17
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5109827"
+:event/minute 95
+:event/match_id "match_10018"}
+
+
+]
+

@@ -1,0 +1,943 @@
+
+;;# data
+[
+{:match/id "match_10106"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Hamburger SV"
+:match/awayteam "Hertha BSC Berlin"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "corner"
+:event/elapsed 1
+:event/subtype "cross_right"
+:event/player1 "Aaron Hunt"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5371889"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_10106"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "volley"
+:event/player1 "Gotoku Sakai"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5371896"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Niklas Stark"
+:event/subtype "trip"
+:event/player1 "Artjoms Rudnevs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5371974"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5371983"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Marvin Plattenhardt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5372001"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10106"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "header"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5372003"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Per Ciljan Skjelbred"
+:event/player1 "Ivo Ilicevic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5372011"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Nicolai Mueller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5372031"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Matthias Ostrzolek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5372070"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_10106"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "header"
+:event/player1 "Artjoms Rudnevs"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5372076"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Niklas Stark"
+:event/subtype "dangerous_play"
+:event/player1 "Artjoms Rudnevs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5372098"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10106"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/player1 "Artjoms Rudnevs"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5372100"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/subtype "hands"
+:event/player1 "John Anthony Brooks"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5372105"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Gotoku Sakai"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5372123"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Vedad Ibisevic"
+:event/subtype "pushing"
+:event/player1 "Cleber"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5372140"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Gotoku Sakai"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5372154"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Ivo Ilicevic"
+:event/subtype "pushing"
+:event/player1 "Peter Pekarik"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5372162"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Ivo Ilicevic"
+:event/subtype "from_behind"
+:event/player1 "Niklas Stark"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5372182"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Aaron Hunt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5372242"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10106"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "distance"
+:event/player1 "Gotoku Sakai"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5372248"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5372271"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5372284"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10106"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross_left"
+:event/player1 "Marvin Plattenhardt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5372291"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Ivo Ilicevic"
+:event/subtype "serious_foul"
+:event/player1 "Peter Pekarik"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5372303"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_10106"}
+
+{:event/type "card"
+:event/elapsed 38
+:event/card_type "y"
+:event/player1 "Peter Pekarik"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5372305"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Lewis Holtby"
+:event/player1 "Vladimir Darida"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5372250"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Aaron Hunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5372339"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Ivo Ilicevic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5372351"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10106"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "cross_left"
+:event/player1 "Aaron Hunt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5372357"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10106"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "blocked_shot"
+:event/player1 "Gotoku Sakai"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5372359"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Gotoku Sakai"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5372362"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10106"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "volley"
+:event/player1 "Lewis Holtby"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5372366"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Ivo Ilicevic"
+:event/subtype "trip"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5372379"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10106"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "shot"
+:event/player1 "Gotoku Sakai"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5372404"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10106"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "short_right"
+:event/player1 "Aaron Hunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5372402"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10106"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Matthias Ostrzolek"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5372415"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Per Ciljan Skjelbred"
+:event/subtype "trip"
+:event/player1 "Lewis Holtby"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5372766"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Gotoku Sakai"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5372790"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Artjoms Rudnevs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5372811"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Nicolai Mueller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5372848"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10106"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "blocked_shot"
+:event/player1 "Artjoms Rudnevs"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5372850"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Vladimir Darida"
+:event/subtype "pull"
+:event/player1 "Lewis Holtby"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5372872"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Vladimir Darida"
+:event/subtype "serious_foul"
+:event/player1 "Emir Spahic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5372921"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10106"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/player1 "Emir Spahic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5372922"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Vladimir Darida"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5372928"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Rene Adler"
+:event/subtype "pushing"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5372935"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Lewis Holtby"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5372968"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10106"}
+
+{:event/type "goal"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Nicolai Mueller"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5372971"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Mitchell Weiser"
+:event/subtype "serious_foul"
+:event/player1 "Matthias Ostrzolek"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5373002"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10106"}
+
+{:event/type "card"
+:event/elapsed 60
+:event/card_type "y"
+:event/player1 "Albin Ekdal"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5373004"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Vladimir Darida"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5373007"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Albin Ekdal"
+:event/subtype "pushing"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5373026"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Ivo Ilicevic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5373058"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10106"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "big chance shot"
+:event/player1 "Artjoms Rudnevs"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5373059"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player1 "Lewis Holtby"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5373062"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Per Ciljan Skjelbred"
+:event/subtype "pull"
+:event/player1 "Nicolai Mueller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5373072"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Marvin Plattenhardt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5373080"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10106"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_shot"
+:event/player1 "Vladimir Darida"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5373083"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10106"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross_right"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5373095"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Genki Haraguchi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5373105"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Genki Haraguchi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5373109"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Peter Pekarik"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5373120"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Ivo Ilicevic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5373130"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5373136"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10106"}
+
+{:event/type "goal"
+:event/elapsed 75
+:event/player2 "Lewis Holtby"
+:event/subtype "shot"
+:event/player1 "Nicolai Mueller"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5373150"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Lewis Holtby"
+:event/subtype "pushing"
+:event/player1 "Marvin Plattenhardt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5373174"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Marvin Plattenhardt"
+:event/subtype "pushing"
+:event/player1 "Nicolai Mueller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5373208"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10106"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/player1 "Nicolai Mueller"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5373209"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Marvin Plattenhardt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5373211"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Peter Pekarik"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5373219"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10106"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Per Ciljan Skjelbred"
+:event/subtype "pull"
+:event/player1 "Lewis Holtby"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5373231"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5373246"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10106"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Lewis Holtby"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5373285"
+:event/minute 91
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Peter Pekarik"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5373299"
+:event/minute 92
+:event/match_id "match_10106"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Genki Haraguchi"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5373303"
+:event/minute 92
+:event/match_id "match_10106"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Matthias Ostrzolek"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5373316"
+:event/minute 93
+:event/match_id "match_10106"}
+
+
+]
+

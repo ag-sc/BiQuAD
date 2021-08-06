@@ -1,0 +1,963 @@
+
+;;# data
+[
+{:match/id "match_2810"
+:match/league "England Premier League"
+:match/hometeam "West Ham United"
+:match/awayteam "Chelsea"
+:match/score "1:3"
+:match/hometeam_goals "1"
+:match/awayteam_goals "3"}
+
+{:event/type "goal"
+:event/elapsed 2
+:event/player2 "Didier Drogba"
+:event/subtype "header"
+:event/player1 "Michael Essien"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1156594"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Victor Obinna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1156634"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Mark Noble"
+:event/subtype "obstruction"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1156747"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "bad shot"
+:event/player1 "Victor Obinna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1156755"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Valon Behrami"
+:event/subtype "serious_foul"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1156829"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Paulo Ferreira"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1156842"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Mark Noble"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1156860"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Nicolas Anelka"
+:event/subtype "pushing"
+:event/player1 "Mark Noble"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1156879"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Didier Drogba"
+:event/subtype "obstruction"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1156886"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "direct_freekick"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1160301"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2810"}
+
+{:event/type "goal"
+:event/elapsed 17
+:event/subtype "loose_ball"
+:event/player1 "Salomon Kalou"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1156900"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "deflected"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1156959"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1156964"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2810"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1156964"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Nicolas Anelka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1156995"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2810"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Nicolas Anelka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1156995"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "bad shot"
+:event/player1 "John Obi Mikel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1157002"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Nicolas Anelka"
+:event/subtype "serious_foul"
+:event/player1 "Valon Behrami"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1157033"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "direct_freekick"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1157049"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "volley"
+:event/player1 "Victor Obinna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1157083"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Carlton Cole"
+:event/subtype "from_behind"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1157100"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "blocked_shot"
+:event/player1 "Scott Parker"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1157123"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed 31
+:event/subtype "shot"
+:event/player1 "Victor Obinna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1157156"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Ashley Cole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1157176"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "deflected"
+:event/player1 "Ramires"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1157178"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Didier Drogba"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1157185"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2810"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Didier Drogba"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1157185"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "post"
+:event/player1 "John Obi Mikel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1157191"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "distance"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1157211"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Lars Jacobsen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1157227"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "shot"
+:event/player1 "Scott Parker"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1157324"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Ashley Cole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1157340"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "blocked_shot"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1157345"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Valon Behrami"
+:event/subtype "serious_foul"
+:event/player1 "Ashley Cole"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1157349"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2810"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Ashley Cole"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1157356"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Herita Ilunga"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1157409"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Nicolas Anelka"
+:event/subtype "from_behind"
+:event/player1 "Scott Parker"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1157422"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2810"}
+
+{:event/type "card"
+:event/elapsed 44
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Scott Parker"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1157425"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Luis Boa Morte"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1157451"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/player2 "Michael Essien"
+:event/subtype "from_behind"
+:event/player1 "Mark Noble"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1157504"
+:event/minute 48
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Victor Obinna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1157684"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Kieron Dyer"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1157690"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Ramires"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1157713"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Mark Noble"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1157744"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/subtype "hands"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1157758"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Valon Behrami"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1157884"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Kieron Dyer"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1157886"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Herita Ilunga"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1157896"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "distance"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1157929"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Michael Essien"
+:event/subtype "from_behind"
+:event/player1 "Valon Behrami"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1157958"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Scott Parker"
+:event/subtype "obstruction"
+:event/player1 "Ramires"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1157989"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1158020"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Carlton Cole"
+:event/subtype "from_behind"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1158031"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2810"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1158033"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 66
+:event/subtype "direct_freekick"
+:event/player1 "Victor Obinna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1158047"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "deflected"
+:event/player1 "Victor Obinna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1158096"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Mark Noble"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1158105"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Ramires"
+:event/subtype "pushing"
+:event/player1 "Valon Behrami"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1158147"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Didier Drogba"
+:event/subtype "from_behind"
+:event/player1 "Tal Ben Haim"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1158186"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1158213"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "distance"
+:event/player1 "Michael Essien"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1158255"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Victor Obinna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1158274"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Gael Kakuta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1158315"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2810"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1158316"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Paulo Ferreira"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1160305"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2810"}
+
+{:event/type "goal"
+:event/elapsed 83
+:event/player2 "Paulo Ferreira"
+:event/subtype "header"
+:event/player1 "Michael Essien"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1158340"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Mark Noble"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1160303"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2810"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Mark Noble"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1160303"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2810"}
+
+{:event/type "goal"
+:event/elapsed 85
+:event/subtype "volley"
+:event/player1 "Scott Parker"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1158376"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Gael Kakuta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1158437"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Lars Jacobsen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1158452"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Herita Ilunga"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1158471"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "crossbar"
+:event/player1 "Frederic Piquionne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1158489"
+:event/minute 91
+:event/match_id "match_2810"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Mark Noble"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1158510"
+:event/minute 92
+:event/match_id "match_2810"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Michael Essien"
+:event/subtype "obstruction"
+:event/player1 "Victor Obinna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1158530"
+:event/minute 93
+:event/match_id "match_2810"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1158538"
+:event/minute 94
+:event/match_id "match_2810"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "volley"
+:event/player1 "Didier Drogba"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1158541"
+:event/minute 94
+:event/match_id "match_2810"}
+
+
+]
+

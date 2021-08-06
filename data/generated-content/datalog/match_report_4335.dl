@@ -1,0 +1,939 @@
+
+;;# data
+[
+{:match/id "match_4335"
+:match/league "England Premier League"
+:match/hometeam "Southampton"
+:match/awayteam "Newcastle United"
+:match/score "4:0"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "shot"
+:event/player1 "Shane Long"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3714662"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Shane Long"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3714681"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4335"}
+
+{:event/type "corner"
+:event/elapsed 2
+:event/subtype "cross_left"
+:event/player1 "Dusan Tadic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3714691"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4335"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "cross_left"
+:event/player1 "Dusan Tadic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3714770"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Dusan Tadic"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3714773"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3714779"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4335"}
+
+{:event/type "goal"
+:event/elapsed 6
+:event/player2 "Ryan Bertrand"
+:event/subtype "header"
+:event/player1 "Graziano Pelle"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_3714780"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Emmanuel Riviere"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3714835"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Remy Cabella"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3714848"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4335"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "distance"
+:event/player1 "Graziano Pelle"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3714856"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Dusan Tadic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3714959"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3714984"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Yoan Gouffran"
+:event/subtype "trip"
+:event/player1 "Morgan Schneiderlin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3715018"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Jack Colback"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3715026"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Remy Cabella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3715072"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4335"}
+
+{:event/type "goal"
+:event/elapsed 19
+:event/player2 "Dusan Tadic"
+:event/subtype "tap_in"
+:event/player1 "Graziano Pelle"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_3715087"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Steven Davis"
+:event/subtype "trip"
+:event/player1 "Vurnon Anita"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3715111"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Jack Cork"
+:event/subtype "from_behind"
+:event/player1 "Daryl Janmaat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3715124"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Remy Cabella"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3715157"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3715176"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4335"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross_right"
+:event/player1 "Dusan Tadic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3715183"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Tim Krul"
+:event/subtype "pushing"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3715193"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Massadio Haidara"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3715199"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4335"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "big chance shot"
+:event/player1 "Moussa Sissoko"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3715207"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4335"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Jack Colback"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3715216"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Massadio Haidara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3715282"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Dusan Tadic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3715300"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Mike Williamson"
+:event/subtype "trip"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3715303"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Massadio Haidara"
+:event/subtype "trip"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3715322"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Jack Colback"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3715328"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Graziano Pelle"
+:event/subtype "trip"
+:event/player1 "Moussa Sissoko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3715343"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/subtype "hands"
+:event/player1 "Dusan Tadic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3715354"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Daryl Janmaat"
+:event/subtype "pull"
+:event/player1 "Graziano Pelle"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3715463"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4335"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "deflected"
+:event/player1 "Yoan Gouffran"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3715570"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4335"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross_left"
+:event/player1 "Remy Cabella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3715581"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4335"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross_left"
+:event/player1 "Remy Cabella"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3715604"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Shane Long"
+:event/subtype "pull"
+:event/player1 "Jack Colback"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3715613"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4335"}
+
+{:event/type "card"
+:event/elapsed 45
+:event/card_type "y"
+:event/player1 "Jack Colback"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3715618"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Massadio Haidara"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3715672"
+:event/minute 47
+:event/match_id "match_4335"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Dusan Tadic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3715979"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Massadio Haidara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3716044"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4335"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "shot"
+:event/player1 "Emmanuel Riviere"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3716051"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Moussa Sissoko"
+:event/subtype "trip"
+:event/player1 "Steven Davis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3716076"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4335"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "shot"
+:event/player1 "Victor Wanyama"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3716139"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4335"}
+
+{:event/type "goal"
+:event/elapsed 54
+:event/player2 "Steven Davis"
+:event/subtype "shot"
+:event/player1 "Jack Cork"
+:event/sortorder 6
+:event/team "home"
+:event/id "event_3716155"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Jack Cork"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3716203"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Ryan Bertrand"
+:event/subtype "trip"
+:event/player1 "Remy Cabella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3716234"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Jack Cork"
+:event/subtype "from_behind"
+:event/player1 "Cheik Tiote"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3716248"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4335"}
+
+{:event/type "card"
+:event/elapsed 57
+:event/card_type "y"
+:event/player1 "Cheik Tiote"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3716256"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Dusan Tadic"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3716320"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Massadio Haidara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3716391"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Moussa Sissoko"
+:event/subtype "trip"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3716565"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Steven Davis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3716584"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4335"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross_right"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3716590"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Jack Colback"
+:event/subtype "trip"
+:event/player1 "Jack Cork"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3716627"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Massadio Haidara"
+:event/subtype "pull"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3716635"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3716648"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3716674"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4335"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross_left"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3716680"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Massadio Haidara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3716689"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4335"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "big chance shot"
+:event/player1 "Emmanuel Riviere"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3716700"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4335"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross_right"
+:event/player1 "Jack Colback"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3716720"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4335"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "big chance header"
+:event/player1 "Yoan Gouffran"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3716732"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4335"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_right"
+:event/player1 "Jack Colback"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3716749"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4335"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "distance"
+:event/player1 "Massadio Haidara"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3716756"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4335"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "distance"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3716768"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Cheik Tiote"
+:event/subtype "pushing"
+:event/player1 "Victor Wanyama"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3716800"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Massadio Haidara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3716808"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4335"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "deflected"
+:event/player1 "Ayoze Perez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3716811"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4335"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "cross_right"
+:event/player1 "Jack Colback"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3716814"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Morgan Schneiderlin"
+:event/subtype "trip"
+:event/player1 "Cheik Tiote"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3716853"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/subtype "trip"
+:event/player1 "Jose Fonte"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3716861"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4335"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3716888"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4335"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Yoan Gouffran"
+:event/subtype "pull"
+:event/player1 "Jack Cork"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3716919"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4335"}
+
+{:event/type "goal"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "James Ward-Prowse"
+:event/subtype "shot"
+:event/player1 "Morgan Schneiderlin"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_3717013"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 94
+:event/match_id "match_4335"}
+
+
+]
+

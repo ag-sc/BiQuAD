@@ -1,0 +1,851 @@
+
+;;# data
+[
+{:match/id "match_2666"
+:match/league "England Premier League"
+:match/hometeam "Liverpool"
+:match/awayteam "Stoke City"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player1 "Martin Skrtel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1392160"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1392265"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_2666"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1392265"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_2666"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "header"
+:event/player1 "Sotirios Kyrgiakos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1392269"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1392280"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1392337"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2666"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "blocked_shot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1392341"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Jonathan Walters"
+:event/player1 "Martin Kelly"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1392354"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2666"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Jonathan Walters"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1392372"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2666"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "distance"
+:event/player1 "Martin Skrtel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1392401"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Glen Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1392549"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1392564"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2666"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1392564"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Dirk Kuyt"
+:event/player1 "Abdoulaye Faye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1392586"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Martin Kelly"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1392591"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Jermaine Pennant"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1392617"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2666"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "header"
+:event/player1 "John Carew"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1392621"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1392768"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2666"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1392768"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Fabio Aurelio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1392795"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Jermaine Pennant"
+:event/player1 "Daniel Agger"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1392830"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2666"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "bad shot"
+:event/player1 "Jonathan Walters"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1392849"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2666"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "distance"
+:event/player1 "Salif Diao"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1392900"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1392953"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Martin Kelly"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1392975"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2666"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "big chance header"
+:event/player1 "Glen Johnson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1392977"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1392990"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2666"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "header"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1392993"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2666"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "volley"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1393030"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Martin Kelly"
+:event/subtype "serious_foul"
+:event/player1 "Robert Huth"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1393062"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2666"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/player1 "Robert Huth"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1393064"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2666"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "blocked_shot"
+:event/player1 "Lucas Leiva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1393101"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2666"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1393114"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Daniel Agger"
+:event/player1 "Salif Diao"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1393313"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_2666"}
+
+{:event/type "card"
+:event/elapsed 46
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Salif Diao"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1393320"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_2666"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "blocked_shot"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1393335"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2666"}
+
+{:event/type "goal"
+:event/elapsed 47
+:event/player2 "Sotirios Kyrgiakos"
+:event/subtype "shot"
+:event/player1 "Raul Meireles"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1393337"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Daniel Agger"
+:event/subtype "serious_foul"
+:event/player1 "John Carew"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1393414"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2666"}
+
+{:event/type "card"
+:event/elapsed 50
+:event/card_type "y"
+:event/player1 "John Carew"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1393416"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2666"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "short"
+:event/player1 "Steven Gerrard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1393445"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Martin Kelly"
+:event/player1 "John Carew"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1393459"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1393482"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2666"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1393482"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player1 "Raul Meireles"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1393508"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Andy Wilkinson"
+:event/subtype "serious_foul"
+:event/player1 "Glen Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1393535"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2666"}
+
+{:event/type "card"
+:event/elapsed 55
+:event/card_type "y"
+:event/player1 "Glen Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1393537"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1393557"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2666"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "blocked_shot"
+:event/player1 "Steven Gerrard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1393573"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2666"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "John Carew"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1393677"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player1 "Marc Wilson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1393726"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Jermaine Pennant"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1393886"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Steven Gerrard"
+:event/player1 "Rory Delap"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1393938"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Raul Meireles"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1393989"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2666"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Raul Meireles"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1393989"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player1 "Raul Meireles"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1394024"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1394047"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2666"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "blocked_shot"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1394131"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2666"}
+
+{:event/type "goal"
+:event/elapsed 79
+:event/player2 "Dirk Kuyt"
+:event/subtype "shot"
+:event/player1 "Luis Suarez"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1394159"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2666"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "big chance shot"
+:event/player1 "Jonathan Walters"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1394190"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2666"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Luis Suarez"
+:event/subtype "serious_foul"
+:event/player1 "Danny Collins"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1394194"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2666"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/player1 "Danny Collins"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1394202"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1394265"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2666"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "blocked_shot"
+:event/player1 "Steven Gerrard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1394299"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2666"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1394325"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1394331"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2666"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1394331"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2666"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "volley"
+:event/player1 "Steven Gerrard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1394335"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Dean Whitehead"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1394369"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2666"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Luis Suarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1394376"
+:event/minute 91
+:event/match_id "match_2666"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1394405"
+:event/minute 92
+:event/match_id "match_2666"}
+
+
+]
+

@@ -1,0 +1,956 @@
+
+;;# data
+[
+{:match/id "match_2309"
+:match/league "England Premier League"
+:match/hometeam "Sunderland"
+:match/awayteam "Fulham"
+:match/score "0:0"
+:match/hometeam_goals "0"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Zoltan Gera"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_975711"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Anton Ferdinand"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_975717"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_975719"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2309"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_975719"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_975733"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2309"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "distance"
+:event/player1 "Zoltan Gera"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_975761"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Nicky Shorey"
+:event/player1 "Fraizer Campbell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_975801"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Kieran Richardson"
+:event/player1 "Danny Murphy"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_975822"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_975854"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2309"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_975854"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2309"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "header"
+:event/player1 "Kenwyne Jones"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_975863"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Brede Hangeland"
+:event/subtype "serious_foul"
+:event/player1 "Alan Hutton"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_975908"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2309"}
+
+{:event/type "card"
+:event/elapsed 17
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Alan Hutton"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "card"
+:event/id "event_975909"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Kieran Richardson"
+:event/subtype "serious_foul"
+:event/player1 "Chris Baird"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_975918"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2309"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Chris Baird"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_975920"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/subtype "hands"
+:event/player1 "Lorik Cana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_975945"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Zoltan Gera"
+:event/player1 "John Mensah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_975951"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Zoltan Gera"
+:event/subtype "serious_foul"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_975966"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2309"}
+
+{:event/type "card"
+:event/elapsed 22
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Kieran Richardson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_975967"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Kieran Richardson"
+:event/player1 "Zoltan Gera"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_975978"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_975990"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2309"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "header"
+:event/player1 "Bobby Zamora"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_976013"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_976032"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Bobby Zamora"
+:event/player1 "John Mensah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_976118"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Zoltan Gera"
+:event/player1 "John Mensah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_976165"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "John Mensah"
+:event/player1 "Bobby Zamora"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_976196"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2309"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "distance"
+:event/player1 "Kenwyne Jones"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_976212"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Kenwyne Jones"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_976232"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2309"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "direct_freekick"
+:event/player1 "Darren Bent"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_976253"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2309"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "distance"
+:event/player1 "Kenwyne Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_976284"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/subtype "hands"
+:event/player1 "Bobby Zamora"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_976297"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Zoltan Gera"
+:event/player1 "Michael Turner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_976310"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_976332"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Dickson Etuhu"
+:event/player1 "Kieran Richardson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_976341"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Bobby Zamora"
+:event/player1 "John Mensah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_976498"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_976388"
+:event/minute 48
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_976516"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2309"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_976516"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Kenwyne Jones"
+:event/player1 "Brede Hangeland"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_976520"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2309"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "blocked_shot"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_976534"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_976568"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player1 "Kenwyne Jones"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_976574"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2309"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "distance"
+:event/player1 "Alan Hutton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_976603"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2309"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "distance"
+:event/player1 "Darren Bent"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_976628"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_976646"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/subtype "hands"
+:event/player1 "Michael Turner"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_976661"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2309"}
+
+{:event/type "card"
+:event/elapsed 61
+:event/card_type "y"
+:event/subtype "hands"
+:event/player1 "Michael Turner"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_976664"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Kenwyne Jones"
+:event/player1 "Jonathan Greening"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_976675"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2309"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "blocked_shot"
+:event/player1 "Boudewijn Zenden"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_976677"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Bobby Zamora"
+:event/player1 "John Mensah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_976689"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Boudewijn Zenden"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_976731"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2309"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "deflected"
+:event/player1 "Damien Duff"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_976734"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_976738"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2309"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_976738"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_976740"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Nicky Shorey"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_976743"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Kieran Richardson"
+:event/subtype "serious_foul"
+:event/player1 "Jonathan Greening"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_976748"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2309"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Jonathan Greening"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "card"
+:event/id "event_976749"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Dickson Etuhu"
+:event/player1 "Kenwyne Jones"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_976783"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Lorik Cana"
+:event/player1 "Bobby Zamora"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_976790"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2309"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "shot"
+:event/player1 "Boudewijn Zenden"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_976792"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Zoltan Gera"
+:event/player1 "Kieran Richardson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_976804"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Darren Bent"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_976830"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Mark Schwarzer"
+:event/player1 "Fraizer Campbell"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_976843"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_976865"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2309"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "shot"
+:event/player1 "Alan Hutton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_976866"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player1 "Bobby Zamora"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_976882"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2309"}
+
+{:event/type "card"
+:event/elapsed 82
+:event/card_type "y"
+:event/player1 "Bobby Zamora"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_977280"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Damien Duff"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_976910"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Alan Hutton"
+:event/player1 "David Elm"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_976924"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_976931"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2309"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Fraizer Campbell"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_976932"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2309"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "distance"
+:event/player1 "Benjani Mwaruwari"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_976956"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Anton Ferdinand"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_976974"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_976979"
+:event/minute 91
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Boudewijn Zenden"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_976982"
+:event/minute 91
+:event/match_id "match_2309"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_976988"
+:event/minute 91
+:event/match_id "match_2309"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Alan Hutton"
+:event/player1 "David Elm"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_977009"
+:event/minute 93
+:event/match_id "match_2309"}
+
+
+]
+

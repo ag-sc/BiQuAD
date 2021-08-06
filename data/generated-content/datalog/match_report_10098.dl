@@ -1,0 +1,973 @@
+
+;;# data
+[
+{:match/id "match_10098"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Borussia Mönchengladbach"
+:match/awayteam "VfB Stuttgart"
+:match/score "3:1"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Emiliano Insua"
+:event/player1 "Granit Xhaka"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5350878"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Filip Kostic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5350887"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Daniel Didavi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5350918"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10098"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "bad shot"
+:event/player1 "Filip Kostic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5350923"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10098"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "blocked_shot"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5350964"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Filip Kostic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351014"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Oscar Wendt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351028"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Raffael"
+:event/subtype "trip"
+:event/player1 "Martin Harnik"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351033"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Timo Werner"
+:event/subtype "trip"
+:event/player1 "Oscar Wendt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5351079"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Daniel Didavi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351103"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10098"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "header"
+:event/player1 "Timo Werner"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5351109"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Oscar Wendt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351134"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Oscar Wendt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351160"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10098"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "blocked_shot"
+:event/player1 "Lars Stindl"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5351166"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_10098"}
+
+{:event/type "goal"
+:event/elapsed 16
+:event/player2 "Fabian Johnson"
+:event/subtype "tap_in"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_5351183"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Kevin Grosskreutz"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351211"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351223"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Emiliano Insua"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351349"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10098"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross_left"
+:event/player1 "Filip Kostic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5351359"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Kevin Grosskreutz"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351457"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Raffael"
+:event/subtype "trip"
+:event/player1 "Daniel Didavi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351472"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Thorgan Hazard"
+:event/subtype "trip"
+:event/player1 "Georg Niedermaier"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351497"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Raffael"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351509"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Thorgan Hazard"
+:event/player1 "Emiliano Insua"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351556"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Raffael"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5351565"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10098"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross_right"
+:event/player1 "Raffael"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5351592"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Daniel Didavi"
+:event/player1 "Lars Stindl"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5351607"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Raffael"
+:event/subtype "trip"
+:event/player1 "Serey Die"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351614"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10098"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "big chance shot"
+:event/player1 "Lars Stindl"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5351685"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Filip Kostic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351701"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Granit Xhaka"
+:event/subtype "trip"
+:event/player1 "Daniel Didavi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351716"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Filip Kostic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5351733"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Granit Xhaka"
+:event/subtype "trip"
+:event/player1 "Daniel Didavi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351810"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10098"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "big chance crossbar"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5351827"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10098"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "shot"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5351845"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Lars Stindl"
+:event/subtype "from_behind"
+:event/player1 "Serey Die"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5351852"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10098"}
+
+{:event/type "card"
+:event/elapsed 44
+:event/card_type "y"
+:event/player1 "Serey Die"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5351856"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Filip Kostic"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5352166"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Filip Kostic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5352180"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10098"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "big chance header"
+:event/player1 "Artem Kravets"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5352185"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Christian Gentner"
+:event/subtype "trip"
+:event/player1 "Mahmoud Dahoud"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5352239"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10098"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Lars Stindl"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5352316"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Lukas Rupp"
+:event/subtype "trip"
+:event/player1 "Mahmoud Dahoud"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5352361"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Christian Gentner"
+:event/subtype "serious_foul"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5352459"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10098"}
+
+{:event/type "card"
+:event/elapsed 54
+:event/card_type "y"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5352469"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Filip Kostic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5352506"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Christian Gentner"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5352523"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10098"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "blocked_shot"
+:event/player1 "Lukas Rupp"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5352526"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10098"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "Raffael"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5352615"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10098"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5352650"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10098"}
+
+{:event/type "goal"
+:event/elapsed 60
+:event/subtype "shot"
+:event/player1 "Raffael"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5352708"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Daniel Didavi"
+:event/subtype "trip"
+:event/player1 "Thorgan Hazard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5352779"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Filip Kostic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5352829"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10098"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross_left"
+:event/player1 "Filip Kostic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5352838"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Lukas Rupp"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5352854"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10098"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Daniel Didavi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5352884"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10098"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Fabian Johnson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5352962"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10098"}
+
+{:event/type "goal"
+:event/elapsed 68
+:event/player2 "Mahmoud Dahoud"
+:event/subtype "shot"
+:event/player1 "Patrick Herrmann"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5353031"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Mahmoud Dahoud"
+:event/player1 "Alexandru Maxim"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5353091"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Lukas Rupp"
+:event/player1 "Mahmoud Dahoud"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5353901"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10098"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "distance"
+:event/player1 "Artem Kravets"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5353252"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10098"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross_left"
+:event/player1 "Filip Kostic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5353291"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Patrick Herrmann"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5353303"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Mahmoud Dahoud"
+:event/subtype "trip"
+:event/player1 "Lukas Rupp"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5353309"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10098"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "blocked_shot"
+:event/player1 "Raffael"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5353334"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10098"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross_left"
+:event/player1 "Raffael"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5353349"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Przemyslaw Tyton"
+:event/subtype "pushing"
+:event/player1 "Haavard Nordtveit"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5353361"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Lars Stindl"
+:event/subtype "dangerous_play"
+:event/player1 "Kevin Grosskreutz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5353435"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Nico Elvedi"
+:event/player1 "Artem Kravets"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5353498"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Andreas Christensen"
+:event/subtype "from_behind"
+:event/player1 "Alexandru Maxim"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5353532"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10098"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Fabian Johnson"
+:event/subtype "trip"
+:event/player1 "Martin Harnik"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5353556"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10098"}
+
+{:event/type "card"
+:event/elapsed 83
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Martin Harnik"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5353565"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10098"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "direct_freekick"
+:event/player1 "Haavard Nordtveit"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5353584"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10098"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Lukas Rupp"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5353623"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Filip Kostic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5353662"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10098"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Filip Kostic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5353686"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10098"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "header"
+:event/player1 "Martin Harnik"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5353692"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10098"}
+
+{:event/type "goal"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player1 "Kevin Grosskreutz"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5353848"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/minute 91
+:event/match_id "match_10098"}
+
+
+]
+

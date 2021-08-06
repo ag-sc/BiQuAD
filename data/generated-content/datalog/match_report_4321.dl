@@ -1,0 +1,1359 @@
+
+;;# data
+[
+{:match/id "match_4321"
+:match/league "England Premier League"
+:match/hometeam "Chelsea"
+:match/awayteam "Sunderland"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Willian"
+:event/subtype "trip"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4510438"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Willian"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4510445"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Juan Cuadrado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4510447"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross_left"
+:event/player1 "Willian"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4510458"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "header"
+:event/player1 "Gary Cahill"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4510460"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Juan Cuadrado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4510482"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "blocked_shot"
+:event/player1 "Didier Drogba"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4510487"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross_left"
+:event/player1 "Willian"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4510491"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Cesar Azpilicueta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4510511"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4510531"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Eden Hazard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4510604"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "blocked_shot"
+:event/player1 "Didier Drogba"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4510728"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4510732"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "blocked_header"
+:event/player1 "Eden Hazard"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4510735"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Patrick van Aanholt"
+:event/subtype "trip"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4510748"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "direct_freekick"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4510780"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross_left"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4510799"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Eden Hazard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4510810"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Eden Hazard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4510838"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "volley"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4510843"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross_right"
+:event/player1 "Willian"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4510860"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Cesar Azpilicueta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4510898"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Connor Wickham"
+:event/subtype "pull"
+:event/player1 "Nemanja Matic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4510954"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Eden Hazard"
+:event/subtype "trip"
+:event/player1 "Jack Rodwell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4511028"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Jermain Defoe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4511126"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Eden Hazard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4511140"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross_right"
+:event/player1 "Adam Johnson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4511216"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4321"}
+
+{:event/type "goal"
+:event/elapsed 26
+:event/player2 "Adam Johnson"
+:event/subtype "header"
+:event/player1 "Steven Fletcher"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4511220"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "blocked_shot"
+:event/player1 "Willian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4511268"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "shot"
+:event/player1 "Nemanja Matic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4511271"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Juan Cuadrado"
+:event/subtype "trip"
+:event/player1 "Jack Rodwell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4511390"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4321"}
+
+{:event/type "card"
+:event/elapsed 32
+:event/card_type "y"
+:event/player1 "Jack Rodwell"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4511392"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Willian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4511407"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Diego Costa"
+:event/subtype "trip"
+:event/player1 "Sebastian Coates"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4511421"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Willian"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4511437"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Juan Cuadrado"
+:event/subtype "penalty"
+:event/player1 "John O'Shea"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4511503"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4321"}
+
+{:event/type "goal"
+:event/elapsed 37
+:event/player1 "Diego Costa"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_4511533"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Sebastian Coates"
+:event/subtype "trip"
+:event/player1 "Juan Cuadrado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4511692"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4321"}
+
+{:event/type "card"
+:event/elapsed 42
+:event/card_type "y"
+:event/player1 "Juan Cuadrado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4511737"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Sebastian Larsson"
+:event/subtype "trip"
+:event/player1 "Willian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4511775"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4512113"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Nemanja Matic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4512122"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4511853"
+:event/minute 47
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Cesar Azpilicueta"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4511860"
+:event/minute 47
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4511883"
+:event/minute 47
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Eden Hazard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4512145"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Adam Johnson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4512159"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4511904"
+:event/minute 48
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Jermain Defoe"
+:event/sortorder 11
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4511914"
+:event/minute 48
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "John Terry"
+:event/subtype "pushing"
+:event/player1 "Sebastian Coates"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4512179"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "blocked_shot"
+:event/player1 "Jermain Defoe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4512199"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 12
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4511921"
+:event/minute 49
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Eden Hazard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4512212"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross_left"
+:event/player1 "Willian"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4512231"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Loic Remy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4512236"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Willian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4512239"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4512257"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "deflected"
+:event/player1 "Loic Remy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4512284"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross_right"
+:event/player1 "Willian"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4512289"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/subtype "hands"
+:event/player1 "Diego Costa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4512324"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "distance"
+:event/player1 "Jack Rodwell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4512338"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "blocked_shot"
+:event/player1 "Loic Remy"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4512362"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_right"
+:event/player1 "Willian"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4512398"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_right"
+:event/player1 "Willian"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4512409"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "header"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4512418"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Eden Hazard"
+:event/subtype "trip"
+:event/player1 "Connor Wickham"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4512445"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Jermain Defoe"
+:event/subtype "trip"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4512486"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4512491"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Jermain Defoe"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4512497"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Eden Hazard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4512526"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "deflected"
+:event/player1 "Eden Hazard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4512534"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "short_right"
+:event/player1 "Branislav Ivanovic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4512539"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Willian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4512542"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Nemanja Matic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4512550"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "Gary Cahill"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4512564"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Loic Remy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4512593"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4512607"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4512620"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "header"
+:event/player1 "Steven Fletcher"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4512629"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Willian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4512668"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Willian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4512679"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "blocked_shot"
+:event/player1 "Loic Remy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4512685"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Adam Johnson"
+:event/subtype "trip"
+:event/player1 "Nemanja Matic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4512716"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "direct_freekick"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4512763"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Willian"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4512786"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Patrick van Aanholt"
+:event/subtype "trip"
+:event/player1 "Loic Remy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4512820"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Jermain Defoe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4512823"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4321"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/player2 "Eden Hazard"
+:event/subtype "shot"
+:event/player1 "Loic Remy"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4512849"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Patrick van Aanholt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4512886"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "header"
+:event/player1 "Steven Fletcher"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4512892"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Diego Costa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4512980"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross_left"
+:event/player1 "Willian"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4512997"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Vito Mannone"
+:event/subtype "pushing"
+:event/player1 "John Terry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4513005"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4321"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "short_left"
+:event/player1 "Willian"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4513085"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Eden Hazard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4513087"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Willian"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4513105"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Loic Remy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4513166"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "header"
+:event/player1 "Willian"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4513170"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "shot"
+:event/player1 "Eden Hazard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4513177"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Emanuele Giaccherini"
+:event/subtype "trip"
+:event/player1 "Nemanja Matic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4513231"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4321"}
+
+{:event/type "card"
+:event/elapsed 82
+:event/card_type "y"
+:event/player1 "Nemanja Matic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4513234"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4321"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Jack Rodwell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4513260"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Eden Hazard"
+:event/subtype "trip"
+:event/player1 "Emanuele Giaccherini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4513276"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Jermain Defoe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4513299"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Connor Wickham"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4513353"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4321"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Nemanja Matic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4513376"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4321"}
+
+{:event/type "goal"
+:event/elapsed 88
+:event/player2 "Nemanja Matic"
+:event/subtype "shot"
+:event/player1 "Loic Remy"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4513377"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Emanuele Giaccherini"
+:event/subtype "trip"
+:event/player1 "Andreas Christensen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4513425"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4321"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Connor Wickham"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4513443"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4321"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Sebastian Coates"
+:event/subtype "pushing"
+:event/player1 "Diego Costa"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4513519"
+:event/minute 93
+:event/match_id "match_4321"}
+
+
+]
+

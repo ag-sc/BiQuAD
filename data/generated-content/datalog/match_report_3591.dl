@@ -1,0 +1,957 @@
+
+;;# data
+[
+{:match/id "match_3591"
+:match/league "England Premier League"
+:match/hometeam "Everton"
+:match/awayteam "Southampton"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382089"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Seamus Coleman"
+:event/sortorder -1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382099"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382095"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382095"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_3591"}
+
+{:event/type "goal"
+:event/elapsed 6
+:event/player2 "Adam Lallana"
+:event/subtype "header"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_2382106"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382122"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382122"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382137"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382137"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3591"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "shot"
+:event/player1 "Johnny Heitinga"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2382173"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2382197"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Marouane Fellaini"
+:event/sortorder -1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382221"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 13
+:event/subtype "header"
+:event/player1 "Leon Osman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2382222"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2382216"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Frazer Richardson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2382288"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "distance"
+:event/player1 "Gaston Ramirez"
+:event/sortorder -1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2382294"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382297"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382297"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "header"
+:event/player1 "Rickie Lambert"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2382360"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382363"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_3591"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Johnny Heitinga"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2382370"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Kevin Mirallas"
+:event/sortorder -1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382380"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3591"}
+
+{:event/type "goal"
+:event/elapsed 25
+:event/player2 "Kevin Mirallas"
+:event/subtype "shot"
+:event/player1 "Leon Osman"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2382346"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2382422"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Seamus Coleman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382439"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382445"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3591"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Kevin Mirallas"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2382396"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3591"}
+
+{:event/type "goal"
+:event/elapsed 32
+:event/player2 "Kevin Mirallas"
+:event/subtype "shot"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_2382449"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_3591"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/subtype "hands"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2382455"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382504"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382466"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382466"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382536"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382630"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_3591"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "shot"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2382631"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder -1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382603"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3591"}
+
+{:event/type "goal"
+:event/elapsed 38
+:event/player2 "Seamus Coleman"
+:event/subtype "header"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_2382509"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382560"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Adam Lallana"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2382560"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Nathaniel Clyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2382586"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382592"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Seamus Coleman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2382638"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "crossbar"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2382662"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382621"
+:event/minute 46
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382621"
+:event/minute 46
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2382628"
+:event/minute 47
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382636"
+:event/minute 47
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382636"
+:event/minute 47
+:event/match_id "match_3591"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "shot"
+:event/player1 "Jay Rodriguez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2382769"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "short"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382789"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2382858"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3591"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2382868"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3591"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "distance"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2382889"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382890"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382890"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "deflected"
+:event/player1 "Johnny Heitinga"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2382899"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382900"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2382900"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Leon Osman"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2382905"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "distance"
+:event/player1 "Jay Rodriguez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2382998"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Frazer Richardson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2383041"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_3591"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2383019"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2383044"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2383044"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3591"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2383047"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3591"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "distance"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2383049"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2383075"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3591"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2383117"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_3591"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player1 "Kevin Mirallas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2383471"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_3591"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "blocked_shot"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2383474"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2383220"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3591"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2383221"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2383319"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3591"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "header"
+:event/player1 "Rickie Lambert"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2383339"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder -1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2383356"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3591"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2383307"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3591"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2383307"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3591"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2383360"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3591"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Steven Davis"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2383393"
+:event/minute 92
+:event/match_id "match_3591"}
+
+
+]
+

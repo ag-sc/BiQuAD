@@ -1,0 +1,781 @@
+
+;;# data
+[
+{:match/id "match_11216"
+:match/league "Italy Serie A"
+:match/hometeam "Cagliari"
+:match/awayteam "Lazio"
+:match/score "0:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Alvaro Gonzalez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1432145"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Andrea Cossu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1432171"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Nene"
+:event/player1 "Giuseppe Sculli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1432176"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1432187"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1432190"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1432193"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11216"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1432193"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1432220"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_11216"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1432220"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1432228"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11216"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1432228"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/subtype "pushing"
+:event/player1 "Libor Kozak"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1432238"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Robert Acquafresca"
+:event/player1 "Giuseppe Biava"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1432248"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Davide Astori"
+:event/player1 "Libor Kozak"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1432260"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Alvaro Gonzalez"
+:event/player1 "Davide Astori"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1432268"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11216"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/card_type "y"
+:event/player1 "Davide Astori"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1432269"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11216"}
+
+{:event/type "card"
+:event/elapsed 29
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Alvaro Gonzalez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1432292"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1432302"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Francelino Matuzalem"
+:event/subtype "shirt_pull"
+:event/player1 "Davide Biondini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1432318"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11216"}
+
+{:event/type "card"
+:event/elapsed 32
+:event/card_type "y"
+:event/player1 "Davide Biondini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1432320"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11216"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "blocked_shot"
+:event/player1 "Andrea Cossu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1432340"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/subtype "hands"
+:event/player1 "Michele Canini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1432351"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_11216"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "direct_freekick"
+:event/player1 "Hernanes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1432363"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Andrea Cossu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1432374"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1432394"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_11216"}
+
+{:event/type "goal"
+:event/elapsed 40
+:event/player1 "Andre Dias"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1432407"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11216"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "shot"
+:event/player1 "Francelino Matuzalem"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1432451"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1432455"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_11216"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1432455"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Andrea Cossu"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1432622"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Daniele Conti"
+:event/subtype "pushing"
+:event/player1 "Libor Kozak"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1432639"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1432646"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player1 "Nene"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1432674"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1432703"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Andrea Lazzari"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1432734"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1432755"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11216"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1432776"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11216"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "header"
+:event/player1 "Libor Kozak"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1432780"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1432801"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player1 "Francelino Matuzalem"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1432816"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_11216"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "shot"
+:event/player1 "Hernanes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1432831"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Stefan Daniel Radu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1432870"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11216"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Nene"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1432874"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_11216"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "direct_freekick"
+:event/player1 "Hernanes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1432896"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11216"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/player1 "Michele Canini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1432929"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Michael Agazzi"
+:event/subtype "pushing"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1432921"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Gabriele Perico"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1432949"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Hernanes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1432963"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1432993"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Radja Nainggolan"
+:event/subtype "serious_foul"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1433010"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11216"}
+
+{:event/type "card"
+:event/elapsed 83
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Stephan Lichtsteiner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1433011"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11216"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Simone Missiroli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1433026"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11216"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Mauro Zarate"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1433032"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Nene"
+:event/subtype "pushing"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1433049"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11216"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Nene"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1433051"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11216"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "indirect freekick"
+:event/player1 "Daniele Conti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1433064"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1433069"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11216"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1433069"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Simone Missiroli"
+:event/player1 "Andre Dias"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1433088"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11216"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Simone Missiroli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1433091"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11216"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Francelino Matuzalem"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1433093"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11216"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Libor Kozak"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1433126"
+:event/minute 93
+:event/match_id "match_11216"}
+
+{:event/type "cross"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1433139"
+:event/minute 95
+:event/match_id "match_11216"}
+
+{:event/type "corner"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Christian Daniel Ledesma"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1433139"
+:event/minute 95
+:event/match_id "match_11216"}
+
+
+]
+

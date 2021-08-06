@@ -1,0 +1,959 @@
+
+;;# data
+[
+{:match/id "match_4505"
+:match/league "England Premier League"
+:match/hometeam "Swansea City"
+:match/awayteam "Newcastle United"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Kyle Naughton"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4673199"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Jefferson Montero"
+:event/subtype "from_behind"
+:event/player1 "Daryl Janmaat"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4673220"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4505"}
+
+{:event/type "corner"
+:event/elapsed 2
+:event/subtype "cross_right"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4673231"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4505"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "blocked_shot"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4673243"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4505"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4673253"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Neil Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4673349"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4505"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "distance"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4673364"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4505"}
+
+{:event/type "goal"
+:event/elapsed 9
+:event/player2 "Jonjo Shelvey"
+:event/subtype "shot"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4673414"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Moussa Sissoko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4673443"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4505"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Gabriel Obertan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4673445"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4505"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "deflected"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4673480"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Kyle Naughton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4673543"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4505"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "distance"
+:event/player1 "Gabriel Obertan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4673596"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4505"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross_left"
+:event/player1 "Jack Colback"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4673605"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4505"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross_left"
+:event/player1 "Jack Colback"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4673615"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Jefferson Montero"
+:event/subtype "from_behind"
+:event/player1 "Daryl Janmaat"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4673624"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4505"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/player1 "Daryl Janmaat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4673627"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Kyle Naughton"
+:event/subtype "pushing"
+:event/player1 "Gabriel Obertan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4673674"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Neil Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4673692"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Jack Colback"
+:event/subtype "pushing"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4673728"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Georginio Wijnaldum"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4673746"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Jefferson Montero"
+:event/subtype "trip"
+:event/player1 "Daryl Janmaat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4673795"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4673802"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4505"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "blocked_shot"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4673839"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4505"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross_right"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4673842"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4673848"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Gabriel Obertan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4673867"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4505"}
+
+{:event/type "shotoff"
+:event/elapsed 31
+:event/subtype "distance"
+:event/player1 "Moussa Sissoko"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4673873"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Daryl Janmaat"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4673937"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Kyle Naughton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4673964"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4505"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "short_right"
+:event/player1 "Jack Colback"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4674097"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Daryl Janmaat"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4674099"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Jefferson Montero"
+:event/subtype "pull"
+:event/player1 "Daryl Janmaat"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4674143"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4505"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/player1 "Daryl Janmaat"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4674152"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4505"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "post"
+:event/player1 "Jefferson Montero"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4674229"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4505"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "distance"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4674340"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Massadio Haidara"
+:event/subtype "from_behind"
+:event/player1 "Andre Ayew"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4674257"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4505"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "direct_freekick"
+:event/player1 "Georginio Wijnaldum"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4674284"
+:event/minute 46
+:event/match_id "match_4505"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4674323"
+:event/minute 47
+:event/match_id "match_4505"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "crossbar"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4674656"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Massadio Haidara"
+:event/subtype "trip"
+:event/player1 "Andre Ayew"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4674683"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4505"}
+
+{:event/type "card"
+:event/elapsed 49
+:event/card_type "y"
+:event/player1 "Andre Ayew"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4674688"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Georginio Wijnaldum"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4674703"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Gylfi Sigurdsson"
+:event/subtype "pull"
+:event/player1 "Jack Colback"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4674733"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4674746"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4505"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "header"
+:event/player1 "Andre Ayew"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4674750"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Jefferson Montero"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4674804"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4505"}
+
+{:event/type "goal"
+:event/elapsed 52
+:event/player2 "Jefferson Montero"
+:event/subtype "header"
+:event/player1 "Andre Ayew"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_4674808"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Vurnon Anita"
+:event/subtype "trip"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4675175"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4505"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "blocked_shot"
+:event/player1 "Jack Cork"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4674993"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Massadio Haidara"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4675115"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Massadio Haidara"
+:event/subtype "from_behind"
+:event/player1 "Kyle Naughton"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4675060"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4505"}
+
+{:event/type "card"
+:event/elapsed 60
+:event/card_type "y"
+:event/player1 "Kyle Naughton"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4675064"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Gylfi Sigurdsson"
+:event/player1 "Chancel Mbemba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4675109"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Jefferson Montero"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4675123"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4505"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "header"
+:event/player1 "Andre Ayew"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4675132"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Chancel Mbemba"
+:event/subtype "pull"
+:event/player1 "Jefferson Montero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4675210"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Jefferson Montero"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4675315"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Georginio Wijnaldum"
+:event/subtype "trip"
+:event/player1 "Nathan Dyer"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4675396"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4505"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4675461"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Wayne Routledge"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4675501"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Nathan Dyer"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4675538"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Kyle Naughton"
+:event/subtype "pushing"
+:event/player1 "Jack Colback"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4675550"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Aleksandar Mitrovic"
+:event/player1 "Neil Taylor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4675570"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4505"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/subtype "violence"
+:event/player1 "Aleksandar Mitrovic"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4675581"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Jack Colback"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4675589"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Jack Colback"
+:event/player1 "Wayne Routledge"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4675616"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Aleksandar Mitrovic"
+:event/subtype "pushing"
+:event/player1 "Jack Cork"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4675630"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Jack Colback"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4675646"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4505"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross_right"
+:event/player1 "Jack Colback"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4675658"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4505"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "deflected"
+:event/player1 "Wayne Routledge"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4675687"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4505"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "cross_right"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4675690"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4505"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "blocked_shot"
+:event/player1 "Jack Cork"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4675692"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4505"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Kyle Naughton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4675721"
+:event/minute 91
+:event/match_id "match_4505"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Nathan Dyer"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4675775"
+:event/minute 93
+:event/match_id "match_4505"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4675786"
+:event/minute 94
+:event/match_id "match_4505"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Kyle Naughton"
+:event/subtype "serious_foul"
+:event/player1 "Massadio Haidara"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4675796"
+:event/minute 94
+:event/match_id "match_4505"}
+
+
+]
+

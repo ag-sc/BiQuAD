@@ -1,0 +1,796 @@
+
+;;# data
+[
+{:match/id "match_8377"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Borussia Dortmund"
+:match/awayteam "FC Bayern Munich"
+:match/score "1:5"
+:match/hometeam_goals "1"
+:match/awayteam_goals "5"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_751118"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Mohamed Zidan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_751132"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_751134"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8377"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_751134"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8377"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "distance"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_751137"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Dede"
+:event/player1 "Philipp Lahm"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_751140"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_751145"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Dede"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_751146"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_8377"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Dede"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_751146"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_8377"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "distance"
+:event/player1 "Dede"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_751147"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_751151"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_8377"}
+
+{:event/type "goal"
+:event/elapsed 11
+:event/player2 "Nuri Sahin"
+:event/subtype "header"
+:event/player1 "Mats Hummels"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_751152"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Philipp Lahm"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_751173"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_751175"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_751176"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Tinga"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_751180"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_751181"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_751187"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Edson Braafheid"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_751188"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player1 "Patrick Owomoyela"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_751189"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Mohamed Zidan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_751194"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_751195"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Bastian Schweinsteiger"
+:event/player1 "Dimitar Rangelov"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_751203"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Dimitar Rangelov"
+:event/player1 "Edson Braafheid"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_751207"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_751209"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Philipp Lahm"
+:event/player1 "Dede"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_751210"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8377"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "direct_freekick"
+:event/player1 "Arjen Robben"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_751211"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Philipp Lahm"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_751216"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Arjen Robben"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_751285"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8377"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "header"
+:event/player1 "Mario Gomez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_751289"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Philipp Lahm"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_751304"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Bastian Schweinsteiger"
+:event/player1 "Tinga"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_751325"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_8377"}
+
+{:event/type "goal"
+:event/elapsed 36
+:event/player2 "Daniel van Buyten"
+:event/subtype "header"
+:event/player1 "Mario Gomez"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_751331"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_8377"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "distance"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_751356"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_751378"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_751398"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Dede"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_751409"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Tinga"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_751455"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Ivica Olic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_751482"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8377"}
+
+{:event/type "goal"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_751885"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_751935"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Tinga"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_751941"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Tinga"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_752023"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Arjen Robben"
+:event/player1 "Mohamed Zidan"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_752040"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_752054"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_752150"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Philipp Lahm"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_752176"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Holger Badstuber"
+:event/player1 "Kevin Grosskreutz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_752181"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8377"}
+
+{:event/type "goal"
+:event/elapsed 65
+:event/subtype "direct_freekick"
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_752188"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_752193"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_8377"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "header"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_752198"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_752203"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_752207"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Franck Ribery"
+:event/player1 "Felipe Santana"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_752208"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_752210"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8377"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_752212"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player1 "Dede"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_752214"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Arjen Robben"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_752217"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Tinga"
+:event/player1 "Philipp Lahm"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_752218"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Kevin Grosskreutz"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_752223"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8377"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "direct_freekick"
+:event/player1 "Nuri Sahin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_752226"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_8377"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "big chance shot"
+:event/player1 "Arjen Robben"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_752237"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8377"}
+
+{:event/type "goal"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Thomas Mueller"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_752239"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8377"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_752257"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8377"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "deflected"
+:event/player1 "Nuri Sahin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_752298"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8377"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_752380"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_8377"}
+
+{:event/type "goal"
+:event/elapsed 88
+:event/player2 "Ivica Olic"
+:event/subtype "distance"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_752420"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8377"}
+
+
+]
+

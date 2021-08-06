@@ -1,0 +1,996 @@
+
+;;# data
+[
+{:match/id "match_7327"
+:match/league "France Ligue 1"
+:match/hometeam "AS Saint-Étienne"
+:match/awayteam "Montpellier Hérault SC"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/subtype "pull"
+:event/player1 "Benjamin Corgnet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4399435"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Max-Alain Gradel"
+:event/subtype "pull"
+:event/player1 "Joris Steve Marveaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4399471"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7327"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "direct_freekick"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4399485"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7327"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "volley"
+:event/player1 "Anthony Mounier"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4399495"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7327"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross_right"
+:event/player1 "Anthony Mounier"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4399501"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7327"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross_left"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4399506"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7327"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "distance"
+:event/player1 "Franck Tabanou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4399523"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7327"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "big chance shot"
+:event/player1 "Paul Bastien Lasne"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4399551"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Hilton"
+:event/subtype "pushing"
+:event/player1 "Mevlut Erdinc"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4399578"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/subtype "dangerous_play"
+:event/player1 "Joris Steve Marveaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4399586"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Lucas Barrios"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4399597"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Jamel Saihi"
+:event/subtype "serious_foul"
+:event/player1 "Ismael Diomande"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4399606"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Paul Bastien Lasne"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4399615"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Kevin Theophile-Catherine"
+:event/subtype "pushing"
+:event/player1 "Lucas Barrios"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4399636"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Benjamin Corgnet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4399663"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7327"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross_right"
+:event/player1 "Romain Hamouma"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4399673"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Francois Clerc"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4399681"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Romain Hamouma"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4399687"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7327"}
+
+{:event/type "goal"
+:event/elapsed 20
+:event/player2 "Benjamin Corgnet"
+:event/subtype "volley"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4399691"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player1 "Benjamin Corgnet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4399712"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Romain Hamouma"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4399767"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7327"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "big chance shot"
+:event/player1 "Lucas Barrios"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4399780"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7327"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross_right"
+:event/player1 "Romain Hamouma"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4399797"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Francois Clerc"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4399799"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Franck Tabanou"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4399817"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Paul Bastien Lasne"
+:event/subtype "pull"
+:event/player1 "Jeremy Clement"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4399822"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7327"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/card_type "y"
+:event/player1 "Jeremy Clement"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4399823"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player1 "Joris Steve Marveaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4399857"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7327"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross_right"
+:event/player1 "Romain Hamouma"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4399865"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Lucas Barrios"
+:event/subtype "pushing"
+:event/player1 "Ismael Diomande"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4399886"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Romain Hamouma"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4399908"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Mathieu Deplagne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4399919"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Romain Hamouma"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4399933"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Paul Bastien Lasne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4399943"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7327"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "blocked_shot"
+:event/player1 "Benjamin Corgnet"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4399960"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7327"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "shot"
+:event/player1 "Jonas Martin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4399976"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7327"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Jamel Saihi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4399983"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player1 "Benjamin Corgnet"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4399992"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Paul Bastien Lasne"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4399996"
+:event/minute 46
+:event/match_id "match_7327"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "deflected"
+:event/player1 "Francois Clerc"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4400143"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7327"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross_left"
+:event/player1 "Jonas Martin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4400196"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Benjamin Corgnet"
+:event/subtype "pushing"
+:event/player1 "Daniel Congre"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4400213"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7327"}
+
+{:event/type "card"
+:event/elapsed 49
+:event/card_type "y"
+:event/player1 "Daniel Congre"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4400215"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4400222"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Benjamin Corgnet"
+:event/subtype "from_behind"
+:event/player1 "Joris Steve Marveaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4400243"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Jonas Martin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4400266"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4400291"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7327"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross_right"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4400333"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4400367"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7327"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "crossbar"
+:event/player1 "Romain Hamouma"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4400372"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7327"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "blocked_shot"
+:event/player1 "Jonas Martin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4400433"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Yohan Mollo"
+:event/player1 "Joris Steve Marveaux"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4400447"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player1 "Kevin Theophile-Catherine"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4400479"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4400492"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Yohan Mollo"
+:event/subtype "pushing"
+:event/player1 "Bryan Dabo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4400517"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7327"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross_left"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4400582"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Anthony Mounier"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4400594"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7327"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross_left"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4400617"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7327"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_shot"
+:event/player1 "Joris Steve Marveaux"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4400622"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7327"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross_left"
+:event/player1 "Anthony Mounier"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4400625"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Yohan Mollo"
+:event/subtype "pushing"
+:event/player1 "Bryan Dabo"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4400645"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7327"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/player1 "Bryan Dabo"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4400649"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Bryan Dabo"
+:event/subtype "pull"
+:event/player1 "Yohan Mollo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4400670"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Souleymane Camara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4400698"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Joris Steve Marveaux"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4400705"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7327"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "header"
+:event/player1 "Anthony Mounier"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4400712"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Yohan Mollo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4400734"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4400769"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Bryan Dabo"
+:event/subtype "pull"
+:event/player1 "Franck Tabanou"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4400795"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7327"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "direct_freekick"
+:event/player1 "Bryan Dabo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4400825"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Daniel Congre"
+:event/subtype "pull"
+:event/player1 "Yohan Mollo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4400840"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7327"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "big chance shot"
+:event/player1 "Mevlut Erdinc"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4400885"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7327"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "distance"
+:event/player1 "Yohan Mollo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4400891"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Romain Hamouma"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4401027"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Souleymane Camara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4401113"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Souleymane Camara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4401154"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7327"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross_right"
+:event/player1 "Anthony Mounier"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4401164"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7327"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Souleymane Camara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4401234"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7327"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Souleymane Camara"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4401278"
+:event/minute 91
+:event/match_id "match_7327"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "big chance header"
+:event/player1 "Kevin Berigaud"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4401290"
+:event/minute 92
+:event/match_id "match_7327"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "dangerous_play"
+:event/player1 "Lucas Barrios"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4401325"
+:event/minute 93
+:event/match_id "match_7327"}
+
+
+]
+

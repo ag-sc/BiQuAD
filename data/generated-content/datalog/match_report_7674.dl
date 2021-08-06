@@ -1,0 +1,1198 @@
+
+;;# data
+[
+{:match/id "match_7674"
+:match/league "France Ligue 1"
+:match/hometeam "Olympique de Marseille"
+:match/awayteam "Stade Rennais FC"
+:match/score "2:5"
+:match/hometeam_goals "2"
+:match/awayteam_goals "5"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Georges N'Koudou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5414739"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross_left"
+:event/player1 "Florian Thauvin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5414744"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Sylvain Armand"
+:event/subtype "pushing"
+:event/player1 "Florian Thauvin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5414749"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7674"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "post"
+:event/player1 "Yoann Gourcuff"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5414760"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7674"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5414763"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7674"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Yoann Gourcuff"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5414757"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Benjamin Andre"
+:event/player1 "Lassana Diarra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5414776"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Ousmane Dembele"
+:event/subtype "trip"
+:event/player1 "Rolando"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5414797"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7674"}
+
+{:event/type "card"
+:event/elapsed 8
+:event/card_type "y"
+:event/player1 "Rolando"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5414799"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Kamil Grosicki"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5414809"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7674"}
+
+{:event/type "goal"
+:event/elapsed 9
+:event/player2 "Kamil Grosicki"
+:event/subtype "header"
+:event/player1 "Fallou Diagne"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5414801"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Yoann Gourcuff"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5414835"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross_left"
+:event/player1 "Kamil Grosicki"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5414838"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7674"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "shot"
+:event/player1 "Florian Thauvin"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5414844"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7674"}
+
+{:event/type "goal"
+:event/elapsed 14
+:event/player2 "Gelson Fernandes"
+:event/subtype "distance"
+:event/player1 "Ousmane Dembele"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5414859"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Brice Dja Djedje"
+:event/player1 "Benjamin Andre"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5414872"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Georges N'Koudou"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5414901"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Kamil Grosicki"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5414908"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Kamil Grosicki"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5414915"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7674"}
+
+{:event/type "goal"
+:event/elapsed 20
+:event/player2 "Michy Batshuayi"
+:event/subtype "shot"
+:event/player1 "Florian Thauvin"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_5414920"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Fallou Diagne"
+:event/player1 "Remy Cabella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5414948"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Michy Batshuayi"
+:event/player1 "Ousmane Dembele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5414951"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Remy Cabella"
+:event/subtype "trip"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5414958"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7674"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "Michy Batshuayi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5414973"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7674"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "shot"
+:event/player1 "Remy Cabella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5414981"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Remy Cabella"
+:event/subtype "trip"
+:event/player1 "Benjamin Andre"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5414992"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7674"}
+
+{:event/type "card"
+:event/elapsed 29
+:event/card_type "y"
+:event/player1 "Benjamin Andre"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5414995"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Florian Thauvin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415000"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7674"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "blocked_header"
+:event/player1 "Remy Cabella"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5415001"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Georges N'Koudou"
+:event/player1 "Kamil Grosicki"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5415005"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Lassana Diarra"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415007"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Michy Batshuayi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415010"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Ludovic Baal"
+:event/subtype "pull"
+:event/player1 "Michy Batshuayi"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5415013"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7674"}
+
+{:event/type "card"
+:event/elapsed 33
+:event/card_type "y"
+:event/player1 "Michy Batshuayi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5415014"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Giovanni Sio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5415019"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Lassana Diarra"
+:event/player1 "Sylvain Armand"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5415028"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Mauricio Isla"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415034"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7674"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "shot"
+:event/player1 "Michy Batshuayi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5415041"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7674"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "deflected"
+:event/player1 "Remy Cabella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5415055"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross_left"
+:event/player1 "Florian Thauvin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5415057"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Kamil Grosicki"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5415065"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Michy Batshuayi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415072"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross_right"
+:event/player1 "Florian Thauvin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5415076"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Georges N'Koudou"
+:event/player1 "Benjamin Andre"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5415183"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Florian Thauvin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415184"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Lassana Diarra"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415187"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Florian Thauvin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415193"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7674"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "distance"
+:event/player1 "Lassana Diarra"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5415197"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross_left"
+:event/player1 "Florian Thauvin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5415210"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Javier Manquillo"
+:event/player1 "Benjamin Andre"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5415213"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7674"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "deflected"
+:event/player1 "Michy Batshuayi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5415224"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross_right"
+:event/player1 "Florian Thauvin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5415225"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7674"}
+
+{:event/type "goal"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Rolando"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_5415227"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7674"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "post"
+:event/player1 "Remy Cabella"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5415240"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Georges N'Koudou"
+:event/player1 "Benjamin Andre"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5415253"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_left"
+:event/player1 "Remy Cabella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5415276"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Remy Cabella"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415277"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Gelson Fernandes"
+:event/player1 "Mauricio Isla"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5415283"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Ousmane Dembele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5415287"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "short_right"
+:event/player1 "Ousmane Dembele"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5415294"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Florian Thauvin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415301"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7674"}
+
+{:event/type "goal"
+:event/elapsed 59
+:event/player2 "Benjamin Andre"
+:event/subtype "distance"
+:event/player1 "Yoann Gourcuff"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5415309"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross_right"
+:event/player1 "Florian Thauvin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5415343"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7674"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Cheikh Mbengue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5415360"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Yoann Gourcuff"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5415361"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7674"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "volley"
+:event/player1 "Fallou Diagne"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5415363"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Fallou Diagne"
+:event/player1 "Remy Cabella"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5415489"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross_right"
+:event/player1 "Florian Thauvin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5415376"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7674"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_shot"
+:event/player1 "Romain Alessandrini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5415379"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Romain Alessandrini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415386"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7674"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "header"
+:event/player1 "Remy Cabella"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5415387"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7674"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Ousmane Dembele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5415394"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Nicolas N'Koulou"
+:event/player1 "Ousmane Dembele"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5415412"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Georges N'Koudou"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415417"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Javier Manquillo"
+:event/player1 "Ousmane Dembele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5415429"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Florian Thauvin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415435"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7674"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Romain Alessandrini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5415436"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Florian Thauvin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415445"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Ousmane Dembele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5415453"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7674"}
+
+{:event/type "goal"
+:event/elapsed 77
+:event/player2 "Ousmane Dembele"
+:event/subtype "shot"
+:event/player1 "Giovanni Sio"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5415454"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_left"
+:event/player1 "Bouna Sarr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5415467"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7674"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "shot"
+:event/player1 "Jeremie Boga"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5415470"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Abou Diaby"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415475"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7674"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "header"
+:event/player1 "Michy Batshuayi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5415476"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Mauricio Isla"
+:event/player1 "Ludovic Baal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5415488"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross_left"
+:event/player1 "Bouna Sarr"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5415506"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Bouna Sarr"
+:event/subtype "dangerous_play"
+:event/player1 "Benjamin Andre"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5415495"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Romain Alessandrini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415498"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Sylvain Armand"
+:event/player1 "Romain Alessandrini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5415509"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Javier Manquillo"
+:event/player1 "Giovanni Sio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5415519"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Javier Manquillo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415535"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Jeremie Boga"
+:event/subtype "pushing"
+:event/player1 "Lassana Diarra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5415547"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Ludovic Baal"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5415552"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Michy Batshuayi"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5415557"
+:event/minute 91
+:event/match_id "match_7674"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Bouna Sarr"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5415560"
+:event/minute 91
+:event/match_id "match_7674"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Abou Diaby"
+:event/subtype "pushing"
+:event/player1 "Jeremie Boga"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5415571"
+:event/minute 92
+:event/match_id "match_7674"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Remy Cabella"
+:event/sortorder 9
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5415575"
+:event/minute 92
+:event/match_id "match_7674"}
+
+
+]
+

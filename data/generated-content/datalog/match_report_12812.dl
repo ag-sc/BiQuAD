@@ -1,0 +1,1339 @@
+
+;;# data
+[
+{:match/id "match_12812"
+:match/league "Italy Serie A"
+:match/hometeam "Cagliari"
+:match/awayteam "Palermo"
+:match/score "0:1"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Franco Vazquez"
+:event/player1 "Albin Ekdal"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4487509"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Franco Vazquez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4487512"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 2
+:event/subtype "shot"
+:event/player1 "Fabio Daprela"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4487514"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "big chance shot"
+:event/player1 "Paul-Jose M'Poku"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4487549"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Paul-Jose M'Poku"
+:event/subtype "pull"
+:event/player1 "Luca Rigoni"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4487575"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_12812"}
+
+{:event/type "card"
+:event/elapsed 6
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Luca Rigoni"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4487580"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "bad shot"
+:event/player1 "Duje Cop"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4487605"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "blocked_shot"
+:event/player1 "Diego Farias"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4487620"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Robin Quaison"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4487628"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_12812"}
+
+{:event/type "goal"
+:event/elapsed 9
+:event/subtype "shot"
+:event/player1 "Franco Vazquez"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_4487631"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Modibo Diakite"
+:event/player1 "Andrea Belotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4487703"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Godfred Donsah"
+:event/player1 "Franco Vazquez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4487691"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Paul-Jose M'Poku"
+:event/subtype "from_behind"
+:event/player1 "Ivailo Chochev"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4487693"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_12812"}
+
+{:event/type "card"
+:event/elapsed 13
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Ivailo Chochev"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4487697"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "big chance shot"
+:event/player1 "Duje Cop"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4487706"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Fabio Daprela"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4487717"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Fabio Daprela"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4487727"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "big chance shot"
+:event/player1 "Andrea Belotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4487730"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "shot"
+:event/player1 "Andrea Belotti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4487733"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Robin Quaison"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4487744"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Franco Vazquez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4487760"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "bad shot"
+:event/player1 "Danilo Fernando Avelar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4487791"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Robin Quaison"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4487847"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "distance"
+:event/player1 "Ivailo Chochev"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4487866"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Luca Rigoni"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4487903"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Danilo Fernando Avelar"
+:event/player1 "Franco Vazquez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4487906"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Roberto Vitiello"
+:event/subtype "pushing"
+:event/player1 "Daniele Dessena"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4487924"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Robin Quaison"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4487952"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Sinisa Andjelkovic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4487957"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Robin Quaison"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4487964"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "volley"
+:event/player1 "Ivailo Chochev"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4487967"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "big chance volley"
+:event/player1 "Albin Ekdal"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4487993"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_12812"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "short_left"
+:event/player1 "Paul-Jose M'Poku"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4488005"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Daniele Dessena"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4488007"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Paul-Jose M'Poku"
+:event/player1 "Mate Jajalo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4488043"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "shot"
+:event/player1 "Godfred Donsah"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4488055"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "blocked_shot"
+:event/player1 "Mate Jajalo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4488086"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Duje Cop"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4488157"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Diego Farias"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4488164"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_12812"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross_left"
+:event/player1 "Daniele Dessena"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4488167"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Paul-Jose M'Poku"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4488171"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Franco Vazquez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4488193"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Franco Vazquez"
+:event/player1 "Luca Rossettini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4488543"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Paul-Jose M'Poku"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4488202"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Danilo Fernando Avelar"
+:event/subtype "trip"
+:event/player1 "Mate Jajalo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4488222"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "direct_freekick"
+:event/player1 "Danilo Fernando Avelar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4488243"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Robin Quaison"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4488259"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Ivailo Chochev"
+:event/player1 "Modibo Diakite"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4488303"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Danilo Fernando Avelar"
+:event/player1 "Andrea Belotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4488349"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Daniele Dessena"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4488375"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Modibo Diakite"
+:event/player1 "Andrea Belotti"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4488383"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Joao Pedro Galvao"
+:event/player1 "Robin Quaison"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4488584"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Diego Farias"
+:event/subtype "serious_foul"
+:event/player1 "Mate Jajalo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4488586"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Paul-Jose M'Poku"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4488588"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Daniele Dessena"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4488592"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_12812"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "cross_right"
+:event/player1 "Diego Farias"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4488596"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Andrea Belotti"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4488601"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Daniele Dessena"
+:event/player1 "Ivailo Chochev"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4488611"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Franco Vazquez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4488639"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Antonio Balzano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4488657"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Franco Vazquez"
+:event/player1 "Modibo Diakite"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4488686"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Franco Vazquez"
+:event/player1 "Modibo Diakite"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4488695"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "blocked_shot"
+:event/player1 "Franco Vazquez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4488704"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/subtype "hands"
+:event/player1 "Luca Rigoni"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4488707"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Franco Vazquez"
+:event/subtype "serious_foul"
+:event/player1 "Antonio Balzano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4488729"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_12812"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Antonio Balzano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4488732"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Albin Ekdal"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4488772"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "volley"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4488807"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Albin Ekdal"
+:event/player1 "Andrea Belotti"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4488818"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "blocked_shot"
+:event/player1 "Andrea Belotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4488828"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "big chance shot"
+:event/player1 "Duje Cop"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4488858"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Paul-Jose M'Poku"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4488866"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_12812"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross_left"
+:event/player1 "Diego Farias"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4488932"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Diego Farias"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4488934"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "header"
+:event/player1 "Daniele Dessena"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4488936"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "bad shot"
+:event/player1 "Danilo Fernando Avelar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4488981"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_12812"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross_left"
+:event/player1 "Franco Vazquez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4488997"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "shot"
+:event/player1 "Robin Quaison"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4489005"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "shot"
+:event/player1 "Robin Quaison"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4489035"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Marco Sau"
+:event/player1 "Ivailo Chochev"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4489051"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "distance"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4489056"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Luca Rossettini"
+:event/player1 "Andrea Belotti"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4489083"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Danilo Fernando Avelar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4489067"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Robin Quaison"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4489072"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Sinisa Andjelkovic"
+:event/player1 "Diego Farias"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4489104"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Daniele Dessena"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4489126"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Franco Vazquez"
+:event/subtype "from_behind"
+:event/player1 "Albin Ekdal"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4489132"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_12812"}
+
+{:event/type "card"
+:event/elapsed 80
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Albin Ekdal"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4489134"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "deflected"
+:event/player1 "Franco Vazquez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4489135"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_12812"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_left"
+:event/player1 "Francesco Della Rocca"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4489138"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_12812"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Modibo Diakite"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4489147"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_12812"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Giancarlo Gonzalez"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4489149"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "header"
+:event/player1 "Andrea Belotti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4489152"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Mate Jajalo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4489163"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Fabio Daprela"
+:event/player1 "Duje Cop"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4489171"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Fabio Daprela"
+:event/subtype "trip"
+:event/player1 "Modibo Diakite"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4489184"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Francesco Della Rocca"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4489210"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Diego Farias"
+:event/subtype "trip"
+:event/player1 "Sinisa Andjelkovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4489223"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "direct_freekick"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4489243"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Diego Farias"
+:event/subtype "trip"
+:event/player1 "Ivailo Chochev"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4489255"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Joao Pedro Galvao"
+:event/player1 "Robin Quaison"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4489258"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4489262"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Andrea Belotti"
+:event/player1 "Danilo Fernando Avelar"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4489269"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Diego Farias"
+:event/player1 "Fabio Daprela"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4489280"
+:event/minute 91
+:event/match_id "match_12812"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Joao Pedro Galvao"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4489313"
+:event/minute 93
+:event/match_id "match_12812"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Modibo Diakite"
+:event/sortorder 11
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4489316"
+:event/minute 93
+:event/match_id "match_12812"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "unknown"
+:event/sortorder 14
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4489333"
+:event/minute 93
+:event/match_id "match_12812"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "short_right"
+:event/player1 "Franco Vazquez"
+:event/sortorder 15
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4489335"
+:event/minute 94
+:event/match_id "match_12812"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Franco Vazquez"
+:event/player1 "Marco Sau"
+:event/sortorder 16
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4489346"
+:event/minute 94
+:event/match_id "match_12812"}
+
+
+]
+

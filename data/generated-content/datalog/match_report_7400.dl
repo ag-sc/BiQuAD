@@ -1,0 +1,885 @@
+
+;;# data
+[
+{:match/id "match_7400"
+:match/league "France Ligue 1"
+:match/hometeam "SM Caen"
+:match/awayteam "Paris Saint-Germain"
+:match/score "0:2"
+:match/hometeam_goals "0"
+:match/awayteam_goals "2"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3770213"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3770267"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7400"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "header"
+:event/player1 "Edinson Cavani"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3770272"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Herve Bazile"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3770293"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3770548"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Lenny Nangis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3770704"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7400"}
+
+{:event/type "goal"
+:event/elapsed 18
+:event/player2 "Javier Pastore"
+:event/subtype "shot"
+:event/player1 "Lucas Moura"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_3770794"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Thiago Motta"
+:event/subtype "pull"
+:event/player1 "Lenny Nangis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3770876"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Damien Da Silva"
+:event/subtype "dangerous_play"
+:event/player1 "Jean-Christophe Bahebeck"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3770992"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "distance"
+:event/player1 "Lenny Nangis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3771174"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Yohan Cabaye"
+:event/subtype "trip"
+:event/player1 "N'Golo Kante"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3771272"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_7400"}
+
+{:event/type "shoton"
+:event/elapsed 31
+:event/subtype "blocked_shot"
+:event/player1 "David Luiz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3771308"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "N'Golo Kante"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3771351"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Lenny Nangis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3771461"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7400"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "big chance shot"
+:event/player1 "Jordan Adeoti"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3771467"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7400"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross_right"
+:event/player1 "Jean Calve"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3771475"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "header"
+:event/player1 "Damien Da Silva"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3771477"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Lucas Moura"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3771499"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "Jean-Christophe Bahebeck"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3771501"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Julien Feret"
+:event/subtype "trip"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3771526"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Herve Bazile"
+:event/subtype "from_behind"
+:event/player1 "David Luiz"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3771531"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Jean Calve"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3771543"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7400"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "big chance shot"
+:event/player1 "Lucas Moura"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3771601"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Jean Calve"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3771640"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7400"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3771650"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Yohan Cabaye"
+:event/subtype "dangerous_play"
+:event/player1 "Lenny Nangis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3771658"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Javier Pastore"
+:event/subtype "pull"
+:event/player1 "Jordan Adeoti"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3771679"
+:event/minute 46
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3771694"
+:event/minute 46
+:event/match_id "match_7400"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "shot"
+:event/player1 "Javier Pastore"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3772073"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "big chance shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3771705"
+:event/minute 47
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Lenny Nangis"
+:event/subtype "trip"
+:event/player1 "Maxwell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3772078"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Herve Bazile"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3772083"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "big chance header"
+:event/player1 "Mathieu Duhamel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3772091"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Jean Calve"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3772164"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Lenny Nangis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3772192"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Jean-Christophe Bahebeck"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3772213"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7400"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "distance"
+:event/player1 "Herve Bazile"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3772239"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7400"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_left"
+:event/player1 "Julien Feret"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3772244"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Lucas Moura"
+:event/subtype "trip"
+:event/player1 "Lenny Nangis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3772315"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7400"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_left"
+:event/player1 "Jean-Christophe Bahebeck"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3772348"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7400"}
+
+{:event/type "goal"
+:event/elapsed 56
+:event/player2 "Jean-Christophe Bahebeck"
+:event/subtype "header"
+:event/player1 "Marquinhos"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_3772351"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Dennis Appiah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3772374"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "bicycle_kick"
+:event/player1 "Mathieu Duhamel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3772377"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Maxwell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3772398"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3772418"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7400"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross_right"
+:event/player1 "Thiago Motta"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3772439"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "deflected"
+:event/player1 "David Luiz"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3772446"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7400"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross_left"
+:event/player1 "Jean-Christophe Bahebeck"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3772458"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "header"
+:event/player1 "Marquinhos"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3772462"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Lucas Moura"
+:event/subtype "trip"
+:event/player1 "Dennis Appiah"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3772591"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Jordan Adeoti"
+:event/subtype "trip"
+:event/player1 "Jean-Christophe Bahebeck"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3772629"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "big chance shot"
+:event/player1 "Bengali-Fode Koita"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3772649"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Jean Calve"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3772727"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Thomas Lemar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3772747"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Mathieu Duhamel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3772784"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Lucas Moura"
+:event/subtype "from_behind"
+:event/player1 "Jordan Adeoti"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3772796"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Javier Pastore"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3772817"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7400"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "big chance shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3772819"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7400"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "bicycle_kick"
+:event/player1 "Mathieu Duhamel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3772855"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Thomas Lemar"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3772858"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Lenny Nangis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3772882"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7400"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "blocked_shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3772978"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Thomas Lemar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3773008"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7400"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Thomas Lemar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3773039"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7400"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "blocked_shot"
+:event/player1 "Jordan Adeoti"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3773048"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_7400"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "distance"
+:event/player1 "Clement Chantome"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3773056"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Jordan Adeoti"
+:event/subtype "trip"
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3773087"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Javier Pastore"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3773098"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Bengali-Fode Koita"
+:event/subtype "trip"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3773112"
+:event/minute 91
+:event/match_id "match_7400"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Thomas Lemar"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3773114"
+:event/minute 92
+:event/match_id "match_7400"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Damien Da Silva"
+:event/subtype "pushing"
+:event/player1 "Edinson Cavani"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3773116"
+:event/minute 92
+:event/match_id "match_7400"}
+
+
+]
+

@@ -1,0 +1,965 @@
+
+;;# data
+[
+{:match/id "match_9877"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "1. FC Köln"
+:match/awayteam "FC Schalke 04"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Yuya Osako"
+:event/player1 "Leon Goretzka"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4463751"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Marcel Risse"
+:event/player1 "Dennis Aogo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4463762"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Jonas Hector"
+:event/player1 "Marco Hoeger"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4463769"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Kazuki Nagasawa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4463773"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9877"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "deflected"
+:event/player1 "Kazuki Nagasawa"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4463785"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9877"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross_right"
+:event/player1 "Marcel Risse"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4463791"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Yuya Osako"
+:event/player1 "Benedikt Hoewedes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4463811"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4463815"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Jonas Hector"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4463837"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_9877"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "distance"
+:event/player1 "Leroy Sane"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4463866"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Yuya Osako"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4463888"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_9877"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "distance"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4463894"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4463957"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Ralf Faehrmann"
+:event/player1 "Anthony Ujah"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4463970"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Kevin-Prince Boateng"
+:event/player1 "Kevin Vogt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4463974"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_9877"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "deflected"
+:event/player1 "Julian Draxler"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4463976"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_9877"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross_right"
+:event/player1 "Leroy Sane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4463977"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4463980"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Marco Hoeger"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4463985"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_9877"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "header"
+:event/player1 "Dennis Aogo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4463986"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_4463990"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Dennis Aogo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4464000"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Dominic Maroh"
+:event/player1 "Kevin-Prince Boateng"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4464001"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_9877"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross_left"
+:event/player1 "Julian Draxler"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4464006"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Kevin-Prince Boateng"
+:event/player1 "Jonas Hector"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4464342"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4464008"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Eric Maxim Choupo-Moting"
+:event/player1 "Kevin Vogt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4464012"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Kazuki Nagasawa"
+:event/subtype "serious_foul"
+:event/player1 "Leon Goretzka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4464025"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_9877"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "distance"
+:event/player1 "Kevin Vogt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4464031"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Yuya Osako"
+:event/player1 "Matija Nastasic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4464043"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Kazuki Nagasawa"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4464046"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_9877"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "big chance shot"
+:event/player1 "Kazuki Nagasawa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4464088"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_9877"}
+
+{:event/type "goal"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Marcel Risse"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4464089"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_9877"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross_left"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4464181"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Kevin-Prince Boateng"
+:event/player1 "Jonas Hector"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4464186"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_9877"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "blocked_shot"
+:event/player1 "Kevin-Prince Boateng"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4464235"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_9877"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross_right"
+:event/player1 "Leroy Sane"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4464293"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Kevin-Prince Boateng"
+:event/player1 "Yuya Osako"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4464663"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Anthony Ujah"
+:event/player1 "Benedikt Hoewedes"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4464673"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Kevin Vogt"
+:event/player1 "Leon Goretzka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4464694"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Kevin Vogt"
+:event/player1 "Kevin-Prince Boateng"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4464746"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Marco Hoeger"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4464822"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Yuya Osako"
+:event/player1 "Benedikt Hoewedes"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4464839"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4464848"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Eric Maxim Choupo-Moting"
+:event/subtype "trip"
+:event/player1 "Kevin Vogt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4464927"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Leroy Sane"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4464934"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4464964"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Dusan Svento"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4464982"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_9877"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "big chance shot"
+:event/player1 "Dusan Svento"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4465013"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Jonas Hector"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4465060"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_9877"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4465061"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Jonas Hector"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4465068"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_9877"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross_left"
+:event/player1 "Dennis Aogo"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4465077"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Yuya Osako"
+:event/player1 "Benedikt Hoewedes"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4465084"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9877"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/player1 "Benedikt Hoewedes"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4465085"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Matija Nastasic"
+:event/player1 "Kazuki Nagasawa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4465089"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4465092"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Kevin Vogt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4465095"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Marco Hoeger"
+:event/player1 "Jonas Hector"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4465098"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_9877"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/player1 "Jonas Hector"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4465099"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Max Meyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4465108"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_9877"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross_left"
+:event/player1 "Dennis Aogo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4465109"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Yuya Osako"
+:event/player1 "Matija Nastasic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4465110"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_9877"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "distance"
+:event/player1 "Yannick Gerhardt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4465144"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4465182"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_9877"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross_right"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4465190"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_9877"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "header"
+:event/player1 "Roman Neustaedter"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4465191"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_9877"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "bad shot"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4465208"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Jefferson Farfan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4465220"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_9877"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross_right"
+:event/player1 "Jonas Hector"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4465246"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_9877"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "shot"
+:event/player1 "Marcel Risse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4465254"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_9877"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "short_right"
+:event/player1 "Jonas Hector"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4465261"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Jonas Hector"
+:event/player1 "Marco Hoeger"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4465337"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_9877"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "big chance shot"
+:event/player1 "Jonas Hector"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4465362"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_9877"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "short_left"
+:event/player1 "Jonas Hector"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4465371"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Roman Neustaedter"
+:event/player1 "Yuya Osako"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4465395"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_9877"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4465409"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9877"}
+
+{:event/type "goal"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Yannick Gerhardt"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4465410"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9877"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Matthias Lehmann"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4465470"
+:event/minute 93
+:event/match_id "match_9877"}
+
+
+]
+

@@ -1,0 +1,1003 @@
+
+;;# data
+[
+{:match/id "match_4444"
+:match/league "England Premier League"
+:match/hometeam "Manchester City"
+:match/awayteam "Southampton"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "shoton"
+:event/elapsed 2
+:event/subtype "big chance shot"
+:event/player1 "Raheem Sterling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5061029"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "blocked_shot"
+:event/player1 "Fernandinho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5061076"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Yaya Toure"
+:event/subtype "trip"
+:event/player1 "Shane Long"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061110"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Sergio Aguero"
+:event/subtype "dangerous_play"
+:event/player1 "Victor Wanyama"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061119"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "direct_freekick"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5061145"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Maarten Stekelenburg"
+:event/subtype "dangerous_play"
+:event/player1 "Fernandinho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5061165"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4444"}
+
+{:event/type "goal"
+:event/elapsed 9
+:event/player2 "Raheem Sterling"
+:event/subtype "shot"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5061234"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Fernandinho"
+:event/subtype "trip"
+:event/player1 "Sadio Mane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061309"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4444"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "cross_left"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5061353"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "deflected"
+:event/player1 "Nicolas Otamendi"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5061357"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4444"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross_left"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5061382"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Nicolas Otamendi"
+:event/subtype "trip"
+:event/player1 "Oriol Romeu"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061389"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "direct_freekick"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5061418"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4444"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross_left"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5061423"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5061433"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Fabian Delph"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5061446"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5061463"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Steven Davis"
+:event/subtype "trip"
+:event/player1 "Fabian Delph"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5061493"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "blocked_shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5061509"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4444"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross_right"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5061518"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "big chance header"
+:event/player1 "Fernandinho"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5061525"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4444"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross_right"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5061538"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4444"}
+
+{:event/type "goal"
+:event/elapsed 21
+:event/player2 "Kevin de Bruyne"
+:event/subtype "distance"
+:event/player1 "Fabian Delph"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_5061541"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4444"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "big chance post"
+:event/player1 "Virgil van Dijk"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5061576"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Fernandinho"
+:event/subtype "trip"
+:event/player1 "Victor Wanyama"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5061621"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Ryan Bertrand"
+:event/subtype "trip"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5061660"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5061663"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "big chance volley"
+:event/player1 "Victor Wanyama"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5061670"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Sadio Mane"
+:event/subtype "obstruction"
+:event/player1 "Nicolas Otamendi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5061697"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4444"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "direct_freekick"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5061718"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4444"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "big chance shot"
+:event/player1 "Raheem Sterling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5061831"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Victor Wanyama"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5061942"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4444"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross_right"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5061947"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Ryan Bertrand"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5061964"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4444"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross_left"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5061999"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "shot"
+:event/player1 "Shane Long"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5062028"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Steven Davis"
+:event/subtype "trip"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5062594"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Sadio Mane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5062601"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4444"}
+
+{:event/type "goal"
+:event/elapsed 50
+:event/player2 "Sadio Mane"
+:event/subtype "header"
+:event/player1 "Shane Long"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5062606"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "deflected"
+:event/player1 "Fabian Delph"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5062653"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Sadio Mane"
+:event/player1 "Fernandinho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5062660"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Sadio Mane"
+:event/subtype "trip"
+:event/player1 "Fabian Delph"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5062680"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5062714"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/subtype "hands"
+:event/player1 "Sadio Mane"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5062718"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Raheem Sterling"
+:event/subtype "dangerous_play"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5062764"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4444"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5062771"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Shane Long"
+:event/subtype "dangerous_play"
+:event/player1 "Martin Demichelis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5062802"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4444"}
+
+{:event/type "card"
+:event/elapsed 57
+:event/card_type "y"
+:event/player1 "Martin Demichelis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5062804"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Aleksandar Kolarov"
+:event/subtype "trip"
+:event/player1 "Sadio Mane"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5062835"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5062853"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4444"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross_left"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5062911"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "Yaya Toure"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5062920"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Dusan Tadic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5062946"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4444"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross_left"
+:event/player1 "James Ward-Prowse"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5062954"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Raheem Sterling"
+:event/subtype "pushing"
+:event/player1 "Virgil van Dijk"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5062973"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5062985"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "deflected"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5062990"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 66
+:event/subtype "shot"
+:event/player1 "Yaya Toure"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5063044"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Dusan Tadic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5063051"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Dusan Tadic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5063073"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5063118"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4444"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/player2 "Kevin de Bruyne"
+:event/subtype "shot"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5063120"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Yaya Toure"
+:event/subtype "pull"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5063174"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5063181"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5063274"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Sadio Mane"
+:event/subtype "trip"
+:event/player1 "Fernandinho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5063305"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Yaya Toure"
+:event/subtype "pull"
+:event/player1 "Steven Davis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5063330"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "blocked_shot"
+:event/player1 "Yaya Toure"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5063349"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Sadio Mane"
+:event/player1 "Fernando"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5063353"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5063390"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4444"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "big chance shot"
+:event/player1 "Sadio Mane"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5063399"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4444"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross_right"
+:event/player1 "Dusan Tadic"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5063403"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Virgil van Dijk"
+:event/player1 "Fernando"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5063472"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Sadio Mane"
+:event/subtype "trip"
+:event/player1 "Yaya Toure"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5063478"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4444"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "miss_kick"
+:event/player1 "Wilfried Bony"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5063527"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Victor Wanyama"
+:event/subtype "trip"
+:event/player1 "Fernandinho"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5063543"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Dusan Tadic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5063553"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4444"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Sadio Mane"
+:event/player1 "Fernandinho"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5063630"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4444"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "kicked_ball_away"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5063589"
+:event/minute 91
+:event/match_id "match_4444"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Maya Yoshida"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5063616"
+:event/minute 93
+:event/match_id "match_4444"}
+
+
+]
+

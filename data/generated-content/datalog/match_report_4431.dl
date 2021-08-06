@@ -1,0 +1,781 @@
+
+;;# data
+[
+{:match/id "match_4431"
+:match/league "England Premier League"
+:match/hometeam "Everton"
+:match/awayteam "Aston Villa"
+:match/score "4:0"
+:match/hometeam_goals "4"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Brendon Galloway"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5037009"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Gerard Deulofeu"
+:event/subtype "obstruction"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5037207"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Ross Barkley"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5037226"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4431"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross_right"
+:event/player1 "Ross Barkley"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5037238"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Gerard Deulofeu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5037300"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Kieran Richardson"
+:event/subtype "pushing"
+:event/player1 "Seamus Coleman"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5037315"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "shot"
+:event/player1 "Gerard Deulofeu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5037381"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4431"}
+
+{:event/type "goal"
+:event/elapsed 17
+:event/subtype "loose_ball"
+:event/player1 "Ross Barkley"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5037386"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Ross Barkley"
+:event/player1 "Jordan Veretout"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5037434"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5037480"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4431"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross_right"
+:event/player1 "Carles Gil"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5037493"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Gerard Deulofeu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5037575"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "big chance shot"
+:event/player1 "Arouna Kone"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5037599"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4431"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "distance"
+:event/player1 "Ashley R. Westwood"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5037621"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Seamus Coleman"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5037649"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4431"}
+
+{:event/type "goal"
+:event/elapsed 29
+:event/player2 "Seamus Coleman"
+:event/subtype "header"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_5037650"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "blocked_shot"
+:event/player1 "Carles Gil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5037933"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Gerard Deulofeu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5037978"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "big chance shot"
+:event/player1 "Arouna Kone"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5038066"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4431"}
+
+{:event/type "goal"
+:event/elapsed 43
+:event/subtype "loose_ball"
+:event/player1 "Ross Barkley"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5038068"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5038144"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4431"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross_right"
+:event/player1 "Carles Gil"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5038159"
+:event/minute 46
+:event/match_id "match_4431"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Ciaran Clark"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5038165"
+:event/minute 46
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 46
+:event/subtype "blocked_shot"
+:event/player1 "Carles Gil"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5038452"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "big chance shot"
+:event/player1 "Jordan Veretout"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5038533"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5038544"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Gerard Deulofeu"
+:event/subtype "advantage"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5038583"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Ramiro Funes Mori"
+:event/player1 "Jordan Ayew"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5038638"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Micah Richards"
+:event/subtype "pushing"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5038655"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Gareth Barry"
+:event/player1 "Carlos Sanchez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5038738"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Kieran Richardson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5038818"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4431"}
+
+{:event/type "goal"
+:event/elapsed 59
+:event/player2 "Ross Barkley"
+:event/subtype "shot"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5038865"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Jordan Veretout"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5038907"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Carlos Sanchez"
+:event/player1 "Gareth Barry"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039091"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "Arouna Kone"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5038926"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "blocked_shot"
+:event/player1 "Jack Grealish"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5038973"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4431"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross_left"
+:event/player1 "Ashley R. Westwood"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5038990"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "shot"
+:event/player1 "Jordan Ayew"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5038992"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "shot"
+:event/player1 "Jordan Ayew"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5039025"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4431"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "James McCarthy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5039040"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 66
+:event/subtype "blocked_shot"
+:event/player1 "Ashley R. Westwood"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5039068"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Micah Richards"
+:event/player1 "Arouna Kone"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039129"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4431"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "distance"
+:event/player1 "Jordan Veretout"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5039137"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Seamus Coleman"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039247"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "James McCarthy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039265"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5039279"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Seamus Coleman"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039301"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4431"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "miss_kick"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5039306"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "big chance blocked"
+:event/player1 "Brendon Galloway"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5039311"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Brendon Galloway"
+:event/player1 "Jordan Ayew"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039340"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Kevin Mirallas"
+:event/player1 "Carlos Sanchez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039352"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "direct_freekick"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5039363"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4431"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "short_left"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5039366"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039368"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Leon Osman"
+:event/player1 "Carlos Sanchez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039420"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "big chance shot"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5039454"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4431"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "volley"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5039487"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Kevin Mirallas"
+:event/subtype "obstruction"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5039541"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4431"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5039553"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5039592"
+:event/minute 91
+:event/match_id "match_4431"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Jordan Veretout"
+:event/player1 "Leon Osman"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5039622"
+:event/minute 93
+:event/match_id "match_4431"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 12
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5039643"
+:event/minute 94
+:event/match_id "match_4431"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 13
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5039644"
+:event/minute 94
+:event/match_id "match_4431"}
+
+
+]
+

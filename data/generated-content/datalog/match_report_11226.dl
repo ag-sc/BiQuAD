@@ -1,0 +1,964 @@
+
+;;# data
+[
+{:match/id "match_11226"
+:match/league "Italy Serie A"
+:match/hometeam "Udinese"
+:match/awayteam "Bari"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player1 "Paul Constantin Codrea"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1443841"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Gokhan Inler"
+:event/player1 "Stefano Okaka Chuka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1443899"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Kwadwo Asamoah"
+:event/subtype "from_behind"
+:event/player1 "Paul Constantin Codrea"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1443901"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "deflected"
+:event/player1 "Erik Huseklepp"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1443954"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Simone Bentivoglio"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1443961"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_11226"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Simone Bentivoglio"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1443961"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Alessandro Gazzi"
+:event/player1 "Gokhan Inler"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1443968"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Alexis Sanchez"
+:event/subtype "serious_foul"
+:event/player1 "Paul Constantin Codrea"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1443982"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_11226"}
+
+{:event/type "card"
+:event/elapsed 13
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Paul Constantin Codrea"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1443983"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Juan Cuadrado"
+:event/subtype "serious_foul"
+:event/player1 "Alessandro Gazzi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1443985"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1444004"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11226"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "volley"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1444019"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/sortorder -1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1444050"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1444044"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11226"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1444044"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1444058"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "shot"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1444067"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1444073"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "header"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1444075"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1444088"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Erik Huseklepp"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1444110"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Simone Bentivoglio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1444115"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_11226"}
+
+{:event/type "corner"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Simone Bentivoglio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1444115"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Erik Huseklepp"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1444117"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Stefano Okaka Chuka"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1444123"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1444147"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1444152"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player1 "Stefano Okaka Chuka"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1444162"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Juan Cuadrado"
+:event/player1 "Paul Constantin Codrea"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1444264"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1444277"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_11226"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1444277"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player1 "Alexis Sanchez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1444294"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player1 "Alexis Sanchez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1444303"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "distance"
+:event/player1 "Abdelkader Ghezzal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1444347"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Simone Bentivoglio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1444349"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11226"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Simone Bentivoglio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1444349"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "header"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1444358"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Stefano Okaka Chuka"
+:event/subtype "serious_foul"
+:event/player1 "Mehdi Benatia"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1444401"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1444416"
+:event/minute 46
+:event/match_id "match_11226"}
+
+{:event/type "card"
+:event/elapsed 46
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Alessandro Gazzi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1444551"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1444421"
+:event/minute 46
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Alexis Sanchez"
+:event/subtype "obstruction"
+:event/player1 "Paul Constantin Codrea"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1444427"
+:event/minute 47
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Juan Cuadrado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1444576"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1444578"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11226"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1444578"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11226"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "header"
+:event/player1 "Cristian Zapata"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1444584"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1444601"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Alexis Sanchez"
+:event/subtype "shirt_pull"
+:event/player1 "Simone Bentivoglio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1444665"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1444676"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Juan Cuadrado"
+:event/subtype "serious_foul"
+:event/player1 "Andrea Masiello"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1444689"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "blocked_shot"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1444706"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "distance"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1444708"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_11226"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "distance"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1444855"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player1 "Stefano Okaka Chuka"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1444865"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "deflected"
+:event/player1 "Stefano Okaka Chuka"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1444910"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_11226"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Juan Cuadrado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1444925"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Simone Bentivoglio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1444928"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_11226"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Simone Bentivoglio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1444928"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_11226"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Alessandro Parisi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1444933"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_11226"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Abdelkader Ghezzal"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1445713"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1444971"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1444996"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_11226"}
+
+{:event/type "corner"
+:event/elapsed 69
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1444996"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "shot"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1445030"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Alexis Sanchez"
+:event/subtype "penalty"
+:event/player1 "Alessandro Parisi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1445079"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11226"}
+
+{:event/type "goal"
+:event/elapsed 76
+:event/player1 "Antonio Di Natale"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1445092"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1445127"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1445138"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Alexis Sanchez"
+:event/subtype "shirt_pull"
+:event/player1 "Andrea Masiello"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1445171"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11226"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Andrea Masiello"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1445172"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player1 "Bernardo Corradi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1445218"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "distance"
+:event/player1 "Giovanni Pasquale"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1445249"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11226"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "shot"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1445251"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "deflected"
+:event/player1 "Bernardo Corradi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1445270"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11226"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1445284"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11226"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1445284"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Kwadwo Asamoah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1445368"
+:event/minute 91
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Kwadwo Asamoah"
+:event/subtype "from_behind"
+:event/player1 "Kamil Glik"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1445375"
+:event/minute 92
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Alexis Sanchez"
+:event/subtype "from_behind"
+:event/player1 "Simone Bentivoglio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1445376"
+:event/minute 93
+:event/match_id "match_11226"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1445385"
+:event/minute 94
+:event/match_id "match_11226"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Gergely Rudolf"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1445388"
+:event/minute 94
+:event/match_id "match_11226"}
+
+
+]
+

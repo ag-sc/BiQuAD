@@ -1,0 +1,991 @@
+
+;;# data
+[
+{:match/id "match_4621"
+:match/league "England Premier League"
+:match/hometeam "Bournemouth"
+:match/awayteam "Swansea City"
+:match/score "3:2"
+:match/hometeam_goals "3"
+:match/awayteam_goals "2"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5389147"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4621"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "header"
+:event/player1 "Joshua King"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5389150"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Federico Fernandez"
+:event/subtype "pull"
+:event/player1 "Benik Afobe"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5389181"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Leroy Fer"
+:event/subtype "trip"
+:event/player1 "Benik Afobe"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5389197"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5389208"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4621"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "volley"
+:event/player1 "Wayne Routledge"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5389214"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Wayne Routledge"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5389243"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5389250"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Charlie Daniels"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5389272"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4621"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "big chance shot"
+:event/player1 "Joshua King"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5389275"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Matt Ritchie"
+:event/subtype "trip"
+:event/player1 "Jack Cork"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5389307"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Charlie Daniels"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5389316"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4621"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "bad shot"
+:event/player1 "Matt Ritchie"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5389322"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Adam Smith"
+:event/subtype "trip"
+:event/player1 "Wayne Routledge"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5389346"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Max-Alain Gradel"
+:event/subtype "trip"
+:event/player1 "Federico Fernandez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5389380"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4621"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "distance"
+:event/player1 "Andrew Surman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5389393"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4621"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "blocked_shot"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5389410"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Jack Cork"
+:event/subtype "trip"
+:event/player1 "Andrew Surman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5389432"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5389444"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4621"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "header"
+:event/player1 "Federico Fernandez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5389450"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4621"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross_right"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5389471"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Angel Rangel"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5389477"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4621"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "distance"
+:event/player1 "Neil Taylor"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5389481"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Matt Ritchie"
+:event/subtype "trip"
+:event/player1 "Ashley Williams"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5389488"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Matt Ritchie"
+:event/subtype "trip"
+:event/player1 "Neil Taylor"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5389557"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4621"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross_left"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5389566"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4621"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "distance"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5389576"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Adam Smith"
+:event/subtype "trip"
+:event/player1 "Wayne Routledge"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5389593"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_4621"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "direct_freekick"
+:event/player1 "Matt Ritchie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5389598"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4621"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross_left"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5389600"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Joshua King"
+:event/player1 "Leroy Fer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5389608"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Leroy Fer"
+:event/subtype "trip"
+:event/player1 "Andrew Surman"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5389647"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Modou Barrow"
+:event/subtype "pull"
+:event/player1 "Dan Gosling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5389661"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4621"}
+
+{:event/type "card"
+:event/elapsed 34
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Dan Gosling"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5389664"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Adam Smith"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5389711"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4621"}
+
+{:event/type "goal"
+:event/elapsed 37
+:event/subtype "shot"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_5389716"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4621"}
+
+{:event/type "goal"
+:event/elapsed 39
+:event/player2 "Leroy Fer"
+:event/subtype "shot"
+:event/player1 "Modou Barrow"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5389764"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Leroy Fer"
+:event/subtype "serious_foul"
+:event/player1 "Matt Ritchie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5389841"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Angel Rangel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5389855"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4621"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "short_right"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5389867"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5389872"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4621"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "distance"
+:event/player1 "Wayne Routledge"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5389875"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Charlie Daniels"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5389891"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Jack Cork"
+:event/subtype "trip"
+:event/player1 "Dan Gosling"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5389925"
+:event/minute 46
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Adam Smith"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5390164"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5389939"
+:event/minute 46
+:event/match_id "match_4621"}
+
+{:event/type "goal"
+:event/elapsed 50
+:event/player2 "Max-Alain Gradel"
+:event/subtype "shot"
+:event/player1 "Joshua King"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5390242"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4621"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "distance"
+:event/player1 "Angel Rangel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5390327"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Leroy Fer"
+:event/subtype "pushing"
+:event/player1 "Andrew Surman"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5390337"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Angel Rangel"
+:event/subtype "pushing"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5390362"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Simon Francis"
+:event/subtype "pushing"
+:event/player1 "Alberto Paloschi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5390382"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Max-Alain Gradel"
+:event/subtype "serious_foul"
+:event/player1 "Angel Rangel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5390402"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Modou Barrow"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5390435"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Adam Smith"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5390448"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4621"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross_right"
+:event/player1 "Matt Ritchie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5390457"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4621"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "bad shot"
+:event/player1 "Joshua King"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5390462"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Neil Taylor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5390489"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4621"}
+
+{:event/type "goal"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5390527"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4621"}
+
+{:event/type "shoton"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Alberto Paloschi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5390575"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4621"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5390581"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4621"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "volley"
+:event/player1 "Bafetimbi Gomis"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5390587"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5390659"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Alberto Paloschi"
+:event/subtype "trip"
+:event/player1 "Steve Cook"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5390677"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5390739"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4621"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Alberto Paloschi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5390744"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4621"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "short_left"
+:event/player1 "Marc Pugh"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5390755"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Matt Ritchie"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5390756"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4621"}
+
+{:event/type "goal"
+:event/elapsed 78
+:event/player2 "Matt Ritchie"
+:event/subtype "header"
+:event/player1 "Steve Cook"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_5390757"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4621"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "blocked_shot"
+:event/player1 "Joshua King"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5390783"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Marc Pugh"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5390784"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4621"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "lob"
+:event/player1 "Lewis Grabban"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5390821"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4621"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "short_left"
+:event/player1 "Marc Pugh"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5390827"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Neil Taylor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5390858"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Adam Smith"
+:event/subtype "trip"
+:event/player1 "Sung-Yueng Ki"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5390863"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Neil Taylor"
+:event/subtype "dangerous_play"
+:event/player1 "Joshua King"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5390881"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Angel Rangel"
+:event/subtype "pushing"
+:event/player1 "Marc Pugh"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5390890"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4621"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Neil Taylor"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5390905"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4621"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Marvin Emnes"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5390908"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4621"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Matt Ritchie"
+:event/subtype "trip"
+:event/player1 "Neil Taylor"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5390933"
+:event/minute 92
+:event/match_id "match_4621"}
+
+
+]
+

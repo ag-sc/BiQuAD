@@ -1,0 +1,990 @@
+
+;;# data
+[
+{:match/id "match_22415"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "RCD Espanyol"
+:match/awayteam "Villarreal CF"
+:match/score "0:1"
+:match/hometeam_goals "0"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Luis Garcia"
+:event/subtype "from_behind"
+:event/player1 "Borja Valero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390013"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Francisco Chica"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1390014"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1390020"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1390028"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22415"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1390028"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22415"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "big chance shot"
+:event/player1 "Gonzalo Rodriguez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1390030"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22415"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "shot"
+:event/player1 "Marco Ruben"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1390033"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Aldo Pedro Duscher"
+:event/subtype "pushing"
+:event/player1 "Marco Ruben"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390038"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Javi Moreno Marquez"
+:event/subtype "pushing"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390041"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22415"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "shot"
+:event/player1 "Francisco Chica"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1390043"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1390044"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22415"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1390044"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1390048"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22415"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1390048"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Santi Cazorla"
+:event/subtype "from_behind"
+:event/player1 "Aldo Pedro Duscher"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1390061"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22415"}
+
+{:event/type "card"
+:event/elapsed 14
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Aldo Pedro Duscher"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1390062"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Santi Cazorla"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1390074"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22415"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "blocked_shot"
+:event/player1 "Santi Cazorla"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1390082"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22415"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "blocked_shot"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1390084"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1390089"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22415"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1390089"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Joan Verdu"
+:event/subtype "pushing"
+:event/player1 "Cani"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390091"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22415"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "big chance post"
+:event/player1 "Sergio Garcia"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1390095"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1390097"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_22415"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1390097"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/subtype "hands"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390111"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Joan Verdu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1390112"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22415"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Javi Moreno Marquez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1390114"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22415"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "shot"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1390123"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22415"}
+
+{:event/type "card"
+:event/elapsed 32
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1390126"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1390127"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22415"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1390127"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22415"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "big chance shot"
+:event/player1 "Marco Ruben"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1390128"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22415"}
+
+{:event/type "card"
+:event/elapsed 33
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Carlos Kameni"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1390138"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22415"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "distance"
+:event/player1 "Santi Cazorla"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1390131"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1390133"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22415"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "shot"
+:event/player1 "Sergio Garcia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1390140"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_22415"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "shot"
+:event/player1 "Joan Verdu"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1390143"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1390144"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22415"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Luis Garcia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1390144"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Luis Garcia"
+:event/subtype "pushing"
+:event/player1 "Borja Valero"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390147"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Jose Maria Callejon"
+:event/subtype "pushing"
+:event/player1 "Gonzalo Rodriguez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390148"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22415"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "big chance shot"
+:event/player1 "Sergio Garcia"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1390154"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22415"}
+
+{:event/type "goal"
+:event/elapsed 45
+:event/player2 "Santi Cazorla"
+:event/subtype "shot"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1390160"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1390191"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_22415"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Mario Gaspar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1390197"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Javi Moreno Marquez"
+:event/subtype "pushing"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390201"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Sergio Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1390206"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Borja Valero"
+:event/subtype "pushing"
+:event/player1 "Aldo Pedro Duscher"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1390210"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_22415"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "direct_freekick"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1390212"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Santi Cazorla"
+:event/subtype "pushing"
+:event/player1 "Juan Forlin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1390213"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Luis Garcia"
+:event/subtype "serious_foul"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390224"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22415"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Borja Valero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1390225"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Joan Verdu"
+:event/subtype "pushing"
+:event/player1 "Cani"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390229"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Joan Verdu"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1390247"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Jose Maria Callejon"
+:event/subtype "pushing"
+:event/player1 "Cani"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390253"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Jose Maria Callejon"
+:event/subtype "pushing"
+:event/player1 "Joan Capdevila"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390267"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22415"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Giuseppe Rossi"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1390275"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1390276"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22415"}
+
+{:event/type "corner"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Borja Valero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1390276"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22415"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "short"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1390295"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Juan Forlin"
+:event/subtype "serious_foul"
+:event/player1 "Mario Gaspar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390305"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22415"}
+
+{:event/type "card"
+:event/elapsed 75
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Mario Gaspar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1390306"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player2 "Borja Valero"
+:event/subtype "pushing"
+:event/player1 "Ernesto Galan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1390309"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22415"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "header"
+:event/player1 "Marco Ruben"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1390311"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_22415"}
+
+{:event/type "card"
+:event/elapsed 80
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Diego Lopez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1390328"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Ernesto Galan"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1390333"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_22415"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "distance"
+:event/player1 "Francisco Chica"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1390337"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Giuseppe Rossi"
+:event/subtype "from_behind"
+:event/player1 "Juan Forlin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1390339"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "David Garcia"
+:event/subtype "pushing"
+:event/player1 "Gonzalo Rodriguez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1390341"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1390344"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Santi Cazorla"
+:event/subtype "pushing"
+:event/player1 "Juan Forlin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1390348"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Francisco Chica"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1390349"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Jesus Datolo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1390353"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22415"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Jesus Datolo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1390353"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22415"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "distance"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1390354"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22415"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "David Garcia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1390360"
+:event/minute 91
+:event/match_id "match_22415"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Giuseppe Rossi"
+:event/subtype "shirt_pull"
+:event/player1 "Jesus Datolo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1390362"
+:event/minute 91
+:event/match_id "match_22415"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Jose Maria Callejon"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1390367"
+:event/minute 94
+:event/match_id "match_22415"}
+
+
+]
+

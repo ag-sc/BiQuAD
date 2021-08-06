@@ -1,0 +1,845 @@
+
+;;# data
+[
+{:match/id "match_4520"
+:match/league "England Premier League"
+:match/hometeam "Bournemouth"
+:match/awayteam "West Ham United"
+:match/score "1:3"
+:match/hometeam_goals "1"
+:match/awayteam_goals "3"}
+
+{:event/type "shoton"
+:event/elapsed 1
+:event/subtype "shot"
+:event/player1 "Michail Antonio"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5174933"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4520"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "distance"
+:event/player1 "Mark Noble"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5174908"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "James Collins"
+:event/player1 "Benik Afobe"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5174919"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Pedro Mba Obiang"
+:event/subtype "trip"
+:event/player1 "Harry Arter"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5174936"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Michail Antonio"
+:event/subtype "pushing"
+:event/player1 "Adam Smith"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5174940"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Andy Carroll"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5174965"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4520"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "shot"
+:event/player1 "Michail Antonio"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5174968"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Adam Smith"
+:event/subtype "pull"
+:event/player1 "Pedro Mba Obiang"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5175007"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_4520"}
+
+{:event/type "goal"
+:event/elapsed 17
+:event/player2 "Andrew Surman"
+:event/subtype "distance"
+:event/player1 "Harry Arter"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5175020"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4520"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "short_right"
+:event/player1 "Adam Smith"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5175035"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Adam Smith"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5175038"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4520"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "header"
+:event/player1 "Benik Afobe"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5175040"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4520"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "shot"
+:event/player1 "Charlie Daniels"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5175052"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4520"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "blocked_shot"
+:event/player1 "Dan Gosling"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5175130"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4520"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "blocked_shot"
+:event/player1 "Adam Smith"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5175125"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Adam Smith"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5175137"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Junior Stanislas"
+:event/player1 "James Tomkins"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5175171"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5175198"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4520"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross_right"
+:event/player1 "Dimitri Payet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5175202"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4520"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "James Tomkins"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5175204"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5175219"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4520"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Dimitri Payet"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5175277"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4520"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Dimitri Payet"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5175280"
+:event/minute 46
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5175347"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Dimitri Payet"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5175349"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4520"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "cross_right"
+:event/player1 "Dimitri Payet"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5175353"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Michail Antonio"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5175295"
+:event/minute 47
+:event/match_id "match_4520"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross_right"
+:event/player1 "Dimitri Payet"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5175296"
+:event/minute 47
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Dimitri Payet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5175355"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5175358"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4520"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "distance"
+:event/player1 "Michail Antonio"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5175363"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Andrew Surman"
+:event/player1 "Enner Valencia"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5175375"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4520"}
+
+{:event/type "corner"
+:event/elapsed 53
+:event/subtype "cross_left"
+:event/player1 "Dimitri Payet"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5175394"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4520"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "blocked_shot"
+:event/player1 "Mark Noble"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5175395"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Michail Antonio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5175408"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4520"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "blocked_shot"
+:event/player1 "Harry Arter"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5175414"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Dimitri Payet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5175427"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Dimitri Payet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5175433"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5175438"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4520"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "volley"
+:event/player1 "Harry Arter"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5175442"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4520"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "distance"
+:event/player1 "Enner Valencia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5175450"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4520"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "short_right"
+:event/player1 "Dimitri Payet"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5175461"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Carl Jenkinson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5175462"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Enner Valencia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5175473"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4520"}
+
+{:event/type "shoton"
+:event/elapsed 66
+:event/subtype "distance"
+:event/player1 "Dan Gosling"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5175484"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Michail Antonio"
+:event/subtype "pull"
+:event/player1 "Adam Smith"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5175489"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4520"}
+
+{:event/type "card"
+:event/elapsed 66
+:event/card_type "y"
+:event/player1 "Adam Smith"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5175490"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4520"}
+
+{:event/type "goal"
+:event/elapsed 67
+:event/subtype "direct_freekick"
+:event/player1 "Dimitri Payet"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5175496"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4520"}
+
+{:event/type "card"
+:event/elapsed 68
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Dimitri Payet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5175500"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Dan Gosling"
+:event/subtype "trip"
+:event/player1 "Pedro Mba Obiang"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5175503"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Carl Jenkinson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5175512"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4520"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross_right"
+:event/player1 "Dimitri Payet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5175516"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4520"}
+
+{:event/type "goal"
+:event/elapsed 74
+:event/player2 "Dimitri Payet"
+:event/subtype "shot"
+:event/player1 "Enner Valencia"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_5175539"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Lewis Grabban"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5175548"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4520"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "blocked_shot"
+:event/player1 "Junior Stanislas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5175579"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Steve Cook"
+:event/subtype "trip"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5175584"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Mark Noble"
+:event/subtype "trip"
+:event/player1 "Lewis Grabban"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5175586"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Michail Antonio"
+:event/subtype "trip"
+:event/player1 "Dan Gosling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5175587"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4520"}
+
+{:event/type "goal"
+:event/elapsed 84
+:event/subtype "direct_freekick"
+:event/player1 "Enner Valencia"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5175589"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5175604"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4520"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross_left"
+:event/player1 "Junior Stanislas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5175607"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4520"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross_left"
+:event/player1 "Junior Stanislas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5175611"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Adrian"
+:event/subtype "pushing"
+:event/player1 "Glenn Murray"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5175613"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4520"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Pedro Mba Obiang"
+:event/subtype "trip"
+:event/player1 "Dan Gosling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5175616"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4520"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Charlie Daniels"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5175639"
+:event/minute 92
+:event/match_id "match_4520"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Juan Manuel Iturbe"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5175646"
+:event/minute 92
+:event/match_id "match_4520"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross_left"
+:event/player1 "Junior Stanislas"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5175647"
+:event/minute 92
+:event/match_id "match_4520"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Adam Smith"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5175650"
+:event/minute 93
+:event/match_id "match_4520"}
+
+
+]
+

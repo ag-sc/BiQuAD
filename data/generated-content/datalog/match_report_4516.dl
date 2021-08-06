@@ -1,0 +1,987 @@
+
+;;# data
+[
+{:match/id "match_4516"
+:match/league "England Premier League"
+:match/hometeam "Watford"
+:match/awayteam "Manchester City"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Almen Abdi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143706"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 2
+:event/subtype "distance"
+:event/player1 "Almen Abdi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5143710"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "distance"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5143715"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Raheem Sterling"
+:event/player1 "Allan Nyom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5143717"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143718"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143720"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "deflected"
+:event/player1 "Odion Ighalo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5143723"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4516"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross_right"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5143724"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4516"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "big chance shot"
+:event/player1 "Odion Ighalo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5143729"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Odion Ighalo"
+:event/subtype "from_behind"
+:event/player1 "Fernandinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143732"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "direct_freekick"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5143734"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "David Silva"
+:event/player1 "Etienne Capoue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5143736"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4516"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "distance"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5143737"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4516"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross_right"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5143739"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143743"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/subtype "hands"
+:event/player1 "Fernandinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143745"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Yaya Toure"
+:event/subtype "trip"
+:event/player1 "Almen Abdi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5143746"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4516"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "blocked_shot"
+:event/player1 "Yaya Toure"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5143747"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143748"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4516"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "shot"
+:event/player1 "Fernandinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5143751"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "miss_kick"
+:event/player1 "David Silva"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5143752"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "shot"
+:event/player1 "Raheem Sterling"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5143753"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5143756"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5143760"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "deflected"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5143765"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4516"}
+
+{:event/type "card"
+:event/elapsed 38
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Allan Nyom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5143770"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Odion Ighalo"
+:event/player1 "Eliaquim Mangala"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143771"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143772"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Jose Manuel Jurado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143774"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Etienne Capoue"
+:event/subtype "trip"
+:event/player1 "Fernandinho"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143778"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143779"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Jose Holebas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143784"
+:event/minute 46
+:event/match_id "match_4516"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "distance"
+:event/player1 "Ben Watson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5143793"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4516"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "cross_left"
+:event/player1 "Ben Watson"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5143794"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Jose Holebas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143798"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Allan Nyom"
+:event/subtype "pull"
+:event/player1 "Raheem Sterling"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143800"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Ben Watson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143801"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_4516"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "deflected"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5143808"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4516"}
+
+{:event/type "corner"
+:event/elapsed 54
+:event/subtype "cross_left"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5143810"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "header"
+:event/player1 "Fernandinho"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5143811"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_4516"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross_left"
+:event/player1 "Ben Watson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5143813"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4516"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/subtype "distance"
+:event/player1 "Ben Watson"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_5143814"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4516"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross_left"
+:event/player1 "David Silva"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5143817"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Miguel Britos"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143824"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Allan Nyom"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143827"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Troy Deeney"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143829"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "deflected"
+:event/player1 "Jose Holebas"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5143832"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143834"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4516"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross_right"
+:event/player1 "David Silva"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5143836"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Odion Ighalo"
+:event/player1 "Eliaquim Mangala"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143840"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Jose Holebas"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143841"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Sergio Aguero"
+:event/subtype "trip"
+:event/player1 "Allan Nyom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5143843"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143844"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143847"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Yaya Toure"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5143848"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4516"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5143852"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4516"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross_right"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5143853"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4516"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "blocked_shot"
+:event/player1 "Sergio Aguero"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5143855"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Allan Nyom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143858"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Allan Nyom"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143863"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "distance"
+:event/player1 "Yaya Toure"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5143867"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "distance"
+:event/player1 "Almen Abdi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5143870"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143873"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143875"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143877"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Troy Deeney"
+:event/player1 "Wilfried Bony"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143882"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4516"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Etienne Capoue"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5143884"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143886"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4516"}
+
+{:event/type "corner"
+:event/elapsed 82
+:event/subtype "cross_left"
+:event/player1 "Aleksandar Kolarov"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5143888"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4516"}
+
+{:event/type "goal"
+:event/elapsed 82
+:event/player2 "Aleksandar Kolarov"
+:event/subtype "volley"
+:event/player1 "Yaya Toure"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_5143889"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/subtype "hands"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143891"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Kevin de Bruyne"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143892"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5143896"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4516"}
+
+{:event/type "goal"
+:event/elapsed 85
+:event/player2 "Bacary Sagna"
+:event/subtype "header"
+:event/player1 "Sergio Aguero"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5143897"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Jose Holebas"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143904"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4516"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Odion Ighalo"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5143905"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jose Holebas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143909"
+:event/minute 92
+:event/match_id "match_4516"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Allan Nyom"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5143911"
+:event/minute 92
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Jose Holebas"
+:event/subtype "trip"
+:event/player1 "Jesus Navas"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5143913"
+:event/minute 93
+:event/match_id "match_4516"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Wilfried Bony"
+:event/subtype "from_behind"
+:event/player1 "Jose Holebas"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5143914"
+:event/minute 94
+:event/match_id "match_4516"}
+
+
+]
+

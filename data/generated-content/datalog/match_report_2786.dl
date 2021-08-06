@@ -1,0 +1,1230 @@
+
+;;# data
+[
+{:match/id "match_2786"
+:match/league "England Premier League"
+:match/hometeam "Fulham"
+:match/awayteam "Liverpool"
+:match/score "2:5"
+:match/hometeam_goals "2"
+:match/awayteam_goals "5"}
+
+{:event/type "goal"
+:event/elapsed 1
+:event/subtype "shot"
+:event/player1 "Maxi Rodriguez"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1547971"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Lucas Leiva"
+:event/subtype "serious_foul"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1547975"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2786"}
+
+{:event/type "card"
+:event/elapsed 3
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Danny Murphy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1547977"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2786"}
+
+{:event/type "goal"
+:event/elapsed 7
+:event/player2 "Glen Johnson"
+:event/subtype "shot"
+:event/player1 "Maxi Rodriguez"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1547990"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Raul Meireles"
+:event/subtype "serious_foul"
+:event/player1 "Eidur Gudjohnsen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1547994"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Raul Meireles"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1548001"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2786"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Raul Meireles"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1548001"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Raul Meireles"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1548007"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2786"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Raul Meireles"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1548007"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Danny Murphy"
+:event/subtype "pushing"
+:event/player1 "Lucas Leiva"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1548009"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548021"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2786"}
+
+{:event/type "goal"
+:event/elapsed 16
+:event/player2 "Glen Johnson"
+:event/subtype "shot"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1548029"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Chris Baird"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548049"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2786"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "big chance shot"
+:event/player1 "Raul Meireles"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1548055"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Eidur Gudjohnsen"
+:event/subtype "pushing"
+:event/player1 "Lucas Leiva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1548059"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2786"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "header"
+:event/player1 "Clint Dempsey"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1548062"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2786"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Luis Suarez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1548066"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Luis Suarez"
+:event/subtype "pushing"
+:event/player1 "Aaron Hughes"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1548071"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Jon Flanagan"
+:event/subtype "from_behind"
+:event/player1 "Simon Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1548090"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Chris Baird"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548096"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Luis Suarez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1548099"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2786"}
+
+{:event/type "shotoff"
+:event/elapsed 31
+:event/subtype "distance"
+:event/player1 "Lucas Leiva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1548102"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548112"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1548125"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2786"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1548125"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2786"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1548126"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1548130"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2786"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1548130"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Carlos Salcido"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548136"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1548138"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2786"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1548138"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Luis Suarez"
+:event/subtype "pushing"
+:event/player1 "Danny Murphy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1548142"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2786"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "deflected"
+:event/player1 "Luis Suarez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1548145"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Raul Meireles"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1548146"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2786"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Raul Meireles"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1548146"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/subtype "hands"
+:event/player1 "Raul Meireles"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1548148"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Maxi Rodriguez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1548150"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2786"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "distance"
+:event/player1 "Luis Suarez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1548157"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Steve Sidwell"
+:event/subtype "pushing"
+:event/player1 "Lucas Leiva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1548160"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2786"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "distance"
+:event/player1 "Clint Dempsey"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1548163"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Simon Davies"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548165"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2786"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Steve Sidwell"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1548166"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Jay Spearing"
+:event/subtype "from_behind"
+:event/player1 "Clint Dempsey"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1548168"
+:event/minute 46
+:event/match_id "match_2786"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Clint Dempsey"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1548169"
+:event/minute 46
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Luis Suarez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1548218"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Steve Sidwell"
+:event/subtype "pushing"
+:event/player1 "Glen Johnson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1548221"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2786"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "shot"
+:event/player1 "Clint Dempsey"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1548232"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2786"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "distance"
+:event/player1 "Eidur Gudjohnsen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1548243"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Aaron Hughes"
+:event/subtype "pushing"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1548250"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Luis Suarez"
+:event/subtype "from_behind"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1548255"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Glen Johnson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1548261"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Dirk Kuyt"
+:event/subtype "pushing"
+:event/player1 "Carlos Salcido"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1548266"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2786"}
+
+{:event/type "goal"
+:event/elapsed 57
+:event/player2 "Bobby Zamora"
+:event/subtype "shot"
+:event/player1 "Moussa Dembele"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1548276"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2786"}
+
+{:event/type "card"
+:event/elapsed 58
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Pepe Reina"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1548278"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2786"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "blocked_shot"
+:event/player1 "Carlos Salcido"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1548284"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Clint Dempsey"
+:event/subtype "pushing"
+:event/player1 "Glen Johnson"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1548287"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Moussa Dembele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548293"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Jonjo Shelvey"
+:event/subtype "pushing"
+:event/player1 "Aaron Hughes"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1548296"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2786"}
+
+{:event/type "card"
+:event/elapsed 61
+:event/card_type "y"
+:event/subtype "hands"
+:event/player1 "Carlos Salcido"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1548301"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1548310"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2786"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1548310"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Steve Sidwell"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548317"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Glen Johnson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1548324"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Chris Baird"
+:event/subtype "pushing"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1548332"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2786"}
+
+{:event/type "card"
+:event/elapsed 66
+:event/card_type "y"
+:event/subtype "hands"
+:event/player1 "Martin Skrtel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1548334"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2786"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_shot"
+:event/player1 "Bobby Zamora"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1548336"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Carlos Salcido"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548339"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1548359"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2786"}
+
+{:event/type "corner"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1548359"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2786"}
+
+{:event/type "goal"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Maxi Rodriguez"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_1548366"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Martin Skrtel"
+:event/subtype "pushing"
+:event/player1 "Bobby Zamora"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1548389"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Lucas Leiva"
+:event/subtype "serious_foul"
+:event/player1 "Steve Sidwell"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1548390"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2786"}
+
+{:event/type "card"
+:event/elapsed 74
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Steve Sidwell"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1548391"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2786"}
+
+{:event/type "goal"
+:event/elapsed 75
+:event/player2 "Jonjo Shelvey"
+:event/subtype "shot"
+:event/player1 "Luis Suarez"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1548393"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Gael Kakuta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548404"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2786"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "big chance shot"
+:event/player1 "Maxi Rodriguez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1548410"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Chris Baird"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548417"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2786"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "short"
+:event/player1 "Danny Murphy"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1548419"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Chris Baird"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548420"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2786"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "blocked_shot"
+:event/player1 "Steve Sidwell"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1548421"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Gael Kakuta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1548424"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2786"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Gael Kakuta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1548424"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Carlos Salcido"
+:event/subtype "pushing"
+:event/player1 "Glen Johnson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1548430"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Carlos Salcido"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1548431"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Pepe Reina"
+:event/subtype "pushing"
+:event/player1 "Bobby Zamora"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1548432"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2786"}
+
+{:event/type "goal"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Steve Sidwell"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1548433"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Joe Cole"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1548435"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2786"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1548438"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Dirk Kuyt"
+:event/subtype "serious_foul"
+:event/player1 "Chris Baird"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1548439"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2786"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Chris Baird"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1548440"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2786"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Lucas Leiva"
+:event/subtype "pushing"
+:event/player1 "Carlos Salcido"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1548441"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2786"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1548443"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1548444"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2786"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1548444"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2786"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Jay Spearing"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1548445"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jonjo Shelvey"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1548450"
+:event/minute 91
+:event/match_id "match_2786"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Luis Suarez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1548455"
+:event/minute 93
+:event/match_id "match_2786"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "big chance shot"
+:event/player1 "Dirk Kuyt"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1548461"
+:event/minute 94
+:event/match_id "match_2786"}
+
+
+]
+

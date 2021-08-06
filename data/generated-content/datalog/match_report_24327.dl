@@ -1,0 +1,944 @@
+
+;;# data
+[
+{:match/id "match_24327"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "RC Deportivo de La Coruña"
+:match/awayteam "Rayo Vallecano"
+:match/score "2:2"
+:match/hometeam_goals "2"
+:match/awayteam_goals "2"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Bebe"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5240000"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Diego Llorente"
+:event/subtype "pushing"
+:event/player1 "Cani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5240015"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_24327"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "blocked_shot"
+:event/player1 "Bebe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5240016"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_24327"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "distance"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5240021"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_24327"}
+
+{:event/type "goal"
+:event/elapsed 8
+:event/player2 "Quini"
+:event/subtype "shot"
+:event/player1 "Miku"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5240028"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Alejandro Bergantinos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240035"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Nacho Martinez"
+:event/player1 "Pedro Mosquera"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5240037"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_24327"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "volley"
+:event/player1 "Luis Alberto"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5240039"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_24327"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross_right"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5240040"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_24327"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "header"
+:event/player1 "Alejandro Arribas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5240042"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Faycal Fajr"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240046"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_24327"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "shot"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5240054"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Pedro Mosquera"
+:event/subtype "trip"
+:event/player1 "Diego Llorente"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240057"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_24327"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross_right"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5240059"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Bebe"
+:event/player1 "Sidnei"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5240061"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5240069"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_24327"}
+
+{:event/type "goal"
+:event/elapsed 19
+:event/player2 "Luis Alberto"
+:event/subtype "shot"
+:event/player1 "Lucas Perez"
+:event/sortorder 4
+:event/team "home"
+:event/id "event_5240074"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Juanfran"
+:event/player1 "Bebe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240081"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_24327"}
+
+{:event/type "goal"
+:event/elapsed 23
+:event/player2 "Miku"
+:event/subtype "shot"
+:event/player1 "Jozabed"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_5240096"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Bebe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5240106"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Cani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240134"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_24327"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "volley"
+:event/player1 "Alejandro Bergantinos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5240135"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Pedro Mosquera"
+:event/player1 "Roberto Trashorras"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240155"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_24327"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Faycal Fajr"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5240165"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Quini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5240176"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Alejandro Bergantinos"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240178"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240185"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Quini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5240192"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Quini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5240194"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_24327"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Bebe"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5240196"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Bebe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5240204"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_24327"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross_left"
+:event/player1 "Roberto Trashorras"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5240209"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Fernando Navarro"
+:event/subtype "trip"
+:event/player1 "Miku"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240220"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Luis Alberto"
+:event/player1 "Jozabed"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240279"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240280"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_24327"}
+
+{:event/type "shoton"
+:event/elapsed 46
+:event/subtype "shot"
+:event/player1 "Cani"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5240281"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Pedro Mosquera"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240282"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_24327"}
+
+{:event/type "goal"
+:event/elapsed 46
+:event/subtype "distance"
+:event/player1 "Faycal Fajr"
+:event/sortorder 6
+:event/team "home"
+:event/id "event_5240283"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_24327"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "shot"
+:event/player1 "Lucas Perez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5240293"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Cani"
+:event/player1 "Roberto Trashorras"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240299"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240306"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_24327"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "short_right"
+:event/player1 "Cani"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5240308"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_24327"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "post"
+:event/player1 "Luis Alberto"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5240323"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_24327"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "distance"
+:event/player1 "Luis Alberto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5240336"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Juanfran"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240348"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Juanfran"
+:event/subtype "pushing"
+:event/player1 "Bebe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240360"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Pedro Mosquera"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240370"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_24327"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "Alejandro Bergantinos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5240377"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Faycal Fajr"
+:event/subtype "trip"
+:event/player1 "Javi Guerra"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240384"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240385"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Juanfran"
+:event/player1 "Pablo Hernandez"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240389"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_24327"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Lucas Perez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5240392"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_24327"}
+
+{:event/type "corner"
+:event/elapsed 69
+:event/subtype "cross_right"
+:event/player1 "Faycal Fajr"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5240396"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_24327"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "blocked_shot"
+:event/player1 "Javi Guerra"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5240399"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Tito"
+:event/subtype "pushing"
+:event/player1 "Faycal Fajr"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5240401"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240405"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Bebe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5240415"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Bebe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5240421"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_24327"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross_left"
+:event/player1 "Bebe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5240422"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Manu Fernandez"
+:event/subtype "pushing"
+:event/player1 "Tito"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240424"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_24327"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross_right"
+:event/player1 "Piti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5240427"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Bebe"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5240430"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Jonathan Rodriguez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240434"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Bebe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5240443"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Fernando Navarro"
+:event/subtype "pushing"
+:event/player1 "Piti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240445"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_24327"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "deflected"
+:event/player1 "Lucas Perez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5240452"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_24327"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "cross_left"
+:event/player1 "Lucas Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5240453"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_24327"}
+
+{:event/type "shoton"
+:event/elapsed 85
+:event/subtype "blocked_shot"
+:event/player1 "Luis Alberto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5240454"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_24327"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "volley"
+:event/player1 "Luis Alberto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5240456"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Alejandro Arribas"
+:event/subtype "pushing"
+:event/player1 "Jose Raul Baena"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5240459"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240465"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_24327"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "blocked_shot"
+:event/player1 "Faycal Fajr"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5240469"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_24327"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Pedro Mosquera"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5240470"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Ze Castro"
+:event/subtype "pushing"
+:event/player1 "Jonathan Rodriguez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5240472"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_24327"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Diego Llorente"
+:event/subtype "pushing"
+:event/player1 "Jonathan Rodriguez"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5240480"
+:event/minute 91
+:event/match_id "match_24327"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Piti"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5240488"
+:event/minute 94
+:event/match_id "match_24327"}
+
+
+]
+

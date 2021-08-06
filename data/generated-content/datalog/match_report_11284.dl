@@ -1,0 +1,964 @@
+
+;;# data
+[
+{:match/id "match_11284"
+:match/league "Italy Serie A"
+:match/hometeam "Napoli"
+:match/awayteam "Udinese"
+:match/score "2:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1511197"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511198"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11284"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "German Denis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1511199"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "bicycle_kick"
+:event/player1 "Hassan Yebda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511201"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_11284"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "blocked_shot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1511202"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "big chance shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511207"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "big chance shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511211"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player1 "Kwadwo Asamoah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511212"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_11284"}
+
+{:event/type "card"
+:event/elapsed 13
+:event/card_type "y"
+:event/player1 "Kwadwo Asamoah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1511213"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player1 "Michele Pazienza"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511216"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511221"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "bad shot"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511224"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "distance"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1511233"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511249"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511254"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Christian Maggio"
+:event/subtype "serious_foul"
+:event/player1 "Maurizio Domizzi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511255"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Mauricio Isla"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1511258"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11284"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Mauricio Isla"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1511258"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1511260"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "header"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1511261"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/subtype "hands"
+:event/player1 "German Denis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511265"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511275"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player1 "German Denis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511281"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Samir Handanovic"
+:event/subtype "serious_foul"
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511282"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "German Denis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511294"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_11284"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "short"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1511303"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1511305"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511306"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_11284"}
+
+{:event/type "corner"
+:event/elapsed 41
+:event/subtype "short"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1511307"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511312"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player1 "Michele Pazienza"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511315"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11284"}
+
+{:event/type "card"
+:event/elapsed 43
+:event/card_type "y"
+:event/player1 "Michele Pazienza"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1511317"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/subtype "hands"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511330"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511367"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511368"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1511336"
+:event/minute 47
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511337"
+:event/minute 47
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511370"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1511371"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "big chance shot"
+:event/player1 "Marek Hamsik"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511372"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Giovanni Pasquale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1511374"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "distance"
+:event/player1 "Paolo Cannavaro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511376"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_11284"}
+
+{:event/type "goal"
+:event/elapsed 56
+:event/player2 "Pablo Armero"
+:event/subtype "distance"
+:event/player1 "Gokhan Inler"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1511380"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11284"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "blocked_shot"
+:event/player1 "German Denis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1511381"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Pablo Armero"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1511388"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1511390"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_11284"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1511390"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_11284"}
+
+{:event/type "goal"
+:event/elapsed 62
+:event/player2 "Pablo Armero"
+:event/subtype "shot"
+:event/player1 "German Denis"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1511395"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1511405"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11284"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1511405"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "header"
+:event/player1 "Hassan Yebda"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511407"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511419"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_11284"}
+
+{:event/type "card"
+:event/elapsed 69
+:event/card_type "y"
+:event/player1 "Samir Handanovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1511421"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_11284"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1511422"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "big chance shot"
+:event/player1 "Walter Gargano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511423"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1511426"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1511429"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11284"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1511429"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1511431"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "crossbar"
+:event/player1 "Christian Maggio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511433"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511437"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Giovanni Pasquale"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1511441"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player1 "German Denis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511450"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11284"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/player1 "Paolo Cannavaro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1511451"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511459"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1511462"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "header"
+:event/player1 "Edinson Cavani"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511464"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11284"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "shot"
+:event/player1 "German Denis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1511468"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "shot"
+:event/player1 "Ezequiel Lavezzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511470"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1511476"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_11284"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1511476"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511483"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11284"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "short"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1511485"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/subtype "penalty"
+:event/player1 "Maurizio Domizzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511487"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11284"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/player1 "Maurizio Domizzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1516420"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11284"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "r"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Maurizio Domizzi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1511489"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11284"}
+
+{:event/type "goal"
+:event/elapsed 89
+:event/subtype "saved_back_into_play"
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1511491"
+:event/event_type "goal"
+:event/goal_type "npm"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Hugo Campagnaro"
+:event/player1 "Pablo Armero"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511496"
+:event/minute 91
+:event/match_id "match_11284"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Hugo Campagnaro"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1511504"
+:event/minute 92
+:event/match_id "match_11284"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1511507"
+:event/minute 93
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1511515"
+:event/minute 94
+:event/match_id "match_11284"}
+
+{:event/type "goal"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/player2 "Edinson Cavani"
+:event/subtype "shot"
+:event/player1 "Giuseppe Mascara"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1511520"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 96
+:event/match_id "match_11284"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 7
+:event/elapsed 90
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1511523"
+:event/minute 97
+:event/match_id "match_11284"}
+
+
+]
+

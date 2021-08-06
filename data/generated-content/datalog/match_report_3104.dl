@@ -1,0 +1,980 @@
+
+;;# data
+[
+{:match/id "match_3104"
+:match/league "England Premier League"
+:match/hometeam "Norwich City"
+:match/awayteam "Wolverhampton Wanderers"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "shot"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2011140"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed 2
+:event/subtype "header"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2011150"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2011144"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2011154"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "blocked_shot"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2011168"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "blocked_shot"
+:event/player1 "David Fox"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2011170"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Simeon Jackson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2011175"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3104"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "short"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011179"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "David Fox"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011260"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3104"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "David Fox"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011260"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "header"
+:event/player1 "Zak Whitbread"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2011261"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Richard Stearman"
+:event/player1 "Simon Lappin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2011341"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Grant Holt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2011397"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Simon Lappin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011404"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3104"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Simon Lappin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2011404"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Jonathan Howson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2011425"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Michael Kightly"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2011459"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3104"}
+
+{:event/type "goal"
+:event/elapsed 25
+:event/player2 "Kevin Doyle"
+:event/subtype "shot"
+:event/player1 "Matt Jarvis"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_2011462"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3104"}
+
+{:event/type "goal"
+:event/elapsed 26
+:event/player2 "Simeon Jackson"
+:event/subtype "header"
+:event/player1 "Grant Holt"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_2011485"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3104"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "bad shot"
+:event/player1 "Grant Holt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2011520"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player1 "Elliott Bennett"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2011550"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Simon Lappin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2011577"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Sebastien Bassong"
+:event/subtype "pushing"
+:event/player1 "Grant Holt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2011615"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2011643"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2011647"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Roger Johnson"
+:event/subtype "pushing"
+:event/player1 "Simeon Jackson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2011682"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Michael Kightly"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2011693"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3104"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "shot"
+:event/player1 "Michael Kightly"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2011703"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Jonathan Howson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2011719"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "big chance blocked"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2011761"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "big chance blocked"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2011770"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/subtype "penalty"
+:event/player1 "Eggert Jonsson"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2011775"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3104"}
+
+{:event/type "card"
+:event/elapsed 45
+:event/card_type "y"
+:event/subtype "hands"
+:event/player1 "Eggert Jonsson"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2011798"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3104"}
+
+{:event/type "goal"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player1 "Grant Holt"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_2011781"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/minute 46
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "blocked_shot"
+:event/player1 "Elliott Bennett"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2011929"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "blocked_shot"
+:event/player1 "Jonathan Howson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2011945"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_3104"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "deflected"
+:event/player1 "Matt Jarvis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2011990"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2012001"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3104"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2012001"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Kevin Doyle"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2012022"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Kevin Doyle"
+:event/player1 "Zak Whitbread"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012050"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2012076"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player1 "Roger Johnson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2012102"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3104"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "short"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2012126"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed 60
+:event/subtype "distance"
+:event/player1 "Eggert Jonsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2012127"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Elliott Bennett"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2012133"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2012139"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3104"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2012139"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3104"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "Jonathan Howson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2012145"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012160"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Grant Holt"
+:event/player1 "Roger Johnson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2012179"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3104"}
+
+{:event/type "card"
+:event/elapsed 63
+:event/card_type "y"
+:event/player1 "Roger Johnson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2012180"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3104"}
+
+{:event/type "card"
+:event/elapsed 63
+:event/card_type "y"
+:event/player1 "Grant Holt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2012190"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Wesley Hoolahan"
+:event/player1 "David Edwards"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2012210"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2012239"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Wesley Hoolahan"
+:event/player1 "Nenad Milijas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2012253"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3104"}
+
+{:event/type "corner"
+:event/elapsed 69
+:event/subtype "short"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2012284"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2012289"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3104"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "volley"
+:event/player1 "Zak Whitbread"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2012290"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player1 "Nenad Milijas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2012316"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2012333"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Sebastien Bassong"
+:event/player1 "Grant Holt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012387"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012399"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Sylvan Ebanks-Blake"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2012415"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012424"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Jonathan Howson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2012447"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2012509"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_3104"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Matt Jarvis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2012509"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Michael Kightly"
+:event/subtype "from_behind"
+:event/player1 "Grant Holt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012526"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_3104"}
+
+{:event/type "card"
+:event/elapsed 85
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Grant Holt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2012536"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Michael Kightly"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2012553"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3104"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Nenad Milijas"
+:event/player1 "Zak Whitbread"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2012580"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_3104"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Zak Whitbread"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2012581"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Sylvan Ebanks-Blake"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2012609"
+:event/minute 91
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2012617"
+:event/minute 92
+:event/match_id "match_3104"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2012617"
+:event/minute 92
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Stephen Ward"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2012633"
+:event/minute 93
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Nenad Milijas"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2012638"
+:event/minute 93
+:event/match_id "match_3104"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Nenad Milijas"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2012638"
+:event/minute 93
+:event/match_id "match_3104"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Matt Jarvis"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2012641"
+:event/minute 93
+:event/match_id "match_3104"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Nenad Milijas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2012651"
+:event/minute 94
+:event/match_id "match_3104"}
+
+{:event/type "cross"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Stephen Ward"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2012661"
+:event/minute 95
+:event/match_id "match_3104"}
+
+
+]
+

@@ -1,0 +1,833 @@
+
+;;# data
+[
+{:match/id "match_2039"
+:match/league "England Premier League"
+:match/hometeam "Arsenal"
+:match/awayteam "Stoke City"
+:match/score "3:2"
+:match/hometeam_goals "4"
+:match/awayteam_goals "1"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_690809"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "header"
+:event/player1 "Ryan Shawcross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_690812"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Bacary Sagna"
+:event/player1 "Rory Delap"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_690819"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Cesc Fabregas"
+:event/player1 "Salif Diao"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_690870"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2039"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_690890"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2039"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_690890"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Glenn Whelan"
+:event/subtype "serious_foul"
+:event/player1 "Denilson"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_690898"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2039"}
+
+{:event/type "card"
+:event/elapsed 4
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Denilson"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "card"
+:event/id "event_690904"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "distance"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_690970"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2039"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "distance"
+:event/player1 "Denilson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_691045"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2039"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "short"
+:event/player1 "Robin van Persie"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_691052"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2039"}
+
+{:event/type "goal"
+:event/elapsed 10
+:event/player1 "James Beattie"
+:event/sortorder 5
+:event/team "away"
+:event/id "event_691055"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2039"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_691111"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player1 "Abou Diaby"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_691126"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player1 "James Beattie"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_691138"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Robin van Persie"
+:event/subtype "penalty"
+:event/player1 "Ryan Shawcross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_691189"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2039"}
+
+{:event/type "goal"
+:event/elapsed 16
+:event/player1 "Robin van Persie"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_691200"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Bacary Sagna"
+:event/player1 "Salif Diao"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_691236"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2039"}
+
+{:event/type "goal"
+:event/elapsed 18
+:event/player2 "Robin van Persie"
+:event/subtype "header"
+:event/player1 "Abou Diaby"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_691253"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2039"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "short"
+:event/player1 "Robin van Persie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_691326"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Liam Lawrence"
+:event/player1 "Abou Diaby"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_691417"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2039"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Abou Diaby"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_691491"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player1 "Denilson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_691511"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2039"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "direct_freekick"
+:event/player1 "James Beattie"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_691527"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2039"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "shot"
+:event/player1 "Theo Walcott"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_691560"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2039"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "blocked_shot"
+:event/player1 "Theo Walcott"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_691570"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2039"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_691579"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2039"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_691579"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2039"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "header"
+:event/player1 "Alex Song"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_691586"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Ricardo Fuller"
+:event/subtype "penalty"
+:event/player1 "Denilson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_691603"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2039"}
+
+{:event/type "goal"
+:event/elapsed 31
+:event/player1 "Ricardo Fuller"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_691611"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2039"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Kieran Gibbs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_691636"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Cesc Fabregas"
+:event/player1 "Salif Diao"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_691674"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "crossbar"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_691691"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2039"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "bicycle_kick"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_691695"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2039"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_691701"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2039"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_691701"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2039"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Bacary Sagna"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_691717"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "header"
+:event/player1 "Kieran Gibbs"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_691718"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2039"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "distance"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_691858"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "distance"
+:event/player1 "Kieran Gibbs"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_692041"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2039"}
+
+{:event/type "goal"
+:event/elapsed 41
+:event/subtype "volley"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_691930"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "post"
+:event/player1 "Kolo Toure"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_691976"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player1 "James Beattie"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_692052"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2039"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_692255"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 46
+:event/subtype "header"
+:event/player1 "Robin van Persie"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_692260"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_2039"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "short"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_692336"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Ricardo Fuller"
+:event/player1 "Abou Diaby"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_692361"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "header"
+:event/player1 "Ryan Shawcross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_692390"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "distance"
+:event/player1 "Bacary Sagna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_692508"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Andrey Arshavin"
+:event/subtype "from_behind"
+:event/player1 "Liam Lawrence"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_692565"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2039"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Andrey Arshavin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_692594"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "header"
+:event/player1 "Kolo Toure"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_692600"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Denilson"
+:event/player1 "James Beattie"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_692636"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "James Beattie"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_692654"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Vito Mannone"
+:event/player1 "Abdoulaye Faye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_692686"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "shot"
+:event/player1 "Robin van Persie"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_692767"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "shot"
+:event/player1 "Emmanuel Eboue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_692860"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2039"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "blocked_shot"
+:event/player1 "Denilson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_692945"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_2039"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Emmanuel Eboue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_692990"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "header"
+:event/player1 "Abou Diaby"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_692996"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "distance"
+:event/player1 "Nicklas Bendtner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_693134"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Rory Delap"
+:event/player1 "Nicklas Bendtner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_693149"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Alex Song"
+:event/player1 "James Beattie"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_693317"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2039"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "distance"
+:event/player1 "Kieran Gibbs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_693395"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/subtype "hands"
+:event/player1 "Carlos Vela"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_693594"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2039"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Carlos Vela"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_693645"
+:event/minute 91
+:event/match_id "match_2039"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "James Beattie"
+:event/player1 "Kieran Gibbs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_693664"
+:event/minute 92
+:event/match_id "match_2039"}
+
+
+]
+

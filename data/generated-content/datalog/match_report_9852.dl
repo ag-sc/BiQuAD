@@ -1,0 +1,974 @@
+
+;;# data
+[
+{:match/id "match_9852"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "FC Bayern Munich"
+:match/awayteam "Hertha BSC Berlin"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Sascha Burchert"
+:event/subtype "pushing"
+:event/player1 "Robert Lewandowski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4394197"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Valentin Stocker"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4394211"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Fabian Lustenberger"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4394225"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_9852"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross_right"
+:event/player1 "Genki Haraguchi"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4394234"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Philipp Lahm"
+:event/subtype "pull"
+:event/player1 "Salomon Kalou"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4394242"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Gianluca Gaudino"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4394254"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Salomon Kalou"
+:event/subtype "pushing"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4394263"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Mitchell Weiser"
+:event/subtype "pull"
+:event/player1 "Genki Haraguchi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4394273"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4394300"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Peter Pekarik"
+:event/subtype "pushing"
+:event/player1 "Mario Goetze"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4394310"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Nico Schulz"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4394336"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_9852"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "shot"
+:event/player1 "Valentin Stocker"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4394341"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4394410"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Sebastian Rode"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4394436"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_9852"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "header"
+:event/player1 "Thomas Mueller"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4394439"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_9852"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross_left"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4394497"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_9852"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "shot"
+:event/player1 "Thomas Mueller"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4394514"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4394541"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Valentin Stocker"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4394568"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_9852"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Salomon Kalou"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4394573"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Per Ciljan Skjelbred"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4394599"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_9852"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Salomon Kalou"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4394603"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Thomas Mueller"
+:event/subtype "pushing"
+:event/player1 "Per Ciljan Skjelbred"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4394611"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Philipp Lahm"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4394612"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Peter Pekarik"
+:event/subtype "pull"
+:event/player1 "Dante"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4394614"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4394640"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Genki Haraguchi"
+:event/subtype "from_behind"
+:event/player1 "Dante"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4394643"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Valentin Stocker"
+:event/subtype "trip"
+:event/player1 "Gianluca Gaudino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4394652"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Sebastian Rode"
+:event/subtype "pushing"
+:event/player1 "Marvin Plattenhardt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4394659"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4394666"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_9852"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "distance"
+:event/player1 "Jerome Boateng"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4394685"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Philipp Lahm"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4394702"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Fabian Lustenberger"
+:event/subtype "pushing"
+:event/player1 "Gianluca Gaudino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4394742"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_9852"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "blocked_shot"
+:event/player1 "Nico Schulz"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4394750"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Peter Pekarik"
+:event/subtype "pushing"
+:event/player1 "Sebastian Rode"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4394646"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Sebastian Langkamp"
+:event/subtype "from_behind"
+:event/player1 "Thomas Mueller"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4395018"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Dante"
+:event/subtype "pull"
+:event/player1 "Genki Haraguchi"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4395039"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Sebastian Rode"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395028"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395091"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395100"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9852"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "shot"
+:event/player1 "Valentin Stocker"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4395118"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_9852"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "shot"
+:event/player1 "Nico Schulz"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4395128"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_9852"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross_right"
+:event/player1 "Marvin Plattenhardt"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4395137"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Nico Schulz"
+:event/subtype "from_behind"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4395140"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395168"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395183"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395198"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Valentin Stocker"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4395222"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Manuel Neuer"
+:event/subtype "pull"
+:event/player1 "Salomon Kalou"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4395223"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_9852"}
+
+{:event/type "card"
+:event/elapsed 63
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Salomon Kalou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4395232"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_9852"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross_left"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4395248"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_9852"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "Robert Lewandowski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4395258"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395280"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9852"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "distance"
+:event/player1 "Jerome Boateng"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4395287"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Marcel Ndjeng"
+:event/subtype "pushing"
+:event/player1 "Sebastian Rode"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4395289"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_9852"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "direct_freekick"
+:event/player1 "Marvin Plattenhardt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4395304"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Sebastian Rode"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395321"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Peter Pekarik"
+:event/subtype "pushing"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4395324"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Jerome Boateng"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395379"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_9852"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross_right"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4395396"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Dante"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395404"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395418"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_9852"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross_left"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4395429"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_9852"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "header"
+:event/player1 "Robert Lewandowski"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4395433"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_9852"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross_left"
+:event/player1 "unknown"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4395435"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_9852"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "shot"
+:event/player1 "Marcel Ndjeng"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4395451"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Jerome Boateng"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395463"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9852"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "crossbar"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4395467"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Mitchell Weiser"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395488"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_9852"}
+
+{:event/type "goal"
+:event/elapsed 80
+:event/player2 "Mitchell Weiser"
+:event/subtype "shot"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4395473"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Bastian Schweinsteiger"
+:event/subtype "from_behind"
+:event/player1 "Sebastian Langkamp"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4395550"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Philipp Lahm"
+:event/subtype "pull"
+:event/player1 "Jens Hegeler"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4395589"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_9852"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Robert Lewandowski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4395603"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_9852"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4395634"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_9852"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "miss_kick"
+:event/player1 "Robert Lewandowski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4395636"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_9852"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Jens Hegeler"
+:event/subtype "from_behind"
+:event/player1 "Dante"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4395662"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Sebastian Langkamp"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4395678"
+:event/minute 91
+:event/match_id "match_9852"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Robert Lewandowski"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4395693"
+:event/minute 92
+:event/match_id "match_9852"}
+
+
+]
+

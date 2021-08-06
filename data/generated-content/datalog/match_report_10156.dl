@@ -1,0 +1,985 @@
+
+;;# data
+[
+{:match/id "match_10156"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "1. FSV Mainz 05"
+:match/awayteam "Hannover 96"
+:match/score "3:0"
+:match/hometeam_goals "3"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Edgar Prib"
+:event/subtype "trip"
+:event/player1 "Leon Balogun"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4717656"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10156"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "Felix Klaus"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4717676"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Christian Clemens"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4717712"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Jairo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4717771"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 13
+:event/subtype "short_left"
+:event/player1 "Felix Klaus"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4717791"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Felix Klaus"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4717793"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10156"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "header"
+:event/player1 "Hiroki Sakai"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4717797"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10156"}
+
+{:event/type "goal"
+:event/elapsed 15
+:event/player2 "Jairo"
+:event/subtype "shot"
+:event/player1 "Yoshinori Muto"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4717819"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Leon Balogun"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4717841"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10156"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "deflected"
+:event/player1 "Yoshinori Muto"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4717854"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Christian Clemens"
+:event/subtype "from_behind"
+:event/player1 "Felix Klaus"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4717857"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Christian Clemens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4717869"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 20
+:event/subtype "cross_left"
+:event/player1 "Christian Clemens"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4717875"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Julian Baumgartlinger"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4717876"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Charlison Benschop"
+:event/subtype "trip"
+:event/player1 "Yoshinori Muto"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4717882"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Edgar Prib"
+:event/subtype "trip"
+:event/player1 "Danny Latza"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4717889"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "deflected"
+:event/player1 "Felix Klaus"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4717907"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Manuel Schmiedebach"
+:event/subtype "trip"
+:event/player1 "Danny Latza"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4717909"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "deflected"
+:event/player1 "Christian Clemens"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4717977"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross_left"
+:event/player1 "Christian Clemens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4717983"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10156"}
+
+{:event/type "goal"
+:event/elapsed 29
+:event/player2 "Stefan Bell"
+:event/subtype "header"
+:event/player1 "Yoshinori Muto"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_4717986"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross_right"
+:event/player1 "Christian Clemens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4718093"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Jairo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4718165"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross_left"
+:event/player1 "Christian Clemens"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4718178"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Felix Klaus"
+:event/subtype "trip"
+:event/player1 "Leon Balogun"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4718234"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Oliver Sorg"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4718246"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Pierre Bengtsson"
+:event/subtype "trip"
+:event/player1 "Uffe Bech"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4718254"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Christian Clemens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4718265"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross_right"
+:event/player1 "Christian Clemens"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4718274"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "header"
+:event/player1 "Yoshinori Muto"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4718276"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Hiroki Sakai"
+:event/subtype "trip"
+:event/player1 "Yoshinori Muto"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4718279"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/subtype "hands"
+:event/player1 "Pierre Bengtsson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4718360"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Stefan Bell"
+:event/subtype "trip"
+:event/player1 "Edgar Prib"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4718369"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Charlison Benschop"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4718430"
+:event/minute 46
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Kenan Karaman"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4718754"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_10156"}
+
+{:event/type "goal"
+:event/elapsed 47
+:event/subtype "shot"
+:event/player1 "Yunus Malli"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4718784"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Christian Clemens"
+:event/subtype "trip"
+:event/player1 "Edgar Prib"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4718827"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Oliver Sorg"
+:event/subtype "trip"
+:event/player1 "Christian Clemens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4718863"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10156"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Yunus Malli"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4718873"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross_left"
+:event/player1 "Christian Clemens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4718898"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/subtype "hands"
+:event/player1 "Niko Bungert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4718903"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Hiroki Sakai"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4718942"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Stefan Bell"
+:event/subtype "trip"
+:event/player1 "Kenan Karaman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4718977"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Yoshinori Muto"
+:event/subtype "trip"
+:event/player1 "Edgar Prib"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4719144"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 60
+:event/subtype "deflected"
+:event/player1 "Yoshinori Muto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4719160"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross_right"
+:event/player1 "Christian Clemens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4719176"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Pierre Bengtsson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4719182"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10156"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Charlison Benschop"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4719209"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross_left"
+:event/player1 "Edgar Prib"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4719220"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Danny Latza"
+:event/subtype "trip"
+:event/player1 "Christian Schulz"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4719228"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Uffe Bech"
+:event/subtype "trip"
+:event/player1 "Jairo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4719257"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Kenan Karaman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4719263"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Edgar Prib"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4719267"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross_right"
+:event/player1 "Edgar Prib"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4719271"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "header"
+:event/player1 "Hiroki Sakai"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4719275"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Leon Balogun"
+:event/subtype "trip"
+:event/player1 "Edgar Prib"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4719281"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Leon Balogun"
+:event/subtype "trip"
+:event/player1 "Edgar Prib"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4719292"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10156"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/player1 "Edgar Prib"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4719293"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Allan Saint-Maximin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4719336"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_4719347"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Julian Baumgartlinger"
+:event/subtype "from_behind"
+:event/player1 "Manuel Schmiedebach"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4719371"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "crossbar"
+:event/player1 "Salif Sane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4719403"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross_right"
+:event/player1 "Edgar Prib"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4719414"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Pierre Bengtsson"
+:event/subtype "trip"
+:event/player1 "Hiroki Sakai"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4719436"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "distance"
+:event/player1 "Allan Saint-Maximin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4719509"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "deflected"
+:event/player1 "Yunus Malli"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4719549"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Oliver Sorg"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4719621"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10156"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "shot"
+:event/player1 "Christian Clemens"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4719639"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10156"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/subtype "hands"
+:event/player1 "Oliver Sorg"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4719675"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10156"}
+
+{:event/type "card"
+:event/elapsed 85
+:event/card_type "y"
+:event/player1 "Oliver Sorg"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4719679"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10156"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Christian Clemens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4719697"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "deflected"
+:event/player1 "Yunus Malli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4719703"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "shot"
+:event/player1 "Jairo"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4719710"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10156"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Kenan Karaman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_4719759"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "deflected"
+:event/player1 "Jairo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4719772"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10156"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "cross_right"
+:event/player1 "Christian Clemens"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4719779"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "header"
+:event/player1 "Julian Baumgartlinger"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4719785"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "crossbar"
+:event/player1 "Florian Niederlechner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4719852"
+:event/minute 91
+:event/match_id "match_10156"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Florian Niederlechner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4719859"
+:event/minute 91
+:event/match_id "match_10156"}
+
+
+]
+

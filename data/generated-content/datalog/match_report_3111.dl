@@ -1,0 +1,907 @@
+
+;;# data
+[
+{:match/id "match_3111"
+:match/league "England Premier League"
+:match/hometeam "Everton"
+:match/awayteam "West Bromwich Albion"
+:match/score "1:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2022242"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3111"}
+
+{:event/type "shotoff"
+:event/elapsed 2
+:event/subtype "header"
+:event/player1 "Leon Osman"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2022244"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Steven Pienaar"
+:event/player1 "Billy Jones"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2022259"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Somen Tchoyi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2022266"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_3111"}
+
+{:event/type "shotoff"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Darron Gibson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2022288"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Marouane Fellaini"
+:event/player1 "Paul Scharner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2022304"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Leon Osman"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2022328"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022361"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3111"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022361"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2022383"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3111"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2022383"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Steven Pienaar"
+:event/player1 "Keith Andrews"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2022428"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Tony Hibbert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2022429"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_3111"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "blocked_shot"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2022430"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Johnny Heitinga"
+:event/player1 "Peter Odemwingie"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2022446"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Tony Hibbert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2022458"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3111"}
+
+{:event/type "goal"
+:event/elapsed 18
+:event/player1 "Gareth McAuley"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_2022479"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2022526"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Tony Hibbert"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2022543"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Steven Pienaar"
+:event/player1 "Keith Andrews"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2022584"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2022597"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3111"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "big chance shot"
+:event/player1 "Paul Scharner"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2022602"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3111"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "big chance blocked"
+:event/player1 "Chris Brunt"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2022603"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2022617"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3111"}
+
+{:event/type "shoton"
+:event/elapsed 29
+:event/subtype "shot"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2022618"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022632"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3111"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2022632"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Paul Scharner"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2022637"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Liam Ridgewell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2022711"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Jonas Olsson"
+:event/subtype "pushing"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2022724"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2022753"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Steven Pienaar"
+:event/subtype "shirt_pull"
+:event/player1 "Billy Jones"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2022797"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_3111"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Steven Pienaar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2022820"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_3111"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "blocked_shot"
+:event/player1 "Peter Odemwingie"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2022829"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Marouane Fellaini"
+:event/subtype "from_behind"
+:event/player1 "Keith Andrews"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2022861"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023023"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_3111"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "distance"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2023042"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Nikica Jelavic"
+:event/player1 "Keith Andrews"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2023058"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023096"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Steven Pienaar"
+:event/player1 "Peter Odemwingie"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2023099"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Darron Gibson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2023116"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_3111"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "blocked_shot"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2023159"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2023143"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3111"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "header"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2023145"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Liam Ridgewell"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2023155"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Liam Ridgewell"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023166"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3111"}
+
+{:event/type "card"
+:event/elapsed 55
+:event/card_type "y"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2023167"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3111"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "distance"
+:event/player1 "Keith Andrews"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2023237"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Liam Ridgewell"
+:event/player1 "Tim Cahill"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023269"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3111"}
+
+{:event/type "card"
+:event/elapsed 60
+:event/card_type "y"
+:event/player1 "Tim Cahill"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2023270"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Steven Pienaar"
+:event/subtype "serious_foul"
+:event/player1 "Jonas Olsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2023357"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3111"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/player1 "Jonas Olsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2023360"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3111"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "direct_freekick"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2023374"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_3111"}
+
+{:event/type "goal"
+:event/elapsed 68
+:event/player2 "Steven Pienaar"
+:event/subtype "shot"
+:event/player1 "Victor Anichebe"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_2023407"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3111"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Shane Long"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2023430"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Nikica Jelavic"
+:event/player1 "Gareth McAuley"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2023451"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Somen Tchoyi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2023478"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_3111"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "big chance shot"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2023515"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2023521"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3111"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "deflected"
+:event/player1 "Peter Odemwingie"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2023524"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2023530"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3111"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2023530"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_3111"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Marc-Antoine Fortune"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2023581"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3111"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "big chance shot"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2023589"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Tony Hibbert"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2023618"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2023626"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Magaye Gueye"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2023663"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_3111"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2023693"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3111"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "deflected"
+:event/player1 "Nikica Jelavic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2023694"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3111"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "short"
+:event/player1 "Leighton Baines"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2023705"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3111"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "short"
+:event/player1 "Leighton Baines"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2023710"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3111"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "big chance shot"
+:event/player1 "Magaye Gueye"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2023715"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3111"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "bad shot"
+:event/player1 "Peter Odemwingie"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2023735"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3111"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2023765"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_3111"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2023791"
+:event/minute 92
+:event/match_id "match_3111"}
+
+
+]
+

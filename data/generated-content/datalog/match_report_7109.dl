@@ -1,0 +1,975 @@
+
+;;# data
+[
+{:match/id "match_7109"
+:match/league "France Ligue 1"
+:match/hometeam "Girondins de Bordeaux"
+:match/awayteam "LOSC Lille"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Marko Basa"
+:event/subtype "trip"
+:event/player1 "Mariano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3975047"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7109"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "post"
+:event/player1 "Thomas Toure"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3975056"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Diego Rolan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975077"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Nicolas Maurice-Belay"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975084"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Diego Contento"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975092"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7109"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "distance"
+:event/player1 "Divock Origi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3975111"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7109"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "blocked_shot"
+:event/player1 "Nolan Roux"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3975125"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Diego Rolan"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975126"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Marko Basa"
+:event/player1 "Cheick Diabate"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3975137"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Diego Rolan"
+:event/subtype "dangerous_play"
+:event/player1 "Idrissa Gana Gueye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3975139"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Idrissa Gana Gueye"
+:event/subtype "trip"
+:event/player1 "Thomas Toure"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3975147"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Ludovic Lamine Sane"
+:event/subtype "pull"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3975152"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Diego Rolan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975158"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7109"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Thomas Toure"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3975160"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7109"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross_right"
+:event/player1 "Jaroslav Plasil"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3975161"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Abdou Traore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975168"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7109"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross_right"
+:event/player1 "Jaroslav Plasil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3975171"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player1 "Diego Rolan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3975180"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Idrissa Gana Gueye"
+:event/player1 "Nicolas Maurice-Belay"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3975181"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player1 "Simon Kjaer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3975192"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7109"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "distance"
+:event/player1 "Cheick Diabate"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3975195"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Jonathan Delaplace"
+:event/subtype "dangerous_play"
+:event/player1 "Abdou Traore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3975202"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Simon Kjaer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3975208"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3975238"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Thomas Toure"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975241"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Marvin Martin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3975269"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Idrissa Gana Gueye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3975298"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Adama Soumaoro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3975303"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7109"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "header"
+:event/player1 "Nolan Roux"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3975305"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Diego Rolan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975326"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7109"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Nolan Roux"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3975348"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7109"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross_right"
+:event/player1 "Marvin Martin"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3975350"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Adama Soumaoro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3975365"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Diego Contento"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975377"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7109"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "header"
+:event/player1 "Cheick Diabate"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3975381"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Mariano"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975404"
+:event/minute 46
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Diego Contento"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975547"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7109"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "header"
+:event/player1 "Cheick Diabate"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3975552"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Jaroslav Plasil"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975572"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7109"}
+
+{:event/type "corner"
+:event/elapsed 48
+:event/subtype "cross_right"
+:event/player1 "Thomas Toure"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3975578"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7109"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "header"
+:event/player1 "Ludovic Lamine Sane"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3975580"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7109"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "blocked_shot"
+:event/player1 "Nicolas Maurice-Belay"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3975601"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7109"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "blocked_shot"
+:event/player1 "Diego Contento"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3975606"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7109"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross_left"
+:event/player1 "Thomas Toure"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3975634"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Mariano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975673"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7109"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "distance"
+:event/player1 "Abdou Traore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3975680"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player1 "Divock Origi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3975687"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Mariano"
+:event/subtype "dangerous_play"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3975695"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7109"}
+
+{:event/type "card"
+:event/elapsed 54
+:event/card_type "y"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3975703"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Jaroslav Plasil"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975709"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Djibril Sidibe"
+:event/subtype "pull"
+:event/player1 "Diego Rolan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3975724"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_7109"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross_right"
+:event/player1 "Thomas Toure"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3975770"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7109"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "header"
+:event/player1 "Ludovic Lamine Sane"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3975774"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7109"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "distance"
+:event/player1 "Divock Origi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3975789"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7109"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross_right"
+:event/player1 "Marvin Martin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3975828"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Rio Mavuba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3975861"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Nicolas Maurice-Belay"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3975873"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7109"}
+
+{:event/type "goal"
+:event/elapsed 62
+:event/player2 "Nicolas Maurice-Belay"
+:event/subtype "shot"
+:event/player1 "Cheick Diabate"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_3975875"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Nicolas Pallois"
+:event/subtype "pull"
+:event/player1 "Divock Origi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3975943"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Jonathan Delaplace"
+:event/subtype "trip"
+:event/player1 "Diego Contento"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3975946"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7109"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "direct_freekick"
+:event/player1 "Simon Kjaer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3975961"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7109"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Diego Rolan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3975996"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player1 "Thomas Toure"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3976000"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Henri Saivet"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3976080"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Florent Balmont"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3976117"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Henri Saivet"
+:event/subtype "dangerous_play"
+:event/player1 "Idrissa Gana Gueye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3976129"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Adama Soumaoro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3976172"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_7109"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "distance"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3976177"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Diego Rolan"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3976199"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Cheick Diabate"
+:event/subtype "pull"
+:event/player1 "Simon Kjaer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3976220"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Gregory Sertic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3976232"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Diego Rolan"
+:event/subtype "dangerous_play"
+:event/player1 "Idrissa Gana Gueye"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3976241"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Gregory Sertic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3976252"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Cheick Diabate"
+:event/subtype "pushing"
+:event/player1 "Jonathan Delaplace"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3976387"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Henri Saivet"
+:event/subtype "pull"
+:event/player1 "Djibril Sidibe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3976414"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Younes Kaabouni"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3976422"
+:event/minute 91
+:event/match_id "match_7109"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Henri Saivet"
+:event/subtype "pushing"
+:event/player1 "Nolan Roux"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3976429"
+:event/minute 91
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Florent Balmont"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3976452"
+:event/minute 93
+:event/match_id "match_7109"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jonathan Delaplace"
+:event/sortorder 9
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3976459"
+:event/minute 94
+:event/match_id "match_7109"}
+
+
+]
+

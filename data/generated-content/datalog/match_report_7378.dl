@@ -1,0 +1,956 @@
+
+;;# data
+[
+{:match/id "match_7378"
+:match/league "France Ligue 1"
+:match/hometeam "Paris Saint-Germain"
+:match/awayteam "AS Saint-Étienne"
+:match/score "4:1"
+:match/hometeam_goals "5"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3688652"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Edinson Cavani"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3688672"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Franck Tabanou"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3688729"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Lucas Moura"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3688709"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7378"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Lucas Moura"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3688709"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/subtype "hands"
+:event/player1 "Thiago Motta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3688777"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Marco Verratti"
+:event/player1 "Jeremy Clement"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3688803"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "direct_freekick"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3688817"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Franck Tabanou"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3688828"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Fabien Lemoine"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3688839"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7378"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Fabien Lemoine"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3688839"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Franck Tabanou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3688872"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Marco Verratti"
+:event/player1 "Florentin Pogba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3688932"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3688966"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Fabien Lemoine"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3688986"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Lucas Moura"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3689083"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_7378"}
+
+{:event/type "goal"
+:event/elapsed 24
+:event/player1 "Stephane Ruffier"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_3689121"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Edinson Cavani"
+:event/player1 "Jeremy Clement"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3689226"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Marco Verratti"
+:event/player1 "Jeremy Clement"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3689268"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "blocked_shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3689282"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Thiago Motta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3689286"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7378"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Thiago Motta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3689286"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "blocked_shot"
+:event/player1 "Edinson Cavani"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3689288"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Fabien Lemoine"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3689309"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7378"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Fabien Lemoine"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3689309"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "blocked_shot"
+:event/player1 "Florentin Pogba"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3689310"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "big chance volley"
+:event/player1 "Mevlut Erdinc"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3689312"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Renaud Cohade"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3689314"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7378"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Renaud Cohade"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3689314"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3689331"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Renaud Cohade"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3689337"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3689347"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7378"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Javier Pastore"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3689356"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7378"}
+
+{:event/type "goal"
+:event/elapsed 41
+:event/player2 "Maxwell"
+:event/subtype "header"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_3689362"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Edinson Cavani"
+:event/player1 "Kevin Theophile-Catherine"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3689384"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "distance"
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3689685"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7378"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "distance"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3689697"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Edinson Cavani"
+:event/player1 "Mustapha Bayal Sall"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3689717"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3689731"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3689769"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Renaud Cohade"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3689786"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3689850"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7378"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3689850"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Zlatan Ibrahimovic"
+:event/player1 "Kevin Theophile-Catherine"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3689854"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "deflected"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3689883"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Javier Pastore"
+:event/player1 "Franck Tabanou"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3689894"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Thiago Motta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3689903"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "blocked_shot"
+:event/player1 "Javier Pastore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3689932"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7378"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "bicycle_kick"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3689935"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_7378"}
+
+{:event/type "goal"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_3689948"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7378"}
+
+{:event/type "goal"
+:event/elapsed 64
+:event/player2 "Maxwell"
+:event/subtype "distance"
+:event/player1 "Edinson Cavani"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_3689989"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Marco Verratti"
+:event/player1 "Ricky van Wolfswinkel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3690041"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Kevin Monnet-Paquet"
+:event/player1 "Marco Verratti"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3690077"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Marco Verratti"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3690100"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Thiago Motta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3690127"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7378"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Thiago Motta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3690127"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Thiago Motta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3690137"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7378"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Thiago Motta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3690137"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_7378"}
+
+{:event/type "goal"
+:event/elapsed 72
+:event/player2 "Marco Verratti"
+:event/subtype "shot"
+:event/player1 "Zlatan Ibrahimovic"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_3690155"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Franck Tabanou"
+:event/player1 "Lucas Moura"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3690195"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "distance"
+:event/player1 "Jean-Christophe Bahebeck"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3690272"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Max-Alain Gradel"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3690313"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Ismael Diomande"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3690286"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7378"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "bad shot"
+:event/player1 "Renaud Cohade"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3690305"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Renaud Cohade"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3690316"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7378"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Renaud Cohade"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3690316"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "blocked_shot"
+:event/player1 "Mustapha Bayal Sall"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3690318"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Renaud Cohade"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3690319"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7378"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Renaud Cohade"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3690319"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7378"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "shot"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3690321"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3690323"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7378"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Max-Alain Gradel"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3690323"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Blaise Matuidi"
+:event/player1 "Renaud Cohade"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3690333"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Gregory van der Wiel"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3690335"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Lucas Moura"
+:event/player1 "Ismael Diomande"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3690351"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7378"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/player1 "Ismael Diomande"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3690352"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7378"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Marco Verratti"
+:event/player1 "Kevin Monnet-Paquet"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3690370"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7378"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Ismael Diomande"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3690374"
+:event/minute 91
+:event/match_id "match_7378"}
+
+
+]
+

@@ -1,0 +1,760 @@
+
+;;# data
+[
+{:match/id "match_9006"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "FC Bayern Munich"
+:match/awayteam "Bayer 04 Leverkusen"
+:match/score "3:0"
+:match/hometeam_goals "3"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Lars Bender"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1672618"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Franck Ribery"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1672631"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9006"}
+
+{:event/type "goal"
+:event/elapsed 5
+:event/player2 "Franck Ribery"
+:event/subtype "tap_in"
+:event/player1 "Thomas Mueller"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1672633"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Toni Kroos"
+:event/subtype "from_behind"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1672652"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1672654"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_9006"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "shot"
+:event/player1 "Mario Gomez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1672655"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Sidney Sam"
+:event/subtype "shirt_pull"
+:event/player1 "Rafinha"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1672666"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1672687"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_9006"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "shot"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1672707"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Bastian Schweinsteiger"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1672719"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_9006"}
+
+{:event/type "card"
+:event/elapsed 12
+:event/card_type "y"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1672720"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Sidney Sam"
+:event/player1 "Rafinha"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1672738"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player1 "Mario Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1672765"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1672776"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Toni Kroos"
+:event/subtype "serious_foul"
+:event/player1 "Omer Toprak"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1672794"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_9006"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/player1 "Omer Toprak"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1672797"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_9006"}
+
+{:event/type "goal"
+:event/elapsed 19
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1672807"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Franck Ribery"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1672833"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Stefan Kiessling"
+:event/subtype "advantage"
+:event/player1 "Daniel van Buyten"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1672851"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_9006"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/subtype "advantage"
+:event/player1 "Daniel van Buyten"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1673023"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1672861"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Renato Augusto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1672874"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1672890"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_9006"}
+
+{:event/type "shotoff"
+:event/elapsed 31
+:event/subtype "header"
+:event/player1 "Mario Gomez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1672891"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Holger Badstuber"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1672932"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_9006"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Holger Badstuber"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1672932"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_9006"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "blocked_shot"
+:event/player1 "Franck Ribery"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1672938"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Sidney Sam"
+:event/player1 "Rafinha"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1672980"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1673003"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_9006"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "short"
+:event/player1 "Toni Kroos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1673009"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_9006"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "deflected"
+:event/player1 "Franck Ribery"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1673015"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_9006"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "short"
+:event/player1 "Toni Kroos"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1673016"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Franck Ribery"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1673276"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1673312"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_9006"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1673330"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Lars Bender"
+:event/player1 "Anatoli Tymoschuk"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1673343"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/subtype "hands"
+:event/player1 "Renato Augusto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1673370"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1673410"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Rafinha"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1673461"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Sidney Sam"
+:event/player1 "Anatoli Tymoschuk"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1673465"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1673470"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9006"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1673470"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9006"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "header"
+:event/player1 "Omer Toprak"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1673472"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Anatoli Tymoschuk"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1673478"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_9006"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Luiz Gustavo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1673488"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Franck Ribery"
+:event/subtype "serious_foul"
+:event/player1 "Stefan Reinartz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1673490"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_9006"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/player1 "Stefan Reinartz"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1673491"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_9006"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "header"
+:event/player1 "Daniel van Buyten"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1673494"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1673496"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9006"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1673496"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player1 "Gonzalo Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1673508"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1673525"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Philipp Lahm"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1673543"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_9006"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "direct_freekick"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1673558"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Omer Toprak"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1673594"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_9006"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Karim Bellarabi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1673599"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_9006"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "bad shot"
+:event/player1 "Sidney Sam"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1673603"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Renato Augusto"
+:event/player1 "Anatoli Tymoschuk"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1673627"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Rafinha"
+:event/subtype "serious_foul"
+:event/player1 "Sidney Sam"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1673679"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_9006"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/player1 "Sidney Sam"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1673681"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_9006"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Holger Badstuber"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1673690"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9006"}
+
+{:event/type "goal"
+:event/elapsed 90
+:event/player2 "Bastian Schweinsteiger"
+:event/subtype "shot"
+:event/player1 "Arjen Robben"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_1673699"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_9006"}
+
+
+]
+

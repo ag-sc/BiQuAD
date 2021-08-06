@@ -1,0 +1,1369 @@
+
+;;# data
+[
+{:match/id "match_1962"
+:match/league "England Premier League"
+:match/hometeam "Manchester City"
+:match/awayteam "Sunderland"
+:match/score "2:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Dean Whitehead"
+:event/player1 "Elano"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_621252"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Micah Richards"
+:event/player1 "Daryl Murphy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_621236"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_621244"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Elano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_621279"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Elano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_621279"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_1962"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "header"
+:event/player1 "Nedum Onuoha"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_621282"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_1962"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "distance"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_621294"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Danny Collins"
+:event/player1 "Valeri Bojinov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_621307"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Dean Whitehead"
+:event/player1 "Vincent Kompany"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_621331"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Shaun Wright-Phillips"
+:event/subtype "shirt_pull"
+:event/player1 "George McCartney"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_621353"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_1962"}
+
+{:event/type "card"
+:event/elapsed 14
+:event/card_type "r"
+:event/subtype "emergency_brake"
+:event/player1 "George McCartney"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_621425"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_1962"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "direct_freekick"
+:event/player1 "Valeri Bojinov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_621373"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1962"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "distance"
+:event/player1 "Dean Whitehead"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_621388"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Micah Richards"
+:event/subtype "penalty"
+:event/player1 "Steed Malbranque"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_621403"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_1962"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/player1 "Phil Bardsley"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_621410"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_1962"}
+
+{:event/type "card"
+:event/elapsed 18
+:event/card_type "y"
+:event/player1 "Valeri Bojinov"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_621415"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_1962"}
+
+{:event/type "goal"
+:event/elapsed 18
+:event/subtype "saved"
+:event/player1 "Robinho"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_621420"
+:event/event_type "goal"
+:event/goal_type "npm"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_1962"}
+
+{:event/type "card"
+:event/elapsed 19
+:event/card_type "y"
+:event/player1 "Anton Ferdinand"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_621557"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player1 "Valeri Bojinov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_621434"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_1962"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "distance"
+:event/player1 "Carlos Edwards"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_621450"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1962"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "distance"
+:event/player1 "Elano"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_621462"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_621471"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Micah Richards"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_621474"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "header"
+:event/player1 "Robinho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_621475"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Carlos Edwards"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_621480"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_621488"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Dean Whitehead"
+:event/player1 "Valeri Bojinov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_621494"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_621514"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_621533"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Elano"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_621537"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_1962"}
+
+{:event/type "shotoff"
+:event/elapsed 31
+:event/subtype "distance"
+:event/player1 "Valeri Bojinov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_621547"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_621549"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_621553"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "blocked_shot"
+:event/player1 "Vincent Kompany"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_621563"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1962"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "deflected"
+:event/player1 "Micah Richards"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_621569"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Elano"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_621570"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Elano"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_621570"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1962"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "header"
+:event/player1 "Valeri Bojinov"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_621572"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_621579"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Shaun Wright-Phillips"
+:event/player1 "Danny Collins"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_621581"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_621591"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_621591"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Steed Malbranque"
+:event/player1 "Richard Dunne"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_621599"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "blocked_shot"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_621608"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player1 "Kenwyne Jones"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_621609"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "distance"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_621611"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_621614"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_621619"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_621619"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Phil Bardsley"
+:event/player1 "Robinho"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_621624"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Richard Dunne"
+:event/player1 "Calum Davenport"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_621629"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Steed Malbranque"
+:event/player1 "Micah Richards"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_621662"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_621665"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_621680"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Danny Collins"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_621684"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_621787"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_621787"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Carlos Edwards"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_621794"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_621695"
+:event/minute 47
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/subtype "diving"
+:event/player1 "Calum Davenport"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_621800"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_1962"}
+
+{:event/type "card"
+:event/elapsed 47
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Calum Davenport"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "card"
+:event/id "event_621801"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_621809"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "blocked_shot"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_621828"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Robinho"
+:event/player1 "Phil Bardsley"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_621835"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player1 "Robinho"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_621836"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_1962"}
+
+{:event/type "shotoff"
+:event/elapsed 55
+:event/subtype "shot"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_621861"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player1 "Calum Davenport"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_621868"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Valeri Bojinov"
+:event/player1 "Kenwyne Jones"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_621872"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1962"}
+
+{:event/type "goal"
+:event/elapsed 56
+:event/player2 "Elano"
+:event/subtype "header"
+:event/player1 "Micah Richards"
+:event/sortorder 7
+:event/team "home"
+:event/id "event_621879"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "distance"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_621894"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Micah Richards"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_621900"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_1962"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Elano"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_621901"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Craig Bellamy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_621999"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_622013"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "short"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_622031"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "shot"
+:event/player1 "Robinho"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_622039"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Phil Bardsley"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_622043"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_622049"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_622049"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_622054"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "blocked_shot"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_622063"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_622077"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Craig Bellamy"
+:event/subtype "serious_foul"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_622082"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_1962"}
+
+{:event/type "card"
+:event/elapsed 75
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_622085"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Elano"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_622112"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Elano"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_622112"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player1 "Andrew Reid"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_622131"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1962"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Andrew Reid"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_622136"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1962"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "deflected"
+:event/player1 "Andrew Reid"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_622143"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_622148"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_622148"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_622153"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_622162"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_622195"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_622195"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_622202"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_622202"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "shot"
+:event/player1 "unknown"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_622210"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Javier Garrido"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_622235"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "volley"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_622237"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Dean Whitehead"
+:event/subtype "serious_foul"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_622244"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_1962"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_622245"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_622257"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Carlos Edwards"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_622257"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "distance"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_622269"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed 89
+:event/subtype "short"
+:event/player1 "Elano"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_622280"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1962"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Elano"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_622281"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_622305"
+:event/minute 91
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_622311"
+:event/minute 92
+:event/match_id "match_1962"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player1 "Nigel de Jong"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_622315"
+:event/minute 92
+:event/match_id "match_1962"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Robinho"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_622323"
+:event/minute 93
+:event/match_id "match_1962"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Elano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_622325"
+:event/minute 94
+:event/match_id "match_1962"}
+
+{:event/type "card"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_622333"
+:event/minute 94
+:event/match_id "match_1962"}
+
+
+]
+

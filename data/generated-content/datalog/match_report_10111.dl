@@ -1,0 +1,1478 @@
+
+;;# data
+[
+{:match/id "match_10111"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "1. FC Köln"
+:match/awayteam "FC Schalke 04"
+:match/score "1:3"
+:match/hometeam_goals "1"
+:match/awayteam_goals "3"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Pierre-Emil Hoejbjerg"
+:event/subtype "penalty"
+:event/player1 "Dominic Maroh"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5359388"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10111"}
+
+{:event/type "card"
+:event/elapsed 2
+:event/card_type "y"
+:event/player1 "Dominic Maroh"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5359390"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10111"}
+
+{:event/type "goal"
+:event/elapsed 2
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5359392"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Junior Caicara"
+:event/player1 "Leonardo Bittencourt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5359409"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Junior Caicara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5359418"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "distance"
+:event/player1 "Pierre-Emil Hoejbjerg"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5359425"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Max Meyer"
+:event/subtype "trip"
+:event/player1 "Yannick Gerhardt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5359438"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Younes Belhanda"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5359444"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Dominique Heintz"
+:event/subtype "pushing"
+:event/player1 "Alessandro Schoepf"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5359450"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Anthony Modeste"
+:event/subtype "from_behind"
+:event/player1 "Joel Matip"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5359483"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5359506"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "big chance header"
+:event/player1 "Anthony Modeste"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5359508"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "deflected"
+:event/player1 "Max Meyer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5359535"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10111"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross_left"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5359540"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "volley"
+:event/player1 "Pierre-Emil Hoejbjerg"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5359547"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10111"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross_right"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5359553"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5359556"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Dominique Heintz"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5359567"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Yannick Gerhardt"
+:event/subtype "dangerous_play"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5359573"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "miss_kick"
+:event/player1 "Anthony Modeste"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5359612"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "shot"
+:event/player1 "Yannick Gerhardt"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5359605"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Dennis Aogo"
+:event/subtype "trip"
+:event/player1 "Frederik Soerensen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5359621"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5359625"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "deflected"
+:event/player1 "Junior Caicara"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5359628"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10111"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross_left"
+:event/player1 "Johannes Geis"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5359632"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5359636"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "shot"
+:event/player1 "Anthony Modeste"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5359656"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "big chance shot"
+:event/player1 "Marcel Risse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5359658"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5359659"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Younes Belhanda"
+:event/subtype "obstruction"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5359672"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5359680"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Dennis Aogo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5359683"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Filip Mladenovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5359705"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10111"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross_left"
+:event/player1 "Filip Mladenovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5359708"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "header"
+:event/player1 "Dominic Maroh"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5359712"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Alessandro Schoepf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5359722"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10111"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross_right"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5359736"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10111"}
+
+{:event/type "goal"
+:event/elapsed 23
+:event/player2 "Pierre-Emil Hoejbjerg"
+:event/subtype "shot"
+:event/player1 "Max Meyer"
+:event/sortorder 6
+:event/team "away"
+:event/id "event_5359745"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "deflected"
+:event/player1 "Alessandro Schoepf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5359791"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10111"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross_right"
+:event/player1 "Johannes Geis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5359799"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "header"
+:event/player1 "Joel Matip"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5359801"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Alessandro Schoepf"
+:event/subtype "trip"
+:event/player1 "Yannick Gerhardt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5359820"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5359824"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "distance"
+:event/player1 "Leonardo Bittencourt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5359995"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Filip Mladenovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5360004"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10111"}
+
+{:event/type "goal"
+:event/elapsed 33
+:event/player2 "Filip Mladenovic"
+:event/subtype "header"
+:event/player1 "Leonardo Bittencourt"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_5359953"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5359981"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "crossbar"
+:event/player1 "Younes Belhanda"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5359986"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Junior Caicara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5360020"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "distance"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5360028"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Junior Caicara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5360080"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Leonardo Bittencourt"
+:event/player1 "Joel Matip"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5360094"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Dominique Heintz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5360144"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "distance"
+:event/player1 "Filip Mladenovic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5360162"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Younes Belhanda"
+:event/subtype "from_behind"
+:event/player1 "Frederik Soerensen"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5360192"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5360210"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5360233"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Johannes Geis"
+:event/subtype "dangerous_play"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5360359"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Junior Caicara"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5360760"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Yannick Gerhardt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5360379"
+:event/minute 46
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Filip Mladenovic"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5360383"
+:event/minute 46
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "cross"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5360395"
+:event/minute 46
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5360802"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Matthias Lehmann"
+:event/subtype "pull"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5360875"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "volley"
+:event/player1 "Alessandro Schoepf"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5360918"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Marcel Risse"
+:event/subtype "trip"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5360960"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Younes Belhanda"
+:event/player1 "Frederik Soerensen"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5360971"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Jonas Hector"
+:event/player1 "Younes Belhanda"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5360996"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361010"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "distance"
+:event/player1 "Yannick Gerhardt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5361018"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10111"}
+
+{:event/type "corner"
+:event/elapsed 54
+:event/subtype "short_left"
+:event/player1 "Filip Mladenovic"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5361036"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Leonardo Bittencourt"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361042"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_5361051"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Jonas Hector"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361056"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361075"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Frederik Soerensen"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361101"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Yannick Gerhardt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361121"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Filip Mladenovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361160"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361192"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Leonardo Bittencourt"
+:event/subtype "obstruction"
+:event/player1 "Pierre-Emil Hoejbjerg"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5361218"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 60
+:event/subtype "direct_freekick"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5361245"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10111"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross_left"
+:event/player1 "Filip Mladenovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5361252"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Joel Matip"
+:event/subtype "trip"
+:event/player1 "Leonardo Bittencourt"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5361281"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Yannick Gerhardt"
+:event/subtype "trip"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5361299"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Anthony Modeste"
+:event/subtype "from_behind"
+:event/player1 "Junior Caicara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5361321"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Klaas Jan Huntelaar"
+:event/subtype "from_behind"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5361334"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "Leroy Sane"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5361337"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Matthias Lehmann"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361380"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Jonas Hector"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361381"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10111"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross_right"
+:event/player1 "Marcel Risse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5361386"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Dennis Aogo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5361424"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 69
+:event/subtype "cross"
+:event/player1 "Pierre-Emil Hoejbjerg"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5361431"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Johannes Geis"
+:event/subtype "from_behind"
+:event/player1 "Filip Mladenovic"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5361438"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "distance"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5361453"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "bad shot"
+:event/player1 "Anthony Modeste"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5361468"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "distance"
+:event/player1 "Philipp Hosiner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5361482"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10111"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross_right"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5361486"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Junior Caicara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5361510"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5361617"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Dennis Aogo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5361535"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10111"}
+
+{:event/type "goal"
+:event/elapsed 76
+:event/player2 "Dennis Aogo"
+:event/subtype "header"
+:event/player1 "Franco Di Santo"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5361542"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Yannick Gerhardt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361583"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Leroy Sane"
+:event/subtype "dangerous_play"
+:event/player1 "Jonas Hector"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5361612"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Frederik Soerensen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361655"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Younes Belhanda"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5361671"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "distance"
+:event/player1 "Marcel Risse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5361691"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10111"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_left"
+:event/player1 "Marcel Risse"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5361705"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Filip Mladenovic"
+:event/subtype "from_behind"
+:event/player1 "Roman Neustaedter"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5361777"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "blocked_shot"
+:event/player1 "Leroy Sane"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5361811"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "shot"
+:event/player1 "Younes Belhanda"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5361815"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10111"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "distance"
+:event/player1 "Yuya Osako"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5361870"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10111"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "short_left"
+:event/player1 "Jonas Hector"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5361915"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Leonardo Bittencourt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5361921"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Leonardo Bittencourt"
+:event/subtype "pushing"
+:event/player1 "Leroy Sane"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5361943"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Marcel Risse"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5362008"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_10111"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Marcel Risse"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5362032"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Leonardo Bittencourt"
+:event/player1 "Franco Di Santo"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5362089"
+:event/minute 92
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jonas Hector"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5362095"
+:event/minute 92
+:event/match_id "match_10111"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Yuya Osako"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5362108"
+:event/minute 92
+:event/match_id "match_10111"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Dominic Maroh"
+:event/player1 "Franco Di Santo"
+:event/sortorder 10
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5362150"
+:event/minute 93
+:event/match_id "match_10111"}
+
+
+]
+

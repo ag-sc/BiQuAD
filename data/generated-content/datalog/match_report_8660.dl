@@ -1,0 +1,962 @@
+
+;;# data
+[
+{:match/id "match_8660"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Eintracht Frankfurt"
+:match/awayteam "1. FC Köln"
+:match/score "0:2"
+:match/hometeam_goals "0"
+:match/awayteam_goals "2"}
+
+{:event/type "card"
+:event/elapsed 8
+:event/card_type "y"
+:event/player1 "Patrick Ochs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1539848"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Martin Fenin"
+:event/player1 "Geromel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1539862"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Marcel Heller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1539865"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_8660"}
+
+{:event/type "shotoff"
+:event/elapsed 24
+:event/subtype "distance"
+:event/player1 "Caio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1539870"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Milivoje Novakovic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1539873"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8660"}
+
+{:event/type "goal"
+:event/elapsed 24
+:event/player2 "Milivoje Novakovic"
+:event/subtype "header"
+:event/player1 "Adil Chihi"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_1539874"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/subtype "hands"
+:event/player1 "Mate Jajalo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1539893"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Miso Brecko"
+:event/player1 "Pirmin Schwegler"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1539900"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8660"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Martin Fenin"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1539897"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Benjamin Koehler"
+:event/player1 "Milivoje Novakovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1539902"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Marcel Heller"
+:event/player1 "Mate Jajalo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1539916"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8660"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "blocked_shot"
+:event/player1 "Patrick Ochs"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1539928"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Sebastian Jung"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1539931"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Julian Dudda"
+:event/player1 "Mate Jajalo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1539971"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Marcel Heller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1539980"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Caio"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1540004"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8660"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Caio"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1540004"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Theofanis Gekas"
+:event/player1 "Youssef Wasef Mohamad"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1540033"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8660"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "direct_freekick"
+:event/player1 "Caio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1540042"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1540069"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Patrick Ochs"
+:event/player1 "Adil Chihi"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1540075"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8660"}
+
+{:event/type "card"
+:event/elapsed 38
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Adil Chihi"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1540077"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8660"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "header"
+:event/player1 "Marco Russ"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1540084"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Mate Jajalo"
+:event/player1 "Caio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1540124"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Kevin Pezzoni"
+:event/player1 "Theofanis Gekas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1540160"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Sebastian Jung"
+:event/player1 "Mate Jajalo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1540176"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Martin Fenin"
+:event/player1 "Kevin Pezzoni"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1540181"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8660"}
+
+{:event/type "shoton"
+:event/elapsed 46
+:event/subtype "deflected"
+:event/player1 "Lukas Podolski"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1540405"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Lukas Podolski"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1540409"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_8660"}
+
+{:event/type "corner"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Lukas Podolski"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1540409"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Marcel Heller"
+:event/player1 "Lukas Podolski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1540414"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8660"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "shot"
+:event/player1 "Caio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1540421"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Benjamin Koehler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1540431"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8660"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "blocked_shot"
+:event/player1 "Caio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1540433"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1540455"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8660"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "big chance shot"
+:event/player1 "Milivoje Novakovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1540495"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8660"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "big chance shot"
+:event/player1 "Milivoje Novakovic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1540496"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8660"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "shot"
+:event/player1 "Lukas Podolski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1540525"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1540526"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8660"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "blocked_shot"
+:event/player1 "Caio"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1540530"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Marcel Heller"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1540534"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1540545"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Martin Fenin"
+:event/player1 "Petit"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1540566"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8660"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "header"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1540577"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Marcel Heller"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1540588"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Patrick Ochs"
+:event/player1 "Kevin Pezzoni"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1540601"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Marcel Heller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1540640"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Benjamin Koehler"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1540647"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_8660"}
+
+{:event/type "card"
+:event/elapsed 62
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Milivoje Novakovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1540697"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Pirmin Schwegler"
+:event/subtype "shirt_pull"
+:event/player1 "Petit"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1540707"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8660"}
+
+{:event/type "card"
+:event/elapsed 64
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Petit"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1540710"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Patrick Ochs"
+:event/subtype "pushing"
+:event/player1 "Christian Eichner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1540719"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Benjamin Koehler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1540728"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1540734"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Lukas Podolski"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1540739"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8660"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "deflected"
+:event/player1 "Caio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1540747"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Adil Chihi"
+:event/player1 "Marcel Heller"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1540797"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_8660"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "short"
+:event/player1 "Lukas Podolski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1540803"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Petit"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1540805"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8660"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Lukas Podolski"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1540807"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Kevin Pezzoni"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1540837"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Caio"
+:event/player1 "Petit"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1540849"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Andrezinho"
+:event/player1 "Benjamin Koehler"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1540918"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Patrick Ochs"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1540943"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Patrick Ochs"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1540985"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1540990"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_8660"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "header"
+:event/player1 "Marcel Heller"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1540993"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1541011"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Benjamin Koehler"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1541048"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8660"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "big chance shot"
+:event/player1 "Adil Chihi"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1541059"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Ioannis Amanatidis"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1541064"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8660"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Marcel Heller"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1541072"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8660"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "blocked_shot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1541079"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Adil Chihi"
+:event/player1 "Caio"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1541089"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8660"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Caio"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1541090"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8660"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Lukas Podolski"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1541107"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Benjamin Koehler"
+:event/player1 "Lukas Podolski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1541134"
+:event/minute 92
+:event/match_id "match_8660"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Lukas Podolski"
+:event/subtype "penalty"
+:event/player1 "Ralf Faehrmann"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1541148"
+:event/minute 93
+:event/match_id "match_8660"}
+
+{:event/type "goal"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player1 "Lukas Podolski"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1541166"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/minute 93
+:event/match_id "match_8660"}
+
+
+]
+

@@ -1,0 +1,804 @@
+
+;;# data
+[
+{:match/id "match_22641"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Getafe CF"
+:match/awayteam "Real Sporting de Gijón"
+:match/score "3:0"
+:match/hometeam_goals "3"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Pedro Rios"
+:event/subtype "obstruction"
+:event/player1 "Jose Angel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1235060"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_22641"}
+
+{:event/type "corner"
+:event/elapsed 5
+:event/subtype "short"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1235086"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_22641"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Gaston Sangoy"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1235087"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_22641"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "shot"
+:event/player1 "Manu del Moral"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1235108"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player2 "Pedro Rios"
+:event/player1 "Sergio Matabuena"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1235122"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Pedro Rios"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1235140"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22641"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1235148"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22641"}
+
+{:event/type "goal"
+:event/elapsed 9
+:event/player2 "Daniel Parejo"
+:event/subtype "shot"
+:event/player1 "Derek Boateng"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1235150"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Jose Angel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1235209"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22641"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "blocked_shot"
+:event/player1 "Carmelo Gonzalez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1235211"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22641"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "short"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1235213"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Manu del Moral"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1235229"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "shot"
+:event/player1 "Victor Sanchez Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1235304"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1235317"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Pablo Pintos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1235337"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Lora"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1235363"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22641"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "header"
+:event/player1 "Nacho Novo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1235365"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Jose Angel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1235394"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Jose Angel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1235431"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22641"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "blocked_shot"
+:event/player1 "Carmelo Gonzalez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1235456"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22641"}
+
+{:event/type "shoton"
+:event/elapsed 33
+:event/subtype "distance"
+:event/player1 "Gaston Sangoy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1235473"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Victor Sanchez Mata"
+:event/subtype "obstruction"
+:event/player1 "Sergio Matabuena"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1235491"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/subtype "hands"
+:event/player1 "Miguel Angel de las Cuevas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1235521"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Ivan Hernandez"
+:event/subtype "from_behind"
+:event/player1 "Adrian Colunga"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1235597"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1235619"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22641"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1235619"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Daniel Parejo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1235638"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/subtype "obstruction"
+:event/player1 "Alberto Rivera"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1235649"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed 46
+:event/subtype "big chance shot"
+:event/player1 "Gaston Sangoy"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1235775"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Victor Sanchez Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1235795"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22641"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Victor Sanchez Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1235795"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Manu del Moral"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1235803"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "header"
+:event/player1 "Pedro Rios"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1235804"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Juan Albin"
+:event/subtype "penalty"
+:event/player1 "Gregory Arnolin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1235818"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22641"}
+
+{:event/type "card"
+:event/elapsed 51
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Gregory Arnolin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1235819"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22641"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player1 "Adrian Colunga"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1235825"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Jose Angel"
+:event/player1 "Victor Sanchez Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1235838"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1235853"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Carmelo Gonzalez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1235877"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Pedro Rios"
+:event/player1 "Gregory Arnolin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1235896"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22641"}
+
+{:event/type "goal"
+:event/elapsed 60
+:event/player2 "Cata Diaz"
+:event/subtype "shot"
+:event/player1 "Ivan Marcano"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1235903"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1235916"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "header"
+:event/player1 "Adrian Colunga"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1235919"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1235925"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Luis Moran"
+:event/player1 "Victor Sanchez Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1235938"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Jose Angel"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1235970"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "shot"
+:event/player1 "David Barral"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1235972"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Pedro Rios"
+:event/player1 "Jose Angel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1235991"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22641"}
+
+{:event/type "card"
+:event/elapsed 68
+:event/card_type "y"
+:event/player1 "Jose Angel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1235993"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22641"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "direct_freekick"
+:event/player1 "Juan Albin"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1235995"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1236017"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Pedro Rios"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1236034"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1236038"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Pablo Pintos"
+:event/player1 "Carmelo Gonzalez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1236045"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Gregory Arnolin"
+:event/player1 "Adrian Colunga"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1236076"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Carmelo Gonzalez"
+:event/player1 "Victor Sanchez Mata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1236097"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22641"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/player1 "Victor Sanchez Mata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1236098"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "David Barral"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1236107"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1236113"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Adrian Colunga"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1236119"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "direct_freekick"
+:event/player1 "Juan Albin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1236127"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22641"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Pablo Pintos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1236158"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22641"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/subtype "hands"
+:event/player1 "Jose Angel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1236171"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22641"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Adrian Colunga"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1236186"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "shot"
+:event/player1 "Pedro Mosquera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1236211"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_22641"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Pedro Rios"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1236225"
+:event/minute 91
+:event/match_id "match_22641"}
+
+
+]
+

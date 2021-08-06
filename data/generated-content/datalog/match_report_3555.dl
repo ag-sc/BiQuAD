@@ -1,0 +1,850 @@
+
+;;# data
+[
+{:match/id "match_3555"
+:match/league "England Premier League"
+:match/hometeam "Queens Park Rangers"
+:match/awayteam "Newcastle United"
+:match/score "1:3"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Jose Bosingwa"
+:event/subtype "from_behind"
+:event/player1 "Yoan Gouffran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2764968"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Andros Townsend"
+:event/subtype "obstruction"
+:event/player1 "Yoan Gouffran"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2765031"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_3555"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "direct_freekick"
+:event/player1 "Bobby Zamora"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2765045"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Andros Townsend"
+:event/subtype "pushing"
+:event/player1 "Mathieu Debuchy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2765092"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Junior Hoilett"
+:event/subtype "penalty"
+:event/player1 "Mathieu Debuchy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2765101"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3555"}
+
+{:event/type "goal"
+:event/elapsed 11
+:event/player1 "Loic Remy"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_2765106"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3555"}
+
+{:event/type "card"
+:event/elapsed 11
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2765150"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2765158"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_3555"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2765158"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_3555"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "distance"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2765160"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Jonas Gutierrez"
+:event/subtype "pushing"
+:event/player1 "Stephane M'Bia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2765166"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Loic Remy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2765183"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2765192"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3555"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2765192"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Yoan Gouffran"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2765204"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3555"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2765206"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_3555"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "blocked_shot"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2765208"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Hatem Ben Arfa"
+:event/subtype "penalty"
+:event/player1 "Jose Bosingwa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2765214"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3555"}
+
+{:event/type "goal"
+:event/elapsed 18
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_2765215"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Cheik Tiote"
+:event/subtype "obstruction"
+:event/player1 "Stephane M'Bia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2765239"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2765250"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2765269"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3555"}
+
+{:event/type "goal"
+:event/elapsed 22
+:event/subtype "header"
+:event/player1 "Papiss Cisse"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_2765270"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Cheik Tiote"
+:event/subtype "from_behind"
+:event/player1 "Jermaine Jenas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2765305"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2765315"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Mathieu Debuchy"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_2765336"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Stephane M'Bia"
+:event/subtype "pushing"
+:event/player1 "Papiss Cisse"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2765353"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Stephane M'Bia"
+:event/subtype "serious_foul"
+:event/player1 "Mike Williamson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2765371"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3555"}
+
+{:event/type "card"
+:event/elapsed 30
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Mike Williamson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2765374"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Armand Traore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2765376"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_3555"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "big chance shot"
+:event/player1 "Junior Hoilett"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2765387"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Andros Townsend"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2765418"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3555"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Andros Townsend"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_2765418"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3555"}
+
+{:event/type "goal"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Yoan Gouffran"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_2765432"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Cheik Tiote"
+:event/subtype "from_behind"
+:event/player1 "Stephane M'Bia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2765462"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_3555"}
+
+{:event/type "card"
+:event/elapsed 38
+:event/card_type "y"
+:event/player1 "Stephane M'Bia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_2765894"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3555"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "distance"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2765514"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_3555"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2765564"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Armand Traore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2765704"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Fabio"
+:event/subtype "obstruction"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2765797"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "James Perch"
+:event/subtype "serious_foul"
+:event/player1 "Jermaine Jenas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2765823"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Andros Townsend"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2765880"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Junior Hoilett"
+:event/subtype "serious_foul"
+:event/player1 "Mathieu Debuchy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2765908"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3555"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "big chance shot"
+:event/player1 "Junior Hoilett"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2765928"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/subtype "hands"
+:event/player1 "Clint Hill"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2765991"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3555"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "blocked_shot"
+:event/player1 "Hatem Ben Arfa"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2766001"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Jonas Gutierrez"
+:event/subtype "from_behind"
+:event/player1 "Loic Remy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2766009"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3555"}
+
+{:event/type "card"
+:event/elapsed 68
+:event/card_type "y"
+:event/subtype "stall_time"
+:event/player1 "Robert Elliot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2766012"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_3555"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "bad shot"
+:event/player1 "Shaun Derry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2766015"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2766035"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3555"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Yohan Cabaye"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_2766035"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3555"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "header"
+:event/player1 "Papiss Cisse"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2766043"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3555"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "header"
+:event/player1 "Jonas Gutierrez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2766050"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3555"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "big chance shot"
+:event/player1 "Yoan Gouffran"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_2766094"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Andros Townsend"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2766141"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Papiss Cisse"
+:event/subtype "from_behind"
+:event/player1 "Shaun Derry"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2766146"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Mapou Yanga-Mbiwa"
+:event/subtype "obstruction"
+:event/player1 "Bobby Zamora"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_2766173"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3555"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/subtype "hands"
+:event/player1 "Robert Elliot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_2766202"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_3555"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "blocked_shot"
+:event/player1 "Junior Hoilett"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2766239"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3555"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/subtype "hands"
+:event/player1 "Fabricio Coloccini"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_2766259"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Jermaine Jenas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2766265"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_3555"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "blocked_shot"
+:event/player1 "Adel Taarabt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_2766278"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3555"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Papiss Cisse"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_2766280"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Jermaine Jenas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2766323"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Fabio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2766343"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3555"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "big chance shot"
+:event/player1 "Bobby Zamora"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2766345"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3555"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Andros Townsend"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_2766371"
+:event/minute 91
+:event/match_id "match_3555"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "big chance shot"
+:event/player1 "Andros Townsend"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_2766380"
+:event/minute 92
+:event/match_id "match_3555"}
+
+
+]
+

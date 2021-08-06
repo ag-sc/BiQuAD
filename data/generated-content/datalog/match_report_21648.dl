@@ -1,0 +1,965 @@
+
+;;# data
+[
+{:match/id "match_21648"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Racing Santander"
+:match/awayteam "FC Barcelona"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "blocked_shot"
+:event/player1 "Thierry Henry"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_569858"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Thierry Henry"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_569889"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Thierry Henry"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_569916"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_569920"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Toni Moral"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_569927"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_21648"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "post"
+:event/player1 "Jonathan Pereira"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_569935"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Xavi Hernandez"
+:event/player1 "Cesar Navas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_569949"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Xavi Hernandez"
+:event/player1 "Mehdi Lacen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_569968"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Jonathan Pereira"
+:event/subtype "pushing"
+:event/player1 "Gerard Pique"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_569976"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Sergio Busquets"
+:event/player1 "Mehdi Lacen"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_569989"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_21648"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "direct_freekick"
+:event/player1 "Daniel Alves"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_569995"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Jonathan Pereira"
+:event/player1 "Rafael Marquez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_570010"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_21648"}
+
+{:event/type "card"
+:event/elapsed 22
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Pedro Munitis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_570086"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player1 "Thierry Henry"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_570016"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player1 "Gonzalo Colsa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570036"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Andres Iniesta"
+:event/subtype "serious_foul"
+:event/player1 "Cesar Navas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570045"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_21648"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "direct_freekick"
+:event/player1 "Rafael Marquez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_570049"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Pedro Munitis"
+:event/subtype "pushing"
+:event/player1 "Rafael Marquez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_570056"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player1 "Gerard Pique"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_570063"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_21648"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/card_type "y"
+:event/player1 "Nikola Zigic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_570087"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_21648"}
+
+{:event/type "card"
+:event/elapsed 32
+:event/card_type "y"
+:event/player1 "Gerard Pique"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_570632"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Thierry Henry"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_570075"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Thierry Henry"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_570093"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Sergio Busquets"
+:event/subtype "pushing"
+:event/player1 "Nikola Zigic"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570099"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Pedro Munitis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_570116"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_21648"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Pedro Munitis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_570116"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Toni Moral"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_570119"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_21648"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "header"
+:event/player1 "Nikola Zigic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_570121"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Victor Valdes"
+:event/subtype "pushing"
+:event/player1 "Toni Moral"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570129"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_21648"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Jonathan Pereira"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_570134"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Andres Iniesta"
+:event/subtype "serious_foul"
+:event/player1 "Cesar Navas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570139"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_21648"}
+
+{:event/type "shotoff"
+:event/elapsed 41
+:event/subtype "deflected"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_570150"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_570151"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_21648"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_570151"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Pedro Munitis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_570157"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Eric Abidal"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_570163"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Gonzalo Colsa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_570170"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Xavi Hernandez"
+:event/subtype "shirt_pull"
+:event/player1 "Toni Moral"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570183"
+:event/minute 46
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Pedro Munitis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_570209"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_21648"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Pedro Munitis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_570209"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Rafael Marquez"
+:event/player1 "Jonathan Pereira"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570211"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Jonathan Pereira"
+:event/subtype "from_behind"
+:event/player1 "Sergio Busquets"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_570233"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Toni Moral"
+:event/subtype "pushing"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_570242"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21648"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "blocked_shot"
+:event/player1 "Jonathan Pereira"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_570246"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Sergio Busquets"
+:event/player1 "Pedro Munitis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570249"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Jonathan Pereira"
+:event/subtype "penalty"
+:event/player1 "Rafael Marquez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_570261"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_21648"}
+
+{:event/type "card"
+:event/elapsed 55
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Rafael Marquez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_570264"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_21648"}
+
+{:event/type "goal"
+:event/elapsed 56
+:event/player1 "Nikola Zigic"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_570270"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Jonathan Pereira"
+:event/subtype "pushing"
+:event/player1 "Rafael Marquez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_570278"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Eric Abidal"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_570304"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_570315"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Lionel Messi"
+:event/subtype "from_behind"
+:event/player1 "Ivan Marcano"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570320"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Laszlo Sepsi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_570325"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Samuel Eto'o"
+:event/player1 "Cesar Navas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570330"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_21648"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "short"
+:event/player1 "Lionel Messi"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_570331"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Thierry Henry"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_570337"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_21648"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "crossbar"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_570339"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_21648"}
+
+{:event/type "goal"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_570342"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_21648"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "blocked_shot"
+:event/player1 "Thierry Henry"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_570398"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_570403"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_21648"}
+
+{:event/type "corner"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_570403"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_21648"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "header"
+:event/player1 "Pedro Munitis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_570435"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/player1 "Pedro Munitis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_570443"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Thierry Henry"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_570453"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/subtype "diving"
+:event/player1 "Daniel Alves"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_570463"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_21648"}
+
+{:event/type "card"
+:event/elapsed 77
+:event/card_type "y"
+:event/subtype "diving"
+:event/player1 "Daniel Alves"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "card"
+:event/id "event_570464"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Xavi Hernandez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_570482"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_570487"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_21648"}
+
+{:event/type "goal"
+:event/elapsed 81
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_570497"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Andres Iniesta"
+:event/player1 "Gonzalo Colsa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570524"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Samuel Eto'o"
+:event/player1 "Juan Valera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570531"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Lionel Messi"
+:event/player1 "Ivan Marcano"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_570549"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Mohammed Tchite"
+:event/subtype "from_behind"
+:event/player1 "Rafael Marquez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_570555"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_21648"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Rafael Marquez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_570556"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_21648"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "header"
+:event/player1 "Nikola Zigic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_570564"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_21648"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_570602"
+:event/minute 93
+:event/match_id "match_21648"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player1 "Gerard Pique"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_570615"
+:event/minute 93
+:event/match_id "match_21648"}
+
+{:event/type "card"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Gerard Pique"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_570638"
+:event/minute 93
+:event/match_id "match_21648"}
+
+
+]
+

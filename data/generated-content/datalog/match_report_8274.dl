@@ -1,0 +1,904 @@
+
+;;# data
+[
+{:match/id "match_8274"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "1. FC Köln"
+:match/awayteam "FC Bayern Munich"
+:match/score "2:1"
+:match/hometeam_goals "1"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Thomas Mueller"
+:event/subtype "pushing"
+:event/player1 "Kevin McKenna"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_979936"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Holger Badstuber"
+:event/subtype "pushing"
+:event/player1 "Lukas Podolski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_979939"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_8274"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "crossbar"
+:event/player1 "Lukas Podolski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_979940"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8274"}
+
+{:event/type "shoton"
+:event/elapsed 11
+:event/subtype "blocked_shot"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_979944"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_979946"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_979947"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_8274"}
+
+{:event/type "shoton"
+:event/elapsed 13
+:event/subtype "blocked_shot"
+:event/player1 "Lukas Podolski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_979948"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Mark van Bommel"
+:event/subtype "shirt_pull"
+:event/player1 "Milivoje Novakovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_979956"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Holger Badstuber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_979959"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8274"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Holger Badstuber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_979959"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_979966"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8274"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_979966"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Mark van Bommel"
+:event/player1 "Adam Matuschyk"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_979975"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8274"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "direct_freekick"
+:event/player1 "Daniel van Buyten"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_979978"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_979980"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8274"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_979980"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Lukas Podolski"
+:event/player1 "Holger Badstuber"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_979990"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Diego Contento"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_980005"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Adam Matuschyk"
+:event/player1 "Holger Badstuber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_980025"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_8274"}
+
+{:event/type "goal"
+:event/elapsed 31
+:event/subtype "direct_freekick"
+:event/player1 "Lukas Podolski"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_980032"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Lukas Podolski"
+:event/player1 "Daniel van Buyten"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_980048"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_980065"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8274"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_980065"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player1 "Mark van Bommel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_980073"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_8274"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "shot"
+:event/player1 "Milivoje Novakovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_980077"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Milivoje Novakovic"
+:event/subtype "pushing"
+:event/player1 "Mark van Bommel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_980086"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Adam Matuschyk"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_980101"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8274"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Adam Matuschyk"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_980101"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8274"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "short"
+:event/player1 "Lukas Podolski"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_980105"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_980138"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_980142"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_8274"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_980142"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/subtype "pushing"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_980144"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_8274"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Hamit Altintop"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_980164"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Philipp Lahm"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_980339"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player1 "Adam Matuschyk"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_980345"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Petit"
+:event/player1 "Ivica Olic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_980361"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Holger Badstuber"
+:event/player1 "Milivoje Novakovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_980380"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Hamit Altintop"
+:event/player1 "Lukas Podolski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_980398"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_8274"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "blocked_shot"
+:event/player1 "Holger Badstuber"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_980417"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_980434"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8274"}
+
+{:event/type "goal"
+:event/elapsed 58
+:event/player2 "Thomas Mueller"
+:event/subtype "shot"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_980436"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player1 "Lukas Podolski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_980447"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8274"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "distance"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_980452"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Holger Badstuber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_980461"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8274"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Holger Badstuber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_980461"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8274"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "header"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_980462"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Holger Badstuber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_980468"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8274"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Holger Badstuber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_980468"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8274"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "crossbar"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_980472"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player1 "Diego Contento"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_980475"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Mark van Bommel"
+:event/subtype "serious_foul"
+:event/player1 "Maniche"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_980479"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8274"}
+
+{:event/type "card"
+:event/elapsed 66
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Maniche"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_980480"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8274"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "shot"
+:event/player1 "Maniche"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_980504"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_980521"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8274"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_980521"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_980525"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8274"}
+
+{:event/type "card"
+:event/elapsed 72
+:event/card_type "y"
+:event/player1 "Daniel van Buyten"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_980809"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8274"}
+
+{:event/type "goal"
+:event/elapsed 73
+:event/sortorder 1
+:event/team "home"
+:event/id "event_980540"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Holger Badstuber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_980578"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8274"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Holger Badstuber"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_980578"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Lukas Podolski"
+:event/player1 "Daniel van Buyten"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_980598"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/subtype "hands"
+:event/player1 "Lukas Podolski"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_980607"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player1 "Geromel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_980645"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Adam Matuschyk"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_980666"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8274"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Adam Matuschyk"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_980666"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Thomas Mueller"
+:event/player1 "Petit"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_980678"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_8274"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/player1 "Petit"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_980679"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_8274"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "post"
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_980694"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_8274"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_980735"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_980747"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8274"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Daniel van Buyten"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_980780"
+:event/minute 92
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Mark van Bommel"
+:event/player1 "Fabrice Ehret"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_980792"
+:event/minute 93
+:event/match_id "match_8274"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_980796"
+:event/minute 93
+:event/match_id "match_8274"}
+
+{:event/type "card"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Bastian Schweinsteiger"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_980798"
+:event/minute 93
+:event/match_id "match_8274"}
+
+
+]
+

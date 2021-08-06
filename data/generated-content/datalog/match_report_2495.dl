@@ -1,0 +1,986 @@
+
+;;# data
+[
+{:match/id "match_2495"
+:match/league "England Premier League"
+:match/hometeam "Sunderland"
+:match/awayteam "Birmingham City"
+:match/score "1:3"
+:match/hometeam_goals "2"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Fraizer Campbell"
+:event/subtype "from_behind"
+:event/player1 "Roger Johnson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1127950"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2495"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "bad shot"
+:event/player1 "Darren Bent"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1127967"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Jordan Henderson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1127972"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Fraizer Campbell"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1127976"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2495"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "distance"
+:event/player1 "Jordan Henderson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1127979"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Fraizer Campbell"
+:event/subtype "obstruction"
+:event/player1 "Lee Bowyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1128004"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/subtype "hands"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1128034"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1128076"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2495"}
+
+{:event/type "corner"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1128076"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1128107"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2495"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "shot"
+:event/player1 "Steed Malbranque"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1128109"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Kieran Richardson"
+:event/subtype "obstruction"
+:event/player1 "Cameron Jerome"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1128131"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1128221"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Fraizer Campbell"
+:event/subtype "penalty"
+:event/player1 "Stephen Carr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1128239"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2495"}
+
+{:event/type "card"
+:event/elapsed 24
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Stephen Carr"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1128248"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2495"}
+
+{:event/type "goal"
+:event/elapsed 24
+:event/player1 "Darren Bent"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1128261"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1128278"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2495"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "bad shot"
+:event/player1 "Garry O'Connor"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1128296"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Cameron Jerome"
+:event/subtype "shirt_pull"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1128328"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2495"}
+
+{:event/type "card"
+:event/elapsed 28
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Lee Cattermole"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1128334"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Fraizer Campbell"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1128349"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2495"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "bad shot"
+:event/player1 "Darren Bent"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1128351"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1128360"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Sebastian Larsson"
+:event/subtype "from_behind"
+:event/player1 "Kieran Richardson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1128369"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2495"}
+
+{:event/type "card"
+:event/elapsed 30
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Kieran Richardson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1128371"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "John Mensah"
+:event/subtype "shirt_pull"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1128409"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1128438"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Jordan Henderson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1128445"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2495"}
+
+{:event/type "corner"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Jordan Henderson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1128445"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1128463"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Cameron Jerome"
+:event/subtype "from_behind"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1128485"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2495"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "header"
+:event/player1 "Roger Johnson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1128508"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Lee Bowyer"
+:event/subtype "from_behind"
+:event/player1 "Lee Cattermole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1128573"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2495"}
+
+{:event/type "card"
+:event/elapsed 44
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Lee Cattermole"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1128656"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1128726"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1128744"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2495"}
+
+{:event/type "corner"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1128744"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1128772"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Garry O'Connor"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1128787"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_2495"}
+
+{:event/type "shoton"
+:event/elapsed 55
+:event/subtype "deflected"
+:event/player1 "Fraizer Campbell"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1128834"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Jordan Henderson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1128836"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2495"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Jordan Henderson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1128836"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2495"}
+
+{:event/type "goal"
+:event/elapsed 56
+:event/player1 "Stephen Carr"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1128844"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2495"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "bad shot"
+:event/player1 "Barry Ferguson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1128892"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1128901"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1128907"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1128912"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_2495"}
+
+{:event/type "shoton"
+:event/elapsed 62
+:event/subtype "distance"
+:event/player1 "Nikola Zigic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1128933"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1128940"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2495"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1128940"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2495"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Darren Bent"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1128984"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Cameron Jerome"
+:event/subtype "serious_foul"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1129013"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2495"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Darren Bent"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1129017"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1129029"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2495"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1129029"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Darren Bent"
+:event/subtype "serious_foul"
+:event/player1 "Roger Johnson"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1129090"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2495"}
+
+{:event/type "card"
+:event/elapsed 71
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Roger Johnson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1129092"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "James McFadden"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1129108"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2495"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "header"
+:event/player1 "Cameron Jerome"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1129110"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Cameron Jerome"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1129124"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2495"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "bad shot"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1129142"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Ahmed El Mohamady"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1129170"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Cristian Riveros"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1129178"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1129185"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2495"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Jordan Henderson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1129185"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1129201"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2495"}
+
+{:event/type "corner"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Sebastian Larsson"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1129201"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2495"}
+
+{:event/type "goal"
+:event/elapsed 78
+:event/player2 "Sebastian Larsson"
+:event/subtype "header"
+:event/player1 "Scott Dann"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1129209"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "James McFadden"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1129222"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2495"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "James McFadden"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1129222"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2495"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "distance"
+:event/player1 "Lee Bowyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1129236"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Lee Bowyer"
+:event/subtype "pushing"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1129268"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "John Mensah"
+:event/subtype "pushing"
+:event/player1 "Craig Gardner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1129306"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2495"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Craig Gardner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1129344"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Sebastian Larsson"
+:event/subtype "pushing"
+:event/player1 "Cristian Riveros"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1129350"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2495"}
+
+{:event/type "goal"
+:event/elapsed 88
+:event/player2 "Sebastian Larsson"
+:event/subtype "header"
+:event/player1 "Liam Ridgewell"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1129357"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_2495"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Cristian Riveros"
+:event/subtype "serious_foul"
+:event/player1 "Craig Gardner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1129384"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2495"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Craig Gardner"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1129391"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2495"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "bad shot"
+:event/player1 "Nikola Zigic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1129423"
+:event/minute 93
+:event/match_id "match_2495"}
+
+
+]
+

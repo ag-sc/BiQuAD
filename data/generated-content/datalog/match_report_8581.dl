@@ -1,0 +1,963 @@
+
+;;# data
+[
+{:match/id "match_8581"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Hannover 96"
+:match/awayteam "FC Bayern Munich"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Mario Gomez"
+:event/subtype "pushing"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1439776"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Breno"
+:event/player1 "Lars Stindl"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1439782"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Thomas Mueller"
+:event/subtype "from_behind"
+:event/player1 "Karim Haggui"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1439788"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8581"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "direct_freekick"
+:event/player1 "Arjen Robben"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1439790"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1439795"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/subtype "hands"
+:event/player1 "Franck Ribery"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1439808"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Jan Schlaudraff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1439810"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8581"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "big chance volley"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1439811"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Breno"
+:event/subtype "pushing"
+:event/player1 "Jan Schlaudraff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1439817"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Toni Kroos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1439818"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1439821"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8581"}
+
+{:event/type "goal"
+:event/elapsed 16
+:event/player2 "Konstantin Rausch"
+:event/subtype "shot"
+:event/player1 "Mohammed Abdellaoue"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_1439820"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Franck Ribery"
+:event/subtype "pushing"
+:event/player1 "Lars Stindl"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1439822"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Emanuel Pogatetz"
+:event/subtype "pushing"
+:event/player1 "Mario Gomez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1439828"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Mohammed Abdellaoue"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1439829"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Jan Schlaudraff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1439832"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8581"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "blocked_shot"
+:event/player1 "Lars Stindl"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1439833"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Franck Ribery"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1439836"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Arjen Robben"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1439837"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_8581"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Danijel Pranjic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1439846"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Franck Ribery"
+:event/subtype "obstruction"
+:event/player1 "Steven Cherundolo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1439847"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8581"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "direct_freekick"
+:event/player1 "Arjen Robben"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1439848"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1439860"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8581"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1439860"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8581"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "shot"
+:event/player1 "Christian Schulz"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1439862"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8581"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Thomas Mueller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1439915"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Arjen Robben"
+:event/subtype "pushing"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1439922"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1439951"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_8581"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "big chance shot"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1439957"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_8581"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "distance"
+:event/player1 "Sergio Pinto"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1439991"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Sergio Pinto"
+:event/player1 "Mario Gomez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1439999"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Lars Stindl"
+:event/player1 "Toni Kroos"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1440024"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8581"}
+
+{:event/type "card"
+:event/elapsed 42
+:event/card_type "y"
+:event/player1 "Toni Kroos"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1440026"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8581"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "shot"
+:event/player1 "Mohammed Abdellaoue"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1440052"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Franck Ribery"
+:event/subtype "obstruction"
+:event/player1 "Sergio Pinto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440072"
+:event/minute 46
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Ron-Robert Zieler"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1440334"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440340"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Danijel Pranjic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440346"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Mohammed Abdellaoue"
+:event/player1 "Daniel van Buyten"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1440353"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8581"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "short"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1440372"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_8581"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player2 "Jan Schlaudraff"
+:event/subtype "deflected"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_1440370"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_8581"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "shot"
+:event/player1 "Mohammed Abdellaoue"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1440399"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Philipp Lahm"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440407"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Franck Ribery"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440423"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8581"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/player2 "Franck Ribery"
+:event/subtype "shot"
+:event/player1 "Arjen Robben"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_1440417"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Konstantin Rausch"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440433"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Philipp Lahm"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440452"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Jan Schlaudraff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440468"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Toni Kroos"
+:event/player1 "Mohammed Abdellaoue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440493"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8581"}
+
+{:event/type "card"
+:event/elapsed 60
+:event/card_type "y"
+:event/player1 "Mohammed Abdellaoue"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1440495"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Arjen Robben"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440509"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Toni Kroos"
+:event/subtype "pushing"
+:event/player1 "Manuel Schmiedebach"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440514"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_8581"}
+
+{:event/type "goal"
+:event/elapsed 63
+:event/subtype "distance"
+:event/player1 "Sergio Pinto"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1440520"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440521"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8581"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "Toni Kroos"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1440522"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8581"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "volley"
+:event/player1 "Arjen Robben"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1440525"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8581"}
+
+{:event/type "shoton"
+:event/elapsed 68
+:event/subtype "big chance shot"
+:event/player1 "Arjen Robben"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1440533"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Thomas Mueller"
+:event/player1 "Mohammed Abdellaoue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440544"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_8581"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Thomas Mueller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1440545"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_8581"}
+
+{:event/type "card"
+:event/elapsed 73
+:event/card_type "r"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Breno"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1440551"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_8581"}
+
+{:event/type "card"
+:event/elapsed 74
+:event/card_type "y"
+:event/player1 "Lars Stindl"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1440552"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Miroslav Klose"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440553"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8581"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "short"
+:event/player1 "Arjen Robben"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440555"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8581"}
+
+{:event/type "shoton"
+:event/elapsed 74
+:event/subtype "header"
+:event/player1 "Mario Gomez"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1440556"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440583"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Jan Schlaudraff"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1440607"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Thomas Mueller"
+:event/subtype "obstruction"
+:event/player1 "Steven Cherundolo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440630"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440646"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8581"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1440646"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player1 "Sergio Pinto"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440658"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8581"}
+
+{:event/type "card"
+:event/elapsed 80
+:event/card_type "y"
+:event/player1 "Sergio Pinto"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1440659"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8581"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "shot"
+:event/player1 "Thomas Mueller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1440674"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1440695"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8581"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player1 "Sergio Pinto"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1440704"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Arjen Robben"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440713"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8581"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Moritz Stoppelkamp"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1440805"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8581"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Moritz Stoppelkamp"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1440837"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8581"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Arjen Robben"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1440868"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_8581"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Arjen Robben"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1440936"
+:event/minute 93
+:event/match_id "match_8581"}
+
+
+]
+

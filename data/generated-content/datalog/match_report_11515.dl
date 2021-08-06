@@ -1,0 +1,911 @@
+
+;;# data
+[
+{:match/id "match_11515"
+:match/league "Italy Serie A"
+:match/hometeam "Palermo"
+:match/awayteam "Inter"
+:match/score "4:3"
+:match/hometeam_goals "4"
+:match/awayteam_goals "3"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/subtype "hands"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642627"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_11515"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "blocked_shot"
+:event/player1 "Fabrizio Miccoli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1642628"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642634"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "deflected"
+:event/player1 "Fabrizio Miccoli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1642635"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1642638"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11515"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1642638"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11515"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "header"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1642639"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player1 "Yuto Nagatomo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642642"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 7
+:event/subtype "distance"
+:event/player1 "Mauro Zarate"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1642644"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642647"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1642652"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_11515"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1642652"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/subtype "hands"
+:event/player1 "Mauro Zarate"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642653"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player1 "Mauro Zarate"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642654"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1642655"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Fabrizio Miccoli"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642657"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11515"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "direct_freekick"
+:event/player1 "Fabrizio Miccoli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1642658"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11515"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "short"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1642660"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "distance"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1642661"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player1 "Lucio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642663"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1642665"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "distance"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1642667"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1642670"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_11515"}
+
+{:event/type "card"
+:event/elapsed 27
+:event/card_type "y"
+:event/player1 "Walter Samuel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1642680"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1642673"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642678"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11515"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642678"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11515"}
+
+{:event/type "goal"
+:event/elapsed 33
+:event/player2 "Dejan Stankovic"
+:event/subtype "deflected"
+:event/player1 "Diego Milito"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1642679"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "deflected"
+:event/player1 "Diego Forlan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1642683"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "bad shot"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1642684"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player1 "Yuto Nagatomo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642687"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11515"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "blocked_shot"
+:event/player1 "Fabrizio Miccoli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1642688"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11515"}
+
+{:event/type "corner"
+:event/elapsed 46
+:event/subtype "short"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1642696"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_11515"}
+
+{:event/type "goal"
+:event/elapsed 48
+:event/player2 "Edgar Barreto"
+:event/subtype "shot"
+:event/player1 "Fabrizio Miccoli"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1642698"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11515"}
+
+{:event/type "card"
+:event/elapsed 48
+:event/card_type "y"
+:event/player1 "Julio Cesar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1642699"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "big chance shot"
+:event/player1 "Diego Milito"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1642702"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642703"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_11515"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642703"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Walter Samuel"
+:event/subtype "penalty"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1642704"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_11515"}
+
+{:event/type "goal"
+:event/elapsed 51
+:event/player1 "Diego Milito"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1642706"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_11515"}
+
+{:event/type "goal"
+:event/elapsed 54
+:event/player2 "Fabrizio Miccoli"
+:event/subtype "shot"
+:event/player1 "Abel Hernandez"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1642708"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1642710"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "shot"
+:event/player1 "Diego Milito"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1642712"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/subtype "serious_foul"
+:event/player1 "Javier Zanetti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642719"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11515"}
+
+{:event/type "card"
+:event/elapsed 59
+:event/card_type "y"
+:event/player1 "Javier Zanetti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1642720"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11515"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "direct_freekick"
+:event/player1 "Fabrizio Miccoli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1642721"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/subtype "serious_foul"
+:event/player1 "Afriyie Acquah"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1642723"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_11515"}
+
+{:event/type "card"
+:event/elapsed 61
+:event/card_type "y"
+:event/player1 "Afriyie Acquah"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1642724"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Diego Forlan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1642734"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Diego Forlan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1642735"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642736"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11515"}
+
+{:event/type "corner"
+:event/elapsed 66
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642736"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11515"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1642738"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_11515"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1642739"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642747"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11515"}
+
+{:event/type "shoton"
+:event/elapsed 71
+:event/subtype "direct_freekick"
+:event/player1 "Fabrizio Miccoli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1642748"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "distance"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1642751"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1642753"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_11515"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1642753"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "distance"
+:event/player1 "Ricardo Alvarez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1642761"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Federico Balzaretti"
+:event/player1 "Jonathan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642763"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11515"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "blocked_shot"
+:event/player1 "Joel Chukwuma Obi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1642764"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642767"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_11515"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642767"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642771"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11515"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642771"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11515"}
+
+{:event/type "shotoff"
+:event/elapsed 82
+:event/subtype "volley"
+:event/player1 "Dejan Stankovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1642774"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player1 "Javier Zanetti"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1642781"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11515"}
+
+{:event/type "goal"
+:event/elapsed 86
+:event/subtype "direct_freekick"
+:event/player1 "Fabrizio Miccoli"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1642782"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642785"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11515"}
+
+{:event/type "corner"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Wesley Sneijder"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642785"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11515"}
+
+{:event/type "goal"
+:event/elapsed 88
+:event/subtype "distance"
+:event/player1 "Mauricio Pinilla"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1642788"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11515"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/subtype "Removing Shirt"
+:event/player1 "Mauricio Pinilla"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1642915"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11515"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Diego Milito"
+:event/player1 "Matias Silvestre"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1642796"
+:event/minute 91
+:event/match_id "match_11515"}
+
+{:event/type "goal"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Wesley Sneijder"
+:event/subtype "shot"
+:event/player1 "Diego Forlan"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1642799"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 92
+:event/match_id "match_11515"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Diego Forlan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642806"
+:event/minute 94
+:event/match_id "match_11515"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Diego Forlan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1642806"
+:event/minute 94
+:event/match_id "match_11515"}
+
+
+]
+

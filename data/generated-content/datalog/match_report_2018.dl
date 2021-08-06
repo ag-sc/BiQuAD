@@ -1,0 +1,878 @@
+
+;;# data
+[
+{:match/id "match_2018"
+:match/league "England Premier League"
+:match/hometeam "Chelsea"
+:match/awayteam "Fulham"
+:match/score "4:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "goal"
+:event/elapsed 1
+:event/player2 "Didier Drogba"
+:event/subtype "shot"
+:event/player1 "Nicolas Anelka"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_664992"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2018"}
+
+{:event/type "shoton"
+:event/elapsed 2
+:event/subtype "blocked_shot"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_665013"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "John Pantsil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_665019"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2018"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "distance"
+:event/player1 "Zoltan Gera"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_665026"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_2018"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/player2 "Danny Murphy"
+:event/subtype "shot"
+:event/player1 "Erik Nevland"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_665042"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "distance"
+:event/player1 "Frank Lampard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_665103"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_2018"}
+
+{:event/type "goal"
+:event/elapsed 10
+:event/player2 "Didier Drogba"
+:event/subtype "shot"
+:event/player1 "Florent Malouda"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_665155"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_665225"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "volley"
+:event/player1 "Erik Nevland"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_665228"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_665258"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "header"
+:event/player1 "Bobby Zamora"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_665261"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_2018"}
+
+{:event/type "goal"
+:event/elapsed 21
+:event/subtype "shot"
+:event/player1 "Didier Drogba"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_665331"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Erik Nevland"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_665367"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_665373"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2018"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_665373"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_665405"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Jose Bosingwa"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_665428"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Didier Drogba"
+:event/player1 "John Pantsil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_665479"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 32
+:event/subtype "direct_freekick"
+:event/player1 "Frank Lampard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_665484"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "John Obi Mikel"
+:event/subtype "from_behind"
+:event/player1 "Diomansy Kamara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_665565"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/subtype "hands"
+:event/player1 "John Obi Mikel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_665586"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 39
+:event/subtype "deflected"
+:event/player1 "Zoltan Gera"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_665596"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_665605"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2018"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_665605"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "shot"
+:event/player1 "Paul Konchesky"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_665611"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player1 "Alex"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_665626"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Jose Bosingwa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_665657"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2018"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "blocked_shot"
+:event/player1 "Florent Malouda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_665661"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_665664"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2018"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_665664"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2018"}
+
+{:event/type "shoton"
+:event/elapsed 43
+:event/subtype "blocked_shot"
+:event/player1 "Frank Lampard"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_665671"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_665672"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2018"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_665672"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "distance"
+:event/player1 "Michael Essien"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_665692"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_665708"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_665844"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_2018"}
+
+{:event/type "corner"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_665844"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Michael Essien"
+:event/subtype "shirt_pull"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_665735"
+:event/minute 47
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Clint Dempsey"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_665909"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2018"}
+
+{:event/type "goal"
+:event/elapsed 53
+:event/player2 "Nicolas Anelka"
+:event/subtype "shot"
+:event/player1 "Didier Drogba"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_665970"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "Zoltan Gera"
+:event/player1 "Florent Malouda"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_666010"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Florent Malouda"
+:event/player1 "Brede Hangeland"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_666037"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2018"}
+
+{:event/type "shoton"
+:event/elapsed 60
+:event/subtype "direct_freekick"
+:event/player1 "Frank Lampard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_666083"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_666088"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2018"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Frank Lampard"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_666088"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "John Pantsil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_666178"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "distance"
+:event/player1 "Diomansy Kamara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_666197"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Didier Drogba"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_666235"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_2018"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "short"
+:event/player1 "Florent Malouda"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_666262"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_666267"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "header"
+:event/player1 "Michael Ballack"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_666268"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "John Terry"
+:event/player1 "Bobby Zamora"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_666273"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "distance"
+:event/player1 "Jose Bosingwa"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_666317"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Paul Konchesky"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_666327"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Jose Bosingwa"
+:event/player1 "Clint Dempsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_666380"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "John Pantsil"
+:event/player1 "Frank Lampard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_666405"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Nicolas Anelka"
+:event/subtype "serious_foul"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_666416"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_666451"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2018"}
+
+{:event/type "corner"
+:event/elapsed 82
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_666451"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Florent Malouda"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_666475"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 84
+:event/subtype "header"
+:event/player1 "Nicolas Anelka"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_666478"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Diomansy Kamara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_666490"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2018"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "blocked_shot"
+:event/player1 "Michael Ballack"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_666498"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Zoltan Gera"
+:event/player1 "Ashley Cole"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_666517"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "distance"
+:event/player1 "John Obi Mikel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_666547"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Olivier Dacourt"
+:event/player1 "Ashley Cole"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_666577"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_2018"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Danny Murphy"
+:event/subtype "pushing"
+:event/player1 "Michael Ballack"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_666596"
+:event/minute 92
+:event/match_id "match_2018"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/player1 "Danny Murphy"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_666605"
+:event/minute 92
+:event/match_id "match_2018"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "deflected"
+:event/player1 "Danny Murphy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_666615"
+:event/minute 93
+:event/match_id "match_2018"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_666616"
+:event/minute 93
+:event/match_id "match_2018"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Danny Murphy"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_666616"
+:event/minute 93
+:event/match_id "match_2018"}
+
+
+]
+

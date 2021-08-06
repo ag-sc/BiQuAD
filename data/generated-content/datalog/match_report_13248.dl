@@ -1,0 +1,978 @@
+
+;;# data
+[
+{:match/id "match_13248"
+:match/league "Italy Serie A"
+:match/hometeam "Juventus"
+:match/awayteam "Bologna"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Anthony Mounier"
+:event/player1 "Hernanes"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4878500"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Andrea Barzagli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4878532"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Adam Masina"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4878542"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_13248"}
+
+{:event/type "goal"
+:event/elapsed 6
+:event/player2 "Adam Masina"
+:event/subtype "volley"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_4878546"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Paulo Dybala"
+:event/player1 "Mattia Destro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4878579"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Paulo Dybala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4878594"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Amadou Diawara"
+:event/player1 "Sami Khedira"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4878618"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_13248"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "big chance shot"
+:event/player1 "Alvaro Morata"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4878637"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Paul Pogba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4878658"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_13248"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross_left"
+:event/player1 "Hernanes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4878661"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_13248"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "header"
+:event/player1 "Patrice Evra"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4878663"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Sami Khedira"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4878739"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Andrea Barzagli"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4878756"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Juan Cuadrado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4878829"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_13248"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross_right"
+:event/player1 "Hernanes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4878839"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Juan Cuadrado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4878859"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_13248"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Paul Pogba"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4878867"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_13248"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "shot"
+:event/player1 "Paul Pogba"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4878919"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_13248"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "distance"
+:event/player1 "Giorgio Chiellini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4878921"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Erick Pulgar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4878950"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Luca Rizzo"
+:event/subtype "pull"
+:event/player1 "Juan Cuadrado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4878978"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Franco Brienza"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4878997"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Erick Pulgar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4879006"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Juan Cuadrado"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4879017"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Hernanes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4879081"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4879107"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Patrice Evra"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4879142"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Anthony Mounier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4879178"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Anthony Mounier"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4879190"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Sami Khedira"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4879250"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_13248"}
+
+{:event/type "goal"
+:event/elapsed 33
+:event/subtype "header"
+:event/player1 "Alvaro Morata"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_4879251"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Erick Pulgar"
+:event/player1 "Paulo Dybala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4879302"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Erick Pulgar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4879432"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Leonardo Bonucci"
+:event/subtype "dangerous_play"
+:event/player1 "Mattia Destro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4879435"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_13248"}
+
+{:event/type "card"
+:event/elapsed 40
+:event/card_type "y"
+:event/player1 "Mattia Destro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4879447"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Paulo Dybala"
+:event/subtype "serious_foul"
+:event/player1 "Daniele Gastaldello"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4879462"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_13248"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/player1 "Daniele Gastaldello"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4879467"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_13248"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "deflected"
+:event/player1 "Alvaro Morata"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4879502"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_13248"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "short_right"
+:event/player1 "Paulo Dybala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4879520"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Juan Cuadrado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4879526"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Paul Pogba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4879553"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_13248"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "distance"
+:event/player1 "Hernanes"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4879563"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Sami Khedira"
+:event/subtype "dangerous_play"
+:event/player1 "Amadou Diawara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4879595"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Paulo Dybala"
+:event/subtype "serious_foul"
+:event/player1 "Anthony Mounier"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4879609"
+:event/minute 46
+:event/match_id "match_13248"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/card_type "y"
+:event/player1 "Anthony Mounier"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4879611"
+:event/minute 46
+:event/match_id "match_13248"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "big chance shot"
+:event/player1 "Alvaro Morata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4879860"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Paulo Dybala"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4879638"
+:event/minute 47
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Mattia Destro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4879912"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Juan Cuadrado"
+:event/subtype "serious_foul"
+:event/player1 "Adam Masina"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4879928"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_13248"}
+
+{:event/type "card"
+:event/elapsed 50
+:event/card_type "y"
+:event/player1 "Adam Masina"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4879932"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Andrea Barzagli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4879959"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Alvaro Morata"
+:event/subtype "penalty"
+:event/player1 "Alex Ferrari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4879975"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_13248"}
+
+{:event/type "goal"
+:event/elapsed 53
+:event/player1 "Paulo Dybala"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_4879984"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Alex Ferrari"
+:event/player1 "Paul Pogba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4880013"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Franco Brienza"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4880019"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_13248"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross_left"
+:event/player1 "Erick Pulgar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4880030"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Giorgio Chiellini"
+:event/subtype "trip"
+:event/player1 "Erick Pulgar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4880053"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_13248"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/player1 "Erick Pulgar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_4880062"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Alex Ferrari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4880076"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_13248"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Alvaro Morata"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4880099"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_13248"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "cross_left"
+:event/player1 "Paulo Dybala"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_4880108"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Anthony Mounier"
+:event/subtype "pull"
+:event/player1 "Hernanes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4880118"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Amadou Diawara"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4880127"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_13248"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross_left"
+:event/player1 "Luca Rizzo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_4880136"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_13248"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "distance"
+:event/player1 "Hernanes"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4880194"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Alvaro Morata"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4880206"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_13248"}
+
+{:event/type "goal"
+:event/elapsed 64
+:event/player2 "Alvaro Morata"
+:event/subtype "header"
+:event/player1 "Sami Khedira"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_4880207"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_13248"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Paulo Dybala"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4880300"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_13248"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "blocked_shot"
+:event/player1 "Alvaro Morata"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_4880305"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Alvaro Morata"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4880397"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Mario Lemina"
+:event/subtype "trip"
+:event/player1 "Mattia Destro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4880415"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Juan Cuadrado"
+:event/player1 "Luca Rossettini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_4880489"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_13248"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "direct_freekick"
+:event/player1 "Paul Pogba"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_4880500"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Anthony Mounier"
+:event/subtype "pull"
+:event/player1 "Mario Lemina"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4880531"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_13248"}
+
+{:event/type "card"
+:event/elapsed 83
+:event/card_type "y"
+:event/player1 "Mario Lemina"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_4880533"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "Luca Rizzo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_4880554"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_13248"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Juan Cuadrado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_4880679"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_13248"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Anthony Mounier"
+:event/player1 "Leonardo Bonucci"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_4880696"
+:event/minute 91
+:event/match_id "match_13248"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Filippo Falco"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_4880709"
+:event/minute 92
+:event/match_id "match_13248"}
+
+
+]
+

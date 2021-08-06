@@ -1,0 +1,744 @@
+
+;;# data
+[
+{:match/id "match_11035"
+:match/league "Italy Serie A"
+:match/hometeam "Bologna"
+:match/awayteam "Lecce"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Marco Di Vaio"
+:event/subtype "from_behind"
+:event/player1 "Andrea Rispoli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1259552"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Andrea Rispoli"
+:event/subtype "pushing"
+:event/player1 "Marco Di Vaio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1259564"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11035"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Riccardo Meggiorini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1259568"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_11035"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1259576"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_11035"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1259576"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_11035"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Guillermo Giacomazzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1259606"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11035"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "shot"
+:event/player1 "Francesco Della Rocca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1259627"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "David Di Michele"
+:event/subtype "obstruction"
+:event/player1 "Miguel Britos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1259631"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_11035"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "David Di Michele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1259634"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11035"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Diego Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1259657"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1259665"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Antonio Busce"
+:event/player1 "Carlos Javier Grossmuller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1259681"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11035"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "blocked_shot"
+:event/player1 "Diego Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1259683"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_11035"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Carlos Javier Grossmuller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1259686"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11035"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Carlos Javier Grossmuller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1259686"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11035"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Marco Di Vaio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1259691"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_11035"}
+
+{:event/type "corner"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Marco Di Vaio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1259691"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_11035"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Diego Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1259698"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Francesco Della Rocca"
+:event/subtype "pushing"
+:event/player1 "Gianni Munari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1259701"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11035"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "shot"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1259709"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_11035"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "shot"
+:event/player1 "David Di Michele"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1259710"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_11035"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Antonio Busce"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1259716"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_11035"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "header"
+:event/player1 "Marco Di Vaio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1259718"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_11035"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "Marco Di Vaio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1259725"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1259737"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Ignacio Piatti"
+:event/player1 "Marco Di Vaio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1259742"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1259765"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_11035"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "header"
+:event/player1 "Daniele Corvia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1259766"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Antonio Busce"
+:event/player1 "Carlos Javier Grossmuller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1259767"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Andrea Rispoli"
+:event/subtype "pushing"
+:event/player1 "Francesco Della Rocca"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1259768"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11035"}
+
+{:event/type "shotoff"
+:event/elapsed 53
+:event/subtype "shot"
+:event/player1 "Francesco Della Rocca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1259772"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_11035"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Francesco Della Rocca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1259775"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_11035"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "shot"
+:event/player1 "David Di Michele"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1259780"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1259784"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11035"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Guillermo Giacomazzi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1259785"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Marco Di Vaio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1259793"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_11035"}
+
+{:event/type "shotoff"
+:event/elapsed 62
+:event/subtype "shot"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1259795"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_11035"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "shot"
+:event/player1 "Giuseppe Vives"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1259797"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Andrea Rispoli"
+:event/subtype "pushing"
+:event/player1 "Matteo Rubin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1259804"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_11035"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1259807"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11035"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "header"
+:event/player1 "Marco Di Vaio"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1259808"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11035"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Antonio Busce"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1259824"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11035"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Riccardo Meggiorini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1259825"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Daniele Corvia"
+:event/subtype "pushing"
+:event/player1 "Miguel Britos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1259831"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 76
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1259835"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_11035"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "blocked_shot"
+:event/player1 "Guillermo Giacomazzi"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1259836"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Matteo Rubin"
+:event/subtype "serious_foul"
+:event/player1 "Andrea Rispoli"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1259839"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11035"}
+
+{:event/type "card"
+:event/elapsed 78
+:event/card_type "y"
+:event/player1 "Andrea Rispoli"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1259840"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Federico Casarini"
+:event/subtype "from_behind"
+:event/player1 "Giuseppe Vives"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1259850"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11035"}
+
+{:event/type "shoton"
+:event/elapsed 83
+:event/subtype "direct_freekick"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1259852"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11035"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1259853"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11035"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Gaston Ramirez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1259853"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11035"}
+
+{:event/type "goal"
+:event/elapsed 84
+:event/player2 "Miguel Britos"
+:event/subtype "header"
+:event/player1 "Marco Di Vaio"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1259855"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_11035"}
+
+{:event/type "goal"
+:event/elapsed 85
+:event/player1 "Henry Gimenez"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1259858"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11035"}
+
+{:event/type "card"
+:event/elapsed 86
+:event/card_type "y"
+:event/player1 "Daniele Corvia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1259860"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Gianni Munari"
+:event/player1 "Matteo Rubin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1259863"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11035"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Gaston Ramirez"
+:event/player1 "Jedaias Capucho Neves"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1259872"
+:event/minute 91
+:event/match_id "match_11035"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "violence"
+:event/player1 "Jedaias Capucho Neves"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1259873"
+:event/minute 91
+:event/match_id "match_11035"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "blocked_shot"
+:event/player1 "Jedaias Capucho Neves"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1259877"
+:event/minute 92
+:event/match_id "match_11035"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Jedaias Capucho Neves"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1259878"
+:event/minute 92
+:event/match_id "match_11035"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Manuel Coppola"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1259885"
+:event/minute 94
+:event/match_id "match_11035"}
+
+
+]
+

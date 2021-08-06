@@ -1,0 +1,986 @@
+
+;;# data
+[
+{:match/id "match_2140"
+:match/league "England Premier League"
+:match/hometeam "Hull City"
+:match/awayteam "Stoke City"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/subtype "hands"
+:event/player1 "Jozy Altidore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_834791"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Richard Garcia"
+:event/player1 "James Beattie"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_834795"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_2140"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "distance"
+:event/player1 "Jimmy Bullard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_834797"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_2140"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "distance"
+:event/player1 "Jimmy Bullard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_834807"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_834822"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_834825"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2140"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "distance"
+:event/player1 "Ricardo Fuller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_834827"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_834830"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Craig Fagan"
+:event/subtype "from_behind"
+:event/player1 "Ryan Shawcross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_834835"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2140"}
+
+{:event/type "card"
+:event/elapsed 14
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Ryan Shawcross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_834837"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_2140"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "distance"
+:event/player1 "Bernard Mendy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_834838"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "James Beattie"
+:event/player1 "Anthony Gardner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_834841"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Stephen Hunt"
+:event/player1 "Rory Delap"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_834843"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_2140"}
+
+{:event/type "shotoff"
+:event/elapsed 20
+:event/subtype "distance"
+:event/player1 "Jozy Altidore"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_834847"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2140"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "deflected"
+:event/player1 "Matthew Etherington"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_834849"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Stephen Hunt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_834861"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2140"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Stephen Hunt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_834861"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Matthew Etherington"
+:event/subtype "from_behind"
+:event/player1 "Bernard Mendy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_834863"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2140"}
+
+{:event/type "card"
+:event/elapsed 24
+:event/card_type "y"
+:event/player1 "Bernard Mendy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_834864"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_2140"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Dean Whitehead"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_834865"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Kamil Zayatte"
+:event/player1 "Ricardo Fuller"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_834878"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Stephen Hunt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_834884"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2140"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "header"
+:event/player1 "Richard Garcia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_834886"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2140"}
+
+{:event/type "goal"
+:event/elapsed 29
+:event/player2 "Thomas Sorensen"
+:event/subtype "shot"
+:event/player1 "Matthew Etherington"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_834896"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_834911"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Robert Huth"
+:event/player1 "Stephen Hunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_834915"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Stephen Hunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_834936"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2140"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Stephen Hunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_834936"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Richard Garcia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_834956"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2140"}
+
+{:event/type "shotoff"
+:event/elapsed 37
+:event/subtype "header"
+:event/player1 "Jozy Altidore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_834957"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Stephen Hunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_834964"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2140"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Stephen Hunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_834964"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Bernard Mendy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_834996"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Thomas Sorensen"
+:event/player1 "Stephen Hunt"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_834999"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player1 "Craig Fagan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_835010"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_835023"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Stephen Hunt"
+:event/player1 "Matthew Etherington"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_835025"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/player2 "Craig Fagan"
+:event/player1 "Robert Huth"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_835048"
+:event/minute 47
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Glenn Whelan"
+:event/player1 "Richard Garcia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_835249"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2140"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "direct_freekick"
+:event/player1 "James Beattie"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_835255"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Jimmy Bullard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_835272"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_835285"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Matthew Etherington"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_835322"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Matthew Etherington"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_835332"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2140"}
+
+{:event/type "corner"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Matthew Etherington"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_835332"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "James Beattie"
+:event/subtype "pushing"
+:event/player1 "Craig Fagan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_835347"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Jozy Altidore"
+:event/subtype "shirt_pull"
+:event/player1 "Robert Huth"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_835357"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2140"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Robert Huth"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_835358"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player1 "Stephen Hunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_835364"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Jozy Altidore"
+:event/player1 "Ryan Shawcross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_835392"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2140"}
+
+{:event/type "goal"
+:event/elapsed 62
+:event/player2 "Stephen Hunt"
+:event/subtype "distance"
+:event/player1 "Seyi Olofinjana"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_835394"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player1 "Dave Kitson"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_835414"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/subtype "hands"
+:event/player1 "Glenn Whelan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_835406"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_2140"}
+
+{:event/type "card"
+:event/elapsed 64
+:event/card_type "y"
+:event/subtype "hands"
+:event/player1 "Glenn Whelan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_835409"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_2140"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "distance"
+:event/player1 "Craig Fagan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_835411"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_2140"}
+
+{:event/type "card"
+:event/elapsed 67
+:event/card_type "y"
+:event/subtype "stall_time"
+:event/player1 "Abdoulaye Faye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_835420"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Bernard Mendy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_835436"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2140"}
+
+{:event/type "shotoff"
+:event/elapsed 70
+:event/subtype "deflected"
+:event/player1 "Craig Fagan"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_835439"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Jimmy Bullard"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_835440"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2140"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Jimmy Bullard"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_835440"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player1 "Craig Fagan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_835460"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2140"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "short"
+:event/player1 "Glenn Whelan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_835466"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2140"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "blocked_shot"
+:event/player1 "Glenn Whelan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_835468"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Matthew Etherington"
+:event/subtype "serious_foul"
+:event/player1 "Jozy Altidore"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_835478"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Andrew Dawson"
+:event/player1 "Ricardo Fuller"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_835510"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_835549"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_2140"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Jozy Altidore"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_835591"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Dave Kitson"
+:event/player1 "Kamil Zayatte"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_835642"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_2140"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "crossbar"
+:event/player1 "Ryan Shawcross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_835656"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_835687"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_835696"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player1 "Craig Fagan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_835715"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Nick Barmby"
+:event/subtype "serious_foul"
+:event/player1 "Abdoulaye Faye"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_835738"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2140"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Abdoulaye Faye"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_835743"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2140"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "distance"
+:event/player1 "Jimmy Bullard"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_835782"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2140"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "Jimmy Bullard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_835811"
+:event/minute 91
+:event/match_id "match_2140"}
+
+{:event/type "goal"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "loose_ball"
+:event/player1 "Jan Vennegoor of Hesselink"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_835814"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 91
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_835841"
+:event/minute 92
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_835851"
+:event/minute 93
+:event/match_id "match_2140"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Jimmy Bullard"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_835863"
+:event/minute 94
+:event/match_id "match_2140"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "George Boateng"
+:event/player1 "Glenn Whelan"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_835871"
+:event/minute 94
+:event/match_id "match_2140"}
+
+
+]
+

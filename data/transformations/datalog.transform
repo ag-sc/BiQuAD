@@ -1,0 +1,18 @@
+[@target="datalog1", @condition="data.type=='Match'"]
+    {:match/id "match_{@data.match_id}"
+    :match/league "{@data.league}"
+    :match/hometeam "{@data.hometeam}"
+    :match/awayteam "{@data.awayteam}"
+    :match/score "{@data.score}"
+    :match/hometeam_goals "{@data.home_goals}"
+    :match/awayteam_goals "{@data.away_goals}"}
+
+[@target="datalog1", @condition="data.event_type_id and data.type!='Match'"]
+    :event/id "event_{@data.event_id}"
+    :event/match "match_{@data.match.match_id}"
+    :event/minute {@data.minute}
+    :event/type "{@data.type}"
+
+[@target="datalog"]
+    {@data|datalogfilter}
+

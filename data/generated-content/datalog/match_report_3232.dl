@@ -1,0 +1,809 @@
+
+;;# data
+[
+{:match/id "match_3232"
+:match/league "England Premier League"
+:match/hometeam "Manchester City"
+:match/awayteam "Aston Villa"
+:match/score "4:1"
+:match/hometeam_goals "4"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 5
+:event/player2 "Stiliyan Petrov"
+:event/subtype "pushing"
+:event/player1 "Mario Balotelli"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1708994"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1709051"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3232"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "deflected"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1709054"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3232"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "big chance shot"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1709093"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3232"}
+
+{:event/type "shotoff"
+:event/elapsed 12
+:event/subtype "deflected"
+:event/player1 "Stephen Warnock"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1709098"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Stiliyan Petrov"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1709104"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3232"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Stiliyan Petrov"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1709104"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3232"}
+
+{:event/type "shotoff"
+:event/elapsed 15
+:event/subtype "bad shot"
+:event/player1 "Mario Balotelli"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1709151"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Stiliyan Petrov"
+:event/player1 "Nigel de Jong"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1709188"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Stephen Ireland"
+:event/player1 "Nigel de Jong"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1709202"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1709207"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709230"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3232"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709230"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3232"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "header"
+:event/player1 "Joleon Lescott"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1709234"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709257"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_3232"}
+
+{:event/type "shoton"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Yaya Toure"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1709281"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Mario Balotelli"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709290"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3232"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Mario Balotelli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1709297"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3232"}
+
+{:event/type "corner"
+:event/elapsed 26
+:event/subtype "short"
+:event/player1 "James Milner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709300"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709302"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/subtype "hands"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1709315"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 12
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709345"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3232"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 12
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709345"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3232"}
+
+{:event/type "goal"
+:event/elapsed 28
+:event/player2 "Micah Richards"
+:event/subtype "bicycle_kick"
+:event/player1 "Mario Balotelli"
+:event/sortorder 32
+:event/team "home"
+:event/id "event_1709339"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Gael Clichy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709418"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Stiliyan Petrov"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1709431"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3232"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "blocked_shot"
+:event/player1 "Darren Bent"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1709434"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3232"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "distance"
+:event/player1 "Stephen Warnock"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1709436"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3232"}
+
+{:event/type "shoton"
+:event/elapsed 35
+:event/subtype "blocked_shot"
+:event/player1 "Adam Johnson"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1709447"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Mario Balotelli"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709459"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "James Milner"
+:event/player1 "Stephen Ireland"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1709495"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Stephen Ireland"
+:event/subtype "pushing"
+:event/player1 "Mario Balotelli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1709510"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Stephen Ireland"
+:event/subtype "from_behind"
+:event/player1 "Vincent Kompany"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1709512"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_3232"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "header"
+:event/player1 "Emile Heskey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1709528"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_3232"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "distance"
+:event/player1 "Nigel de Jong"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1709573"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Stephen Warnock"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1709711"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3232"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "blocked_shot"
+:event/player1 "Emile Heskey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1709715"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3232"}
+
+{:event/type "goal"
+:event/elapsed 47
+:event/player2 "Yaya Toure"
+:event/subtype "shot"
+:event/player1 "Adam Johnson"
+:event/sortorder 22
+:event/team "home"
+:event/id "event_1709716"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3232"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Mario Balotelli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1709801"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3232"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "deflected"
+:event/player1 "Gareth Barry"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1709804"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 22
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709822"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3232"}
+
+{:event/type "corner"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Adam Johnson"
+:event/sortorder 22
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709822"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3232"}
+
+{:event/type "goal"
+:event/elapsed 52
+:event/player2 "Adam Johnson"
+:event/subtype "header"
+:event/player1 "Vincent Kompany"
+:event/sortorder 33
+:event/team "home"
+:event/id "event_1709807"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Stiliyan Petrov"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1709873"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3232"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "blocked_shot"
+:event/player1 "Charles N'Zogbia"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1709886"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Richard Dunne"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1709892"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "James Milner"
+:event/player1 "Emile Heskey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1709925"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Gabriel Agbonlahor"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1709934"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3232"}
+
+{:event/type "card"
+:event/elapsed 59
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Gareth Barry"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1709935"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709957"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3232"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709957"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 61
+:event/player2 "Shay Given"
+:event/player1 "Micah Richards"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1709962"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_3232"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 14
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1710021"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3232"}
+
+{:event/type "goal"
+:event/elapsed 65
+:event/player2 "Charles N'Zogbia"
+:event/subtype "shot"
+:event/player1 "Stephen Warnock"
+:event/sortorder 33
+:event/team "away"
+:event/id "event_1710015"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Adam Johnson"
+:event/player1 "Fabian Delph"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1710110"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3232"}
+
+{:event/type "goal"
+:event/elapsed 71
+:event/player2 "Gareth Barry"
+:event/subtype "shot"
+:event/player1 "James Milner"
+:event/sortorder 44
+:event/team "home"
+:event/id "event_1710138"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_3232"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "big chance shot"
+:event/player1 "David Silva"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1710215"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Nigel de Jong"
+:event/player1 "Barry Bannan"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1710279"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3232"}
+
+{:event/type "card"
+:event/elapsed 80
+:event/card_type "y"
+:event/subtype "kicked_ball_away"
+:event/player1 "Barry Bannan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1710280"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Alan Hutton"
+:event/player1 "David Silva"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1710297"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Mario Balotelli"
+:event/player1 "Alan Hutton"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1710321"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_3232"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "shot"
+:event/player1 "David Silva"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1710329"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_3232"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "distance"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1710344"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_3232"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "shot"
+:event/player1 "Vincent Kompany"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1710367"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_3232"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Charles N'Zogbia"
+:event/player1 "Gael Clichy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1710457"
+:event/minute 93
+:event/match_id "match_3232"}
+
+
+]
+

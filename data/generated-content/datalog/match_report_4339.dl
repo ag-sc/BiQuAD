@@ -1,0 +1,966 @@
+
+;;# data
+[
+{:match/id "match_4339"
+:match/league "England Premier League"
+:match/hometeam "Aston Villa"
+:match/awayteam "Arsenal"
+:match/score "1:2"
+:match/hometeam_goals "0"
+:match/awayteam_goals "3"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Santi Cazorla"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3744788"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4339"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Fabian Delph"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3744805"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4339"}
+
+{:event/type "corner"
+:event/elapsed 3
+:event/subtype "cross_right"
+:event/player1 "Tom Cleverley"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3744807"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Aly Cissokho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3744815"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4339"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross_left"
+:event/player1 "Tom Cleverley"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3744827"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4339"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "distance"
+:event/player1 "Danny Welbeck"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3744895"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Alex Oxlade-Chamberlain"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3744935"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4339"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "cross_right"
+:event/player1 "Santi Cazorla"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3744941"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3744949"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Ciaran Clark"
+:event/subtype "dangerous_play"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3744987"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Aaron Ramsey"
+:event/subtype "pushing"
+:event/player1 "Carlos Sanchez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3745066"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Aly Cissokho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3745097"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4339"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "blocked_shot"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3746206"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4339"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross_right"
+:event/player1 "Tom Cleverley"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3745120"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4339"}
+
+{:event/type "shotoff"
+:event/elapsed 17
+:event/subtype "header"
+:event/player1 "Alan Hutton"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3745123"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4339"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross_left"
+:event/player1 "Mesut Oezil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3745153"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4339"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "blocked_shot"
+:event/player1 "Danny Welbeck"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3745156"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Alex Oxlade-Chamberlain"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3745157"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4339"}
+
+{:event/type "corner"
+:event/elapsed 19
+:event/subtype "cross_right"
+:event/player1 "Santi Cazorla"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3745163"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4339"}
+
+{:event/type "shotoff"
+:event/elapsed 19
+:event/subtype "shot"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3745167"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Mikel Arteta"
+:event/player1 "Tom Cleverley"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3745201"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Gabriel Agbonlahor"
+:event/player1 "Calum Chambers"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3745206"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4339"}
+
+{:event/type "card"
+:event/elapsed 23
+:event/card_type "y"
+:event/player1 "Calum Chambers"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3745207"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Tom Cleverley"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3745208"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4339"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "big chance header"
+:event/player1 "Ciaran Clark"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3745211"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_4339"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross_right"
+:event/player1 "Tom Cleverley"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3745216"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Gabriel Agbonlahor"
+:event/subtype "pushing"
+:event/player1 "Mikel Arteta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3745248"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4339"}
+
+{:event/type "goal"
+:event/elapsed 33
+:event/player2 "Danny Welbeck"
+:event/subtype "shot"
+:event/player1 "Mesut Oezil"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_3745319"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Mesut Oezil"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3745341"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4339"}
+
+{:event/type "goal"
+:event/elapsed 34
+:event/player2 "Mesut Oezil"
+:event/subtype "shot"
+:event/player1 "Danny Welbeck"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_3745344"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Aaron Ramsey"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3745374"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4339"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "blocked_shot"
+:event/player1 "Santi Cazorla"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3745384"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Kieran Gibbs"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3745388"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4339"}
+
+{:event/type "goal"
+:event/elapsed 36
+:event/player1 "Aly Cissokho"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_3745391"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Per Mertesacker"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3745414"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Mikel Arteta"
+:event/player1 "Kieran Richardson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3745448"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4339"}
+
+{:event/type "shoton"
+:event/elapsed 39
+:event/subtype "blocked_shot"
+:event/player1 "Kieran Gibbs"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3745467"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Calum Chambers"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3745475"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Gabriel Agbonlahor"
+:event/player1 "Laurent Koscielny"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3745489"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3745506"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4339"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "volley"
+:event/player1 "Mesut Oezil"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3745537"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Fabian Delph"
+:event/subtype "trip"
+:event/player1 "Mikel Arteta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3745599"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Kieran Richardson"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3745649"
+:event/minute 47
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Tom Cleverley"
+:event/sortorder 11
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3745654"
+:event/minute 47
+:event/match_id "match_4339"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 13
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3745672"
+:event/minute 48
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Aaron Ramsey"
+:event/subtype "pushing"
+:event/player1 "Carlos Sanchez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3746085"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4339"}
+
+{:event/type "shoton"
+:event/elapsed 53
+:event/subtype "shot"
+:event/player1 "Danny Welbeck"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3746149"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3746246"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Gabriel Agbonlahor"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3746265"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4339"}
+
+{:event/type "card"
+:event/elapsed 56
+:event/card_type "y"
+:event/player1 "Aaron Ramsey"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3746268"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Tom Cleverley"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3746284"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4339"}
+
+{:event/type "corner"
+:event/elapsed 58
+:event/subtype "cross_left"
+:event/player1 "Tom Cleverley"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3746322"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4339"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "blocked_shot"
+:event/player1 "Ciaran Clark"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3746325"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Santi Cazorla"
+:event/player1 "Carlos Sanchez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3746338"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Aaron Ramsey"
+:event/subtype "trip"
+:event/player1 "Carlos Sanchez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3746370"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 59
+:event/subtype "cross"
+:event/player1 "Kieran Gibbs"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3746377"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 60
+:event/player2 "Jack Grealish"
+:event/subtype "obstruction"
+:event/player1 "Calum Chambers"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3746387"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Aly Cissokho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3746425"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Calum Chambers"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3746496"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4339"}
+
+{:event/type "corner"
+:event/elapsed 63
+:event/subtype "cross_right"
+:event/player1 "Santi Cazorla"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3746510"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Alex Oxlade-Chamberlain"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3746523"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4339"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross_right"
+:event/player1 "Santi Cazorla"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3746544"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Aly Cissokho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3746580"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Jack Grealish"
+:event/subtype "trip"
+:event/player1 "Mikel Arteta"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3746597"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Tom Cleverley"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3746608"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Mesut Oezil"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3746676"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/player2 "Mesut Oezil"
+:event/subtype "from_behind"
+:event/player1 "Philippe Senderos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3746717"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Calum Chambers"
+:event/subtype "trip"
+:event/player1 "Jack Grealish"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3746761"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Lukas Podolski"
+:event/subtype "serious_foul"
+:event/player1 "Ciaran Clark"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3746883"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4339"}
+
+{:event/type "card"
+:event/elapsed 83
+:event/card_type "y"
+:event/player1 "Ciaran Clark"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3746885"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Alan Hutton"
+:event/subtype "from_behind"
+:event/player1 "Jack Wilshere"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3746901"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4339"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/player1 "Jack Wilshere"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3746903"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Aly Cissokho"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3746937"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Alan Hutton"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3746953"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Jack Wilshere"
+:event/player1 "Fabian Delph"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3746978"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Leandro Bacuna"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3747009"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4339"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Lukas Podolski"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3747020"
+:event/minute 91
+:event/match_id "match_4339"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Leandro Bacuna"
+:event/player1 "Mesut Oezil"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3747023"
+:event/minute 91
+:event/match_id "match_4339"}
+
+
+]
+

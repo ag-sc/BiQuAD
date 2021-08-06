@@ -1,0 +1,1406 @@
+
+;;# data
+[
+{:match/id "match_8242"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "Bayer 04 Leverkusen"
+:match/awayteam "VfL Wolfsburg"
+:match/score "1:2"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Josue"
+:event/player1 "Stefan Reinartz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_950898"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Toni Kroos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_950901"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_950903"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8242"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_950903"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "volley"
+:event/player1 "Toni Kroos"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_950904"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Daniel Schwaab"
+:event/player1 "Christian Gentner"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_950911"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Daniel Schwaab"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_950915"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_950917"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_950919"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "shot"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_950920"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_950923"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Michal Kadlec"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_950927"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Michal Kadlec"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_950931"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Grafite"
+:event/subtype "serious_foul"
+:event/player1 "Sami Hyypiae"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_950933"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Michal Kadlec"
+:event/player1 "Sascha Riether"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_950934"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Tranquillo Barnetta"
+:event/subtype "pushing"
+:event/player1 "Josue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_950936"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "direct_freekick"
+:event/player1 "Michal Kadlec"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_950937"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_950939"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Daniel Schwaab"
+:event/player1 "Christian Gentner"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_950940"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_950943"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Toni Kroos"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_950942"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_950944"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8242"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_950944"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Sami Hyypiae"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_950945"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Michal Kadlec"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_950946"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "deflected"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_950949"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Marcel Schaefer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_950952"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "shot"
+:event/player1 "Edin Dzeko"
+:event/sortorder 8
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_950955"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_950957"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8242"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_950957"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "header"
+:event/player1 "Alexander Madlung"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_950958"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_950962"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "deflected"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_950963"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_950964"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8242"}
+
+{:event/type "corner"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_950964"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_950966"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Stefan Reinartz"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_950967"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 30
+:event/subtype "volley"
+:event/player1 "Sami Hyypiae"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_950968"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_950971"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Edin Dzeko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_950983"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "header"
+:event/player1 "Grafite"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_950984"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_950991"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_950993"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Toni Kroos"
+:event/player1 "Grafite"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_950994"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Daniel Schwaab"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_950997"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Marcel Schaefer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951012"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951017"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "header"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_951018"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Edin Dzeko"
+:event/subtype "serious_foul"
+:event/player1 "Sami Hyypiae"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_951024"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8242"}
+
+{:event/type "card"
+:event/elapsed 39
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Sami Hyypiae"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_951025"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951031"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 42
+:event/subtype "blocked_shot"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_951043"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_951052"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8242"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_951052"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951054"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 44
+:event/subtype "header"
+:event/player1 "Grafite"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_951055"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Lars Bender"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_951058"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Marcel Schaefer"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951062"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Edin Dzeko"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951146"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Stefan Kiessling"
+:event/subtype "shirt_pull"
+:event/player1 "Jan Simunek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_951154"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8242"}
+
+{:event/type "goal"
+:event/elapsed 48
+:event/subtype "loose_ball"
+:event/player1 "Stefan Reinartz"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_951161"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951174"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "distance"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_951180"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "shot"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_951199"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Marcel Schaefer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951208"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Michal Kadlec"
+:event/subtype "serious_foul"
+:event/player1 "Sebastian Schindzielorz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_951218"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8242"}
+
+{:event/type "card"
+:event/elapsed 57
+:event/card_type "y"
+:event/player1 "Sebastian Schindzielorz"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_951219"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Toni Kroos"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951221"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Tranquillo Barnetta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951222"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "volley"
+:event/player1 "Eren Derdiyok"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_951224"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Toni Kroos"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951231"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Daniel Schwaab"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951243"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 61
+:event/subtype "deflected"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_951244"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 62
+:event/player2 "Ashkan Dejagah"
+:event/subtype "from_behind"
+:event/player1 "Michal Kadlec"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_951252"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_8242"}
+
+{:event/type "card"
+:event/elapsed 62
+:event/card_type "y"
+:event/player1 "Michal Kadlec"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_951253"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951259"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Stefan Kiessling"
+:event/subtype "shirt_pull"
+:event/player1 "Jan Simunek"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_951262"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8242"}
+
+{:event/type "card"
+:event/elapsed 65
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Jan Simunek"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_951263"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Stefan Kiessling"
+:event/subtype "serious_foul"
+:event/player1 "Jan Simunek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_951264"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951266"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "bicycle_kick"
+:event/player1 "Eren Derdiyok"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_951267"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_951269"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 67
+:event/player2 "Tranquillo Barnetta"
+:event/player1 "Josue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_951271"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "crossbar"
+:event/player1 "Eren Derdiyok"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_951360"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8242"}
+
+{:event/type "goal"
+:event/elapsed 68
+:event/player1 "Andre Lenz"
+:event/sortorder 3
+:event/team "away"
+:event/id "event_951272"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951280"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Grafite"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951284"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 74
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_951291"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951307"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 78
+:event/subtype "header"
+:event/player1 "Edin Dzeko"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_951308"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Daniel Schwaab"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951310"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951321"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Edin Dzeko"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_951319"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8242"}
+
+{:event/type "goal"
+:event/elapsed 79
+:event/subtype "loose_ball"
+:event/player1 "Edin Dzeko"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_951318"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951326"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 81
+:event/player2 "Michal Kadlec"
+:event/player1 "Grafite"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_951332"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Stefan Kiessling"
+:event/player1 "Jan Simunek"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_951341"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 82
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951348"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 82
+:event/subtype "header"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_951349"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Tranquillo Barnetta"
+:event/player1 "Josue"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_951353"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8242"}
+
+{:event/type "card"
+:event/elapsed 83
+:event/card_type "y"
+:event/player1 "Josue"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_951354"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Stefan Kiessling"
+:event/player1 "Alexander Madlung"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_951367"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "header"
+:event/player1 "Sami Hyypiae"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_951373"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_951376"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Daniel Schwaab"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951377"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Zvjezdan Misimovic"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_951383"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951384"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Renato Augusto"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951386"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "big chance shot"
+:event/player1 "Eren Derdiyok"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_951387"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player1 "Stefan Reinartz"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_951393"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951399"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_951402"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "big chance shot"
+:event/player1 "Josue"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_951403"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_8242"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Zvjezdan Misimovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_951411"
+:event/minute 91
+:event/match_id "match_8242"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_951418"
+:event/minute 92
+:event/match_id "match_8242"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Gonzalo Castro"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_951421"
+:event/minute 92
+:event/match_id "match_8242"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "big chance shot"
+:event/player1 "Stefan Kiessling"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_951424"
+:event/minute 93
+:event/match_id "match_8242"}
+
+
+]
+

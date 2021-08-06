@@ -1,0 +1,940 @@
+
+;;# data
+[
+{:match/id "match_11608"
+:match/league "Italy Serie A"
+:match/hometeam "Udinese"
+:match/awayteam "Fiorentina"
+:match/score "2:0"
+:match/hometeam_goals "2"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Cesare Natali"
+:event/subtype "pushing"
+:event/player1 "Gabriel Torje"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1658542"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Stevan Jovetic"
+:event/subtype "from_behind"
+:event/player1 "Mehdi Benatia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1658566"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Alessio Cerci"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1658569"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_11608"}
+
+{:event/type "shotoff"
+:event/elapsed 3
+:event/subtype "shot"
+:event/player1 "Alberto Gilardino"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1658570"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Stevan Jovetic"
+:event/subtype "pushing"
+:event/player1 "Mehdi Benatia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1658579"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1658618"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_11608"}
+
+{:event/type "corner"
+:event/elapsed 7
+:event/subtype "cross"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1658618"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_11608"}
+
+{:event/type "shoton"
+:event/elapsed 7
+:event/subtype "header"
+:event/player1 "Mehdi Benatia"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1658632"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/subtype "penalty"
+:event/player1 "Alessandro Gamberini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1658635"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_11608"}
+
+{:event/type "card"
+:event/elapsed 8
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Alessandro Gamberini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1658637"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_11608"}
+
+{:event/type "goal"
+:event/elapsed 8
+:event/player1 "Antonio Di Natale"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1658644"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Riccardo Montolivo"
+:event/subtype "from_behind"
+:event/player1 "Giampiero Pinzi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1658690"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Antonio Di Natale"
+:event/subtype "from_behind"
+:event/player1 "Riccardo Montolivo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1658733"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1658748"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11608"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "volley"
+:event/player1 "Alessio Cerci"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1658752"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 15
+:event/player2 "Antonio Di Natale"
+:event/subtype "from_behind"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1658779"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11608"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "shot"
+:event/player1 "Valon Behrami"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1658817"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player2 "Alberto Gilardino"
+:event/subtype "from_behind"
+:event/player1 "Mehdi Benatia"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1658838"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11608"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "shot"
+:event/player1 "Stevan Jovetic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1658848"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Gabriel Torje"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1658857"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11608"}
+
+{:event/type "shoton"
+:event/elapsed 21
+:event/subtype "blocked_shot"
+:event/player1 "Alessio Cerci"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1658869"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Alessio Cerci"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1658873"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11608"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Alessio Cerci"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1658873"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1658883"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Mauricio Isla"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1658887"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_11608"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "shot"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1658890"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Gabriel Torje"
+:event/subtype "from_behind"
+:event/player1 "Riccardo Montolivo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1658914"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_11608"}
+
+{:event/type "card"
+:event/elapsed 24
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Riccardo Montolivo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1658915"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Gabriel Torje"
+:event/subtype "from_behind"
+:event/player1 "Valon Behrami"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1658944"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11608"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "header"
+:event/player1 "Mehdi Benatia"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1658952"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11608"}
+
+{:event/type "goal"
+:event/elapsed 30
+:event/subtype "shot"
+:event/player1 "Mauricio Isla"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1658982"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 30
+:event/player2 "Giampiero Pinzi"
+:event/subtype "from_behind"
+:event/player1 "Alberto Gilardino"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1658997"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Alessandro Gamberini"
+:event/subtype "pushing"
+:event/player1 "Giovanni Pasquale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1659019"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11608"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "shot"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1659068"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_11608"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "distance"
+:event/player1 "Riccardo Montolivo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1659102"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Mehdi Benatia"
+:event/subtype "pushing"
+:event/player1 "Alessio Cerci"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1659175"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Danilo"
+:event/subtype "pushing"
+:event/player1 "Alberto Gilardino"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1659480"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Kwadwo Asamoah"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1659285"
+:event/minute 47
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Valon Behrami"
+:event/subtype "from_behind"
+:event/player1 "Kwadwo Asamoah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1659543"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11608"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "blocked_shot"
+:event/player1 "Alessio Cerci"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1659558"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Mauricio Isla"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1659657"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_11608"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "short"
+:event/player1 "Gabriel Torje"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1659722"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Pablo Armero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1659760"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Mattia Cassani"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1659828"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1659876"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 65
+:event/subtype "cross"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1659883"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Pablo Armero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1659911"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_11608"}
+
+{:event/type "corner"
+:event/elapsed 67
+:event/subtype "short"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1659920"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_11608"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Alberto Gilardino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1659962"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Emmanuel Agyemang-Badu"
+:event/subtype "from_behind"
+:event/player1 "Valon Behrami"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1660031"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Gianni Munari"
+:event/subtype "from_behind"
+:event/player1 "Dusan Basta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1660043"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1660070"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11608"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1660070"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Pablo Armero"
+:event/subtype "from_behind"
+:event/player1 "Valon Behrami"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1660073"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11608"}
+
+{:event/type "card"
+:event/elapsed 75
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Valon Behrami"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1660074"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Pablo Armero"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1660084"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_11608"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "volley"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1660085"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_11608"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "shot"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1660121"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_11608"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Almen Abdi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1660162"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Mauricio Isla"
+:event/subtype "from_behind"
+:event/player1 "Gianni Munari"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1660187"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Mattia Cassani"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1660225"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Manuel Pasqual"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1660273"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_11608"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "deflected"
+:event/player1 "unknown"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1660320"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11608"}
+
+{:event/type "corner"
+:event/elapsed 85
+:event/subtype "short"
+:event/player1 "Houssine Kharja"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1660324"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Mattia Cassani"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1660340"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Valon Behrami"
+:event/subtype "from_behind"
+:event/player1 "Almen Abdi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1660376"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11608"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Almen Abdi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1660379"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11608"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "blocked_shot"
+:event/player1 "Houssine Kharja"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1660402"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Pablo Armero"
+:event/subtype "from_behind"
+:event/player1 "Stevan Jovetic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1660411"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Pablo Armero"
+:event/subtype "from_behind"
+:event/player1 "Gianni Munari"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1660417"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11608"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Gianni Munari"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1660418"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11608"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Antonio Di Natale"
+:event/subtype "from_behind"
+:event/player1 "Juan Vargas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1660459"
+:event/minute 94
+:event/match_id "match_11608"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "direct_freekick"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1660462"
+:event/minute 95
+:event/match_id "match_11608"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1660470"
+:event/minute 96
+:event/match_id "match_11608"}
+
+{:event/type "cross"
+:event/elapsed_plus 6
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Mauricio Isla"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1660478"
+:event/minute 96
+:event/match_id "match_11608"}
+
+
+]
+

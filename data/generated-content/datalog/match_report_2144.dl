@@ -1,0 +1,932 @@
+
+;;# data
+[
+{:match/id "match_2144"
+:match/league "England Premier League"
+:match/hometeam "Manchester City"
+:match/awayteam "Burnley"
+:match/score "4:3"
+:match/hometeam_goals "3"
+:match/awayteam_goals "3"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "shot"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_832262"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Robbie Blake"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_832301"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2144"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Robbie Blake"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_832301"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2144"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "volley"
+:event/player1 "Clarke Carlisle"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_832303"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player1 "Wayne Bridge"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_832330"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_2144"}
+
+{:event/type "shotoff"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Robbie Blake"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_832342"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_2144"}
+
+{:event/type "shotoff"
+:event/elapsed 9
+:event/subtype "distance"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_832353"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_832447"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2144"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_832447"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/subtype "penalty"
+:event/player1 "Joleon Lescott"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_832459"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_2144"}
+
+{:event/type "goal"
+:event/elapsed 19
+:event/player1 "Graham Alexander"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_832466"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Craig Bellamy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_832483"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2144"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Craig Bellamy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_832483"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_832495"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2144"}
+
+{:event/type "corner"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_832495"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Wade Elliott"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_832500"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Shaun Wright-Phillips"
+:event/subtype "pushing"
+:event/player1 "Steven Fletcher"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_832533"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Shaun Wright-Phillips"
+:event/player1 "Stephen Jordan"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_832543"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_2144"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "header"
+:event/player1 "Joleon Lescott"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_832552"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Robbie Blake"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_832567"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2144"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Robbie Blake"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_832567"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Carlos Tevez"
+:event/player1 "Wade Elliott"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_832570"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Shaun Wright-Phillips"
+:event/subtype "serious_foul"
+:event/player1 "Andre Bikey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_832580"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2144"}
+
+{:event/type "card"
+:event/elapsed 29
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Andre Bikey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_832582"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Chris Eagles"
+:event/subtype "serious_foul"
+:event/player1 "Craig Bellamy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_832613"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2144"}
+
+{:event/type "card"
+:event/elapsed 31
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Craig Bellamy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_832620"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_2144"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "header"
+:event/player1 "Andre Bikey"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_832632"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2144"}
+
+{:event/type "goal"
+:event/elapsed 32
+:event/player2 "Chris Eagles"
+:event/subtype "shot"
+:event/player1 "Steven Fletcher"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_832633"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_832666"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2144"}
+
+{:event/type "corner"
+:event/elapsed 36
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_832666"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2144"}
+
+{:event/type "shotoff"
+:event/elapsed 36
+:event/subtype "header"
+:event/player1 "Kolo Toure"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_832667"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_2144"}
+
+{:event/type "goal"
+:event/elapsed 37
+:event/subtype "shot"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_832687"
+:event/event_type "goal"
+:event/goal_type "dg"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/subtype "hands"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_832717"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Robbie Blake"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_832725"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2144"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Robbie Blake"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_832725"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Wayne Bridge"
+:event/subtype "shirt_pull"
+:event/player1 "Chris Eagles"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_832729"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_2144"}
+
+{:event/type "shoton"
+:event/elapsed 41
+:event/subtype "shot"
+:event/player1 "Craig Bellamy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_832741"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_832742"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Craig Bellamy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_832757"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2144"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Craig Bellamy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_832757"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_2144"}
+
+{:event/type "goal"
+:event/elapsed 43
+:event/player2 "Emmanuel Adebayor"
+:event/subtype "deflected"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_832768"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_2144"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_832795"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Shaun Wright-Phillips"
+:event/player1 "Andre Bikey"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_832890"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_2144"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "direct_freekick"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_832905"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Chris Eagles"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_832916"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2144"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "distance"
+:event/player1 "Stephen Ireland"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_832927"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Craig Bellamy"
+:event/player1 "Tyrone Mears"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_832955"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 51
+:event/player2 "Robbie Blake"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_832966"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_832997"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2144"}
+
+{:event/type "corner"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_832997"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Stephen Ireland"
+:event/player1 "Graham Alexander"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_833002"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_2144"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/player2 "Joleon Lescott"
+:event/subtype "shot"
+:event/player1 "Kolo Toure"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_833019"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_833060"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2144"}
+
+{:event/type "goal"
+:event/elapsed 58
+:event/player2 "Shaun Wright-Phillips"
+:event/subtype "shot"
+:event/player1 "Craig Bellamy"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_833061"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Emmanuel Adebayor"
+:event/player1 "Graham Alexander"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_833153"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player1 "Emmanuel Adebayor"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_833164"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_2144"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_833182"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 68
+:event/player2 "Clarke Carlisle"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_833184"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_833213"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_2144"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_833235"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_2144"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "shot"
+:event/player1 "Carlos Tevez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_833240"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "David Nugent"
+:event/player1 "Kolo Toure"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_833260"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_833281"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2144"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_833281"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2144"}
+
+{:event/type "corner"
+:event/elapsed 78
+:event/subtype "short"
+:event/player1 "Craig Bellamy"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_833290"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Steven Caldwell"
+:event/player1 "Joleon Lescott"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_833296"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_2144"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "distance"
+:event/player1 "Martin Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_833310"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Shaun Wright-Phillips"
+:event/subtype "serious_foul"
+:event/player1 "Tyrone Mears"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_833343"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2144"}
+
+{:event/type "card"
+:event/elapsed 83
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Tyrone Mears"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "card"
+:event/id "event_833347"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_2144"}
+
+{:event/type "goal"
+:event/elapsed 87
+:event/player2 "Steven Fletcher"
+:event/subtype "shot"
+:event/player1 "Kevin McDonald"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_833394"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_2144"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "blocked_shot"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_833407"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_2144"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Pablo Zabaleta"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_833432"
+:event/minute 91
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Craig Bellamy"
+:event/subtype "shirt_pull"
+:event/player1 "Clarke Carlisle"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_833440"
+:event/minute 92
+:event/match_id "match_2144"}
+
+{:event/type "card"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Clarke Carlisle"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_833443"
+:event/minute 92
+:event/match_id "match_2144"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Wade Elliott"
+:event/player1 "Shaun Wright-Phillips"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_833451"
+:event/minute 93
+:event/match_id "match_2144"}
+
+
+]
+

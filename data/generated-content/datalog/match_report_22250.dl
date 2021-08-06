@@ -1,0 +1,873 @@
+
+;;# data
+[
+{:match/id "match_22250"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "RC Deportivo de La Coruña"
+:match/awayteam "Sevilla FC"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Andres Guardado"
+:event/player1 "Adriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_799555"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Ivan Sanchez Riki"
+:event/player1 "Didier Zokora"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_799565"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Adriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_799571"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22250"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "short"
+:event/player1 "Diego Perotti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_799573"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Fernando Navarro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_799574"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_799576"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22250"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "big chance volley"
+:event/player1 "Renato"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_799577"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player1 "Ivan Sanchez Riki"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_799581"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player1 "Frederic Kanoute"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_799591"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Ivan Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_799596"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22250"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Ivan Perez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_799596"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Jesus Navas"
+:event/player1 "Antonio Tomas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_799601"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Ivan Perez"
+:event/player1 "Didier Zokora"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_799607"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Alvaro Negredo"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_799622"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Ivan Perez"
+:event/subtype "from_behind"
+:event/player1 "Fernando Navarro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_799634"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22250"}
+
+{:event/type "shoton"
+:event/elapsed 20
+:event/subtype "blocked_shot"
+:event/player1 "Sergio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_799636"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Adriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_799653"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22250"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Adriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_799657"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Julien Escude"
+:event/subtype "pushing"
+:event/player1 "Andres Guardado"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_799672"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/subtype "hands"
+:event/player1 "Frederic Kanoute"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_799673"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Alvaro Negredo"
+:event/subtype "serious_foul"
+:event/player1 "Alberto Lopo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_799692"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Diego Daniel Colotto"
+:event/subtype "pushing"
+:event/player1 "Frederic Kanoute"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_799706"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Ivan Sanchez Riki"
+:event/player1 "Sergio Sanchez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_799707"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22250"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "distance"
+:event/player1 "Andres Guardado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_799713"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Adriano"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_799727"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_22250"}
+
+{:event/type "goal"
+:event/elapsed 38
+:event/subtype "distance"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_799734"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22250"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "big chance shot"
+:event/player1 "Jesus Navas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_799748"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Juan Rodriguez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_799755"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22250"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "big chance shot"
+:event/player1 "Andres Guardado"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_799756"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 43
+:event/player2 "Sergio Sanchez"
+:event/subtype "pushing"
+:event/player1 "Ivan Sanchez Riki"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_799760"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_799770"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Andres Guardado"
+:event/subtype "shirt_pull"
+:event/player1 "Adriano"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_799775"
+:event/minute 46
+:event/match_id "match_22250"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "big chance header"
+:event/player1 "Ivan Sanchez Riki"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_799780"
+:event/minute 46
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_799783"
+:event/minute 47
+:event/match_id "match_22250"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_799783"
+:event/minute 47
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Ivan Sanchez Riki"
+:event/subtype "pushing"
+:event/player1 "Julien Escude"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_799846"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22250"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_799855"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_799860"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22250"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_799860"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22250"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "shot"
+:event/player1 "Alvaro Negredo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_799864"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_799902"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22250"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Diego Perotti"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_799902"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player2 "Ivan Sanchez Riki"
+:event/player1 "Fernando Navarro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_799915"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22250"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Ivan Perez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_799927"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Filipe Luis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_799952"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Diego Capel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_799959"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22250"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Diego Capel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_799959"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Ivan Sanchez Riki"
+:event/player1 "Sergio Sanchez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_799978"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 66
+:event/subtype "cross"
+:event/player1 "Adriano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_799987"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22250"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "header"
+:event/player1 "Frederic Kanoute"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_799988"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Renato"
+:event/subtype "pushing"
+:event/player1 "Manuel Pablo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_800008"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Renato"
+:event/player1 "Sergio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_800010"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22250"}
+
+{:event/type "shotoff"
+:event/elapsed 71
+:event/subtype "header"
+:event/player1 "Sergio Sanchez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_800014"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_800031"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_22250"}
+
+{:event/type "corner"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Jesus Navas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_800031"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_22250"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "big chance header"
+:event/player1 "Julien Escude"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_800033"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Filipe Luis"
+:event/player1 "Adriano"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_800041"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Didier Zokora"
+:event/player1 "Sergio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_800054"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Ivan Sanchez Riki"
+:event/player1 "Sergio Sanchez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_800073"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22250"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Sergio Sanchez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_800077"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_800085"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22250"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Andres Guardado"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_800085"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22250"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "header"
+:event/player1 "Alberto Lopo"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_800086"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Pablo Alvarez"
+:event/player1 "Didier Zokora"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_800103"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Pablo Alvarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_800105"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Adriano"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_800112"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Fernando Navarro"
+:event/player1 "Pablo Alvarez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_800132"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed 87
+:event/subtype "cross"
+:event/player1 "Adriano"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_800141"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Adrian Lopez"
+:event/player1 "Diego Capel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_800150"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_22250"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Frederic Kanoute"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_800169"
+:event/minute 91
+:event/match_id "match_22250"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Filipe Luis"
+:event/subtype "pushing"
+:event/player1 "Jesus Navas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_800171"
+:event/minute 91
+:event/match_id "match_22250"}
+
+
+]
+

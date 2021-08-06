@@ -1,0 +1,1230 @@
+
+;;# data
+[
+{:match/id "match_10032"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "FC Schalke 04"
+:match/awayteam "SV Werder Bremen"
+:match/score "1:3"
+:match/hometeam_goals "1"
+:match/awayteam_goals "3"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Johannes Geis"
+:event/subtype "trip"
+:event/player1 "Florian Grillitsch"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5217098"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5217101"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Theodor Gebre Selassie"
+:event/subtype "dangerous_play"
+:event/player1 "Sead Kolasinac"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217105"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Florian Grillitsch"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5217112"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5217123"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10032"}
+
+{:event/type "shoton"
+:event/elapsed 4
+:event/subtype "blocked_shot"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5217129"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "deflected"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5217133"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross_left"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5217135"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10032"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/player2 "Johannes Geis"
+:event/subtype "header"
+:event/player1 "Joel Matip"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_5217137"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Claudio Pizarro"
+:event/subtype "pushing"
+:event/player1 "Joel Matip"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217196"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Levin Mete Oztunali"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5217202"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10032"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "blocked_shot"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5217212"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Junior Caicara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5217221"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Clemens Fritz"
+:event/subtype "trip"
+:event/player1 "Leon Goretzka"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217231"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "distance"
+:event/player1 "Leroy Sane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5217250"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_10032"}
+
+{:event/type "shoton"
+:event/elapsed 18
+:event/subtype "shot"
+:event/player1 "Leroy Sane"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5217261"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross_left"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5217265"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 22
+:event/subtype "cross"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5217293"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 22
+:event/subtype "short_left"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5217296"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Philipp Bargfrede"
+:event/subtype "trip"
+:event/player1 "Roman Neustaedter"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217301"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Philipp Bargfrede"
+:event/subtype "trip"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217304"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 24
+:event/subtype "cross"
+:event/player1 "Florian Grillitsch"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5217305"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/player2 "Anthony Ujah"
+:event/subtype "trip"
+:event/player1 "Joel Matip"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217318"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10032"}
+
+{:event/type "shoton"
+:event/elapsed 27
+:event/subtype "deflected"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5217322"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 28
+:event/subtype "lob"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5217331"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Eric Maxim Choupo-Moting"
+:event/subtype "pushing"
+:event/player1 "Theodor Gebre Selassie"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5217335"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Sead Kolasinac"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5217336"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "big chance shot"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5217344"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Santiago Garcia"
+:event/subtype "pushing"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217358"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Sead Kolasinac"
+:event/subtype "dangerous_play"
+:event/player1 "Anthony Ujah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5217354"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Leroy Sane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5217381"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "big chance shot"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5217385"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Eric Maxim Choupo-Moting"
+:event/subtype "trip"
+:event/player1 "Florian Grillitsch"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5217396"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10032"}
+
+{:event/type "card"
+:event/elapsed 35
+:event/card_type "y"
+:event/subtype "emergency_brake"
+:event/player1 "Florian Grillitsch"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5217399"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5217412"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "Florian Grillitsch"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5217423"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Max Meyer"
+:event/subtype "pushing"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5217429"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Junior Caicara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5217430"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Anthony Ujah"
+:event/subtype "trip"
+:event/player1 "Johannes Geis"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217434"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "shot"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5217460"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10032"}
+
+{:event/type "goal"
+:event/elapsed 43
+:event/subtype "distance"
+:event/player1 "Clemens Fritz"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_5217469"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Leroy Sane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5217483"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_10032"}
+
+{:event/type "shoton"
+:event/elapsed 46
+:event/subtype "shot"
+:event/player1 "Levin Mete Oztunali"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5217672"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 47
+:event/subtype "deflected"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5217676"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "cross_right"
+:event/player1 "Zlatko Junuzovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5217680"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 48
+:event/subtype "big chance shot"
+:event/player1 "Leroy Sane"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5217690"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5217696"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10032"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "header"
+:event/player1 "Anthony Ujah"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5217706"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Johannes Geis"
+:event/subtype "pushing"
+:event/player1 "Zlatko Junuzovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5217711"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "distance"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5217731"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Junior Caicara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5217737"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Santiago Garcia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5217758"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 54
+:event/subtype "cross"
+:event/player1 "Clemens Fritz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5217763"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10032"}
+
+{:event/type "goal"
+:event/elapsed 54
+:event/player2 "Clemens Fritz"
+:event/subtype "shot"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_5217764"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 55
+:event/subtype "cross_right"
+:event/player1 "Johannes Geis"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5217786"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 56
+:event/player2 "Sead Kolasinac"
+:event/subtype "pushing"
+:event/player1 "Zlatko Junuzovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5217793"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5217803"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_10032"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "blocked_shot"
+:event/player1 "Levin Mete Oztunali"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5217809"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Eric Maxim Choupo-Moting"
+:event/subtype "trip"
+:event/player1 "Zlatko Junuzovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5217812"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10032"}
+
+{:event/type "card"
+:event/elapsed 58
+:event/card_type "y"
+:event/player1 "Zlatko Junuzovic"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5217814"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Sead Kolasinac"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5217818"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "cross_left"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5217821"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 64
+:event/player2 "Florian Grillitsch"
+:event/subtype "pushing"
+:event/player1 "Leroy Sane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217867"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10032"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "deflected"
+:event/player1 "Johannes Geis"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5217873"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Johannes Geis"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5217876"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5217880"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 65
+:event/subtype "cross_right"
+:event/player1 "Johannes Geis"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5217882"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Levin Mete Oztunali"
+:event/subtype "trip"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217885"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 68
+:event/subtype "shot"
+:event/player1 "Leroy Sane"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5217891"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_10032"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "distance"
+:event/player1 "Leon Goretzka"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5217900"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "short_left"
+:event/player1 "Johannes Geis"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5217911"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10032"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "blocked_shot"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5217912"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player2 "Zlatko Junuzovic"
+:event/subtype "pushing"
+:event/player1 "Eric Maxim Choupo-Moting"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217915"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_5217927"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross_right"
+:event/player1 "Johannes Geis"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5217939"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Zlatko Junuzovic"
+:event/subtype "trip"
+:event/player1 "Sead Kolasinac"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217943"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10032"}
+
+{:event/type "card"
+:event/elapsed 77
+:event/card_type "y"
+:event/player1 "Sead Kolasinac"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5217944"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Zlatko Junuzovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5217945"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 78
+:event/player2 "Zlatko Junuzovic"
+:event/subtype "trip"
+:event/player1 "Klaas Jan Huntelaar"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217948"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Zlatko Junuzovic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5217950"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Papy Djilobodji"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5217952"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "distance"
+:event/player1 "Anthony Ujah"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5217955"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Younes Belhanda"
+:event/subtype "pull"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5217958"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10032"}
+
+{:event/type "card"
+:event/elapsed 80
+:event/card_type "y"
+:event/player1 "Claudio Pizarro"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_5217960"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10032"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "deflected"
+:event/player1 "Junior Caicara"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5217963"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_left"
+:event/player1 "Junior Caicara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5217964"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed 81
+:event/subtype "cross_left"
+:event/player1 "Junior Caicara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5217966"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Eric Maxim Choupo-Moting"
+:event/subtype "trip"
+:event/player1 "Clemens Fritz"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5217971"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Junior Caicara"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5217972"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Joel Matip"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5217980"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 85
+:event/subtype "header"
+:event/player1 "Franco Di Santo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5217981"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "shot"
+:event/player1 "Anthony Ujah"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5217987"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Zlatko Junuzovic"
+:event/subtype "pushing"
+:event/player1 "Leroy Sane"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5217991"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10032"}
+
+{:event/type "goal"
+:event/elapsed 89
+:event/player2 "Clemens Fritz"
+:event/subtype "shot"
+:event/player1 "Anthony Ujah"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_5218000"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_10032"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Franco Di Santo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5218008"
+:event/minute 91
+:event/match_id "match_10032"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross_right"
+:event/player1 "Junior Caicara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5218013"
+:event/minute 91
+:event/match_id "match_10032"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Junior Caicara"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5218017"
+:event/minute 91
+:event/match_id "match_10032"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Younes Belhanda"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5218022"
+:event/minute 92
+:event/match_id "match_10032"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Zlatko Junuzovic"
+:event/subtype "trip"
+:event/player1 "Younes Belhanda"
+:event/sortorder 11
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5218030"
+:event/minute 94
+:event/match_id "match_10032"}
+
+
+]
+

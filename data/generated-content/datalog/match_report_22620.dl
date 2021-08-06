@@ -1,0 +1,996 @@
+
+;;# data
+[
+{:match/id "match_22620"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "Real Zaragoza"
+:match/awayteam "Real Sporting de Gijón"
+:match/score "3:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "2"}
+
+{:event/type "foulcommit"
+:event/elapsed 1
+:event/player2 "Angel Lafita"
+:event/subtype "obstruction"
+:event/player1 "Gregory Arnolin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202325"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_22620"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "David Barral"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1202358"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 8
+:event/player1 "Jose Angel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202406"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Angel Lafita"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1202433"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22620"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Angel Lafita"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1202433"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Angel Lafita"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1202436"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22620"}
+
+{:event/type "corner"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Angel Lafita"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1202436"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Nicolas Bertolo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1202444"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Nicolas Bertolo"
+:event/player1 "David Barral"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202452"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 16
+:event/player2 "Ander Herrera"
+:event/subtype "from_behind"
+:event/player1 "Sebastian Eguren"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202494"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_22620"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "blocked_shot"
+:event/player1 "Florent Sinama-Pongolle"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1202504"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1202526"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_22620"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "shot"
+:event/player1 "Carlos Diogo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1202545"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Ander Herrera"
+:event/subtype "pushing"
+:event/player1 "Sebastian Eguren"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202555"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22620"}
+
+{:event/type "shoton"
+:event/elapsed 24
+:event/subtype "shot"
+:event/player1 "Florent Sinama-Pongolle"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1202561"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Alberto Rivera"
+:event/subtype "pushing"
+:event/player1 "Ivan Obradovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1202567"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22620"}
+
+{:event/type "shotoff"
+:event/elapsed 25
+:event/subtype "shot"
+:event/player1 "Diego Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1202573"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Angel Lafita"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1202595"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 30
+:event/subtype "cross"
+:event/player1 "Jose Angel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1202602"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/player2 "Carlos Diogo"
+:event/player1 "Diego Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202616"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_22620"}
+
+{:event/type "goal"
+:event/elapsed 33
+:event/player1 "Ivan Obradovic"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1202632"
+:event/event_type "goal"
+:event/goal_type "o"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22620"}
+
+{:event/type "shoton"
+:event/elapsed 36
+:event/subtype "blocked_shot"
+:event/player1 "Nicolas Bertolo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1202662"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Florent Sinama-Pongolle"
+:event/subtype "pushing"
+:event/player1 "Gregory Arnolin"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202670"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Ander Herrera"
+:event/subtype "pushing"
+:event/player1 "Sebastian Eguren"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202682"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22620"}
+
+{:event/type "shoton"
+:event/elapsed 38
+:event/subtype "shot"
+:event/player1 "Jiri Jarosik"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1202685"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Jose Angel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1202701"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Diego Castro"
+:event/player1 "Carlos Diogo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1202707"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22620"}
+
+{:event/type "card"
+:event/elapsed 41
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Carlos Diogo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1202708"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_22620"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "bad shot"
+:event/player1 "Leonardo Ponzio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1202721"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1202734"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_22620"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1202734"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_22620"}
+
+{:event/type "shoton"
+:event/elapsed 44
+:event/subtype "blocked_shot"
+:event/player1 "Miguel Angel de las Cuevas"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1202736"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1202740"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_22620"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1202740"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Ivan Obradovic"
+:event/subtype "pushing"
+:event/player1 "Miguel Angel de las Cuevas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202760"
+:event/minute 46
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 46
+:event/player2 "Ayoze Garcia Perez"
+:event/player1 "Leonardo Ponzio"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1202795"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "Nicolas Bertolo"
+:event/player1 "David Barral"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202796"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 47
+:event/player2 "David Barral"
+:event/subtype "penalty"
+:event/player1 "Jiri Jarosik"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1202798"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_22620"}
+
+{:event/type "card"
+:event/elapsed 47
+:event/card_type "r"
+:event/subtype "emergency_brake"
+:event/player1 "Jiri Jarosik"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1202800"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_22620"}
+
+{:event/type "goal"
+:event/elapsed 49
+:event/player1 "Diego Castro"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_1202805"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Jose Angel"
+:event/player1 "Braulio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1202814"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Diego Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1202815"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Nicolas Bertolo"
+:event/subtype "serious_foul"
+:event/player1 "Alberto Botia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202825"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22620"}
+
+{:event/type "card"
+:event/elapsed 53
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Alberto Botia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1202826"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Jose Angel"
+:event/subtype "serious_foul"
+:event/player1 "Ander Herrera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1202841"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_22620"}
+
+{:event/type "card"
+:event/elapsed 54
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Ander Herrera"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1202843"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_22620"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "big chance shot"
+:event/player1 "Miguel Angel de las Cuevas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1202851"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22620"}
+
+{:event/type "goal"
+:event/elapsed 57
+:event/player2 "Gabi"
+:event/subtype "shot"
+:event/player1 "Florent Sinama-Pongolle"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1202863"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 59
+:event/player2 "Gregory Arnolin"
+:event/player1 "Florent Sinama-Pongolle"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1202871"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1202886"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22620"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1202886"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22620"}
+
+{:event/type "goal"
+:event/elapsed 61
+:event/player2 "Braulio"
+:event/subtype "shot"
+:event/player1 "Florent Sinama-Pongolle"
+:event/sortorder 3
+:event/team "home"
+:event/id "event_1202893"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22620"}
+
+{:event/type "shotoff"
+:event/elapsed 63
+:event/subtype "shot"
+:event/player1 "Diego Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1202900"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player1 "Nicolas Bertolo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1202924"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_22620"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1202930"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player1 "Ander Herrera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1202950"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Jorge Lopez"
+:event/player1 "Sebastian Eguren"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202980"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 77
+:event/player2 "Nicolas Bertolo"
+:event/player1 "Lora"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1202992"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_22620"}
+
+{:event/type "shotoff"
+:event/elapsed 78
+:event/subtype "direct_freekick"
+:event/player1 "Jorge Lopez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1202996"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Diego Castro"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1203000"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22620"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "big chance header"
+:event/player1 "Mate Bilic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1203001"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1203003"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22620"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1203003"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player1 "Jose Angel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1203010"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22620"}
+
+{:event/type "card"
+:event/elapsed 80
+:event/card_type "y"
+:event/player1 "Jose Angel"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1203011"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22620"}
+
+{:event/type "card"
+:event/elapsed 80
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Juan Pablo"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1203012"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player1 "Leonardo Ponzio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1203035"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Diego Castro"
+:event/subtype "from_behind"
+:event/player1 "Gabi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1203040"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_22620"}
+
+{:event/type "shoton"
+:event/elapsed 86
+:event/subtype "blocked_shot"
+:event/player1 "Mate Bilic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1203044"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player1 "Ander Herrera"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1203048"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_22620"}
+
+{:event/type "shoton"
+:event/elapsed 88
+:event/subtype "big chance shot"
+:event/player1 "Mate Bilic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1203055"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1203056"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22620"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1203056"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22620"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "header"
+:event/player1 "David Barral"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1203057"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Gregory Arnolin"
+:event/player1 "Nicolas Bertolo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1203064"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_22620"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "big chance shot"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1203069"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_22620"}
+
+{:event/type "cross"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1203085"
+:event/minute 91
+:event/match_id "match_22620"}
+
+{:event/type "corner"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Ayoze Garcia Perez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1203085"
+:event/minute 91
+:event/match_id "match_22620"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player1 "Sebastian Eguren"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1203102"
+:event/minute 94
+:event/match_id "match_22620"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "crossbar"
+:event/player1 "David Barral"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1203108"
+:event/minute 94
+:event/match_id "match_22620"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Lora"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1203109"
+:event/minute 94
+:event/match_id "match_22620"}
+
+
+]
+

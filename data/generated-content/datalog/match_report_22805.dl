@@ -1,0 +1,808 @@
+
+;;# data
+[
+{:match/id "match_22805"
+:match/league "Spain LIGA BBVA"
+:match/hometeam "FC Barcelona"
+:match/awayteam "Real Sociedad"
+:match/score "2:1"
+:match/hometeam_goals "2"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player1 "Jonathan dos Santos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1918482"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_22805"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1918492"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_22805"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "shot"
+:event/player1 "Ruben Pardo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1918493"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1918496"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22805"}
+
+{:event/type "corner"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1918496"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22805"}
+
+{:event/type "shotoff"
+:event/elapsed 6
+:event/subtype "header"
+:event/player1 "Xabier Prieto"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1918497"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 8
+:event/subtype "cross"
+:event/player1 "Cristian Tello Herrera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1918500"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_22805"}
+
+{:event/type "goal"
+:event/elapsed 9
+:event/player2 "Lionel Messi"
+:event/subtype "shot"
+:event/player1 "Cristian Tello Herrera"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_1918506"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1918519"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_22805"}
+
+{:event/type "shotoff"
+:event/elapsed 14
+:event/subtype "distance"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1918522"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1918532"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22805"}
+
+{:event/type "shoton"
+:event/elapsed 17
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1918534"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1918535"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_22805"}
+
+{:event/type "corner"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1918535"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Isaac Cuenca"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1918542"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22805"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "shot"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1918543"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player1 "Jonathan dos Santos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1918551"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1918556"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22805"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1918556"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 24
+:event/player2 "Lionel Messi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1918563"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player1 "Jonathan dos Santos"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1918569"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_22805"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "shot"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1918572"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_22805"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "short"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1918579"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_22805"}
+
+{:event/type "shotoff"
+:event/elapsed 29
+:event/subtype "deflected"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1918580"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_22805"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "distance"
+:event/player1 "Jonathan dos Santos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1918584"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1918590"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player1 "Ruben Pardo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1918592"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player1 "Inigo Martinez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1918596"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22805"}
+
+{:event/type "card"
+:event/elapsed 34
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Inigo Martinez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1918597"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/subtype "hands"
+:event/player1 "Diego Ifran"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1918600"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1918606"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22805"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1918606"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Daniel Alves"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1918613"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1918616"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22805"}
+
+{:event/type "corner"
+:event/elapsed 40
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1918616"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player1 "Markel Bergara"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1918626"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_22805"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "direct_freekick"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1918628"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_22805"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1918638"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_22805"}
+
+{:event/type "shoton"
+:event/elapsed 47
+:event/subtype "shot"
+:event/player1 "Cristian Tello Herrera"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1918663"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player1 "Isaac Cuenca"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1918664"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1918666"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_22805"}
+
+{:event/type "shoton"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Antoine Griezmann"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1918669"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1918691"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22805"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1918691"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 57
+:event/subtype "cross"
+:event/player1 "Jonathan dos Santos"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1918675"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 57
+:event/player1 "Daniel Alves"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1918676"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_22805"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1918680"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Cesc Fabregas"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1918681"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_22805"}
+
+{:event/type "shoton"
+:event/elapsed 63
+:event/subtype "blocked_shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1918688"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_22805"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "crossbar"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1918696"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_22805"}
+
+{:event/type "shoton"
+:event/elapsed 69
+:event/subtype "shot"
+:event/player1 "Cristian Tello Herrera"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1918697"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Lionel Messi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1918699"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Daniel Alves"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1918700"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22805"}
+
+{:event/type "goal"
+:event/elapsed 72
+:event/player2 "Daniel Alves"
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1918701"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_22805"}
+
+{:event/type "goal"
+:event/elapsed 74
+:event/player2 "Antoine Griezmann"
+:event/subtype "shot"
+:event/player1 "Carlos Vela"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1918703"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_22805"}
+
+{:event/type "shoton"
+:event/elapsed 75
+:event/subtype "blocked_shot"
+:event/player1 "Thiago Alcantara"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1918706"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Xabier Prieto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1918711"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22805"}
+
+{:event/type "corner"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Xabier Prieto"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1918711"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player1 "Xabier Prieto"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1918712"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_22805"}
+
+{:event/type "shoton"
+:event/elapsed 81
+:event/subtype "shot"
+:event/player1 "Lionel Messi"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1918713"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Daniel Alves"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1918715"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Gerard Pique"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1918727"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22805"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/player1 "Joseba Llorente"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1918740"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player1 "Carlos Vela"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1918728"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_22805"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Carlos Vela"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1918736"
+:event/minute 94
+:event/match_id "match_22805"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Imanol Agirretxe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1918737"
+:event/minute 94
+:event/match_id "match_22805"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player1 "Carlos Vela"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1918738"
+:event/minute 94
+:event/match_id "match_22805"}
+
+
+]
+

@@ -1,0 +1,1372 @@
+
+;;# data
+[
+{:match/id "match_1982"
+:match/league "England Premier League"
+:match/hometeam "Aston Villa"
+:match/awayteam "Everton"
+:match/score "3:3"
+:match/hometeam_goals "3"
+:match/awayteam_goals "3"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/player2 "Jo"
+:event/player1 "Curtis Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_642188"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player1 "John Carew"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_642201"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 8
+:event/subtype "short"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642206"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1982"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Ashley Young"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_642207"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642209"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 9
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642209"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Joleon Lescott"
+:event/subtype "pushing"
+:event/player1 "John Carew"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_642210"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Ashley Young"
+:event/subtype "from_behind"
+:event/player1 "Leon Osman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642214"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642218"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/player2 "Stiliyan Petrov"
+:event/player1 "Philip Neville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642222"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_1982"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "blocked_shot"
+:event/player1 "Leon Osman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_642228"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_642231"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642235"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_642242"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 16
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_642242"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1982"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "distance"
+:event/player1 "Philip Neville"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_642244"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_642246"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_642246"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_1982"}
+
+{:event/type "goal"
+:event/elapsed 19
+:event/player2 "Leighton Baines"
+:event/subtype "shot"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_642256"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "distance"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_642262"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_1982"}
+
+{:event/type "shoton"
+:event/elapsed 22
+:event/subtype "distance"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_642264"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_1982"}
+
+{:event/type "shoton"
+:event/elapsed 23
+:event/subtype "shot"
+:event/player1 "Tim Cahill"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_642270"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_642271"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_642271"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "crossbar"
+:event/player1 "Tim Cahill"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_642273"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1982"}
+
+{:event/type "goal"
+:event/elapsed 23
+:event/subtype "header"
+:event/player1 "Tim Cahill"
+:event/sortorder 4
+:event/team "away"
+:event/id "event_642272"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 26
+:event/subtype "cross"
+:event/player1 "Stiliyan Petrov"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642278"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 28
+:event/player2 "Gabriel Agbonlahor"
+:event/subtype "serious_foul"
+:event/player1 "Tony Hibbert"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642286"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_1982"}
+
+{:event/type "card"
+:event/elapsed 28
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Tony Hibbert"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_642287"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642293"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642293"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Stiliyan Petrov"
+:event/subtype "from_behind"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642301"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_1982"}
+
+{:event/type "shoton"
+:event/elapsed 32
+:event/subtype "header"
+:event/player1 "Gabriel Agbonlahor"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_642304"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642313"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1982"}
+
+{:event/type "goal"
+:event/elapsed 33
+:event/player2 "Gabriel Agbonlahor"
+:event/subtype "shot"
+:event/player1 "John Carew"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_642306"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642309"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 37
+:event/player2 "Steven Pienaar"
+:event/subtype "pushing"
+:event/player1 "Stiliyan Petrov"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_642318"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 41
+:event/player2 "Curtis Davies"
+:event/player1 "Tim Cahill"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642326"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 42
+:event/subtype "deflected"
+:event/player1 "Jo"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_642328"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_642330"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 42
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_642330"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/subtype "hands"
+:event/player1 "Joleon Lescott"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642331"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642334"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642334"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "deflected"
+:event/player1 "Ashley Young"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_642338"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642339"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642339"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642343"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642343"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 44
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642345"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642351"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642354"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Gareth Barry"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642354"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 45
+:event/subtype "header"
+:event/player1 "Curtis Davies"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_642355"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/player2 "Ashley Young"
+:event/subtype "serious_foul"
+:event/player1 "Tony Hibbert"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642359"
+:event/minute 46
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/subtype "hands"
+:event/player1 "Curtis Davies"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_642396"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Ashley Young"
+:event/player1 "Phil Jagielka"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642404"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "direct_freekick"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_642408"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 52
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_642413"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_1982"}
+
+{:event/type "goal"
+:event/elapsed 53
+:event/player2 "Philip Neville"
+:event/subtype "distance"
+:event/player1 "Steven Pienaar"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_642420"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 55
+:event/player2 "John Carew"
+:event/player1 "Joleon Lescott"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642469"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_1982"}
+
+{:event/type "goal"
+:event/elapsed 55
+:event/subtype "direct_freekick"
+:event/player1 "James Milner"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_642434"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642448"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Nicky Shorey"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642450"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Nicky Shorey"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642453"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642460"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642460"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642465"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642465"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 61
+:event/subtype "shot"
+:event/player1 "Nicky Shorey"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_642468"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642475"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642478"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642478"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_642482"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_642490"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "Leon Osman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_642490"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "header"
+:event/player1 "Tim Cahill"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_642491"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 66
+:event/player2 "Stiliyan Petrov"
+:event/subtype "penalty"
+:event/player1 "Joleon Lescott"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642502"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_1982"}
+
+{:event/type "goal"
+:event/elapsed 66
+:event/player1 "Gareth Barry"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_642510"
+:event/event_type "goal"
+:event/goal_type "p"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_642521"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_642521"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/player1 "Tim Cahill"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_642523"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642537"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 74
+:event/subtype "cross"
+:event/player1 "Steven Pienaar"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_642545"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "distance"
+:event/player1 "Ashley Young"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_642548"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642555"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1982"}
+
+{:event/type "corner"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_642555"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "header"
+:event/player1 "James Milner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_642556"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_1982"}
+
+{:event/type "shoton"
+:event/elapsed 77
+:event/subtype "distance"
+:event/player1 "Nathan Delfouneso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_642565"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_642570"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Ashley Young"
+:event/subtype "pushing"
+:event/player1 "Philip Neville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642572"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1982"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Philip Neville"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_642573"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_1982"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "blocked_shot"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_642576"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Ashley Young"
+:event/subtype "pushing"
+:event/player1 "Steven Pienaar"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642577"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 81
+:event/subtype "header"
+:event/player1 "Zatyiah Knight"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_642580"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Leon Osman"
+:event/player1 "Gareth Barry"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_642594"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Phil Jagielka"
+:event/player1 "Nathan Delfouneso"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_642608"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_642618"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "James Milner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642634"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "header"
+:event/player1 "John Carew"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_642635"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 89
+:event/player2 "Zatyiah Knight"
+:event/player1 "Marouane Fellaini"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642638"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_642640"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Tim Cahill"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_642643"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_642646"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Louis Saha"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_642649"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Joleon Lescott"
+:event/player1 "John Carew"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_642651"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_1982"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Nathan Delfouneso"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_642657"
+:event/minute 91
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Ashley Young"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_642658"
+:event/minute 92
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Ashley Young"
+:event/player1 "Tim Cahill"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_642660"
+:event/minute 92
+:event/match_id "match_1982"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/player2 "Louis Saha"
+:event/player1 "John Carew"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_642671"
+:event/minute 93
+:event/match_id "match_1982"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Stiliyan Petrov"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_642672"
+:event/minute 94
+:event/match_id "match_1982"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "James Milner"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_642673"
+:event/minute 94
+:event/match_id "match_1982"}
+
+
+]
+

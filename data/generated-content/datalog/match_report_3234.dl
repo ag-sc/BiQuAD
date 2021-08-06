@@ -1,0 +1,813 @@
+
+;;# data
+[
+{:match/id "match_3234"
+:match/league "England Premier League"
+:match/hometeam "Norwich City"
+:match/awayteam "Swansea City"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "shoton"
+:event/elapsed 1
+:event/subtype "blocked_shot"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1708927"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 1
+:event/subtype "cross"
+:event/player1 "Elliott Bennett"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1708928"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_3234"}
+
+{:event/type "goal"
+:event/elapsed 1
+:event/player2 "Steve Morison"
+:event/subtype "shot"
+:event/player1 "Anthony Pilkington"
+:event/sortorder 5
+:event/team "home"
+:event/id "event_1708929"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_3234"}
+
+{:event/type "foulcommit"
+:event/elapsed 4
+:event/player2 "Steve Morison"
+:event/subtype "shirt_pull"
+:event/player1 "Garry Monk"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1708964"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_3234"}
+
+{:event/type "card"
+:event/elapsed 4
+:event/card_type "y"
+:event/player1 "Garry Monk"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1708967"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_3234"}
+
+{:event/type "shoton"
+:event/elapsed 8
+:event/subtype "shot"
+:event/player1 "Wayne Routledge"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1709024"
+:event/elapsed_plus 0
+:event/minute 8
+:event/match_id "match_3234"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/player2 "Anthony Pilkington"
+:event/player1 "Angel Rangel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1709058"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_3234"}
+
+{:event/type "goal"
+:event/elapsed 10
+:event/player2 "David Fox"
+:event/subtype "header"
+:event/player1 "Russell Martin"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_1709065"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_3234"}
+
+{:event/type "goal"
+:event/elapsed 12
+:event/player2 "Scott Sinclair"
+:event/subtype "shot"
+:event/player1 "Daniel Graham"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1709096"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 13
+:event/subtype "cross"
+:event/player1 "Steve Morison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709113"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Joe Allen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1709127"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_3234"}
+
+{:event/type "corner"
+:event/elapsed 14
+:event/subtype "cross"
+:event/player1 "Joe Allen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1709127"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_3234"}
+
+{:event/type "shoton"
+:event/elapsed 14
+:event/subtype "blocked_shot"
+:event/player1 "Angel Rangel"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1709131"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Wesley Hoolahan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709221"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_3234"}
+
+{:event/type "shotoff"
+:event/elapsed 23
+:event/subtype "bad shot"
+:event/player1 "Steve Morison"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1709250"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Neil Taylor"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1709288"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Neil Taylor"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1709293"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_3234"}
+
+{:event/type "shotoff"
+:event/elapsed 26
+:event/subtype "distance"
+:event/player1 "Angel Rangel"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1709294"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3234"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "deflected"
+:event/player1 "Scott Sinclair"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1709305"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_3234"}
+
+{:event/type "corner"
+:event/elapsed 29
+:event/subtype "short"
+:event/player1 "Joe Allen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1709356"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_3234"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "shot"
+:event/player1 "Anthony Pilkington"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1709364"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_3234"}
+
+{:event/type "foulcommit"
+:event/elapsed 31
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1709388"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_3234"}
+
+{:event/type "shotoff"
+:event/elapsed 33
+:event/subtype "shot"
+:event/player1 "Steve Morison"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1709416"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_3234"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "David Fox"
+:event/subtype "advantage"
+:event/player1 "Leon Britton"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1709438"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_3234"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Ashley Williams"
+:event/player1 "Anthony Pilkington"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1709455"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Joe Allen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1709479"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_3234"}
+
+{:event/type "corner"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Joe Allen"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1709479"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Anthony Pilkington"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709486"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Steve Morison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709490"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Joe Allen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1709499"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3234"}
+
+{:event/type "corner"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Joe Allen"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1709499"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_3234"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Wesley Hoolahan"
+:event/player1 "Nathan Dyer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1709509"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "throwin"
+:event/id "event_1709717"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Anthony Pilkington"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709720"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Elliott Bennett"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709635"
+:event/minute 47
+:event/match_id "match_3234"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Daniel Graham"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1709642"
+:event/minute 48
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "David Fox"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709775"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_3234"}
+
+{:event/type "corner"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "David Fox"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709775"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_3234"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "header"
+:event/player1 "Bradley Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1709779"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_3234"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Angel Rangel"
+:event/player1 "Steve Morison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1709810"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3234"}
+
+{:event/type "shotoff"
+:event/elapsed 52
+:event/subtype "bad shot"
+:event/player1 "Bradley Johnson"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1709826"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Elliott Bennett"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709832"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_3234"}
+
+{:event/type "foulcommit"
+:event/elapsed 54
+:event/player2 "Nathan Dyer"
+:event/subtype "pushing"
+:event/player1 "Russell Martin"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1709852"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Elliott Bennett"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1709879"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_3234"}
+
+{:event/type "shotoff"
+:event/elapsed 57
+:event/subtype "bad shot"
+:event/player1 "Anthony Pilkington"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1709908"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_3234"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "shot"
+:event/player1 "Scott Sinclair"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1709929"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "David Fox"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709954"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3234"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "David Fox"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1709954"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "David Fox"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1710011"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3234"}
+
+{:event/type "corner"
+:event/elapsed 64
+:event/subtype "cross"
+:event/player1 "David Fox"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1710011"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3234"}
+
+{:event/type "goal"
+:event/elapsed 64
+:event/player2 "Bradley Johnson"
+:event/subtype "shot"
+:event/player1 "Anthony Pilkington"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1710017"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_3234"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Nathan Dyer"
+:event/player1 "Marc Tierney"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1710030"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3234"}
+
+{:event/type "foulcommit"
+:event/elapsed 65
+:event/player2 "Wesley Hoolahan"
+:event/subtype "pushing"
+:event/player1 "Ashley Williams"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1710040"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_3234"}
+
+{:event/type "shotoff"
+:event/elapsed 69
+:event/subtype "distance"
+:event/player1 "Scott Sinclair"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1710115"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 70
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1710134"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3234"}
+
+{:event/type "shoton"
+:event/elapsed 70
+:event/subtype "distance"
+:event/player1 "Bradley Johnson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1710145"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_3234"}
+
+{:event/type "shoton"
+:event/elapsed 73
+:event/subtype "distance"
+:event/player1 "Grant Holt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1710174"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_3234"}
+
+{:event/type "shotoff"
+:event/elapsed 74
+:event/subtype "bad shot"
+:event/player1 "Stephen Dobbie"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1710196"
+:event/elapsed_plus 0
+:event/minute 74
+:event/match_id "match_3234"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "big chance blocked"
+:event/player1 "Stephen Dobbie"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1710223"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Marc Tierney"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1710247"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_3234"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Elliott Bennett"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1710265"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "David Fox"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1710385"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3234"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "cross"
+:event/player1 "David Fox"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1710385"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_3234"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Daniel Graham"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1710398"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3234"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "header"
+:event/player1 "Leroy Lita"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1710401"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_3234"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/player2 "Daniel Graham"
+:event/player1 "Marc Tierney"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1710466"
+:event/minute 94
+:event/match_id "match_3234"}
+
+
+]
+

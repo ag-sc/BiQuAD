@@ -1,0 +1,849 @@
+
+;;# data
+[
+{:match/id "match_10337"
+:match/league "Italy Serie A"
+:match/hometeam "Milan"
+:match/awayteam "Udinese"
+:match/score "5:1"
+:match/hometeam_goals "5"
+:match/awayteam_goals "1"}
+
+{:event/type "shoton"
+:event/elapsed 3
+:event/subtype "blocked_shot"
+:event/player1 "Simone Pepe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_537847"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_10337"}
+
+{:event/type "cross"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_537849"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10337"}
+
+{:event/type "corner"
+:event/elapsed 4
+:event/subtype "cross"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_537849"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10337"}
+
+{:event/type "goal"
+:event/elapsed 4
+:event/subtype "header"
+:event/player1 "Alexandre Pato"
+:event/sortorder 6
+:event/team "home"
+:event/id "event_537851"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed 10
+:event/subtype "distance"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_537867"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 11
+:event/player2 "Alexandre Pato"
+:event/player1 "Aleksandar Lukovic"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_537870"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 12
+:event/subtype "diving"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_537887"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10337"}
+
+{:event/type "card"
+:event/elapsed 12
+:event/card_type "y"
+:event/player1 "Simone Pepe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_537884"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_10337"}
+
+{:event/type "goal"
+:event/elapsed 13
+:event/subtype "shot"
+:event/player1 "Kaka"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_537877"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed 15
+:event/subtype "shot"
+:event/player1 "Alexandre Pato"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_537882"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Aleksandar Lukovic"
+:event/player1 "Alexandre Pato"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_537890"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10337"}
+
+{:event/type "goal"
+:event/elapsed 17
+:event/subtype "shot"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 5
+:event/team "away"
+:event/id "event_537894"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_10337"}
+
+{:event/type "goal"
+:event/elapsed 18
+:event/subtype "shot"
+:event/player1 "Alexandre Pato"
+:event/sortorder 6
+:event/team "home"
+:event/id "event_537900"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/player1 "Gokhan Inler"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_537905"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_10337"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "distance"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_537907"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_10337"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "distance"
+:event/player1 "Ronaldinho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_537910"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player1 "Alexandre Pato"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_537917"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 26
+:event/subtype "hands"
+:event/player1 "Gaetano D'Agostino"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_537920"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player1 "Andrea Pirlo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_537922"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed 28
+:event/subtype "blocked_shot"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_537923"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/player2 "Luca Antonini"
+:event/player1 "Luigi Sala"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_537924"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_537928"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "distance"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_537935"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10337"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_537937"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10337"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Fabio Quagliarella"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_537937"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed 34
+:event/subtype "blocked_shot"
+:event/player1 "Aleksandar Lukovic"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_537939"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Damiano Ferronetti"
+:event/player1 "Ronaldinho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_537951"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Simone Pepe"
+:event/player1 "Giuseppe Favalli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_537953"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed 37
+:event/subtype "distance"
+:event/player1 "Gokhan Inler"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_537954"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_10337"}
+
+{:event/type "cross"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Mauricio Isla"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_537962"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10337"}
+
+{:event/type "corner"
+:event/elapsed 39
+:event/subtype "cross"
+:event/player1 "Mauricio Isla"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_537962"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "blocked_shot"
+:event/player1 "Simone Pepe"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_537970"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 42
+:event/player2 "Kaka"
+:event/player1 "Maurizio Domizzi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_537975"
+:event/elapsed_plus 0
+:event/minute 42
+:event/match_id "match_10337"}
+
+{:event/type "shotoff"
+:event/elapsed 43
+:event/subtype "post"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_537976"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10337"}
+
+{:event/type "goal"
+:event/elapsed 43
+:event/subtype "shot"
+:event/player1 "Clarence Seedorf"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_537978"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_10337"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_538031"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_10337"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_537989"
+:event/minute 47
+:event/match_id "match_10337"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_537989"
+:event/minute 47
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Alexandre Pato"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_537992"
+:event/minute 47
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_538038"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed 49
+:event/subtype "distance"
+:event/player1 "Alexandre Pato"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_538046"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_10337"}
+
+{:event/type "cross"
+:event/elapsed 50
+:event/subtype "cross"
+:event/player1 "Marek Jankulovski"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_538049"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed 50
+:event/subtype "shot"
+:event/player1 "Kaka"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_538051"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_10337"}
+
+{:event/type "goal"
+:event/elapsed 52
+:event/subtype "shot"
+:event/player1 "Kaka"
+:event/sortorder 0
+:event/team "home"
+:event/id "event_538061"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player1 "Kakha Kaladze"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_538076"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10337"}
+
+{:event/type "cross"
+:event/elapsed 58
+:event/subtype "cross"
+:event/player1 "Aleksandar Lukovic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_538079"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed 58
+:event/subtype "header"
+:event/player1 "Antonio Floro Flores"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_538081"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_10337"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_538082"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10337"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_538082"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_10337"}
+
+{:event/type "shotoff"
+:event/elapsed 64
+:event/subtype "shot"
+:event/player1 "Andrea Pirlo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_538094"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_10337"}
+
+{:event/type "shotoff"
+:event/elapsed 67
+:event/subtype "distance"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_538096"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Alexis Sanchez"
+:event/player1 "Luca Antonini"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_538102"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10337"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/player1 "Luca Antonini"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "card"
+:event/id "event_538103"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 71
+:event/player1 "Andrea Pirlo"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_538105"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed 72
+:event/subtype "direct_freekick"
+:event/player1 "Simone Pepe"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_538107"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10337"}
+
+{:event/type "cross"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_538108"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10337"}
+
+{:event/type "corner"
+:event/elapsed 72
+:event/subtype "cross"
+:event/player1 "Simone Pepe"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_538108"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "Gaetano D'Agostino"
+:event/player1 "Ronaldinho"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_538111"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_10337"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "distance"
+:event/player1 "Antonio Di Natale"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_538115"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Marek Jankulovski"
+:event/player1 "Gokhan Inler"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_538131"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10337"}
+
+{:event/type "card"
+:event/elapsed 80
+:event/card_type "y"
+:event/player1 "Gokhan Inler"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_538132"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player1 "Rodney Strasser"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_538140"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player1 "Andriy Shevchenko"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_538142"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player1 "Rodney Strasser"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_538147"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_10337"}
+
+{:event/type "card"
+:event/elapsed 88
+:event/card_type "y"
+:event/player1 "Rodney Strasser"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_538152"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10337"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Rodney Strasser"
+:event/player1 "Gokhan Inler"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_538150"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_10337"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/subtype "verbal_abuse"
+:event/player1 "Mauricio Isla"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "card"
+:event/id "event_538155"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_10337"}
+
+{:event/type "card"
+:event/elapsed 89
+:event/card_type "y"
+:event/player1 "Marek Jankulovski"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "card"
+:event/id "event_538202"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_10337"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_538158"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10337"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Alexis Sanchez"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_538159"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_10337"}
+
+
+]
+

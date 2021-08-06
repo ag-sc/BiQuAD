@@ -1,0 +1,959 @@
+
+;;# data
+[
+{:match/id "match_4338"
+:match/league "England Premier League"
+:match/hometeam "West Bromwich Albion"
+:match/awayteam "Everton"
+:match/score "0:2"
+:match/hometeam_goals "0"
+:match/awayteam_goals "2"}
+
+{:event/type "goal"
+:event/elapsed 2
+:event/subtype "shot"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 0
+:event/team "away"
+:event/id "event_3714679"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_4338"}
+
+{:event/type "shotoff"
+:event/elapsed 4
+:event/subtype "shot"
+:event/player1 "James Morrison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3714724"
+:event/elapsed_plus 0
+:event/minute 4
+:event/match_id "match_4338"}
+
+{:event/type "shoton"
+:event/elapsed 5
+:event/subtype "blocked_shot"
+:event/player1 "Andre Wisdom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3714731"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 6
+:event/subtype "cross"
+:event/player1 "Sebastien Pocognoli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3714765"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_4338"}
+
+{:event/type "shoton"
+:event/elapsed 9
+:event/subtype "blocked_shot"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3714853"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Andre Wisdom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3714866"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_4338"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross_right"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3714922"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_4338"}
+
+{:event/type "shoton"
+:event/elapsed 16
+:event/subtype "blocked_shot"
+:event/player1 "Aiden McGeady"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3715010"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Andre Wisdom"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3715037"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3715053"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Sebastien Pocognoli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3715061"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "James McCarthy"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3715095"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed 21
+:event/player2 "Craig Gardner"
+:event/subtype "serious_foul"
+:event/player1 "James McCarthy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3715118"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_4338"}
+
+{:event/type "shotoff"
+:event/elapsed 22
+:event/subtype "direct_freekick"
+:event/player1 "Craig Gardner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3715133"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Brown Ideye"
+:event/subtype "pushing"
+:event/player1 "Phil Jagielka"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3715160"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_4338"}
+
+{:event/type "card"
+:event/elapsed 26
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Craig Gardner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3715195"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4338"}
+
+{:event/type "shoton"
+:event/elapsed 26
+:event/subtype "blocked_shot"
+:event/player1 "Craig Gardner"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3715202"
+:event/elapsed_plus 0
+:event/minute 26
+:event/match_id "match_4338"}
+
+{:event/type "corner"
+:event/elapsed 27
+:event/subtype "cross_right"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3715208"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Tim Howard"
+:event/subtype "dangerous_play"
+:event/player1 "Saido Berahino"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3715215"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Sebastien Pocognoli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3715239"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_4338"}
+
+{:event/type "shotoff"
+:event/elapsed 30
+:event/subtype "big chance shot"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3715268"
+:event/elapsed_plus 0
+:event/minute 30
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 31
+:event/subtype "cross"
+:event/player1 "Graham Dorrans"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3715280"
+:event/elapsed_plus 0
+:event/minute 31
+:event/match_id "match_4338"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross_right"
+:event/player1 "James Morrison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3715286"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4338"}
+
+{:event/type "corner"
+:event/elapsed 32
+:event/subtype "cross_left"
+:event/player1 "Chris Brunt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3715294"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Chris Brunt"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3715301"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3715319"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4338"}
+
+{:event/type "shotoff"
+:event/elapsed 34
+:event/subtype "shot"
+:event/player1 "Saido Berahino"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3715320"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4338"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross_right"
+:event/player1 "Chris Brunt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3715330"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed 34
+:event/player2 "Phil Jagielka"
+:event/subtype "pull"
+:event/player1 "Jonas Olsson"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3715338"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Leighton Baines"
+:event/subtype "pushing"
+:event/player1 "Andre Wisdom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3715359"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Seamus Coleman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3715366"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_4338"}
+
+{:event/type "shotoff"
+:event/elapsed 38
+:event/subtype "big chance shot"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3715423"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 38
+:event/subtype "cross"
+:event/player1 "Graham Dorrans"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3715443"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Steven Naismith"
+:event/subtype "pushing"
+:event/player1 "Brown Ideye"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3715473"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 41
+:event/subtype "cross"
+:event/player1 "James McCarthy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3715503"
+:event/elapsed_plus 0
+:event/minute 41
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/player1 "Sebastien Pocognoli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3715543"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed 44
+:event/player2 "Craig Dawson"
+:event/subtype "obstruction"
+:event/player1 "Steven Naismith"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3715571"
+:event/elapsed_plus 0
+:event/minute 44
+:event/match_id "match_4338"}
+
+{:event/type "shotoff"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "shot"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3715614"
+:event/minute 46
+:event/match_id "match_4338"}
+
+{:event/type "corner"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Chris Brunt"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3715665"
+:event/minute 48
+:event/match_id "match_4338"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Graham Dorrans"
+:event/sortorder 8
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3715671"
+:event/minute 48
+:event/match_id "match_4338"}
+
+{:event/type "shoton"
+:event/elapsed 51
+:event/subtype "shot"
+:event/player1 "Romelu Lukaku"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3716067"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4338"}
+
+{:event/type "shotoff"
+:event/elapsed 51
+:event/subtype "big chance shot"
+:event/player1 "Steven Naismith"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3716071"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/player2 "Craig Gardner"
+:event/subtype "serious_foul"
+:event/player1 "James McCarthy"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3716131"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4338"}
+
+{:event/type "card"
+:event/elapsed 53
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "James McCarthy"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3716135"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3716196"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_4338"}
+
+{:event/type "shotoff"
+:event/elapsed 56
+:event/subtype "deflected"
+:event/player1 "Brown Ideye"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_3716209"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4338"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_right"
+:event/player1 "Chris Brunt"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3716233"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_4338"}
+
+{:event/type "corner"
+:event/elapsed 57
+:event/subtype "cross_left"
+:event/player1 "Graham Dorrans"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3716253"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_4338"}
+
+{:event/type "shoton"
+:event/elapsed 64
+:event/subtype "blocked_shot"
+:event/player1 "Brown Ideye"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3716430"
+:event/elapsed_plus 0
+:event/minute 64
+:event/match_id "match_4338"}
+
+{:event/type "goal"
+:event/elapsed 66
+:event/player2 "Leighton Baines"
+:event/subtype "shot"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_3716481"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 67
+:event/subtype "cross"
+:event/player1 "Sebastien Pocognoli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3716498"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Steven Naismith"
+:event/subtype "pushing"
+:event/player1 "Sebastien Pocognoli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3716594"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed 73
+:event/player2 "Gareth Barry"
+:event/subtype "trip"
+:event/player1 "Georgios Samaras"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3716602"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4338"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "big chance shot"
+:event/player1 "Aiden McGeady"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3716609"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_4338"}
+
+{:event/type "shotoff"
+:event/elapsed 75
+:event/subtype "shot"
+:event/player1 "Aiden McGeady"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3716642"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 76
+:event/subtype "cross"
+:event/player1 "Andre Wisdom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3716660"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4338"}
+
+{:event/type "shotoff"
+:event/elapsed 76
+:event/subtype "shot"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_3716677"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 78
+:event/subtype "cross"
+:event/player1 "Craig Dawson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3716707"
+:event/elapsed_plus 0
+:event/minute 78
+:event/match_id "match_4338"}
+
+{:event/type "shoton"
+:event/elapsed 79
+:event/subtype "big chance shot"
+:event/player1 "Leon Osman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3716724"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4338"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross_right"
+:event/player1 "Kevin Mirallas"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_3716728"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_4338"}
+
+{:event/type "shoton"
+:event/elapsed 80
+:event/subtype "shot"
+:event/player1 "Craig Gardner"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3716741"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 81
+:event/subtype "cross"
+:event/player1 "Seamus Coleman"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3716761"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4338"}
+
+{:event/type "card"
+:event/elapsed 81
+:event/card_type "y"
+:event/subtype "Unsportsmanlike Cond"
+:event/player1 "Steven Naismith"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3716782"
+:event/elapsed_plus 0
+:event/minute 81
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Gareth Barry"
+:event/subtype "from_behind"
+:event/player1 "James Morrison"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3716796"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 84
+:event/subtype "cross"
+:event/player1 "Andre Wisdom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3716827"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/player1 "James McCarthy"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3716851"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_4338"}
+
+{:event/type "corner"
+:event/elapsed 86
+:event/subtype "cross_left"
+:event/player1 "Graham Dorrans"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_3716874"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Graham Dorrans"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3716879"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_4338"}
+
+{:event/type "shoton"
+:event/elapsed 89
+:event/subtype "big chance shot"
+:event/player1 "Leon Osman"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_3716931"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Steven Naismith"
+:event/subtype "pull"
+:event/player1 "Andre Wisdom"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_3716950"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4338"}
+
+{:event/type "card"
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Andre Wisdom"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_3716952"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Leighton Baines"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_3716964"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_4338"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Graham Dorrans"
+:event/subtype "serious_foul"
+:event/player1 "Muhamed Besic"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_3716980"
+:event/minute 91
+:event/match_id "match_4338"}
+
+{:event/type "card"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Muhamed Besic"
+:event/sortorder 6
+:event/team "away"
+:event/event_type "card"
+:event/id "event_3716983"
+:event/minute 91
+:event/match_id "match_4338"}
+
+{:event/type "cross"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Cristian Gamboa"
+:event/sortorder 7
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_3716992"
+:event/minute 92
+:event/match_id "match_4338"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Saido Berahino"
+:event/sortorder 10
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3717012"
+:event/minute 93
+:event/match_id "match_4338"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "volley"
+:event/player1 "Georgios Samaras"
+:event/sortorder 11
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_3717014"
+:event/minute 93
+:event/match_id "match_4338"}
+
+
+]
+

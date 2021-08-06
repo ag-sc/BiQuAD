@@ -1,0 +1,936 @@
+
+;;# data
+[
+{:match/id "match_11305"
+:match/league "Italy Serie A"
+:match/hometeam "Cesena"
+:match/awayteam "Inter"
+:match/score "1:2"
+:match/hometeam_goals "1"
+:match/awayteam_goals "2"}
+
+{:event/type "shotoff"
+:event/elapsed 1
+:event/subtype "distance"
+:event/player1 "Samuel Eto'o"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1530197"
+:event/elapsed_plus 0
+:event/minute 1
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 2
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1530201"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Luis Jimenez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1530202"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Luis Jimenez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1530205"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_11305"}
+
+{:event/type "corner"
+:event/elapsed 2
+:event/subtype "cross"
+:event/player1 "Luis Jimenez"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1530205"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_11305"}
+
+{:event/type "shotoff"
+:event/elapsed 2
+:event/subtype "header"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1530206"
+:event/elapsed_plus 0
+:event/minute 2
+:event/match_id "match_11305"}
+
+{:event/type "shoton"
+:event/elapsed 6
+:event/subtype "shot"
+:event/player1 "Emanuele Giaccherini"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1530221"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_11305"}
+
+{:event/type "shotoff"
+:event/elapsed 11
+:event/subtype "distance"
+:event/player1 "Thiago Motta"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1530240"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1530244"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11305"}
+
+{:event/type "corner"
+:event/elapsed 12
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1530244"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11305"}
+
+{:event/type "shoton"
+:event/elapsed 12
+:event/subtype "big chance blocked"
+:event/player1 "Luca Ceccarelli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1530245"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 14
+:event/player2 "Thiago Motta"
+:event/player1 "Igor Budan"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1530250"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11305"}
+
+{:event/type "card"
+:event/elapsed 14
+:event/card_type "y"
+:event/subtype "pushing"
+:event/player1 "Igor Budan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1530251"
+:event/elapsed_plus 0
+:event/minute 14
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 15
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1530259"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11305"}
+
+{:event/type "corner"
+:event/elapsed 15
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1530259"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 17
+:event/subtype "cross"
+:event/player1 "Yuto Nagatomo"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1530265"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/player2 "Goran Pandev"
+:event/player1 "Luca Ceccarelli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1530277"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1530306"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 25
+:event/player2 "Francesco Antonioli"
+:event/subtype "pushing"
+:event/player1 "Goran Pandev"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1530308"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 27
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1530314"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 29
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1530327"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 32
+:event/subtype "cross"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1530361"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1530374"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11305"}
+
+{:event/type "corner"
+:event/elapsed 34
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1530374"
+:event/elapsed_plus 0
+:event/minute 34
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 35
+:event/player2 "Fabio Caserta"
+:event/player1 "Lucio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1530380"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Igor Budan"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1530385"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1530435"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/subtype "pushing"
+:event/player1 "Maicon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1530437"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 43
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1530477"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11305"}
+
+{:event/type "corner"
+:event/elapsed 43
+:event/subtype "cross"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1530477"
+:event/elapsed_plus 0
+:event/minute 43
+:event/match_id "match_11305"}
+
+{:event/type "shoton"
+:event/elapsed 45
+:event/subtype "distance"
+:event/player1 "Lucio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1530496"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Luis Jimenez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1530606"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_11305"}
+
+{:event/type "corner"
+:event/elapsed 46
+:event/subtype "cross"
+:event/player1 "Luis Jimenez"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1530606"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Maurizio Lauro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1530615"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 48
+:event/subtype "cross"
+:event/player1 "Luis Jimenez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1530620"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "Igor Budan"
+:event/subtype "pushing"
+:event/player1 "Andrea Ranocchia"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1530638"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 49
+:event/subtype "cross"
+:event/player1 "Fabio Caserta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1530643"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11305"}
+
+{:event/type "shotoff"
+:event/elapsed 49
+:event/subtype "volley"
+:event/player1 "Luis Jimenez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1530644"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1530660"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_11305"}
+
+{:event/type "corner"
+:event/elapsed 51
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1530660"
+:event/elapsed_plus 0
+:event/minute 51
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 53
+:event/subtype "cross"
+:event/player1 "Emanuele Giaccherini"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1530688"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_11305"}
+
+{:event/type "shotoff"
+:event/elapsed 54
+:event/subtype "header"
+:event/player1 "Luis Jimenez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1530689"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 56
+:event/subtype "cross"
+:event/player1 "Luca Ceccarelli"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1530716"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11305"}
+
+{:event/type "goal"
+:event/elapsed 56
+:event/player2 "Luca Ceccarelli"
+:event/subtype "volley"
+:event/player1 "Igor Budan"
+:event/sortorder 2
+:event/team "home"
+:event/id "event_1530712"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 58
+:event/player2 "Goran Pandev"
+:event/subtype "serious_foul"
+:event/player1 "Luca Ceccarelli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1530739"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_11305"}
+
+{:event/type "card"
+:event/elapsed 59
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Luca Ceccarelli"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1530746"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 61
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1530774"
+:event/elapsed_plus 0
+:event/minute 61
+:event/match_id "match_11305"}
+
+{:event/type "shoton"
+:event/elapsed 67
+:event/subtype "shot"
+:event/player1 "Samuel Eto'o"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1530810"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 68
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1530813"
+:event/elapsed_plus 0
+:event/minute 68
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Fabio Caserta"
+:event/player1 "McDonald Mariga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1530826"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11305"}
+
+{:event/type "card"
+:event/elapsed 70
+:event/card_type "y"
+:event/player1 "McDonald Mariga"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1530827"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Javier Zanetti"
+:event/player1 "Maurizio Lauro"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1530836"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_11305"}
+
+{:event/type "shotoff"
+:event/elapsed 72
+:event/subtype "header"
+:event/player1 "Lucio"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1530840"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 79
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1530897"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11305"}
+
+{:event/type "corner"
+:event/elapsed 79
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1530897"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Maximiliano Pellegrino"
+:event/player1 "Andrea Ranocchia"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1530899"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "McDonald Mariga"
+:event/player1 "Marco Parolo"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1530912"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 80
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1530914"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_11305"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "header"
+:event/player1 "Giampaolo Pazzini"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1530915"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 84
+:event/player2 "Yuto Nagatomo"
+:event/player1 "Fabio Caserta"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1530968"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_11305"}
+
+{:event/type "card"
+:event/elapsed 84
+:event/card_type "y"
+:event/player1 "Fabio Caserta"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1530969"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 85
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1530978"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Lucio"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1530985"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11305"}
+
+{:event/type "shotoff"
+:event/elapsed 86
+:event/subtype "big chance header"
+:event/player1 "Giampaolo Pazzini"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1530988"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed 86
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1530999"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Marco Parolo"
+:event/player1 "Lucio"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1531008"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11305"}
+
+{:event/type "card"
+:event/elapsed 87
+:event/card_type "y"
+:event/player1 "Lucio"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1531009"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11305"}
+
+{:event/type "shoton"
+:event/elapsed 87
+:event/subtype "big chance blocked"
+:event/player1 "Dominique Malonga"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1531016"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_11305"}
+
+{:event/type "corner"
+:event/elapsed 88
+:event/subtype "short"
+:event/player1 "Luis Jimenez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1531017"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 88
+:event/player2 "Dominique Malonga"
+:event/subtype "pushing"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1531019"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_11305"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Luis Jimenez"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1531038"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11305"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "short"
+:event/player1 "Luis Jimenez"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1531045"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11305"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Fabio Caserta"
+:event/player1 "Esteban Cambiasso"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1531048"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_11305"}
+
+{:event/type "goal"
+:event/elapsed_plus 1
+:event/elapsed 90
+:event/player2 "Samuel Eto'o"
+:event/subtype "volley"
+:event/player1 "Giampaolo Pazzini"
+:event/sortorder 1
+:event/team "away"
+:event/id "event_1531060"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 91
+:event/match_id "match_11305"}
+
+{:event/type "shoton"
+:event/elapsed_plus 3
+:event/elapsed 90
+:event/subtype "distance"
+:event/player1 "McDonald Mariga"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1531084"
+:event/minute 93
+:event/match_id "match_11305"}
+
+{:event/type "cross"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Maicon"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1531112"
+:event/minute 95
+:event/match_id "match_11305"}
+
+{:event/type "goal"
+:event/elapsed_plus 5
+:event/elapsed 90
+:event/player2 "Maicon"
+:event/subtype "header"
+:event/player1 "Giampaolo Pazzini"
+:event/sortorder 2
+:event/team "away"
+:event/id "event_1531100"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/minute 95
+:event/match_id "match_11305"}
+
+
+]
+

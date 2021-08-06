@@ -1,0 +1,882 @@
+
+;;# data
+[
+{:match/id "match_8588"
+:match/league "Germany 1. Bundesliga"
+:match/hometeam "TSG 1899 Hoffenheim"
+:match/awayteam "Borussia Dortmund"
+:match/score "1:0"
+:match/hometeam_goals "1"
+:match/awayteam_goals "0"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/player1 "Lukasz Piszczek"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1453039"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 3
+:event/subtype "cross"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1453041"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Nuri Sahin"
+:event/subtype "from_behind"
+:event/player1 "Boris Vukcevic"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453049"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_8588"}
+
+{:event/type "card"
+:event/elapsed 7
+:event/card_type "y"
+:event/player1 "Sejad Salihovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1453071"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 7
+:event/player2 "Lukasz Piszczek"
+:event/player1 "Sejad Salihovic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453053"
+:event/elapsed_plus 0
+:event/minute 7
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 9
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1453059"
+:event/elapsed_plus 0
+:event/minute 9
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 10
+:event/subtype "cross"
+:event/player1 "Andreas Beck"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1453062"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 10
+:event/subtype "header"
+:event/player1 "David Alaba"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1453063"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1453065"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Sejad Salihovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1453066"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 13
+:event/player2 "Robert Lewandowski"
+:event/subtype "pushing"
+:event/player1 "Ryan Babel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453068"
+:event/elapsed_plus 0
+:event/minute 13
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 16
+:event/subtype "distance"
+:event/player1 "Sebastian Rudy"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1453073"
+:event/elapsed_plus 0
+:event/minute 16
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 17
+:event/player2 "Mario Goetze"
+:event/subtype "serious_foul"
+:event/player1 "Edson Braafheid"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453075"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8588"}
+
+{:event/type "card"
+:event/elapsed 17
+:event/card_type "y"
+:event/subtype "serious_fouls"
+:event/player1 "Edson Braafheid"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "card"
+:event/id "event_1453076"
+:event/elapsed_plus 0
+:event/minute 17
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 18
+:event/subtype "direct_freekick"
+:event/player1 "Nuri Sahin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1453077"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_8588"}
+
+{:event/type "shoton"
+:event/elapsed 19
+:event/subtype "shot"
+:event/player1 "Boris Vukcevic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1453079"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/player2 "Robert Lewandowski"
+:event/subtype "pushing"
+:event/player1 "Edson Braafheid"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453081"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 20
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1453082"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 21
+:event/subtype "cross"
+:event/player1 "Nuri Sahin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1453084"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 21
+:event/subtype "header"
+:event/player1 "Felipe Santana"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1453085"
+:event/elapsed_plus 0
+:event/minute 21
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 22
+:event/player2 "Nuri Sahin"
+:event/player1 "Isaac Vorsah"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453087"
+:event/elapsed_plus 0
+:event/minute 22
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 27
+:event/player2 "Mario Goetze"
+:event/subtype "pushing"
+:event/player1 "Sebastian Rudy"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453095"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 27
+:event/subtype "header"
+:event/player1 "Lucas Barrios"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1453097"
+:event/elapsed_plus 0
+:event/minute 27
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Sejad Salihovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1453099"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8588"}
+
+{:event/type "corner"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Sejad Salihovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1453099"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 29
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1453101"
+:event/elapsed_plus 0
+:event/minute 29
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1453105"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Mario Goetze"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1453107"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8588"}
+
+{:event/type "corner"
+:event/elapsed 33
+:event/subtype "cross"
+:event/player1 "Mario Goetze"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1453107"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Isaac Vorsah"
+:event/subtype "pushing"
+:event/player1 "Felipe Santana"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1453108"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 35
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1453109"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 35
+:event/subtype "big chance volley"
+:event/player1 "Robert Lewandowski"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1453110"
+:event/elapsed_plus 0
+:event/minute 35
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Edson Braafheid"
+:event/subtype "pushing"
+:event/player1 "Mario Goetze"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1453113"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 40
+:event/player2 "Nuri Sahin"
+:event/player1 "Edson Braafheid"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453116"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_8588"}
+
+{:event/type "shoton"
+:event/elapsed 48
+:event/subtype "big chance shot"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1453135"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 48
+:event/player2 "Sejad Salihovic"
+:event/player1 "Felipe Santana"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1453136"
+:event/elapsed_plus 0
+:event/minute 48
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 50
+:event/player2 "Marcel Schmelzer"
+:event/subtype "pushing"
+:event/player1 "Ryan Babel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453139"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Marcel Schmelzer"
+:event/player1 "Ryan Babel"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453146"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 53
+:event/subtype "pushing"
+:event/player1 "Lucas Barrios"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1453148"
+:event/elapsed_plus 0
+:event/minute 53
+:event/match_id "match_8588"}
+
+{:event/type "shoton"
+:event/elapsed 54
+:event/subtype "distance"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1453150"
+:event/elapsed_plus 0
+:event/minute 54
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 55
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1453153"
+:event/elapsed_plus 0
+:event/minute 55
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 58
+:event/subtype "distance"
+:event/player1 "Antonio da Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1453158"
+:event/elapsed_plus 0
+:event/minute 58
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 60
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1453320"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8588"}
+
+{:event/type "corner"
+:event/elapsed 60
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1453320"
+:event/elapsed_plus 0
+:event/minute 60
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Marcel Schmelzer"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_1453164"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1453167"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 63
+:event/subtype "cross"
+:event/player1 "Andreas Beck"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_1453170"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8588"}
+
+{:event/type "goal"
+:event/elapsed 63
+:event/player2 "Andreas Beck"
+:event/subtype "shot"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 7
+:event/team "home"
+:event/id "event_1453168"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 66
+:event/subtype "header"
+:event/player1 "Neven Subotic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1453173"
+:event/elapsed_plus 0
+:event/minute 66
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1453179"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 69
+:event/player2 "Neven Subotic"
+:event/subtype "shirt_pull"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453180"
+:event/elapsed_plus 0
+:event/minute 69
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 71
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "throwin"
+:event/id "event_1453196"
+:event/elapsed_plus 0
+:event/minute 71
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Edson Braafheid"
+:event/player1 "Jakub Blaszczykowski"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1453204"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Mario Goetze"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1453211"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_8588"}
+
+{:event/type "corner"
+:event/elapsed 73
+:event/subtype "cross"
+:event/player1 "Mario Goetze"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1453211"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 73
+:event/subtype "header"
+:event/player1 "Neven Subotic"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_1453212"
+:event/elapsed_plus 0
+:event/minute 73
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 75
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1453323"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8588"}
+
+{:event/type "corner"
+:event/elapsed 75
+:event/subtype "cross"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1453323"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 79
+:event/player2 "Sejad Salihovic"
+:event/subtype "shirt_pull"
+:event/player1 "Antonio da Silva"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1453240"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8588"}
+
+{:event/type "card"
+:event/elapsed 79
+:event/card_type "y"
+:event/subtype "shirt_pull"
+:event/player1 "Antonio da Silva"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "card"
+:event/id "event_1453241"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 80
+:event/subtype "big chance header"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1453246"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 82
+:event/player2 "Mario Goetze"
+:event/subtype "obstruction"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453253"
+:event/elapsed_plus 0
+:event/minute 82
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Sejad Salihovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1453265"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8588"}
+
+{:event/type "corner"
+:event/elapsed 83
+:event/subtype "cross"
+:event/player1 "Sejad Salihovic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_1453265"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 83
+:event/subtype "header"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1453266"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_8588"}
+
+{:event/type "shoton"
+:event/elapsed 84
+:event/subtype "distance"
+:event/player1 "Boris Vukcevic"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_1453274"
+:event/elapsed_plus 0
+:event/minute 84
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/subtype "pushing"
+:event/player1 "Nuri Sahin"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_1453278"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_8588"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Jakub Blaszczykowski"
+:event/player1 "Andreas Beck"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_1453293"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 87
+:event/subtype "crossbar"
+:event/player1 "Vedad Ibisevic"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1453301"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_8588"}
+
+{:event/type "shotoff"
+:event/elapsed 90
+:event/subtype "shot"
+:event/player1 "Gylfi Sigurdsson"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_1453324"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_8588"}
+
+{:event/type "shoton"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "big chance shot"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_1453359"
+:event/minute 94
+:event/match_id "match_8588"}
+
+{:event/type "cross"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1453360"
+:event/minute 94
+:event/match_id "match_8588"}
+
+{:event/type "corner"
+:event/elapsed_plus 4
+:event/elapsed 90
+:event/subtype "cross"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_1453360"
+:event/minute 94
+:event/match_id "match_8588"}
+
+
+]
+

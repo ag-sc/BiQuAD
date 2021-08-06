@@ -1,0 +1,915 @@
+
+;;# data
+[
+{:match/id "match_7687"
+:match/league "France Ligue 1"
+:match/hometeam "Stade Rennais FC"
+:match/awayteam "Stade de Reims"
+:match/score "3:1"
+:match/hometeam_goals "3"
+:match/awayteam_goals "1"}
+
+{:event/type "foulcommit"
+:event/elapsed 3
+:event/player2 "Fallou Diagne"
+:event/subtype "trip"
+:event/player1 "Aly Ndom"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5450979"
+:event/elapsed_plus 0
+:event/minute 3
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 5
+:event/subtype "cross"
+:event/player1 "Romain Danze"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5451043"
+:event/elapsed_plus 0
+:event/minute 5
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 6
+:event/player2 "Yoann Gourcuff"
+:event/subtype "pushing"
+:event/player1 "Hamari Traore"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5451070"
+:event/elapsed_plus 0
+:event/minute 6
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 10
+:event/player2 "Antoine Devaux"
+:event/subtype "trip"
+:event/player1 "Benjamin Andre"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5451144"
+:event/elapsed_plus 0
+:event/minute 10
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5451160"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 11
+:event/subtype "cross"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5451165"
+:event/elapsed_plus 0
+:event/minute 11
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 12
+:event/subtype "cross"
+:event/player1 "Giovanni Sio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5451194"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7687"}
+
+{:event/type "goal"
+:event/elapsed 12
+:event/player2 "Giovanni Sio"
+:event/subtype "shot"
+:event/player1 "Kamil Grosicki"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5451197"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 12
+:event/match_id "match_7687"}
+
+{:event/type "goal"
+:event/elapsed 15
+:event/player2 "Kamil Grosicki"
+:event/subtype "shot"
+:event/player1 "Ousmane Dembele"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5451246"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 15
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 18
+:event/subtype "cross"
+:event/player1 "Hamari Traore"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5451338"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 18
+:event/subtype "hands"
+:event/player1 "Cheikh Mbengue"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5451347"
+:event/elapsed_plus 0
+:event/minute 18
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 19
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5451356"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 19
+:event/subtype "hands"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5451376"
+:event/elapsed_plus 0
+:event/minute 19
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 20
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5451407"
+:event/elapsed_plus 0
+:event/minute 20
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 23
+:event/player2 "Nicolas De Preville"
+:event/player1 "Ousmane Dembele"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5451461"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 23
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5451476"
+:event/elapsed_plus 0
+:event/minute 23
+:event/match_id "match_7687"}
+
+{:event/type "corner"
+:event/elapsed 24
+:event/subtype "cross_left"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5451508"
+:event/elapsed_plus 0
+:event/minute 24
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5451511"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5451520"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 25
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5451525"
+:event/elapsed_plus 0
+:event/minute 25
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 28
+:event/subtype "cross"
+:event/player1 "Gaetan Charbonnier"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5451570"
+:event/elapsed_plus 0
+:event/minute 28
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Romain Danze"
+:event/subtype "trip"
+:event/player1 "Hamari Traore"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5451628"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 32
+:event/player2 "Aissa Mandi"
+:event/subtype "pushing"
+:event/player1 "Giovanni Sio"
+:event/sortorder 3
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5451635"
+:event/elapsed_plus 0
+:event/minute 32
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 33
+:event/player2 "Benjamin Andre"
+:event/subtype "trip"
+:event/player1 "Thievy Bifouma"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5451641"
+:event/elapsed_plus 0
+:event/minute 33
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 36
+:event/player2 "Nicolas De Preville"
+:event/player1 "Cheikh Mbengue"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5451680"
+:event/elapsed_plus 0
+:event/minute 36
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 37
+:event/subtype "cross"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5451705"
+:event/elapsed_plus 0
+:event/minute 37
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 38
+:event/player2 "Anthony Weber"
+:event/player1 "Giovanni Sio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5451713"
+:event/elapsed_plus 0
+:event/minute 38
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Thievy Bifouma"
+:event/subtype "trip"
+:event/player1 "Benjamin Andre"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5451729"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 39
+:event/player2 "Gaetan Charbonnier"
+:event/subtype "from_behind"
+:event/player1 "Benjamin Andre"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5451740"
+:event/elapsed_plus 0
+:event/minute 39
+:event/match_id "match_7687"}
+
+{:event/type "shoton"
+:event/elapsed 40
+:event/subtype "blocked_shot"
+:event/player1 "Diego"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5451750"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7687"}
+
+{:event/type "shotoff"
+:event/elapsed 40
+:event/subtype "volley"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5451758"
+:event/elapsed_plus 0
+:event/minute 40
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 45
+:event/player2 "Giovanni Sio"
+:event/subtype "trip"
+:event/player1 "Gaetan Charbonnier"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5451832"
+:event/elapsed_plus 0
+:event/minute 45
+:event/match_id "match_7687"}
+
+{:event/type "shoton"
+:event/elapsed_plus 1
+:event/elapsed 45
+:event/subtype "direct_freekick"
+:event/player1 "Kamil Grosicki"
+:event/sortorder 4
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5451853"
+:event/minute 46
+:event/match_id "match_7687"}
+
+{:event/type "corner"
+:event/elapsed 46
+:event/subtype "cross_left"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 5
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5452116"
+:event/elapsed_plus 0
+:event/minute 46
+:event/match_id "match_7687"}
+
+{:event/type "corner"
+:event/elapsed 47
+:event/subtype "short_left"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5452123"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 47
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5452127"
+:event/elapsed_plus 0
+:event/minute 47
+:event/match_id "match_7687"}
+
+{:event/type "corner"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "cross_left"
+:event/player1 "Yoann Gourcuff"
+:event/sortorder 5
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5451861"
+:event/minute 47
+:event/match_id "match_7687"}
+
+{:event/type "shoton"
+:event/elapsed_plus 2
+:event/elapsed 45
+:event/subtype "blocked_shot"
+:event/player1 "Kamil Grosicki"
+:event/sortorder 6
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5451864"
+:event/minute 47
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 49
+:event/player2 "unknown"
+:event/subtype "trip"
+:event/player1 "Benjamin Andre"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5452189"
+:event/elapsed_plus 0
+:event/minute 49
+:event/match_id "match_7687"}
+
+{:event/type "shotoff"
+:event/elapsed 50
+:event/subtype "distance"
+:event/player1 "Hamari Traore"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5452214"
+:event/elapsed_plus 0
+:event/minute 50
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 52
+:event/player2 "Ousmane Dembele"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5452243"
+:event/elapsed_plus 0
+:event/minute 52
+:event/match_id "match_7687"}
+
+{:event/type "shoton"
+:event/elapsed 56
+:event/subtype "shot"
+:event/player1 "Kamil Grosicki"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shoton"
+:event/id "event_5452319"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7687"}
+
+{:event/type "corner"
+:event/elapsed 56
+:event/subtype "cross_left"
+:event/player1 "Yoann Gourcuff"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "corner"
+:event/id "event_5452321"
+:event/elapsed_plus 0
+:event/minute 56
+:event/match_id "match_7687"}
+
+{:event/type "shoton"
+:event/elapsed 57
+:event/subtype "blocked_shot"
+:event/player1 "Hamari Traore"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5452345"
+:event/elapsed_plus 0
+:event/minute 57
+:event/match_id "match_7687"}
+
+{:event/type "shoton"
+:event/elapsed 59
+:event/subtype "blocked_shot"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5452385"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7687"}
+
+{:event/type "shotoff"
+:event/elapsed 59
+:event/subtype "deflected"
+:event/player1 "Aly Ndom"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "shotoff"
+:event/id "event_5452388"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7687"}
+
+{:event/type "corner"
+:event/elapsed 59
+:event/subtype "cross_right"
+:event/player1 "Diego"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5452392"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7687"}
+
+{:event/type "goal"
+:event/elapsed 59
+:event/subtype "shot"
+:event/player1 "Aissa Mandi"
+:event/sortorder 5
+:event/team "away"
+:event/id "event_5452403"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 59
+:event/match_id "match_7687"}
+
+{:event/type "card"
+:event/elapsed 62
+:event/card_type "y"
+:event/player1 "Fallou Diagne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "card"
+:event/id "event_5452450"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7687"}
+
+{:event/type "corner"
+:event/elapsed 62
+:event/subtype "cross_left"
+:event/player1 "Diego"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5452455"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 62
+:event/subtype "cross"
+:event/player1 "Diego"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5452457"
+:event/elapsed_plus 0
+:event/minute 62
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 63
+:event/player2 "Antoine Devaux"
+:event/player1 "Benjamin Andre"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5452483"
+:event/elapsed_plus 0
+:event/minute 63
+:event/match_id "match_7687"}
+
+{:event/type "shotoff"
+:event/elapsed 65
+:event/subtype "shot"
+:event/player1 "Yoann Gourcuff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5452519"
+:event/elapsed_plus 0
+:event/minute 65
+:event/match_id "match_7687"}
+
+{:event/type "goal"
+:event/elapsed 67
+:event/player2 "Sylvain Armand"
+:event/subtype "shot"
+:event/player1 "Ousmane Dembele"
+:event/sortorder 1
+:event/team "home"
+:event/id "event_5452553"
+:event/event_type "goal"
+:event/goal_type "n"
+:event/elapsed_plus 0
+:event/minute 67
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 70
+:event/player2 "Benjamin Andre"
+:event/subtype "trip"
+:event/player1 "unknown"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5452604"
+:event/elapsed_plus 0
+:event/minute 70
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 72
+:event/player2 "Alhassane Bangoura"
+:event/player1 "Ludovic Baal"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5452650"
+:event/elapsed_plus 0
+:event/minute 72
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 75
+:event/player2 "unknown"
+:event/subtype "trip"
+:event/player1 "Sylvain Armand"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5452711"
+:event/elapsed_plus 0
+:event/minute 75
+:event/match_id "match_7687"}
+
+{:event/type "shoton"
+:event/elapsed 76
+:event/subtype "direct_freekick"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5452729"
+:event/elapsed_plus 0
+:event/minute 76
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 77
+:event/subtype "cross"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5452745"
+:event/elapsed_plus 0
+:event/minute 77
+:event/match_id "match_7687"}
+
+{:event/type "shotoff"
+:event/elapsed 79
+:event/subtype "shot"
+:event/player1 "Yoann Gourcuff"
+:event/sortorder 1
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5452783"
+:event/elapsed_plus 0
+:event/minute 79
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 80
+:event/player2 "Ludovic Baal"
+:event/subtype "trip"
+:event/player1 "Aissa Mandi"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5452800"
+:event/elapsed_plus 0
+:event/minute 80
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 83
+:event/player2 "Benjamin Andre"
+:event/subtype "trip"
+:event/player1 "unknown"
+:event/sortorder 1
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5452844"
+:event/elapsed_plus 0
+:event/minute 83
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 85
+:event/player2 "Benjamin Andre"
+:event/subtype "trip"
+:event/player1 "Alhassane Bangoura"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5452862"
+:event/elapsed_plus 0
+:event/minute 85
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 86
+:event/player2 "Ludovic Baal"
+:event/subtype "dangerous_play"
+:event/player1 "Hamari Traore"
+:event/sortorder 0
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5452893"
+:event/elapsed_plus 0
+:event/minute 86
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 87
+:event/player2 "Hamari Traore"
+:event/subtype "trip"
+:event/player1 "Giovanni Sio"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5452903"
+:event/elapsed_plus 0
+:event/minute 87
+:event/match_id "match_7687"}
+
+{:event/type "shotoff"
+:event/elapsed 88
+:event/subtype "shot"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5452916"
+:event/elapsed_plus 0
+:event/minute 88
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 89
+:event/subtype "cross"
+:event/player1 "Ludovic Baal"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "cross"
+:event/id "event_5452938"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7687"}
+
+{:event/type "shotoff"
+:event/elapsed 89
+:event/subtype "distance"
+:event/player1 "Gelson Fernandes"
+:event/sortorder 2
+:event/team "home"
+:event/event_type "shotoff"
+:event/id "event_5452943"
+:event/elapsed_plus 0
+:event/minute 89
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed 90
+:event/player2 "Thievy Bifouma"
+:event/player1 "Fallou Diagne"
+:event/sortorder 0
+:event/team "home"
+:event/event_type "foulcommit"
+:event/id "event_5452955"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7687"}
+
+{:event/type "cross"
+:event/elapsed 90
+:event/subtype "cross"
+:event/player1 "Nicolas De Preville"
+:event/sortorder 2
+:event/team "away"
+:event/event_type "cross"
+:event/id "event_5452962"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7687"}
+
+{:event/type "shoton"
+:event/elapsed 90
+:event/subtype "header"
+:event/player1 "Thievy Bifouma"
+:event/sortorder 3
+:event/team "away"
+:event/event_type "shoton"
+:event/id "event_5452965"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7687"}
+
+{:event/type "corner"
+:event/elapsed 90
+:event/subtype "short_right"
+:event/player1 "Alhassane Bangoura"
+:event/sortorder 4
+:event/team "away"
+:event/event_type "corner"
+:event/id "event_5452976"
+:event/elapsed_plus 0
+:event/minute 90
+:event/match_id "match_7687"}
+
+{:event/type "foulcommit"
+:event/elapsed_plus 2
+:event/elapsed 90
+:event/player2 "Ludovic Baal"
+:event/subtype "pull"
+:event/player1 "Thievy Bifouma"
+:event/sortorder 7
+:event/team "away"
+:event/event_type "foulcommit"
+:event/id "event_5452999"
+:event/minute 92
+:event/match_id "match_7687"}
+
+
+]
+
